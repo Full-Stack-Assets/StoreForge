@@ -1,6 +1,10 @@
 const express = require("express");
 const cors = require("cors");
+const path = require("path");
 const Stripe = require("stripe");
+const registry = require("./lib/registry");
+const { renderDashboard } = require("./lib/dashboard");
+const { generateBlogSite, getBaseUrl } = require("./lib/blog-site-generator");
 
 const app = express();
 
@@ -26,6 +30,7 @@ app.use(
   )
 );
 app.use(express.json({ limit: "1mb" }));
+app.use(express.static(path.join(__dirname, "public")));
 
 let stripeClient;
 function getStripe() {
@@ -36,8 +41,45 @@ function getStripe() {
   return stripeClient;
 }
 
+function authorizeCron(req) {
+  const secret = (process.env.CRON_SECRET || "").trim();
+  if (!secret) return false;
+  const header = req.get("authorization") || "";
+  const bearer = header.startsWith("Bearer ") ? header.slice(7).trim() : "";
+  const cronHeader = (req.get("x-cron-secret") || "").trim();
+  return bearer === secret || cronHeader === secret;
+}
+
 app.get("/", (req, res) => {
+  const sites = registry.listSites();
+  res.set("Cache-Control", "no-store");
+  res.type("html").send(renderDashboard(sites, getBaseUrl()));
+});
+
+app.get("/api/status", (req, res) => {
   res.json({ status: "ok", message: "StoreForge API is running" });
+});
+
+app.get("/api/blog-sites", (req, res) => {
+  res.set("Cache-Control", "public, max-age=30, stale-while-revalidate=15");
+  res.json({
+    count: registry.listSites().length,
+    lastGeneratedAt: registry.loadRegistry().lastGeneratedAt,
+    sites: registry.listSites()
+  });
+});
+
+app.post("/api/blog-sites/generate", async (req, res) => {
+  if (!authorizeCron(req)) {
+    return res.status(401).json({ error: "Unauthorized" });
+  }
+
+  try {
+    const result = await generateBlogSite();
+    res.status(201).json({ ok: true, site: result.site });
+  } catch (error) {
+    res.status(500).json({ error: "Failed to generate blog site" });
+  }
 });
 
 app.get("/healthz", (req, res) => {

@@ -1,0 +1,54 @@
+name: Hourly blog site deployment
+
+on:
+  schedule:
+    - cron: "15 * * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: hourly-blog-site
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  deploy-site:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: npm
+
+      - run: npm ci
+
+      - name: Generate new blog site
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          STOREFORGE_URL: ${{ secrets.STOREFORGE_URL }}
+        run: node scripts/generate-blog-site.js
+
+      - name: Commit and push
+        env:
+          VERCEL_DEPLOY_HOOK_URL: ${{ secrets.VERCEL_DEPLOY_HOOK_URL }}
+        run: |
+          git config user.name "storeforge-bot"
+          git config user.email "bot@storeforge.dev"
+
+          git add data/blog-sites.json public/sites/
+          if git diff --cached --quiet; then
+            echo "No new site files to commit."
+            exit 0
+          fi
+
+          git commit -m "blog: deploy new site $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push
+
+          if [ -n "${VERCEL_DEPLOY_HOOK_URL}" ]; then
+            curl -fsS -m 30 --retry 3 -X POST "${VERCEL_DEPLOY_HOOK_URL}" || true
+          fi

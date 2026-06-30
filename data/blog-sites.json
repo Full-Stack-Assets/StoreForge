@@ -1,0 +1,39 @@
+{
+  "sites": [
+    {
+      "id": "retro-pixel-press-1782796639238",
+      "slug": "retro-pixel-press",
+      "name": "Retro Pixel Press",
+      "tagline": "Fresh takes for retro game collectors and speedrunners.",
+      "nicheId": "retro-gaming",
+      "audience": "retro game collectors and speedrunners",
+      "categories": [
+        "Hardware",
+        "Speedruns",
+        "Preservation",
+        "Indie"
+      ],
+      "url": "http://localhost:3000/sites/retro-pixel-press/",
+      "postCount": 3,
+      "createdAt": "2026-06-30T05:17:19.238Z"
+    },
+    {
+      "id": "home-barista-lab-1782796639260",
+      "slug": "home-barista-lab",
+      "name": "Home Barista Lab",
+      "tagline": "Fresh takes for home coffee enthusiasts.",
+      "nicheId": "home-coffee",
+      "audience": "home coffee enthusiasts",
+      "categories": [
+        "Espresso",
+        "Pour-over",
+        "Roasting",
+        "Gear"
+      ],
+      "url": "http://localhost:3000/sites/home-barista-lab/",
+      "postCount": 3,
+      "createdAt": "2026-06-30T05:17:19.260Z"
+    }
+  ],
+  "lastGeneratedAt": "2026-06-30T05:17:19.260Z"
+}
