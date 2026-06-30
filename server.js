@@ -66,11 +66,6 @@ app.get("/api/store/products", async (req, res) => {
 });
 
 app.post("/api/create-checkout", async (req, res) => {
-  const stripe = getStripe();
-  if (!stripe) {
-    return res.status(500).json({ error: "Missing STRIPE_SECRET_KEY configuration" });
-  }
-
   const items = req.body && Array.isArray(req.body.items) ? req.body.items : null;
   if (!items || items.length === 0) {
     return res.status(400).json({ error: "Expected non-empty items array" });
@@ -112,6 +107,11 @@ app.post("/api/create-checkout", async (req, res) => {
     return res.status(500).json({ error: "Missing FRONTEND_URL configuration" });
   }
 
+  const stripe = getStripe();
+  if (!stripe) {
+    return res.status(500).json({ error: "Missing STRIPE_SECRET_KEY configuration" });
+  }
+
   try {
     const session = await stripe.checkout.sessions.create({
       payment_method_types: ["card"],
@@ -126,8 +126,15 @@ app.post("/api/create-checkout", async (req, res) => {
   }
 });
 
+app.use((req, res) => {
+  res.status(404).json({ error: "Not found" });
+});
+
 app.use((err, req, res, next) => {
   if (res.headersSent) return next(err);
+  if (err.type === "entity.parse.failed" || err instanceof SyntaxError) {
+    return res.status(400).json({ error: "Invalid JSON body" });
+  }
   res.status(500).json({ error: "Internal server error" });
 });
 
