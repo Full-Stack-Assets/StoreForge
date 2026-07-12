@@ -27,10 +27,13 @@ jobs:
 
       - run: npm ci
 
-      - name: Generate new blog site
+      - name: Generate new blog site and deploy it to its own Vercel project
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           STOREFORGE_URL: ${{ secrets.STOREFORGE_URL }}
+          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+          VERCEL_TEAM_ID: ${{ secrets.VERCEL_TEAM_ID }}
+          VERCEL_PROJECT_PREFIX: ${{ vars.VERCEL_PROJECT_PREFIX }}
         run: node scripts/generate-blog-site.js
 
       - name: Commit and push
