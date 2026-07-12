@@ -4,6 +4,7 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
+    "generate:blog-site": "node scripts/generate-blog-site.js",
     "vercel-build": "echo 'No build step required'"
   },
   "engines": {

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "urban-gardening",
+    "name": "Urban Gardening Daily",
+    "audience": "apartment dwellers and balcony gardeners",
+    "categories": ["Containers", "Herbs", "Composting", "Seasonal"],
+    "subreddits": ["UrbanGardening", "houseplants", "vegetablegardening"],
+    "braveQueries": ["balcony garden ideas", "small space vegetables", "indoor herb garden"]
+  },
+  {
+    "id": "retro-gaming",
+    "name": "Retro Pixel Press",
+    "audience": "retro game collectors and speedrunners",
+    "categories": ["Hardware", "Speedruns", "Preservation", "Indie"],
+    "subreddits": ["retrogaming", "Gameboy", "snes"],
+    "braveQueries": ["retro game restoration", "crt setup guide", "hidden snes gems"]
+  },
+  {
+    "id": "home-coffee",
+    "name": "Home Barista Lab",
+    "audience": "home coffee enthusiasts",
+    "categories": ["Espresso", "Pour-over", "Roasting", "Gear"],
+    "subreddits": ["espresso", "Coffee", "pourover"],
+    "braveQueries": ["home espresso dial in", "pour over technique", "budget grinder upgrade"]
+  },
+  {
+    "id": "indie-film",
+    "name": "Indie Frame Notes",
+    "audience": "indie filmmakers and short-film creators",
+    "categories": ["Production", "Sound", "Distribution", "Gear"],
+    "subreddits": ["Filmmakers", "videography", "shortfilm"],
+    "braveQueries": ["indie film lighting budget", "short film festival strategy", "run and gun audio"]
+  },
+  {
+    "id": "sustainable-travel",
+    "name": "Slow Route Journal",
+    "audience": "slow-travel and low-impact explorers",
+    "categories": ["Rail", "Stays", "Packing", "Local"],
+    "subreddits": ["solotravel", "backpacking", "onebag"],
+    "braveQueries": ["train travel europe tips", "carry on packing list", "slow travel itinerary"]
+  },
+  {
+    "id": "budget-pc-builds",
+    "name": "Budget Build Bench",
+    "audience": "PC builders on a budget",
+    "categories": ["GPUs", "Used Parts", "Upgrades", "Benchmarks"],
+    "subreddits": ["buildapcsales", "buildapc", "pcmasterrace"],
+    "braveQueries": ["best budget gpu 2026", "used pc parts guide", "1440p value build"]
+  },
+  {
+    "id": "meal-prep",
+    "name": "Prep Plate Weekly",
+    "audience": "busy professionals who meal prep",
+    "categories": ["Recipes", "Freezer", "Macros", "Tools"],
+    "subreddits": ["MealPrepSunday", "EatCheapAndHealthy", "slowcooking"],
+    "braveQueries": ["high protein meal prep", "freezer friendly lunches", "batch cooking guide"]
+  },
+  {
+    "id": "dog-training",
+    "name": "Good Dog Field Notes",
+    "audience": "first-time dog owners",
+    "categories": ["Puppies", "Behavior", "Gear", "Health"],
+    "subreddits": ["Dogtraining", "puppy101", "dogs"],
+    "braveQueries": ["leash reactivity tips", "crate training schedule", "positive reinforcement basics"]
+  }
+]
