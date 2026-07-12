@@ -6,6 +6,7 @@
     "start": "node server.js",
     "generate:blog-site": "node scripts/generate-blog-site.js",
     "regenerate:sites": "node scripts/regenerate-sites.js",
+    "add:posts": "node scripts/add-posts.js",
     "vercel-build": "echo 'No build step required'"
   },
   "engines": {
