@@ -67,7 +67,24 @@
       "url": "http://localhost:3000/sites/urban-gardening-daily/",
       "postCount": 3,
       "createdAt": "2026-07-12T11:31:15.125Z"
+    },
+    {
+      "id": "budget-build-bench-1783864569357",
+      "slug": "budget-build-bench",
+      "name": "Budget Build Bench",
+      "tagline": "Fresh takes for PC builders on a budget.",
+      "nicheId": "budget-pc-builds",
+      "audience": "PC builders on a budget",
+      "categories": [
+        "GPUs",
+        "Used Parts",
+        "Upgrades",
+        "Benchmarks"
+      ],
+      "url": "http://localhost:3000/sites/budget-build-bench/",
+      "postCount": 3,
+      "createdAt": "2026-07-12T13:56:09.357Z"
     }
   ],
-  "lastGeneratedAt": "2026-07-12T11:31:15.125Z"
+  "lastGeneratedAt": "2026-07-12T13:56:09.357Z"
 }
