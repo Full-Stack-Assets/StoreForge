@@ -6,7 +6,8 @@ Blog forge + storefront API. StoreForge continuously deploys new niche blog site
 
 - **`/`** — live dashboard of all deployed blog sites (auto-refreshes every 60s)
 - **`/sites/{slug}/`** — generated niche blog sites with starter posts
-- **Hourly GitHub Action** — commits a new site to `public/sites/` and redeploys on Vercel
+- **Standalone Vercel deployments** — each new site is deployed to its own Vercel project (e.g. `storeforge-{slug}.vercel.app`) when `VERCEL_TOKEN` is set
+- **Hourly GitHub Action** — generates a new site, deploys it to its own Vercel project, and commits a copy to `public/sites/`
 - **Store API** — products + Stripe Checkout (unchanged)
 
 ## Requirements
@@ -27,6 +28,9 @@ cp .env.example .env
 | Variable | Required | Purpose |
 |----------|----------|---------|
 | `STOREFORGE_URL` | Recommended | Public URL used in generated blog links |
+| `VERCEL_TOKEN` | For standalone deploys | Deploys each new site to its own Vercel project |
+| `VERCEL_TEAM_ID` | Team scopes only | Vercel team the per-site projects belong to |
+| `VERCEL_PROJECT_PREFIX` | No | Per-site project name prefix (default `storeforge`) |
 | `CRON_SECRET` | For manual API trigger | Protects `POST /api/blog-sites/generate` |
 | `GEMINI_API_KEY` | Optional | AI-generated posts (templates used if unset) |
 | `STRIPE_SECRET_KEY` | Checkout only | Stripe Checkout sessions |
@@ -57,16 +61,23 @@ Runs at **:15 every hour** (staggered from on-the-hour jobs). Each run:
 
 1. Picks an unused niche from `data/niches.json`
 2. Writes static HTML to `public/sites/{slug}/`
-3. Updates `data/blog-sites.json`
-4. Commits and pushes → Vercel redeploys
+3. Deploys the new site to **its own Vercel project** (`{prefix}-{slug}.vercel.app`)
+4. Updates `data/blog-sites.json` with the standalone URL
+5. Commits and pushes → main dashboard redeploys
 
-**Required GitHub secrets:**
+**GitHub secrets:**
 
 | Secret | Required | Purpose |
 |--------|----------|---------|
 | `STOREFORGE_URL` | Yes | e.g. `https://your-project.vercel.app` |
+| `VERCEL_TOKEN` | For standalone deploys | Vercel API token used to create one project per site |
+| `VERCEL_TEAM_ID` | Team scopes only | Vercel team ID for the per-site projects |
 | `GEMINI_API_KEY` | No | AI post generation |
-| `VERCEL_DEPLOY_HOOK_URL` | No | Force immediate redeploy after commit |
+| `VERCEL_DEPLOY_HOOK_URL` | No | Force immediate dashboard redeploy after commit |
+
+**GitHub variables (optional):** `VERCEL_PROJECT_PREFIX` — prefix for per-site project names (default `storeforge`).
+
+Without `VERCEL_TOKEN`, generation still works: sites are only served from `public/sites/{slug}/` on the main deployment, as before.
 
 Trigger manually: **Actions → Hourly blog site deployment → Run workflow**
 
@@ -111,6 +122,8 @@ curl https://YOUR-PROJECT.vercel.app/api/status
 | `GET` | `/api/store/products` | Product list |
 | `POST` | `/api/create-checkout` | Stripe Checkout session |
 
-## Scaling to separate domains
+## Standalone deployments per site
 
-Each generated site lives under `/sites/{slug}/` on your StoreForge domain. To spin up **standalone domains** (like your Astrokobi template clones), use [Full-Stack-Assets/-Astrokobi.com](https://github.com/Full-Stack-Assets/-Astrokobi.com) as a template and point hourly post generation at each repo. StoreForge handles the **continuous stream of new sites** on one deployment; Astrokobi handles **continuous posts** per domain.
+With `VERCEL_TOKEN` set, every generated site is deployed to its own Vercel project named `{VERCEL_PROJECT_PREFIX}-{slug}` (default prefix `storeforge`), reachable at `https://{project-name}.vercel.app`. The dashboard links to the standalone URL and keeps a "Local copy" link to the `/sites/{slug}/` copy on the main deployment. The generated HTML uses only relative links, so the same files work in both places. You can attach a custom domain to any per-site project from the Vercel dashboard.
+
+For richer standalone sites (like the Astrokobi template clones), use [Full-Stack-Assets/-Astrokobi.com](https://github.com/Full-Stack-Assets/-Astrokobi.com) as a template and point hourly post generation at each repo.
