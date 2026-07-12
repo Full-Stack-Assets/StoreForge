@@ -101,7 +101,24 @@
       "url": "http://localhost:3000/sites/indie-frame-notes/",
       "postCount": 3,
       "createdAt": "2026-07-12T15:15:55.821Z"
+    },
+    {
+      "id": "prep-plate-weekly-1783876642739",
+      "slug": "prep-plate-weekly",
+      "name": "Prep Plate Weekly",
+      "tagline": "Fresh takes for busy professionals who meal prep.",
+      "nicheId": "meal-prep",
+      "audience": "busy professionals who meal prep",
+      "categories": [
+        "Recipes",
+        "Freezer",
+        "Macros",
+        "Tools"
+      ],
+      "url": "http://localhost:3000/sites/prep-plate-weekly/",
+      "postCount": 3,
+      "createdAt": "2026-07-12T17:17:22.739Z"
     }
   ],
-  "lastGeneratedAt": "2026-07-12T15:15:55.821Z"
+  "lastGeneratedAt": "2026-07-12T17:17:22.739Z"
 }
