@@ -217,82 +217,69 @@
       "lastPostAt": "2026-07-12T23:14:43.944Z"
     },
     {
-      "id": "retro-pixel-press-2-1783890407933",
-      "slug": "retro-pixel-press-2",
-      "name": "Retro Pixel Press",
-      "tagline": "Fresh takes for retro game collectors and speedrunners.",
-      "nicheId": "retro-gaming",
-      "audience": "retro game collectors and speedrunners",
+      "id": "burnished-edge-1783898775315",
+      "slug": "burnished-edge",
+      "name": "Burnished Edge",
+      "tagline": "Fresh takes for hobby leatherworkers.",
+      "nicheId": "leathercraft",
+      "audience": "hobby leatherworkers",
       "categories": [
-        "Hardware",
-        "Speedruns",
-        "Preservation",
-        "Indie"
+        "Tools",
+        "Patterns",
+        "Stitching",
+        "Finishing"
       ],
-      "url": "https://storeforge-retro-pixel-press-2.vercel.app",
-      "postCount": 8,
-      "createdAt": "2026-07-12T21:06:47.932Z",
-      "localUrl": "https://store-forge-roan.vercel.app/sites/retro-pixel-press-2/",
-      "vercel": {
-        "projectName": "storeforge-retro-pixel-press-2",
-        "url": "https://storeforge-retro-pixel-press-2.vercel.app",
-        "deploymentId": "dpl_Fs7qEEBCiQADRYcENKMFHbvX2G7Q",
-        "readyState": "READY"
-      },
-      "design": "cinema",
-      "streamUrl": "https://store-forge-roan.vercel.app/",
-      "lastPostAt": "2026-07-12T23:14:43.949Z"
-    },
-    {
-      "id": "urban-gardening-daily-2-1783894058645",
-      "slug": "urban-gardening-daily-2",
-      "name": "Urban Gardening Daily",
-      "tagline": "Fresh takes for apartment dwellers and balcony gardeners.",
-      "nicheId": "urban-gardening",
-      "audience": "apartment dwellers and balcony gardeners",
-      "categories": [
-        "Containers",
-        "Herbs",
-        "Composting",
-        "Seasonal"
-      ],
-      "url": "https://storeforge-urban-gardening-daily-2.vercel.app",
-      "postCount": 8,
-      "createdAt": "2026-07-12T22:07:38.645Z",
-      "localUrl": "https://store-forge-roan.vercel.app/sites/urban-gardening-daily-2/",
-      "vercel": {
-        "projectName": "storeforge-urban-gardening-daily-2",
-        "url": "https://storeforge-urban-gardening-daily-2.vercel.app",
-        "deploymentId": "dpl_DiKLhxrwbRUtzn2Sgj5ECbfwuBBb",
-        "readyState": "READY"
-      },
-      "design": "moss",
-      "streamUrl": "https://store-forge-roan.vercel.app/",
-      "lastPostAt": "2026-07-12T23:14:43.953Z"
-    },
-    {
-      "id": "budget-build-bench-2-1783897747640",
-      "slug": "budget-build-bench-2",
-      "name": "Budget Build Bench",
-      "tagline": "Fresh takes for PC builders on a budget.",
-      "nicheId": "budget-pc-builds",
-      "audience": "PC builders on a budget",
-      "categories": [
-        "GPUs",
-        "Used Parts",
-        "Upgrades",
-        "Benchmarks"
-      ],
-      "url": "http://localhost:3000/sites/budget-build-bench-2/",
-      "localUrl": "http://localhost:3000/sites/budget-build-bench-2/",
+      "url": "https://store-forge-roan.vercel.app/sites/burnished-edge/",
+      "localUrl": "https://store-forge-roan.vercel.app/sites/burnished-edge/",
       "vercel": null,
-      "design": "prism",
-      "postCount": 8,
-      "createdAt": "2026-07-12T23:09:07.639Z",
-      "streamUrl": "https://store-forge-roan.vercel.app/",
-      "lastPostAt": "2026-07-12T23:14:43.958Z"
+      "design": "moss",
+      "postCount": 6,
+      "createdAt": "2026-07-12T23:26:15.314Z",
+      "streamUrl": "https://store-forge-roan.vercel.app/"
+    },
+    {
+      "id": "night-lens-1783898775387",
+      "slug": "night-lens",
+      "name": "Night Lens",
+      "tagline": "Fresh takes for backyard astrophotographers.",
+      "nicheId": "astrophotography",
+      "audience": "backyard astrophotographers",
+      "categories": [
+        "Rigs",
+        "Processing",
+        "Targets",
+        "Light Pollution"
+      ],
+      "url": "https://store-forge-roan.vercel.app/sites/night-lens/",
+      "localUrl": "https://store-forge-roan.vercel.app/sites/night-lens/",
+      "vercel": null,
+      "design": "zine",
+      "postCount": 6,
+      "createdAt": "2026-07-12T23:26:15.386Z",
+      "streamUrl": "https://store-forge-roan.vercel.app/"
+    },
+    {
+      "id": "switchback-signal-1783898775462",
+      "slug": "switchback-signal",
+      "name": "Switchback Signal",
+      "tagline": "Fresh takes for trail runners and ultrarunning hopefuls.",
+      "nicheId": "trail-running",
+      "audience": "trail runners and ultrarunning hopefuls",
+      "categories": [
+        "Training",
+        "Shoes",
+        "Nutrition",
+        "Races"
+      ],
+      "url": "https://store-forge-roan.vercel.app/sites/switchback-signal/",
+      "localUrl": "https://store-forge-roan.vercel.app/sites/switchback-signal/",
+      "vercel": null,
+      "design": "zine",
+      "postCount": 6,
+      "createdAt": "2026-07-12T23:26:15.461Z",
+      "streamUrl": "https://store-forge-roan.vercel.app/"
     }
   ],
-  "lastGeneratedAt": "2026-07-12T23:09:07.639Z",
+  "lastGeneratedAt": "2026-07-12T23:26:15.461Z",
   "lastPostRunAt": "2026-07-12T23:14:43.962Z"
 }

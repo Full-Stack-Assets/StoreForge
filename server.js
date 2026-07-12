@@ -78,6 +78,9 @@ app.post("/api/blog-sites/generate", async (req, res) => {
     const result = await generateBlogSite();
     res.status(201).json({ ok: true, site: result.site });
   } catch (error) {
+    if (error.code === "NICHES_EXHAUSTED") {
+      return res.status(409).json({ error: error.message });
+    }
     res.status(500).json({ error: "Failed to generate blog site" });
   }
 });

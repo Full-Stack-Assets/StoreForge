@@ -3,64 +3,840 @@
     "id": "urban-gardening",
     "name": "Urban Gardening Daily",
     "audience": "apartment dwellers and balcony gardeners",
-    "categories": ["Containers", "Herbs", "Composting", "Seasonal"],
-    "subreddits": ["UrbanGardening", "houseplants", "vegetablegardening"],
-    "braveQueries": ["balcony garden ideas", "small space vegetables", "indoor herb garden"]
+    "categories": [
+      "Containers",
+      "Herbs",
+      "Composting",
+      "Seasonal"
+    ],
+    "subreddits": [
+      "UrbanGardening",
+      "houseplants",
+      "vegetablegardening"
+    ],
+    "braveQueries": [
+      "balcony garden ideas",
+      "small space vegetables",
+      "indoor herb garden"
+    ]
   },
   {
     "id": "retro-gaming",
     "name": "Retro Pixel Press",
     "audience": "retro game collectors and speedrunners",
-    "categories": ["Hardware", "Speedruns", "Preservation", "Indie"],
-    "subreddits": ["retrogaming", "Gameboy", "snes"],
-    "braveQueries": ["retro game restoration", "crt setup guide", "hidden snes gems"]
+    "categories": [
+      "Hardware",
+      "Speedruns",
+      "Preservation",
+      "Indie"
+    ],
+    "subreddits": [
+      "retrogaming",
+      "Gameboy",
+      "snes"
+    ],
+    "braveQueries": [
+      "retro game restoration",
+      "crt setup guide",
+      "hidden snes gems"
+    ]
   },
   {
     "id": "home-coffee",
     "name": "Home Barista Lab",
     "audience": "home coffee enthusiasts",
-    "categories": ["Espresso", "Pour-over", "Roasting", "Gear"],
-    "subreddits": ["espresso", "Coffee", "pourover"],
-    "braveQueries": ["home espresso dial in", "pour over technique", "budget grinder upgrade"]
+    "categories": [
+      "Espresso",
+      "Pour-over",
+      "Roasting",
+      "Gear"
+    ],
+    "subreddits": [
+      "espresso",
+      "Coffee",
+      "pourover"
+    ],
+    "braveQueries": [
+      "home espresso dial in",
+      "pour over technique",
+      "budget grinder upgrade"
+    ]
   },
   {
     "id": "indie-film",
     "name": "Indie Frame Notes",
     "audience": "indie filmmakers and short-film creators",
-    "categories": ["Production", "Sound", "Distribution", "Gear"],
-    "subreddits": ["Filmmakers", "videography", "shortfilm"],
-    "braveQueries": ["indie film lighting budget", "short film festival strategy", "run and gun audio"]
+    "categories": [
+      "Production",
+      "Sound",
+      "Distribution",
+      "Gear"
+    ],
+    "subreddits": [
+      "Filmmakers",
+      "videography",
+      "shortfilm"
+    ],
+    "braveQueries": [
+      "indie film lighting budget",
+      "short film festival strategy",
+      "run and gun audio"
+    ]
   },
   {
     "id": "sustainable-travel",
     "name": "Slow Route Journal",
     "audience": "slow-travel and low-impact explorers",
-    "categories": ["Rail", "Stays", "Packing", "Local"],
-    "subreddits": ["solotravel", "backpacking", "onebag"],
-    "braveQueries": ["train travel europe tips", "carry on packing list", "slow travel itinerary"]
+    "categories": [
+      "Rail",
+      "Stays",
+      "Packing",
+      "Local"
+    ],
+    "subreddits": [
+      "solotravel",
+      "backpacking",
+      "onebag"
+    ],
+    "braveQueries": [
+      "train travel europe tips",
+      "carry on packing list",
+      "slow travel itinerary"
+    ]
   },
   {
     "id": "budget-pc-builds",
     "name": "Budget Build Bench",
     "audience": "PC builders on a budget",
-    "categories": ["GPUs", "Used Parts", "Upgrades", "Benchmarks"],
-    "subreddits": ["buildapcsales", "buildapc", "pcmasterrace"],
-    "braveQueries": ["best budget gpu 2026", "used pc parts guide", "1440p value build"]
+    "categories": [
+      "GPUs",
+      "Used Parts",
+      "Upgrades",
+      "Benchmarks"
+    ],
+    "subreddits": [
+      "buildapcsales",
+      "buildapc",
+      "pcmasterrace"
+    ],
+    "braveQueries": [
+      "best budget gpu 2026",
+      "used pc parts guide",
+      "1440p value build"
+    ]
   },
   {
     "id": "meal-prep",
     "name": "Prep Plate Weekly",
     "audience": "busy professionals who meal prep",
-    "categories": ["Recipes", "Freezer", "Macros", "Tools"],
-    "subreddits": ["MealPrepSunday", "EatCheapAndHealthy", "slowcooking"],
-    "braveQueries": ["high protein meal prep", "freezer friendly lunches", "batch cooking guide"]
+    "categories": [
+      "Recipes",
+      "Freezer",
+      "Macros",
+      "Tools"
+    ],
+    "subreddits": [
+      "MealPrepSunday",
+      "EatCheapAndHealthy",
+      "slowcooking"
+    ],
+    "braveQueries": [
+      "high protein meal prep",
+      "freezer friendly lunches",
+      "batch cooking guide"
+    ]
   },
   {
     "id": "dog-training",
     "name": "Good Dog Field Notes",
     "audience": "first-time dog owners",
-    "categories": ["Puppies", "Behavior", "Gear", "Health"],
-    "subreddits": ["Dogtraining", "puppy101", "dogs"],
-    "braveQueries": ["leash reactivity tips", "crate training schedule", "positive reinforcement basics"]
+    "categories": [
+      "Puppies",
+      "Behavior",
+      "Gear",
+      "Health"
+    ],
+    "subreddits": [
+      "Dogtraining",
+      "puppy101",
+      "dogs"
+    ],
+    "braveQueries": [
+      "leash reactivity tips",
+      "crate training schedule",
+      "positive reinforcement basics"
+    ]
+  },
+  {
+    "id": "mechanical-keyboards",
+    "name": "Thock Report",
+    "audience": "mechanical keyboard builders and enthusiasts",
+    "categories": [
+      "Switches",
+      "Keycaps",
+      "Builds",
+      "Group Buys"
+    ],
+    "subreddits": [
+      "MechanicalKeyboards",
+      "CustomKeyboards",
+      "BudgetKeebs"
+    ],
+    "braveQueries": [
+      "best budget mechanical keyboard",
+      "keyboard switch guide",
+      "first custom keyboard build"
+    ]
+  },
+  {
+    "id": "home-automation",
+    "name": "Smart Habitat",
+    "audience": "smart-home tinkerers and privacy-minded automators",
+    "categories": [
+      "Sensors",
+      "Routines",
+      "Local Control",
+      "Lighting"
+    ],
+    "subreddits": [
+      "homeassistant",
+      "smarthome",
+      "homeautomation"
+    ],
+    "braveQueries": [
+      "home assistant beginner guide",
+      "local smart home no cloud",
+      "smart lighting setup"
+    ]
+  },
+  {
+    "id": "van-life",
+    "name": "Vanward Bound",
+    "audience": "van dwellers and weekend overlanders",
+    "categories": [
+      "Builds",
+      "Power",
+      "Routes",
+      "Cooking"
+    ],
+    "subreddits": [
+      "vandwellers",
+      "VanLife",
+      "overlanding"
+    ],
+    "braveQueries": [
+      "van conversion on a budget",
+      "van solar power setup",
+      "best van life routes"
+    ]
+  },
+  {
+    "id": "bouldering",
+    "name": "Crimp Weekly",
+    "audience": "indoor boulderers and new climbers",
+    "categories": [
+      "Technique",
+      "Training",
+      "Gear",
+      "Recovery"
+    ],
+    "subreddits": [
+      "bouldering",
+      "climbharder",
+      "climbing"
+    ],
+    "braveQueries": [
+      "bouldering technique for beginners",
+      "hangboard routine",
+      "climbing shoe guide"
+    ]
+  },
+  {
+    "id": "fermentation",
+    "name": "Brine and Bubble",
+    "audience": "home fermenters and pickling hobbyists",
+    "categories": [
+      "Vegetables",
+      "Kombucha",
+      "Miso",
+      "Troubleshooting"
+    ],
+    "subreddits": [
+      "fermentation",
+      "Kombucha",
+      "pickling"
+    ],
+    "braveQueries": [
+      "fermentation for beginners",
+      "kombucha second ferment",
+      "fermented hot sauce recipe"
+    ]
+  },
+  {
+    "id": "astrophotography",
+    "name": "Night Lens",
+    "audience": "backyard astrophotographers",
+    "categories": [
+      "Rigs",
+      "Processing",
+      "Targets",
+      "Light Pollution"
+    ],
+    "subreddits": [
+      "AskAstrophotography",
+      "astrophotography",
+      "telescopes"
+    ],
+    "braveQueries": [
+      "astrophotography without tracker",
+      "best beginner telescope astrophotography",
+      "stacking software guide"
+    ]
+  },
+  {
+    "id": "fpv-drones",
+    "name": "Prop Wash Daily",
+    "audience": "FPV drone pilots and builders",
+    "categories": [
+      "Builds",
+      "Freestyle",
+      "Simulators",
+      "Regulations"
+    ],
+    "subreddits": [
+      "fpv",
+      "Multicopter",
+      "drones"
+    ],
+    "braveQueries": [
+      "fpv drone starter kit",
+      "fpv simulator practice",
+      "drone build guide 2026"
+    ]
+  },
+  {
+    "id": "3d-printing",
+    "name": "Layer Lines",
+    "audience": "home 3D-printing hobbyists",
+    "categories": [
+      "Calibration",
+      "Filament",
+      "Design",
+      "Upgrades"
+    ],
+    "subreddits": [
+      "3Dprinting",
+      "FixMyPrint",
+      "functionalprint"
+    ],
+    "braveQueries": [
+      "3d print stringing fix",
+      "best filament for beginners",
+      "printer upgrade guide"
+    ]
+  },
+  {
+    "id": "trail-running",
+    "name": "Switchback Signal",
+    "audience": "trail runners and ultrarunning hopefuls",
+    "categories": [
+      "Training",
+      "Shoes",
+      "Nutrition",
+      "Races"
+    ],
+    "subreddits": [
+      "trailrunning",
+      "Ultramarathon",
+      "running"
+    ],
+    "braveQueries": [
+      "trail running for road runners",
+      "ultra training plan",
+      "trail shoe guide"
+    ]
+  },
+  {
+    "id": "birdwatching",
+    "name": "Field Glass Notes",
+    "audience": "backyard birders and weekend twitchers",
+    "categories": [
+      "Optics",
+      "ID Skills",
+      "Feeders",
+      "Migration"
+    ],
+    "subreddits": [
+      "birding",
+      "whatsthisbird",
+      "Ornithology"
+    ],
+    "braveQueries": [
+      "beginner binoculars birding",
+      "backyard feeder setup",
+      "bird id apps compared"
+    ]
+  },
+  {
+    "id": "home-bar",
+    "name": "Back Bar Bulletin",
+    "audience": "home bartenders and cocktail hobbyists",
+    "categories": [
+      "Classics",
+      "Tools",
+      "Ingredients",
+      "Batching"
+    ],
+    "subreddits": [
+      "cocktails",
+      "bartenders",
+      "mixology"
+    ],
+    "braveQueries": [
+      "home bar starter bottles",
+      "cocktail tools essentials",
+      "batch cocktails for parties"
+    ]
+  },
+  {
+    "id": "sourdough",
+    "name": "Crumb Structure",
+    "audience": "home sourdough bakers",
+    "categories": [
+      "Starters",
+      "Hydration",
+      "Scoring",
+      "Whole Grain"
+    ],
+    "subreddits": [
+      "Sourdough",
+      "Breadit",
+      "AskBaking"
+    ],
+    "braveQueries": [
+      "sourdough starter troubleshooting",
+      "open crumb hydration",
+      "sourdough schedule for workers"
+    ]
+  },
+  {
+    "id": "e-bikes",
+    "name": "Watt Pedal Weekly",
+    "audience": "e-bike commuters and converts",
+    "categories": [
+      "Commuting",
+      "Maintenance",
+      "Batteries",
+      "Conversion"
+    ],
+    "subreddits": [
+      "ebikes",
+      "ebikecommuting",
+      "bikecommuting"
+    ],
+    "braveQueries": [
+      "ebike commuter guide",
+      "ebike battery care",
+      "bike to ebike conversion"
+    ]
+  },
+  {
+    "id": "aquascaping",
+    "name": "Glass Box Gardens",
+    "audience": "planted-tank keepers and aquascapers",
+    "categories": [
+      "Plants",
+      "Hardscape",
+      "CO2",
+      "Livestock"
+    ],
+    "subreddits": [
+      "PlantedTank",
+      "Aquascape",
+      "shrimptank"
+    ],
+    "braveQueries": [
+      "low tech planted tank",
+      "aquascape hardscape ideas",
+      "beginner aquarium plants"
+    ]
+  },
+  {
+    "id": "film-photography",
+    "name": "Grain Journal",
+    "audience": "film photographers shooting analog",
+    "categories": [
+      "Cameras",
+      "Film Stocks",
+      "Developing",
+      "Scanning"
+    ],
+    "subreddits": [
+      "AnalogCommunity",
+      "analog",
+      "filmphotography"
+    ],
+    "braveQueries": [
+      "best film stocks 2026",
+      "home developing guide",
+      "film camera under 200"
+    ]
+  },
+  {
+    "id": "woodworking",
+    "name": "Sawdust Standard",
+    "audience": "hobby woodworkers in small shops",
+    "categories": [
+      "Hand Tools",
+      "Joinery",
+      "Finishing",
+      "Shop Setup"
+    ],
+    "subreddits": [
+      "woodworking",
+      "BeginnerWoodWorking",
+      "handtools"
+    ],
+    "braveQueries": [
+      "woodworking small space",
+      "first hand tool set",
+      "wood finishing basics"
+    ]
+  },
+  {
+    "id": "frugal-living",
+    "name": "Lean Ledger",
+    "audience": "budget-minded households and frugal optimizers",
+    "categories": [
+      "Groceries",
+      "Subscriptions",
+      "Energy",
+      "Mindset"
+    ],
+    "subreddits": [
+      "Frugal",
+      "personalfinance",
+      "EatCheapAndHealthy"
+    ],
+    "braveQueries": [
+      "grocery budget tips",
+      "subscription audit",
+      "cut energy bill"
+    ]
+  },
+  {
+    "id": "language-learning",
+    "name": "Polyglot Post",
+    "audience": "self-taught language learners",
+    "categories": [
+      "Methods",
+      "Apps",
+      "Immersion",
+      "Grammar"
+    ],
+    "subreddits": [
+      "languagelearning",
+      "Anki",
+      "duolingo"
+    ],
+    "braveQueries": [
+      "comprehensible input method",
+      "anki language setup",
+      "language learning plateau"
+    ]
+  },
+  {
+    "id": "chess-improvement",
+    "name": "Middlegame Memo",
+    "audience": "adult chess improvers",
+    "categories": [
+      "Openings",
+      "Tactics",
+      "Endgames",
+      "Study Plans"
+    ],
+    "subreddits": [
+      "chess",
+      "TournamentChess",
+      "chessbeginners"
+    ],
+    "braveQueries": [
+      "adult chess improvement plan",
+      "tactics training routine",
+      "endgame fundamentals"
+    ]
+  },
+  {
+    "id": "home-recording",
+    "name": "Bedroom Studio Brief",
+    "audience": "bedroom producers and podcasters",
+    "categories": [
+      "Interfaces",
+      "Treatment",
+      "Mixing",
+      "Vocals"
+    ],
+    "subreddits": [
+      "audioengineering",
+      "WeAreTheMusicMakers",
+      "podcasting"
+    ],
+    "braveQueries": [
+      "home studio treatment budget",
+      "audio interface guide",
+      "vocal chain basics"
+    ]
+  },
+  {
+    "id": "hydroponics",
+    "name": "Nutrient Flow",
+    "audience": "indoor hydroponic growers",
+    "categories": [
+      "Systems",
+      "Nutrients",
+      "Lighting",
+      "Leafy Greens"
+    ],
+    "subreddits": [
+      "hydro",
+      "Hydroponics",
+      "IndoorGarden"
+    ],
+    "braveQueries": [
+      "kratky method guide",
+      "hydroponic nutrients explained",
+      "grow lights for greens"
+    ]
+  },
+  {
+    "id": "vintage-watches",
+    "name": "Caseback Chronicle",
+    "audience": "vintage watch collectors on a budget",
+    "categories": [
+      "Buying",
+      "Servicing",
+      "Straps",
+      "History"
+    ],
+    "subreddits": [
+      "Watches",
+      "WatchExchange",
+      "watchrepair"
+    ],
+    "braveQueries": [
+      "vintage watch buying guide",
+      "watch servicing cost",
+      "affordable vintage watches"
+    ]
+  },
+  {
+    "id": "ultralight-backpacking",
+    "name": "Base Weight Bulletin",
+    "audience": "ultralight backpackers and thru-hike dreamers",
+    "categories": [
+      "Packs",
+      "Shelters",
+      "Food",
+      "Skills"
+    ],
+    "subreddits": [
+      "Ultralight",
+      "backpacking",
+      "AppalachianTrail"
+    ],
+    "braveQueries": [
+      "lower base weight cheap",
+      "ultralight shelter comparison",
+      "thru hike food planning"
+    ]
+  },
+  {
+    "id": "board-games",
+    "name": "Meeple Digest",
+    "audience": "tabletop gamers and game-night hosts",
+    "categories": [
+      "Strategy",
+      "Party Games",
+      "Solo Play",
+      "Storage"
+    ],
+    "subreddits": [
+      "boardgames",
+      "soloboardgaming",
+      "tabletopgamedesign"
+    ],
+    "braveQueries": [
+      "best gateway board games",
+      "solo board games",
+      "game night hosting"
+    ]
+  },
+  {
+    "id": "garage-gym",
+    "name": "Garage Gym Gazette",
+    "audience": "home lifters building garage gyms",
+    "categories": [
+      "Racks",
+      "Barbells",
+      "Programming",
+      "Flooring"
+    ],
+    "subreddits": [
+      "homegym",
+      "GarageGym",
+      "Fitness"
+    ],
+    "braveQueries": [
+      "garage gym on a budget",
+      "barbell buying guide",
+      "home gym programming"
+    ]
+  },
+  {
+    "id": "beekeeping",
+    "name": "Hive Mind Herald",
+    "audience": "backyard beekeepers",
+    "categories": [
+      "Hives",
+      "Seasons",
+      "Health",
+      "Harvest"
+    ],
+    "subreddits": [
+      "Beekeeping",
+      "beekeepers",
+      "homestead"
+    ],
+    "braveQueries": [
+      "start beekeeping cost",
+      "varroa treatment options",
+      "first honey harvest"
+    ]
+  },
+  {
+    "id": "kayaking",
+    "name": "Paddle Lines",
+    "audience": "recreational kayakers and paddlers",
+    "categories": [
+      "Boats",
+      "Safety",
+      "Trips",
+      "Storage"
+    ],
+    "subreddits": [
+      "Kayaking",
+      "paddling",
+      "canoeing"
+    ],
+    "braveQueries": [
+      "first kayak buying guide",
+      "kayak safety basics",
+      "best day paddle trips"
+    ]
+  },
+  {
+    "id": "leathercraft",
+    "name": "Burnished Edge",
+    "audience": "hobby leatherworkers",
+    "categories": [
+      "Tools",
+      "Patterns",
+      "Stitching",
+      "Finishing"
+    ],
+    "subreddits": [
+      "Leathercraft",
+      "leatherworking",
+      "myog"
+    ],
+    "braveQueries": [
+      "leathercraft starter tools",
+      "saddle stitch tutorial",
+      "leather edge finishing"
+    ]
+  },
+  {
+    "id": "retro-computing",
+    "name": "Beige Box Bulletin",
+    "audience": "retro computer restorers and emulation fans",
+    "categories": [
+      "Restoration",
+      "Emulation",
+      "Upgrades",
+      "Software"
+    ],
+    "subreddits": [
+      "retrobattlestations",
+      "vintagecomputing",
+      "emulation"
+    ],
+    "braveQueries": [
+      "recap vintage computer",
+      "best emulation setup",
+      "crt monitor guide"
+    ]
+  },
+  {
+    "id": "succulents",
+    "name": "Dry Garden Dispatch",
+    "audience": "succulent and cactus growers",
+    "categories": [
+      "Propagation",
+      "Soil",
+      "Light",
+      "Arrangements"
+    ],
+    "subreddits": [
+      "succulents",
+      "cactus",
+      "proplifting"
+    ],
+    "braveQueries": [
+      "succulent soil mix",
+      "propagate succulents leaves",
+      "grow lights succulents"
+    ]
+  },
+  {
+    "id": "meal-kits-diy",
+    "name": "Sous Chef Signal",
+    "audience": "home cooks systematizing weeknight dinners",
+    "categories": [
+      "Templates",
+      "Pantry",
+      "Knife Skills",
+      "Sauces"
+    ],
+    "subreddits": [
+      "Cooking",
+      "MealPrepSunday",
+      "cookingforbeginners"
+    ],
+    "braveQueries": [
+      "weeknight dinner formula",
+      "pantry staples list",
+      "five mother sauces"
+    ]
+  },
+  {
+    "id": "indoor-cycling",
+    "name": "Cadence Report",
+    "audience": "indoor cyclists and virtual racers",
+    "categories": [
+      "Trainers",
+      "Platforms",
+      "Training",
+      "Setup"
+    ],
+    "subreddits": [
+      "Zwift",
+      "indoorcycling",
+      "Velo"
+    ],
+    "braveQueries": [
+      "smart trainer guide",
+      "zwift training plans",
+      "pain cave setup"
+    ]
   }
 ]
