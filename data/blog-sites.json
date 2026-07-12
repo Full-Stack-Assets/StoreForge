@@ -259,7 +259,28 @@
       },
       "design": "moss",
       "streamUrl": "https://store-forge-roan.vercel.app/"
+    },
+    {
+      "id": "budget-build-bench-2-1783897747640",
+      "slug": "budget-build-bench-2",
+      "name": "Budget Build Bench",
+      "tagline": "Fresh takes for PC builders on a budget.",
+      "nicheId": "budget-pc-builds",
+      "audience": "PC builders on a budget",
+      "categories": [
+        "GPUs",
+        "Used Parts",
+        "Upgrades",
+        "Benchmarks"
+      ],
+      "url": "http://localhost:3000/sites/budget-build-bench-2/",
+      "localUrl": "http://localhost:3000/sites/budget-build-bench-2/",
+      "vercel": null,
+      "design": "prism",
+      "postCount": 6,
+      "createdAt": "2026-07-12T23:09:07.639Z",
+      "streamUrl": "http://localhost:3000/"
     }
   ],
-  "lastGeneratedAt": "2026-07-12T22:07:38.645Z"
+  "lastGeneratedAt": "2026-07-12T23:09:07.639Z"
 }
