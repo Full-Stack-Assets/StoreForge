@@ -50,7 +50,24 @@
       "url": "http://localhost:3000/sites/slow-route-journal/",
       "postCount": 3,
       "createdAt": "2026-07-12T09:16:12.235Z"
+    },
+    {
+      "id": "urban-gardening-daily-1783855875125",
+      "slug": "urban-gardening-daily",
+      "name": "Urban Gardening Daily",
+      "tagline": "Fresh takes for apartment dwellers and balcony gardeners.",
+      "nicheId": "urban-gardening",
+      "audience": "apartment dwellers and balcony gardeners",
+      "categories": [
+        "Containers",
+        "Herbs",
+        "Composting",
+        "Seasonal"
+      ],
+      "url": "http://localhost:3000/sites/urban-gardening-daily/",
+      "postCount": 3,
+      "createdAt": "2026-07-12T11:31:15.125Z"
     }
   ],
-  "lastGeneratedAt": "2026-07-12T09:16:12.235Z"
+  "lastGeneratedAt": "2026-07-12T11:31:15.125Z"
 }
