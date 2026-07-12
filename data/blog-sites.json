@@ -152,7 +152,24 @@
       "url": "http://localhost:3000/sites/retro-pixel-press-2/",
       "postCount": 3,
       "createdAt": "2026-07-12T21:06:47.932Z"
+    },
+    {
+      "id": "urban-gardening-daily-2-1783894058645",
+      "slug": "urban-gardening-daily-2",
+      "name": "Urban Gardening Daily",
+      "tagline": "Fresh takes for apartment dwellers and balcony gardeners.",
+      "nicheId": "urban-gardening",
+      "audience": "apartment dwellers and balcony gardeners",
+      "categories": [
+        "Containers",
+        "Herbs",
+        "Composting",
+        "Seasonal"
+      ],
+      "url": "http://localhost:3000/sites/urban-gardening-daily-2/",
+      "postCount": 3,
+      "createdAt": "2026-07-12T22:07:38.645Z"
     }
   ],
-  "lastGeneratedAt": "2026-07-12T21:06:47.932Z"
+  "lastGeneratedAt": "2026-07-12T22:07:38.645Z"
 }
