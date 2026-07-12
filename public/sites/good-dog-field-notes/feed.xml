@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Good Dog Field Notes</title>
+    <link>https://storeforge-good-dog-field-notes.vercel.app/</link>
+    <description>Fresh takes for first-time dog owners.</description>
+    <item>
+      <title>The state of Puppies in 2026</title>
+      <link>https://storeforge-good-dog-field-notes.vercel.app/posts/state-of-puppies.html</link>
+      <guid>https://storeforge-good-dog-field-notes.vercel.app/posts/state-of-puppies.html</guid>
+      <pubDate>Sun, 12 Jul 2026 22:38:47 GMT</pubDate>
+      <description>A field report on puppies: where things stand, and what first-time dog owners should do next.</description>
+    </item>
+    <item>
+      <title>Starter guide: Behavior without the overwhelm</title>
+      <link>https://storeforge-good-dog-field-notes.vercel.app/posts/starter-guide-behavior.html</link>
+      <guid>https://storeforge-good-dog-field-notes.vercel.app/posts/starter-guide-behavior.html</guid>
+      <pubDate>Sat, 11 Jul 2026 09:38:47 GMT</pubDate>
+      <description>A practical on-ramp to behavior for first-time dog owners — one repeatable workflow, no gear debt.</description>
+    </item>
+    <item>
+      <title>&quot;leash reactivity tips&quot; — separating signal from noise</title>
+      <link>https://storeforge-good-dog-field-notes.vercel.app/posts/signal-vs-noise-leash-reactivity-tips.html</link>
+      <guid>https://storeforge-good-dog-field-notes.vercel.app/posts/signal-vs-noise-leash-reactivity-tips.html</guid>
+      <pubDate>Thu, 09 Jul 2026 20:38:47 GMT</pubDate>
+      <description>Thousands of people search &quot;leash reactivity tips&quot; every month. Most of what they find is recycled. Here is what holds up.</description>
+    </item>
+    <item>
+      <title>Why first-time dog owners are rethinking Gear</title>
+      <link>https://storeforge-good-dog-field-notes.vercel.app/posts/rethinking-gear.html</link>
+      <guid>https://storeforge-good-dog-field-notes.vercel.app/posts/rethinking-gear.html</guid>
+      <pubDate>Wed, 08 Jul 2026 07:38:47 GMT</pubDate>
+      <description>A quiet shift is underway in how first-time dog owners approach gear — less maximalism, more maintenance.</description>
+    </item>
+    <item>
+      <title>Health on a budget: what actually matters</title>
+      <link>https://storeforge-good-dog-field-notes.vercel.app/posts/budget-health.html</link>
+      <guid>https://storeforge-good-dog-field-notes.vercel.app/posts/budget-health.html</guid>
+      <pubDate>Mon, 06 Jul 2026 18:38:47 GMT</pubDate>
+      <description>Where money changes outcomes in health — and the line items that are pure vanity.</description>
+    </item>
+    <item>
+      <title>What to watch next in Behavior: five quiet shifts</title>
+      <link>https://storeforge-good-dog-field-notes.vercel.app/posts/what-to-watch-behavior.html</link>
+      <guid>https://storeforge-good-dog-field-notes.vercel.app/posts/what-to-watch-behavior.html</guid>
+      <pubDate>Sun, 05 Jul 2026 05:38:47 GMT</pubDate>
+      <description>Ignore the headlines — these are the slower currents reshaping behavior for first-time dog owners.</description>
+    </item>
+  </channel>
+</rss>

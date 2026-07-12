@@ -51,6 +51,16 @@ Generate a blog site manually:
 npm run generate:blog-site
 ```
 
+Rebuild every existing site with the current templates/themes (add `-- --deploy` to also redeploy each to its Vercel project):
+
+```bash
+npm run regenerate:sites
+```
+
+## Site design
+
+Generated sites follow the "dispatch" format of the reference network (wireandlogic.com, moviesrule.com, astrokobi.com, nextgengear.cc): sticky gradient-ruled header, gradient-text masthead, featured post + 3-column card grid, and a templated article layout (Takeaway callout → What happened / Why it matters / How to think about it → Pros & Cons → Watch out → FAQ accordion → numbered Sources → tags → newsletter CTA → Keep reading). Each niche gets one of six theme presets (`zine`, `cinema`, `aurora`, `prism`, `ember`, `moss`) defined in `lib/content-generator.js`, plus a per-site RSS feed and About page.
+
 ## Continuous blog deployment
 
 ### GitHub Actions (recommended)

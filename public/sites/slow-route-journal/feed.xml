@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Slow Route Journal</title>
+    <link>https://storeforge-slow-route-journal.vercel.app/</link>
+    <description>Fresh takes for slow-travel and low-impact explorers.</description>
+    <item>
+      <title>The state of Rail in 2026</title>
+      <link>https://storeforge-slow-route-journal.vercel.app/posts/state-of-rail.html</link>
+      <guid>https://storeforge-slow-route-journal.vercel.app/posts/state-of-rail.html</guid>
+      <pubDate>Sun, 12 Jul 2026 22:38:47 GMT</pubDate>
+      <description>A field report on rail: where things stand, and what slow-travel and low-impact explorers should do next.</description>
+    </item>
+    <item>
+      <title>Starter guide: Stays without the overwhelm</title>
+      <link>https://storeforge-slow-route-journal.vercel.app/posts/starter-guide-stays.html</link>
+      <guid>https://storeforge-slow-route-journal.vercel.app/posts/starter-guide-stays.html</guid>
+      <pubDate>Sat, 11 Jul 2026 09:38:47 GMT</pubDate>
+      <description>A practical on-ramp to stays for slow-travel and low-impact explorers — one repeatable workflow, no gear debt.</description>
+    </item>
+    <item>
+      <title>&quot;train travel europe tips&quot; — separating signal from noise</title>
+      <link>https://storeforge-slow-route-journal.vercel.app/posts/signal-vs-noise-train-travel-europe-tips.html</link>
+      <guid>https://storeforge-slow-route-journal.vercel.app/posts/signal-vs-noise-train-travel-europe-tips.html</guid>
+      <pubDate>Thu, 09 Jul 2026 20:38:47 GMT</pubDate>
+      <description>Thousands of people search &quot;train travel europe tips&quot; every month. Most of what they find is recycled. Here is what holds up.</description>
+    </item>
+    <item>
+      <title>Why slow-travel are rethinking Packing</title>
+      <link>https://storeforge-slow-route-journal.vercel.app/posts/rethinking-packing.html</link>
+      <guid>https://storeforge-slow-route-journal.vercel.app/posts/rethinking-packing.html</guid>
+      <pubDate>Wed, 08 Jul 2026 07:38:47 GMT</pubDate>
+      <description>A quiet shift is underway in how slow-travel and low-impact explorers approach packing — less maximalism, more maintenance.</description>
+    </item>
+    <item>
+      <title>Local on a budget: what actually matters</title>
+      <link>https://storeforge-slow-route-journal.vercel.app/posts/budget-local.html</link>
+      <guid>https://storeforge-slow-route-journal.vercel.app/posts/budget-local.html</guid>
+      <pubDate>Mon, 06 Jul 2026 18:38:47 GMT</pubDate>
+      <description>Where money changes outcomes in local — and the line items that are pure vanity.</description>
+    </item>
+    <item>
+      <title>What to watch next in Stays: five quiet shifts</title>
+      <link>https://storeforge-slow-route-journal.vercel.app/posts/what-to-watch-stays.html</link>
+      <guid>https://storeforge-slow-route-journal.vercel.app/posts/what-to-watch-stays.html</guid>
+      <pubDate>Sun, 05 Jul 2026 05:38:47 GMT</pubDate>
+      <description>Ignore the headlines — these are the slower currents reshaping stays for slow-travel and low-impact explorers.</description>
+    </item>
+  </channel>
+</rss>

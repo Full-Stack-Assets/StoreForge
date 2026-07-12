@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Budget Build Bench</title>
+    <link>https://storeforge-budget-build-bench.vercel.app/</link>
+    <description>Fresh takes for PC builders on a budget.</description>
+    <item>
+      <title>The state of GPUs in 2026</title>
+      <link>https://storeforge-budget-build-bench.vercel.app/posts/state-of-gpus.html</link>
+      <guid>https://storeforge-budget-build-bench.vercel.app/posts/state-of-gpus.html</guid>
+      <pubDate>Sun, 12 Jul 2026 22:38:47 GMT</pubDate>
+      <description>A field report on gpus: where things stand, and what PC builders on a budget should do next.</description>
+    </item>
+    <item>
+      <title>Starter guide: Used Parts without the overwhelm</title>
+      <link>https://storeforge-budget-build-bench.vercel.app/posts/starter-guide-used-parts.html</link>
+      <guid>https://storeforge-budget-build-bench.vercel.app/posts/starter-guide-used-parts.html</guid>
+      <pubDate>Sat, 11 Jul 2026 09:38:47 GMT</pubDate>
+      <description>A practical on-ramp to used parts for PC builders on a budget — one repeatable workflow, no gear debt.</description>
+    </item>
+    <item>
+      <title>&quot;best budget gpu 2026&quot; — separating signal from noise</title>
+      <link>https://storeforge-budget-build-bench.vercel.app/posts/signal-vs-noise-best-budget-gpu-2026.html</link>
+      <guid>https://storeforge-budget-build-bench.vercel.app/posts/signal-vs-noise-best-budget-gpu-2026.html</guid>
+      <pubDate>Thu, 09 Jul 2026 20:38:47 GMT</pubDate>
+      <description>Thousands of people search &quot;best budget gpu 2026&quot; every month. Most of what they find is recycled. Here is what holds up.</description>
+    </item>
+    <item>
+      <title>Why PC builders on a budget are rethinking Upgrades</title>
+      <link>https://storeforge-budget-build-bench.vercel.app/posts/rethinking-upgrades.html</link>
+      <guid>https://storeforge-budget-build-bench.vercel.app/posts/rethinking-upgrades.html</guid>
+      <pubDate>Wed, 08 Jul 2026 07:38:47 GMT</pubDate>
+      <description>A quiet shift is underway in how PC builders on a budget approach upgrades — less maximalism, more maintenance.</description>
+    </item>
+    <item>
+      <title>Benchmarks on a budget: what actually matters</title>
+      <link>https://storeforge-budget-build-bench.vercel.app/posts/budget-benchmarks.html</link>
+      <guid>https://storeforge-budget-build-bench.vercel.app/posts/budget-benchmarks.html</guid>
+      <pubDate>Mon, 06 Jul 2026 18:38:47 GMT</pubDate>
+      <description>Where money changes outcomes in benchmarks — and the line items that are pure vanity.</description>
+    </item>
+    <item>
+      <title>What to watch next in Used Parts: five quiet shifts</title>
+      <link>https://storeforge-budget-build-bench.vercel.app/posts/what-to-watch-used-parts.html</link>
+      <guid>https://storeforge-budget-build-bench.vercel.app/posts/what-to-watch-used-parts.html</guid>
+      <pubDate>Sun, 05 Jul 2026 05:38:47 GMT</pubDate>
+      <description>Ignore the headlines — these are the slower currents reshaping used parts for PC builders on a budget.</description>
+    </item>
+  </channel>
+</rss>
