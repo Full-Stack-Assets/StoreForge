@@ -33,7 +33,24 @@
       "url": "http://localhost:3000/sites/home-barista-lab/",
       "postCount": 3,
       "createdAt": "2026-06-30T05:17:19.260Z"
+    },
+    {
+      "id": "slow-route-journal-1783847772236",
+      "slug": "slow-route-journal",
+      "name": "Slow Route Journal",
+      "tagline": "Fresh takes for slow-travel and low-impact explorers.",
+      "nicheId": "sustainable-travel",
+      "audience": "slow-travel and low-impact explorers",
+      "categories": [
+        "Rail",
+        "Stays",
+        "Packing",
+        "Local"
+      ],
+      "url": "http://localhost:3000/sites/slow-route-journal/",
+      "postCount": 3,
+      "createdAt": "2026-07-12T09:16:12.235Z"
     }
   ],
-  "lastGeneratedAt": "2026-06-30T05:17:19.260Z"
+  "lastGeneratedAt": "2026-07-12T09:16:12.235Z"
 }
