@@ -135,7 +135,24 @@
       "url": "http://localhost:3000/sites/good-dog-field-notes/",
       "postCount": 3,
       "createdAt": "2026-07-12T19:31:13.602Z"
+    },
+    {
+      "id": "retro-pixel-press-2-1783890407933",
+      "slug": "retro-pixel-press-2",
+      "name": "Retro Pixel Press",
+      "tagline": "Fresh takes for retro game collectors and speedrunners.",
+      "nicheId": "retro-gaming",
+      "audience": "retro game collectors and speedrunners",
+      "categories": [
+        "Hardware",
+        "Speedruns",
+        "Preservation",
+        "Indie"
+      ],
+      "url": "http://localhost:3000/sites/retro-pixel-press-2/",
+      "postCount": 3,
+      "createdAt": "2026-07-12T21:06:47.932Z"
     }
   ],
-  "lastGeneratedAt": "2026-07-12T19:31:13.602Z"
+  "lastGeneratedAt": "2026-07-12T21:06:47.932Z"
 }
