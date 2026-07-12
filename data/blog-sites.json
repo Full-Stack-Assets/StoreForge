@@ -13,11 +13,16 @@
         "Preservation",
         "Indie"
       ],
-      "url": "https://store-forge-roan.vercel.app/sites/retro-pixel-press/",
+      "url": "https://storeforge-retro-pixel-press.vercel.app",
       "postCount": 3,
       "createdAt": "2026-06-30T05:17:19.238Z",
       "localUrl": "https://store-forge-roan.vercel.app/sites/retro-pixel-press/",
-      "vercel": null
+      "vercel": {
+        "projectName": "storeforge-retro-pixel-press",
+        "url": "https://storeforge-retro-pixel-press.vercel.app",
+        "deploymentId": "dpl_3GnkRNUjLUqYJLxof2gbg5zNEXA4",
+        "readyState": "READY"
+      }
     },
     {
       "id": "home-barista-lab-1782796639260",
@@ -32,11 +37,16 @@
         "Roasting",
         "Gear"
       ],
-      "url": "https://store-forge-roan.vercel.app/sites/home-barista-lab/",
+      "url": "https://storeforge-home-barista-lab.vercel.app",
       "postCount": 3,
       "createdAt": "2026-06-30T05:17:19.260Z",
       "localUrl": "https://store-forge-roan.vercel.app/sites/home-barista-lab/",
-      "vercel": null
+      "vercel": {
+        "projectName": "storeforge-home-barista-lab",
+        "url": "https://storeforge-home-barista-lab.vercel.app",
+        "deploymentId": "dpl_cK7KwoFD5CyyukGadDpEvmt9aFWn",
+        "readyState": "READY"
+      }
     },
     {
       "id": "slow-route-journal-1783847772236",
@@ -51,11 +61,16 @@
         "Packing",
         "Local"
       ],
-      "url": "https://store-forge-roan.vercel.app/sites/slow-route-journal/",
+      "url": "https://storeforge-slow-route-journal.vercel.app",
       "postCount": 3,
       "createdAt": "2026-07-12T09:16:12.235Z",
       "localUrl": "https://store-forge-roan.vercel.app/sites/slow-route-journal/",
-      "vercel": null
+      "vercel": {
+        "projectName": "storeforge-slow-route-journal",
+        "url": "https://storeforge-slow-route-journal.vercel.app",
+        "deploymentId": "dpl_69zaRmzEtoo5yF98LViYjhdwFV4r",
+        "readyState": "READY"
+      }
     },
     {
       "id": "urban-gardening-daily-1783855875125",
@@ -70,11 +85,16 @@
         "Composting",
         "Seasonal"
       ],
-      "url": "https://store-forge-roan.vercel.app/sites/urban-gardening-daily/",
+      "url": "https://storeforge-urban-gardening-daily.vercel.app",
       "postCount": 3,
       "createdAt": "2026-07-12T11:31:15.125Z",
       "localUrl": "https://store-forge-roan.vercel.app/sites/urban-gardening-daily/",
-      "vercel": null
+      "vercel": {
+        "projectName": "storeforge-urban-gardening-daily",
+        "url": "https://storeforge-urban-gardening-daily.vercel.app",
+        "deploymentId": "dpl_GAAsnYcqygVwKNsjCQ45vjNuX2ie",
+        "readyState": "READY"
+      }
     },
     {
       "id": "budget-build-bench-1783864569357",
@@ -89,11 +109,16 @@
         "Upgrades",
         "Benchmarks"
       ],
-      "url": "https://store-forge-roan.vercel.app/sites/budget-build-bench/",
+      "url": "https://storeforge-budget-build-bench.vercel.app",
       "postCount": 3,
       "createdAt": "2026-07-12T13:56:09.357Z",
       "localUrl": "https://store-forge-roan.vercel.app/sites/budget-build-bench/",
-      "vercel": null
+      "vercel": {
+        "projectName": "storeforge-budget-build-bench",
+        "url": "https://storeforge-budget-build-bench.vercel.app",
+        "deploymentId": "dpl_4dy2vDGrWwbvu2KHokfURvRTr6Tk",
+        "readyState": "READY"
+      }
     },
     {
       "id": "indie-frame-notes-1783869355821",
@@ -108,11 +133,16 @@
         "Distribution",
         "Gear"
       ],
-      "url": "https://store-forge-roan.vercel.app/sites/indie-frame-notes/",
+      "url": "https://storeforge-indie-frame-notes.vercel.app",
       "postCount": 3,
       "createdAt": "2026-07-12T15:15:55.821Z",
       "localUrl": "https://store-forge-roan.vercel.app/sites/indie-frame-notes/",
-      "vercel": null
+      "vercel": {
+        "projectName": "storeforge-indie-frame-notes",
+        "url": "https://storeforge-indie-frame-notes.vercel.app",
+        "deploymentId": "dpl_8vAcgo2HEbFtbAejFgp1taCSTt4j",
+        "readyState": "READY"
+      }
     },
     {
       "id": "prep-plate-weekly-1783876642739",
@@ -127,11 +157,16 @@
         "Macros",
         "Tools"
       ],
-      "url": "https://store-forge-roan.vercel.app/sites/prep-plate-weekly/",
+      "url": "https://storeforge-prep-plate-weekly.vercel.app",
       "postCount": 3,
       "createdAt": "2026-07-12T17:17:22.739Z",
       "localUrl": "https://store-forge-roan.vercel.app/sites/prep-plate-weekly/",
-      "vercel": null
+      "vercel": {
+        "projectName": "storeforge-prep-plate-weekly",
+        "url": "https://storeforge-prep-plate-weekly.vercel.app",
+        "deploymentId": "dpl_BxUuqENfBecB1LvdmeE2GwjLiVhX",
+        "readyState": "READY"
+      }
     },
     {
       "id": "good-dog-field-notes-1783884673602",
@@ -146,11 +181,16 @@
         "Gear",
         "Health"
       ],
-      "url": "https://store-forge-roan.vercel.app/sites/good-dog-field-notes/",
+      "url": "https://storeforge-good-dog-field-notes.vercel.app",
       "postCount": 3,
       "createdAt": "2026-07-12T19:31:13.602Z",
       "localUrl": "https://store-forge-roan.vercel.app/sites/good-dog-field-notes/",
-      "vercel": null
+      "vercel": {
+        "projectName": "storeforge-good-dog-field-notes",
+        "url": "https://storeforge-good-dog-field-notes.vercel.app",
+        "deploymentId": "dpl_Gd7r3cBCckZWxYb4PVGiJ2Jinj7k",
+        "readyState": "READY"
+      }
     },
     {
       "id": "retro-pixel-press-2-1783890407933",
@@ -165,11 +205,16 @@
         "Preservation",
         "Indie"
       ],
-      "url": "https://store-forge-roan.vercel.app/sites/retro-pixel-press-2/",
+      "url": "https://storeforge-retro-pixel-press-2.vercel.app",
       "postCount": 3,
       "createdAt": "2026-07-12T21:06:47.932Z",
       "localUrl": "https://store-forge-roan.vercel.app/sites/retro-pixel-press-2/",
-      "vercel": null
+      "vercel": {
+        "projectName": "storeforge-retro-pixel-press-2",
+        "url": "https://storeforge-retro-pixel-press-2.vercel.app",
+        "deploymentId": "dpl_Fs7qEEBCiQADRYcENKMFHbvX2G7Q",
+        "readyState": "READY"
+      }
     },
     {
       "id": "urban-gardening-daily-2-1783894058645",
@@ -184,11 +229,16 @@
         "Composting",
         "Seasonal"
       ],
-      "url": "https://store-forge-roan.vercel.app/sites/urban-gardening-daily-2/",
+      "url": "https://storeforge-urban-gardening-daily-2.vercel.app",
       "postCount": 3,
       "createdAt": "2026-07-12T22:07:38.645Z",
       "localUrl": "https://store-forge-roan.vercel.app/sites/urban-gardening-daily-2/",
-      "vercel": null
+      "vercel": {
+        "projectName": "storeforge-urban-gardening-daily-2",
+        "url": "https://storeforge-urban-gardening-daily-2.vercel.app",
+        "deploymentId": "dpl_DiKLhxrwbRUtzn2Sgj5ECbfwuBBb",
+        "readyState": "READY"
+      }
     }
   ],
   "lastGeneratedAt": "2026-07-12T22:07:38.645Z"
