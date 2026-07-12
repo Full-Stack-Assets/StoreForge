@@ -84,7 +84,24 @@
       "url": "http://localhost:3000/sites/budget-build-bench/",
       "postCount": 3,
       "createdAt": "2026-07-12T13:56:09.357Z"
+    },
+    {
+      "id": "indie-frame-notes-1783869355821",
+      "slug": "indie-frame-notes",
+      "name": "Indie Frame Notes",
+      "tagline": "Fresh takes for indie filmmakers and short-film creators.",
+      "nicheId": "indie-film",
+      "audience": "indie filmmakers and short-film creators",
+      "categories": [
+        "Production",
+        "Sound",
+        "Distribution",
+        "Gear"
+      ],
+      "url": "http://localhost:3000/sites/indie-frame-notes/",
+      "postCount": 3,
+      "createdAt": "2026-07-12T15:15:55.821Z"
     }
   ],
-  "lastGeneratedAt": "2026-07-12T13:56:09.357Z"
+  "lastGeneratedAt": "2026-07-12T15:15:55.821Z"
 }
