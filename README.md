@@ -7,7 +7,8 @@ Blog forge + storefront API. StoreForge continuously deploys new niche blog site
 - **`/`** — live dashboard of all deployed blog sites (auto-refreshes every 60s)
 - **`/sites/{slug}/`** — generated niche blog sites with starter posts
 - **Standalone Vercel deployments** — each new site is deployed to its own Vercel project (e.g. `storeforge-{slug}.vercel.app`) when `VERCEL_TOKEN` is set
-- **Hourly GitHub Action** — generates a new site, deploys it to its own Vercel project, and commits a copy to `public/sites/`
+- **Hourly site generation** — `.github/workflows/hourly-blog-site.yml` creates a brand-new niche site every hour at :15
+- **Hourly posts** — `.github/workflows/hourly-posts.yml` adds one fresh post to *every* existing site at :45 and redeploys its standalone project, so sites keep publishing continuously (Gemini-written when `GEMINI_API_KEY` is set, rotating editorial archetypes otherwise)
 - **Store API** — products + Stripe Checkout (unchanged)
 
 ## Requirements
@@ -56,6 +57,14 @@ Rebuild every existing site with the current templates/themes (add `-- --deploy`
 ```bash
 npm run regenerate:sites
 ```
+
+Add one new post to every site (what the hourly workflow runs; deploys automatically when `VERCEL_TOKEN` is set):
+
+```bash
+npm run add:posts
+```
+
+Post content is persisted per site in `data/posts/{slug}.json`, so the archive grows hour over hour and survives regeneration.
 
 ## Site design
 
