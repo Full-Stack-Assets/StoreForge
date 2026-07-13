@@ -1,14 +1,55 @@
 #!/usr/bin/env node
 "use strict";
 
-// Adds one fresh post to every registered site and re-renders it, so sites
-// keep publishing hourly after launch. Pass --deploy (or set VERCEL_TOKEN)
-// to also push each updated site to its standalone Vercel project.
-
 const registry = require("../lib/registry");
 const content = require("../lib/content-generator");
 const vercel = require("../lib/vercel-deployer");
-const { getBaseUrl } = require("../lib/blog-site-generator");
+const { getBaseUrl } = require("../lib/config");
+const { mapWithConcurrency } = require("../lib/concurrency");
+
+const SITE_CONCURRENCY = Number(process.env.SITE_CONCURRENCY || 4);
+
+function nicheForSite(site, niches) {
+  return (
+    niches.find((entry) => entry.id === site.nicheId) || {
+      id: site.nicheId,
+      name: site.name,
+      audience: site.audience,
+      categories: site.categories,
+      subreddits: [site.nicheId],
+      braveQueries: site.categories.map((category) => category.toLowerCase())
+    }
+  );
+}
+
+async function processSite(site, { deploy, baseUrl, niches }) {
+  const niche = nicheForSite(site, niches);
+  let archive = content.loadPostArchive(site.slug);
+  if (archive.length === 0) {
+    archive = await content.generatePosts(niche);
+  }
+
+  const post = await content.generateHourlyPost(niche, archive);
+  const posts = [post, ...archive];
+
+  site.postCount = posts.length;
+  site.lastPostAt = post.publishedAt;
+  const siteDir = content.writeSiteFiles(site, posts, baseUrl);
+  const result = { slug: site.slug, title: post.title, postCount: posts.length, deployUrl: null };
+
+  if (deploy && vercel.isConfigured()) {
+    try {
+      const deployment = await vercel.deploySiteToVercel(site, siteDir);
+      site.vercel = deployment;
+      site.url = deployment.url;
+      result.deployUrl = deployment.url;
+    } catch (error) {
+      console.warn(`  ${site.slug} deploy failed: ${error.message}`);
+    }
+  }
+
+  return result;
+}
 
 async function main() {
   const deploy = process.argv.includes("--deploy") || vercel.isConfigured();
@@ -16,39 +57,13 @@ async function main() {
   const data = registry.loadRegistry();
   const niches = content.loadNiches();
 
-  for (const site of data.sites) {
-    const niche = niches.find((entry) => entry.id === site.nicheId) || {
-      id: site.nicheId,
-      name: site.name,
-      audience: site.audience,
-      categories: site.categories,
-      subreddits: [site.nicheId],
-      braveQueries: site.categories.map((category) => category.toLowerCase())
-    };
+  const results = await mapWithConcurrency(data.sites, SITE_CONCURRENCY, (site) =>
+    processSite(site, { deploy, baseUrl, niches })
+  );
 
-    let archive = content.loadPostArchive(site.slug);
-    if (archive.length === 0) {
-      archive = await content.generatePosts(niche);
-    }
-
-    const post = await content.generateHourlyPost(niche, archive);
-    const posts = [post, ...archive];
-
-    site.postCount = posts.length;
-    site.lastPostAt = post.publishedAt;
-    const siteDir = content.writeSiteFiles(site, posts, baseUrl);
-    console.log(`${site.slug}: +"${post.title}" (${posts.length} posts)`);
-
-    if (deploy && vercel.isConfigured()) {
-      try {
-        const deployment = await vercel.deploySiteToVercel(site, siteDir);
-        site.vercel = deployment;
-        site.url = deployment.url;
-        console.log(`  deployed → ${deployment.url}`);
-      } catch (error) {
-        console.warn(`  deploy failed: ${error.message}`);
-      }
-    }
+  for (const result of results) {
+    console.log(`${result.slug}: +"${result.title}" (${result.postCount} posts)`);
+    if (result.deployUrl) console.log(`  deployed → ${result.deployUrl}`);
   }
 
   data.lastPostRunAt = new Date().toISOString();

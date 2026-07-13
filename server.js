@@ -4,7 +4,11 @@ const path = require("path");
 const Stripe = require("stripe");
 const registry = require("./lib/registry");
 const { renderDashboard } = require("./lib/dashboard");
-const { generateBlogSite, getBaseUrl } = require("./lib/blog-site-generator");
+const { generateBlogSite } = require("./lib/blog-site-generator");
+const { getBaseUrl } = require("./lib/config");
+const { contentModeLabel } = require("./lib/content-provider");
+const { listProducts, listCategories, listProductTypes } = require("./lib/products");
+const { buildCheckoutLineItems } = require("./lib/checkout");
 
 const app = express();
 
@@ -57,7 +61,11 @@ app.get("/", (req, res) => {
 });
 
 app.get("/api/status", (req, res) => {
-  res.json({ status: "ok", message: "BeyondMythos API is running" });
+  res.json({
+    status: "ok",
+    message: "BeyondMythos API is running",
+    contentMode: contentModeLabel()
+  });
 });
 
 app.get("/api/blog-sites", (req, res) => {
@@ -81,6 +89,7 @@ app.post("/api/blog-sites/generate", async (req, res) => {
     if (error.code === "NICHES_EXHAUSTED") {
       return res.status(409).json({ error: error.message });
     }
+    console.error("Blog site generation failed:", error);
     res.status(500).json({ error: "Failed to generate blog site" });
   }
 });
@@ -93,56 +102,29 @@ app.get("/api/store/config", (req, res) => {
   res.set("Cache-Control", "public, max-age=300, stale-while-revalidate=60");
   res.json({
     name: process.env.STORE_NAME || "BeyondMythos",
-    tagline: "Premium products delivered fast",
+    tagline: "Creator tools, merch, and gear — shipped or delivered instantly",
     primaryColor: "#2563eb",
-    secondaryColor: "#f97316"
+    secondaryColor: "#f97316",
+    categories: listCategories(),
+    types: listProductTypes()
   });
 });
 
 app.get("/api/store/products", async (req, res) => {
   res.set("Cache-Control", "public, max-age=60, stale-while-revalidate=30");
-  const products = [
-    { id: 1, name: "Wireless Charger", price: 29.99, image: "https://images.unsplash.com/photo-1615526675159-e248c68ef580?w=300", rating: 4.8 },
-    { id: 2, name: "Fast Charger 65W", price: 34.99, image: "https://images.unsplash.com/photo-1583863788434-e58a36330cf0?w=300", rating: 4.7 },
-    { id: 3, name: "Protective Case", price: 24.99, image: "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?w=300", rating: 4.5 },
-    { id: 4, name: "Screen Protector", price: 12.99, image: "https://images.unsplash.com/photo-1592899677977-9c10ca588bbd?w=300", rating: 4.3 }
-  ];
-  res.json({ products });
+  const filters = {};
+  if (req.query.type) filters.type = String(req.query.type);
+  if (req.query.category) filters.category = String(req.query.category);
+  if (req.query.fulfillment) filters.fulfillment = String(req.query.fulfillment);
+  const products = listProducts(filters);
+  res.json({ count: products.length, products });
 });
 
 app.post("/api/create-checkout", async (req, res) => {
   const items = req.body && Array.isArray(req.body.items) ? req.body.items : null;
-  if (!items || items.length === 0) {
-    return res.status(400).json({ error: "Expected non-empty items array" });
-  }
-
-  const lineItems = [];
-  for (const item of items) {
-    const name = typeof item?.name === "string" ? item.name.trim() : "";
-    const priceNumber = Number(item?.price);
-    const quantityNumber = Number(item?.quantity);
-
-    if (!name) return res.status(400).json({ error: "Each item requires a name" });
-    if (!Number.isFinite(priceNumber) || priceNumber <= 0) {
-      return res.status(400).json({ error: `Invalid price for item: ${name}` });
-    }
-    if (!Number.isInteger(quantityNumber) || quantityNumber <= 0) {
-      return res.status(400).json({ error: `Invalid quantity for item: ${name}` });
-    }
-
-    const unitAmount = Math.round(priceNumber * 100);
-    if (!Number.isInteger(unitAmount) || unitAmount <= 0) {
-      return res.status(400).json({ error: `Invalid unit amount for item: ${name}` });
-    }
-
-    lineItems.push({
-      price_data: {
-        currency: "usd",
-        product_data: { name },
-        unit_amount: unitAmount
-      },
-      quantity: quantityNumber
-    });
+  const { lineItems, error: validationError } = buildCheckoutLineItems(items);
+  if (validationError) {
+    return res.status(400).json({ error: validationError });
   }
 
   const configuredFrontendUrl = (process.env.FRONTEND_URL || "").trim().replace(/\/+$/, "");
@@ -167,6 +149,7 @@ app.post("/api/create-checkout", async (req, res) => {
     });
     res.json({ url: session.url });
   } catch (error) {
+    console.error("Stripe checkout session failed:", error.message);
     res.status(502).json({ error: "Failed to create checkout session" });
   }
 });
