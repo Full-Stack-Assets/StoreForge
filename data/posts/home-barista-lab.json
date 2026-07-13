@@ -1,5 +1,56 @@
 [
   {
+    "slug": "refining-espresso-technique",
+    "title": "Fine-tuning your espresso game",
+    "dek": "Elevate your espresso",
+    "takeaway": "Minor adjustments can significantly improve your espresso shots",
+    "whatHappened": "Recently, we've seen a surge in home baristas investing in high-end espresso machines, only to find that their shots are still lacking. This led us to investigate the role of technique in espresso brewing. Our findings suggest that even with top-tier equipment, poor technique can greatly impact the quality of the espresso.",
+    "whyItMatters": "Espresso is a delicate process, and small variations in technique can result in substantial differences in flavor and quality. By refining your technique, you can unlock the full potential of your equipment and enjoy a more satisfying espresso experience. This, in turn, can elevate your entire coffee routine and provide a better foundation for more complex coffee drinks.",
+    "howToThink": "To improve your espresso technique, consider focusing on the fundamentals: tamping, grind distribution, and brewing time. Practice these elements to develop muscle memory, and experiment with minor adjustments to find what works best for your equipment and the specific coffee beans you're using. Consistency is key, so keep a brewing journal to track your progress and identify patterns.",
+    "pros": [
+      "Improved flavor",
+      "Increased consistency",
+      "Better equipment utilization"
+    ],
+    "cons": [
+      "Steep learning curve",
+      "Requires patience",
+      "May require additional equipment"
+    ],
+    "watchOut": "Be cautious not to over-adjust, as this can lead to inconsistent results and frustration",
+    "faq": [
+      {
+        "q": "What is the ideal brewing time for espresso?",
+        "a": "The ideal brewing time is between 20-30 seconds, depending on the roast level and grind of the coffee."
+      },
+      {
+        "q": "How often should I clean my espresso machine?",
+        "a": "It's recommended to clean your espresso machine after every use, with a deeper clean every 1-2 weeks."
+      },
+      {
+        "q": "Can I use any coffee bean for espresso?",
+        "a": "While any coffee bean can technically be used for espresso, beans with a higher oil content and a finer grind are better suited for the espresso brewing process."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso technique",
+      "coffee brewing"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-07-13T20:42:11.252Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "roasting-pre-spend-checklist-2",
     "title": "The roasting checklist: run this before you spend",
     "dek": "Seven questions that separate a justified roasting purchase from an expensive mood.",

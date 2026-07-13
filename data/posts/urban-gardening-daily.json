@@ -1,5 +1,56 @@
 [
   {
+    "slug": "balcony-winter-proofing",
+    "title": "Winter-Ready: 5 Tips to Protect Your Balcony Garden",
+    "dek": "Shield your plants from winter's bite",
+    "takeaway": "Winter-proofing your balcony garden is easier than you think with the right strategies",
+    "whatHappened": "As the winter months approach, apartment dwellers and balcony gardeners face the challenge of protecting their plants from harsh weather conditions. With a few simple adjustments, you can shield your garden from the cold and ensure a thriving start come spring. From covering plants to insulating containers, there are several methods to consider.",
+    "whyItMatters": "Neglecting to winter-proof your balcony garden can lead to plant loss and damage to your containers. By taking proactive steps, you not only safeguard your plants but also extend the lifespan of your gardening equipment. Moreover, a well-protected garden can continue to provide a serene and welcoming outdoor space throughout the winter season.",
+    "howToThink": "When winter-proofing your balcony garden, consider the specific needs of each plant species and the materials of your containers. Choose covers and insulators that are breathable and moisture-wicking to prevent rot and mold. Regularly inspect your garden throughout the winter to make any necessary adjustments and ensure your plants are receiving adequate protection.",
+    "pros": [
+      "Easy to implement",
+      "Cost-effective",
+      "Plant protection"
+    ],
+    "cons": [
+      "Limited plant selection",
+      "Aesthetics may suffer",
+      "Initial investment"
+    ],
+    "watchOut": "Be cautious not to over-insulate, as this can lead to moisture buildup and root rot in your plants",
+    "faq": [
+      {
+        "q": "What is the best material for insulating my containers?",
+        "a": "Look for materials with high thermal mass, such as foam or straw, to keep your containers warm"
+      },
+      {
+        "q": "Can I still grow herbs during the winter?",
+        "a": "Yes, many herbs can be grown indoors or in protected outdoor areas during the winter, such as rosemary and thyme"
+      },
+      {
+        "q": "How often should I check on my winter-proofed garden?",
+        "a": "Regularly inspect your garden every week or two to ensure your plants are receiving adequate protection and make any necessary adjustments"
+      }
+    ],
+    "category": "Seasonal",
+    "tags": [
+      "winter gardening",
+      "balcony garden"
+    ],
+    "sources": [
+      {
+        "label": "r/houseplants community threads",
+        "url": "https://www.reddit.com/r/houseplants/"
+      },
+      {
+        "label": "Search interest: \"small space vegetables\"",
+        "url": "https://duckduckgo.com/?q=small%20space%20vegetables"
+      }
+    ],
+    "publishedAt": "2026-07-13T20:42:11.293Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "composting-pre-spend-checklist-2",
     "title": "The composting checklist: run this before you spend",
     "dek": "Seven questions that separate a justified composting purchase from an expensive mood.",

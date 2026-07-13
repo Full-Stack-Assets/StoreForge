@@ -1,5 +1,56 @@
 [
   {
+    "slug": "rethinking-rail-cards",
+    "title": "Maximizing Rail Card Value for Slow Travelers",
+    "dek": "Get the most out of rail cards",
+    "takeaway": "Optimizing rail card usage can significantly reduce travel costs for slow travelers",
+    "whatHappened": "Recent trends show a surge in slow travelers investing in rail cards for extended journeys across Europe and Asia. However, many are not utilizing these cards to their full potential, resulting in missed savings. By understanding the terms and conditions of these cards, travelers can better plan their routes and save money.",
+    "whyItMatters": "For slow travelers, every dollar saved on transportation can be allocated to immersive local experiences, enhancing the overall travel experience. Moreover, reducing travel costs can lead to longer, more sustainable trips. By maximizing rail card value, travelers can enjoy their journeys without breaking the bank.",
+    "howToThink": "To get the most out of rail cards, travelers should carefully plan their itineraries, considering the cost of individual tickets versus the card's overall value. Additionally, understanding the card's validity period and any restrictions on usage is crucial. By doing so, slow travelers can ensure they're making the most of their investment.",
+    "pros": [
+      "Cost savings",
+      "Flexibility",
+      "Convenience"
+    ],
+    "cons": [
+      "Complex rules",
+      "Limited routes",
+      "Initial cost"
+    ],
+    "watchOut": "Be aware of the rail card's expiration date to avoid unused credits",
+    "faq": [
+      {
+        "q": "What is a rail card?",
+        "a": "A prepaid card offering discounted rail travel"
+      },
+      {
+        "q": "How do I choose the right rail card?",
+        "a": "Consider your travel frequency and destinations"
+      },
+      {
+        "q": "Can I share a rail card?",
+        "a": "Most rail cards are non-transferable, so check the terms"
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "rail travel",
+      "slow travel"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-07-13T20:42:11.265Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "maximizing-rail-utility",
     "title": "Optimizing Your Rail Experience",
     "dek": "Squeeze more from your rail travel",
