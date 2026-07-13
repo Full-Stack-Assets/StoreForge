@@ -291,8 +291,29 @@
       "createdAt": "2026-07-12T23:09:07.639Z",
       "streamUrl": "https://store-forge-roan.vercel.app/",
       "lastPostAt": "2026-07-12T23:14:43.958Z"
+    },
+    {
+      "id": "urban-gardening-daily-3-1783901465956",
+      "slug": "urban-gardening-daily-3",
+      "name": "Urban Gardening Daily",
+      "tagline": "Fresh takes for apartment dwellers and balcony gardeners.",
+      "nicheId": "urban-gardening",
+      "audience": "apartment dwellers and balcony gardeners",
+      "categories": [
+        "Containers",
+        "Herbs",
+        "Composting",
+        "Seasonal"
+      ],
+      "url": "http://localhost:3000/sites/urban-gardening-daily-3/",
+      "localUrl": "http://localhost:3000/sites/urban-gardening-daily-3/",
+      "vercel": null,
+      "design": "moss",
+      "postCount": 6,
+      "createdAt": "2026-07-13T00:11:05.955Z",
+      "streamUrl": "http://localhost:3000/"
     }
   ],
-  "lastGeneratedAt": "2026-07-12T23:09:07.639Z",
+  "lastGeneratedAt": "2026-07-13T00:11:05.955Z",
   "lastPostRunAt": "2026-07-12T23:14:43.962Z"
 }
