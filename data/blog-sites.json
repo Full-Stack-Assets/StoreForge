@@ -303,8 +303,29 @@
       "createdAt": "2026-07-13T04:02:21.069Z",
       "streamUrl": "https://www.beyondmythos.com/",
       "lastPostAt": "2026-07-13T05:05:46.625Z"
+    },
+    {
+      "id": "garage-gym-gazette-1783928245369",
+      "slug": "garage-gym-gazette",
+      "name": "Garage Gym Gazette",
+      "tagline": "Fresh takes for home lifters building garage gyms.",
+      "nicheId": "garage-gym",
+      "audience": "home lifters building garage gyms",
+      "categories": [
+        "Racks",
+        "Barbells",
+        "Programming",
+        "Flooring"
+      ],
+      "url": "https://www.beyondmythos.com/sites/garage-gym-gazette/",
+      "localUrl": "https://www.beyondmythos.com/sites/garage-gym-gazette/",
+      "vercel": null,
+      "design": "moss",
+      "postCount": 6,
+      "createdAt": "2026-07-13T07:37:25.363Z",
+      "streamUrl": "https://www.beyondmythos.com/"
     }
   ],
-  "lastGeneratedAt": "2026-07-13T04:02:21.069Z",
+  "lastGeneratedAt": "2026-07-13T07:37:25.363Z",
   "lastPostRunAt": "2026-07-13T05:05:46.643Z"
 }
