@@ -6,6 +6,7 @@ const registry = require("./lib/registry");
 const { renderDashboard } = require("./lib/dashboard");
 const { generateBlogSite } = require("./lib/blog-site-generator");
 const { getBaseUrl } = require("./lib/config");
+const { contentModeLabel } = require("./lib/content-provider");
 const { listProducts, listCategories, listProductTypes } = require("./lib/products");
 const { buildCheckoutLineItems } = require("./lib/checkout");
 
@@ -60,7 +61,11 @@ app.get("/", (req, res) => {
 });
 
 app.get("/api/status", (req, res) => {
-  res.json({ status: "ok", message: "BeyondMythos API is running" });
+  res.json({
+    status: "ok",
+    message: "BeyondMythos API is running",
+    contentMode: contentModeLabel()
+  });
 });
 
 app.get("/api/blog-sites", (req, res) => {

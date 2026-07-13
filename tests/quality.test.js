@@ -7,7 +7,12 @@ const assert = require("node:assert/strict");
 const { slugify } = require("../lib/slug");
 const { buildCheckoutLineItems } = require("../lib/checkout");
 const { getProductById, listProducts } = require("../lib/products");
-const { parseGeminiJson } = require("../lib/gemini");
+const { parseModelJson, extractPostsArray } = require("../lib/content-prompts");
+const {
+  resolveContentProvider,
+  isAiContentEnabled,
+  contentModeLabel
+} = require("../lib/content-provider");
 const { postTemplates, hourlyPostTemplate } = require("../lib/templates");
 const { themeKeyForNiche, THEMES } = require("../lib/themes");
 const { mapWithConcurrency } = require("../lib/concurrency");
@@ -66,10 +71,15 @@ describe("products and checkout", () => {
   });
 });
 
-describe("gemini JSON parsing", () => {
+describe("model JSON parsing", () => {
   it("strips markdown fences before parsing", () => {
-    const parsed = parseGeminiJson('```json\n{"title":"Test"}\n```');
+    const parsed = parseModelJson('```json\n{"title":"Test"}\n```');
     assert.equal(parsed.title, "Test");
+  });
+
+  it("extracts posts from wrapped or bare arrays", () => {
+    assert.equal(extractPostsArray({ posts: [{ title: "A" }] }).length, 1);
+    assert.equal(extractPostsArray([{ title: "B" }]).length, 1);
   });
 });
 
@@ -141,5 +151,70 @@ describe("config", () => {
     else process.env.STOREFORGE_URL = previous.store;
     if (previous.front === undefined) delete process.env.FRONTEND_URL;
     else process.env.FRONTEND_URL = previous.front;
+  });
+});
+
+describe("content provider", () => {
+  it("uses template mode when no API key is set", () => {
+    const saved = {
+      groq: process.env.GROQ_API_KEY,
+      openrouter: process.env.OPENROUTER_API_KEY,
+      openai: process.env.OPENAI_API_KEY,
+      gemini: process.env.GEMINI_API_KEY,
+      disable: process.env.DISABLE_AI_CONTENT,
+      provider: process.env.CONTENT_PROVIDER
+    };
+    delete process.env.GROQ_API_KEY;
+    delete process.env.OPENROUTER_API_KEY;
+    delete process.env.OPENAI_API_KEY;
+    delete process.env.GEMINI_API_KEY;
+    delete process.env.DISABLE_AI_CONTENT;
+    process.env.CONTENT_PROVIDER = "auto";
+    assert.equal(isAiContentEnabled(), false);
+    assert.equal(contentModeLabel(), "template");
+
+    for (const [key, value] of Object.entries(saved)) {
+      const envName = {
+        groq: "GROQ_API_KEY",
+        openrouter: "OPENROUTER_API_KEY",
+        openai: "OPENAI_API_KEY",
+        gemini: "GEMINI_API_KEY",
+        disable: "DISABLE_AI_CONTENT",
+        provider: "CONTENT_PROVIDER"
+      }[key];
+      if (value === undefined) delete process.env[envName];
+      else process.env[envName] = value;
+    }
+  });
+
+  it("prefers groq in auto mode when GROQ_API_KEY is set", () => {
+    const saved = {
+      groq: process.env.GROQ_API_KEY,
+      gemini: process.env.GEMINI_API_KEY,
+      provider: process.env.CONTENT_PROVIDER
+    };
+    process.env.GROQ_API_KEY = "gsk_test_key";
+    process.env.GEMINI_API_KEY = "AIzaSyD-real-looking-key";
+    process.env.CONTENT_PROVIDER = "auto";
+    assert.equal(resolveContentProvider(), "groq");
+
+    for (const [key, value] of Object.entries(saved)) {
+      const envName = { groq: "GROQ_API_KEY", gemini: "GEMINI_API_KEY", provider: "CONTENT_PROVIDER" }[key];
+      if (value === undefined) delete process.env[envName];
+      else process.env[envName] = value;
+    }
+  });
+
+  it("respects DISABLE_AI_CONTENT=true", () => {
+    const savedKey = process.env.GROQ_API_KEY;
+    const savedDisable = process.env.DISABLE_AI_CONTENT;
+    process.env.GROQ_API_KEY = "gsk_test_key";
+    process.env.DISABLE_AI_CONTENT = "true";
+    assert.equal(resolveContentProvider(), "template");
+
+    if (savedKey === undefined) delete process.env.GROQ_API_KEY;
+    else process.env.GROQ_API_KEY = savedKey;
+    if (savedDisable === undefined) delete process.env.DISABLE_AI_CONTENT;
+    else process.env.DISABLE_AI_CONTENT = savedDisable;
   });
 });

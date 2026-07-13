@@ -29,7 +29,11 @@ jobs:
 
       - name: Generate new blog site and deploy it to its own Vercel project
         env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          CONTENT_PROVIDER: ${{ vars.CONTENT_PROVIDER }}
           BEYONDMYTHOS_URL: ${{ secrets.BEYONDMYTHOS_URL || secrets.STOREFORGE_URL }}
           STOREFORGE_URL: ${{ secrets.STOREFORGE_URL }}
           VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}

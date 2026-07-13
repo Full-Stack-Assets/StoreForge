@@ -8,14 +8,15 @@ Blog forge + storefront API. BeyondMythos continuously deploys new niche blog si
 - **`/sites/{slug}/`** — generated niche blog sites with starter posts
 - **Standalone Vercel deployments** — each new site is deployed to its own Vercel project (e.g. `beyondmythos-{slug}.vercel.app`) when `VERCEL_TOKEN` is set
 - **Hourly site generation** — `.github/workflows/hourly-blog-site.yml` creates a brand-new niche site every hour at :15
-- **Hourly posts** — `.github/workflows/hourly-posts.yml` adds one fresh post to *every* existing site at :45 and redeploys its standalone project, so sites keep publishing continuously (Gemini-written when `GEMINI_API_KEY` is set, rotating editorial archetypes otherwise)
+- **Hourly posts** — `.github/workflows/hourly-posts.yml` adds one fresh post to *every* existing site at :45 and redeploys its standalone project, so sites keep publishing continuously
+- **No API key required** — template mode works out of the box; optional AI via Groq (free), OpenRouter, OpenAI, or Gemini
 - **Store API** — 30+ products (merch, digital guides, dropship accessories) with catalog-validated Stripe Checkout
 
 ## Requirements
 
 - Node.js 18+
 - Stripe secret key (optional, for checkout only)
-- Gemini API key (optional, for AI-written starter posts)
+- AI API key (optional) — [Groq](https://console.groq.com/) recommended; templates work without any key
 
 ## Setup
 
@@ -34,7 +35,12 @@ cp .env.example .env
 | `VERCEL_TEAM_ID` | Team scopes only | Vercel team the per-site projects belong to |
 | `VERCEL_PROJECT_PREFIX` | No | Per-site project name prefix (default `beyondmythos`) |
 | `CRON_SECRET` | For manual API trigger | Protects `POST /api/blog-sites/generate` |
-| `GEMINI_API_KEY` | Optional | AI-generated posts (templates used if unset) |
+| `CONTENT_PROVIDER` | No | `auto` (default), `groq`, `openrouter`, `openai`, `gemini`, or `template` |
+| `GROQ_API_KEY` | Optional | **Recommended** free AI alternative — [console.groq.com](https://console.groq.com/) |
+| `OPENROUTER_API_KEY` | Optional | Multi-model gateway — includes free models |
+| `OPENAI_API_KEY` | Optional | OpenAI GPT models |
+| `GEMINI_API_KEY` | Optional | Google Gemini (legacy option) |
+| `DISABLE_AI_CONTENT` | No | Set to `true` to force template-only mode |
 | `STRIPE_SECRET_KEY` | Checkout only | Stripe Checkout sessions |
 | `FRONTEND_URL` | Checkout only | Stripe success/cancel redirects |
 | `STORE_NAME` | No | Store branding in `/api/store/config` |
@@ -83,6 +89,25 @@ Filter the catalog: `GET /api/store/products?type=digital` or `?category=merch`.
 
 Digital products are limited to one per order. Stripe line items include fulfillment metadata for post-purchase automation.
 
+## AI content providers
+
+No API key is required — template mode generates full posts automatically. To enable AI-written content, set **one** of these keys (checked in order when `CONTENT_PROVIDER=auto`):
+
+| Provider | Key | Cost | Get a key |
+|----------|-----|------|-----------|
+| **Groq** (recommended) | `GROQ_API_KEY` | Free tier | [console.groq.com](https://console.groq.com/) |
+| OpenRouter | `OPENROUTER_API_KEY` | Free models available | [openrouter.ai](https://openrouter.ai/) |
+| OpenAI | `OPENAI_API_KEY` | Paid | [platform.openai.com](https://platform.openai.com/) |
+| Gemini | `GEMINI_API_KEY` | Paid/free tier | [aistudio.google.com](https://aistudio.google.com/) |
+
+```bash
+# .env — recommended setup (free)
+GROQ_API_KEY=gsk_your_key_here
+CONTENT_PROVIDER=auto   # or groq, openrouter, openai, gemini, template
+```
+
+Check active mode: `GET /api/status` → `{ "contentMode": "groq" }` (or `template` if no key).
+
 ## Site design
 
 Generated sites follow the "dispatch" format of the reference network (wireandlogic.com, moviesrule.com, astrokobi.com, nextgengear.cc): sticky gradient-ruled header, gradient-text masthead, featured post + 3-column card grid, and a templated article layout (Takeaway callout → What happened / Why it matters / How to think about it → Pros & Cons → Watch out → FAQ accordion → numbered Sources → tags → newsletter CTA → Keep reading). Each niche gets one of six theme presets (`zine`, `cinema`, `aurora`, `prism`, `ember`, `moss`) defined in `lib/content-generator.js`, plus a per-site RSS feed and About page.
@@ -108,7 +133,10 @@ Runs at **:15 every hour** (staggered from on-the-hour jobs). Each run:
 | `BEYONDMYTHOS_URL` or `STOREFORGE_URL` | Yes | e.g. `https://your-project.vercel.app` |
 | `VERCEL_TOKEN` | For standalone deploys | Vercel API token used to create one project per site |
 | `VERCEL_TEAM_ID` | Team scopes only | Vercel team ID for the per-site projects |
-| `GEMINI_API_KEY` | No | AI post generation |
+| `GROQ_API_KEY` | No | **Recommended** — free AI at [console.groq.com](https://console.groq.com/) |
+| `OPENROUTER_API_KEY` | No | Optional OpenRouter key |
+| `OPENAI_API_KEY` | No | Optional OpenAI key |
+| `GEMINI_API_KEY` | No | Optional Gemini key |
 | `VERCEL_DEPLOY_HOOK_URL` | No | Force immediate dashboard redeploy after commit |
 
 **GitHub variables (optional):** `VERCEL_PROJECT_PREFIX` — prefix for per-site project names (default `beyondmythos`).
@@ -168,9 +196,9 @@ Core modules under `lib/`:
 
 | Module | Responsibility |
 |--------|----------------|
-| `content-generator.js` | Orchestrates post generation |
-| `templates.js` | Editorial post blueprints |
-| `gemini.js` | Gemini API integration |
+| `content-provider.js` | AI provider routing (Groq, OpenRouter, OpenAI, Gemini) |
+| `templates.js` | Editorial post blueprints (no API key required) |
+| `gemini.js` | Gemini provider adapter |
 | `renderer.js` | HTML/CSS site rendering |
 | `products.js` | Server-side store catalog |
 | `checkout.js` | Checkout validation |
