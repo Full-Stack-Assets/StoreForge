@@ -24,7 +24,7 @@
         "readyState": "READY"
       },
       "design": "cinema",
-      "streamUrl": "http://localhost:3000/",
+      "streamUrl": "https://www.beyondmythos.com/",
       "lastPostAt": "2026-07-13T01:13:05.584Z"
     },
     {
@@ -51,7 +51,7 @@
         "readyState": "READY"
       },
       "design": "ember",
-      "streamUrl": "http://localhost:3000/",
+      "streamUrl": "https://www.beyondmythos.com/",
       "lastPostAt": "2026-07-13T01:13:06.495Z"
     },
     {
@@ -78,7 +78,7 @@
         "readyState": "READY"
       },
       "design": "moss",
-      "streamUrl": "http://localhost:3000/",
+      "streamUrl": "https://www.beyondmythos.com/",
       "lastPostAt": "2026-07-13T01:13:06.830Z"
     },
     {
@@ -105,7 +105,7 @@
         "readyState": "READY"
       },
       "design": "moss",
-      "streamUrl": "http://localhost:3000/",
+      "streamUrl": "https://www.beyondmythos.com/",
       "lastPostAt": "2026-07-13T01:13:07.055Z"
     },
     {
@@ -132,7 +132,7 @@
         "readyState": "READY"
       },
       "design": "prism",
-      "streamUrl": "http://localhost:3000/",
+      "streamUrl": "https://www.beyondmythos.com/",
       "lastPostAt": "2026-07-13T01:13:07.175Z"
     },
     {
@@ -159,7 +159,7 @@
         "readyState": "READY"
       },
       "design": "cinema",
-      "streamUrl": "http://localhost:3000/",
+      "streamUrl": "https://www.beyondmythos.com/",
       "lastPostAt": "2026-07-13T01:13:07.293Z"
     },
     {
@@ -186,7 +186,7 @@
         "readyState": "READY"
       },
       "design": "zine",
-      "streamUrl": "http://localhost:3000/",
+      "streamUrl": "https://www.beyondmythos.com/",
       "lastPostAt": "2026-07-13T01:13:07.376Z"
     },
     {
@@ -213,7 +213,7 @@
         "readyState": "READY"
       },
       "design": "prism",
-      "streamUrl": "http://localhost:3000/",
+      "streamUrl": "https://www.beyondmythos.com/",
       "lastPostAt": "2026-07-13T01:13:07.451Z"
     },
     {
@@ -235,7 +235,7 @@
       "design": "moss",
       "postCount": 7,
       "createdAt": "2026-07-12T23:26:15.314Z",
-      "streamUrl": "http://localhost:3000/",
+      "streamUrl": "https://www.beyondmythos.com/",
       "lastPostAt": "2026-07-13T01:13:07.525Z"
     },
     {
@@ -257,7 +257,7 @@
       "design": "zine",
       "postCount": 7,
       "createdAt": "2026-07-12T23:26:15.386Z",
-      "streamUrl": "http://localhost:3000/",
+      "streamUrl": "https://www.beyondmythos.com/",
       "lastPostAt": "2026-07-13T01:13:07.599Z"
     },
     {
@@ -279,7 +279,7 @@
       "design": "zine",
       "postCount": 7,
       "createdAt": "2026-07-12T23:26:15.461Z",
-      "streamUrl": "http://localhost:3000/",
+      "streamUrl": "https://www.beyondmythos.com/",
       "lastPostAt": "2026-07-13T01:13:07.680Z"
     }
   ],

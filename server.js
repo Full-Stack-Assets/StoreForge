@@ -57,7 +57,7 @@ app.get("/", (req, res) => {
 });
 
 app.get("/api/status", (req, res) => {
-  res.json({ status: "ok", message: "StoreForge API is running" });
+  res.json({ status: "ok", message: "BeyondMythos API is running" });
 });
 
 app.get("/api/blog-sites", (req, res) => {
@@ -92,7 +92,7 @@ app.get("/healthz", (req, res) => {
 app.get("/api/store/config", (req, res) => {
   res.set("Cache-Control", "public, max-age=300, stale-while-revalidate=60");
   res.json({
-    name: process.env.STORE_NAME || "StoreForge",
+    name: process.env.STORE_NAME || "BeyondMythos",
     tagline: "Premium products delivered fast",
     primaryColor: "#2563eb",
     secondaryColor: "#f97316"
