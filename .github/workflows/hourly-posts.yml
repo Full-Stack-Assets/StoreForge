@@ -30,6 +30,7 @@ jobs:
       - name: Add one new post to every site and redeploy standalone projects
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          BEYONDMYTHOS_URL: ${{ secrets.BEYONDMYTHOS_URL || secrets.STOREFORGE_URL }}
           STOREFORGE_URL: ${{ secrets.STOREFORGE_URL }}
           VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
           VERCEL_TEAM_ID: ${{ secrets.VERCEL_TEAM_ID }}
@@ -40,8 +41,8 @@ jobs:
         env:
           VERCEL_DEPLOY_HOOK_URL: ${{ secrets.VERCEL_DEPLOY_HOOK_URL }}
         run: |
-          git config user.name "storeforge-bot"
-          git config user.email "bot@storeforge.dev"
+          git config user.name "beyondmythos-bot"
+          git config user.email "bot@beyondmythos.dev"
 
           git pull --rebase origin main || true
           git add data/ public/sites/

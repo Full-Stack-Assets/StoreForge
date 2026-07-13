@@ -1,9 +1,10 @@
 {
-  "name": "storeforge",
-  "version": "1.0.0",
+  "name": "beyondmythos",
+  "version": "1.1.0",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
+    "test": "node --test tests/*.test.js",
     "generate:blog-site": "node scripts/generate-blog-site.js",
     "regenerate:sites": "node scripts/regenerate-sites.js",
     "add:posts": "node scripts/add-posts.js",

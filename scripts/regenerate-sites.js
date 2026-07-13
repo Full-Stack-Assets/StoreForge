@@ -1,51 +1,66 @@
 #!/usr/bin/env node
 "use strict";
 
-// Rebuilds every site in data/blog-sites.json with the current templates and
-// theme presets. Pass --deploy to also push each rebuilt site to its own
-// Vercel project (requires VERCEL_TOKEN).
-
 const registry = require("../lib/registry");
 const content = require("../lib/content-generator");
 const vercel = require("../lib/vercel-deployer");
-const { getBaseUrl } = require("../lib/blog-site-generator");
+const { getBaseUrl } = require("../lib/config");
+const { mapWithConcurrency } = require("../lib/concurrency");
 
-async function main() {
-  const deploy = process.argv.includes("--deploy");
-  const baseUrl = getBaseUrl();
-  const data = registry.loadRegistry();
-  const niches = content.loadNiches();
+const SITE_CONCURRENCY = Number(process.env.SITE_CONCURRENCY || 4);
 
-  for (const site of data.sites) {
-    const niche = niches.find((entry) => entry.id === site.nicheId) || {
+function nicheForSite(site, niches) {
+  return (
+    niches.find((entry) => entry.id === site.nicheId) || {
       id: site.nicheId,
       name: site.name,
       audience: site.audience,
       categories: site.categories,
       subreddits: [site.nicheId],
       braveQueries: site.categories.map((category) => category.toLowerCase())
-    };
-
-    // Re-render from the accumulated archive; only generate fresh posts for
-    // a site that has none. Pass --fresh to force regeneration of content.
-    let posts = process.argv.includes("--fresh") ? [] : content.loadPostArchive(site.slug);
-    if (posts.length === 0) {
-      posts = await content.generatePosts(niche);
     }
-    site.postCount = posts.length;
-    const siteDir = content.writeSiteFiles(site, posts, baseUrl);
-    console.log(`rebuilt ${site.slug} (theme: ${site.design}, ${posts.length} posts)`);
+  );
+}
 
-    if (deploy && vercel.isConfigured()) {
-      try {
-        const deployment = await vercel.deploySiteToVercel(site, siteDir);
-        site.vercel = deployment;
-        site.url = deployment.url;
-        console.log(`  deployed → ${deployment.url}`);
-      } catch (error) {
-        console.warn(`  deploy failed: ${error.message}`);
-      }
+async function rebuildSite(site, { deploy, baseUrl, niches, fresh }) {
+  const niche = nicheForSite(site, niches);
+  let posts = fresh ? [] : content.loadPostArchive(site.slug);
+  if (posts.length === 0) {
+    posts = await content.generatePosts(niche);
+  }
+
+  site.postCount = posts.length;
+  const siteDir = content.writeSiteFiles(site, posts, baseUrl);
+  const result = { slug: site.slug, design: site.design, postCount: posts.length, deployUrl: null };
+
+  if (deploy && vercel.isConfigured()) {
+    try {
+      const deployment = await vercel.deploySiteToVercel(site, siteDir);
+      site.vercel = deployment;
+      site.url = deployment.url;
+      result.deployUrl = deployment.url;
+    } catch (error) {
+      console.warn(`  ${site.slug} deploy failed: ${error.message}`);
     }
+  }
+
+  return result;
+}
+
+async function main() {
+  const deploy = process.argv.includes("--deploy");
+  const fresh = process.argv.includes("--fresh");
+  const baseUrl = getBaseUrl();
+  const data = registry.loadRegistry();
+  const niches = content.loadNiches();
+
+  const results = await mapWithConcurrency(data.sites, SITE_CONCURRENCY, (site) =>
+    rebuildSite(site, { deploy, baseUrl, niches, fresh })
+  );
+
+  for (const result of results) {
+    console.log(`rebuilt ${result.slug} (theme: ${result.design}, ${result.postCount} posts)`);
+    if (result.deployUrl) console.log(`  deployed → ${result.deployUrl}`);
   }
 
   registry.saveRegistry(data);
