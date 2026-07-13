@@ -1,6 +1,6 @@
-# StoreForge
+# BeyondMythos
 
-Blog forge + storefront API. StoreForge continuously deploys new niche blog sites and serves a live stream dashboard at `/`.
+Blog forge + storefront API. BeyondMythos continuously deploys new niche blog sites and serves a live stream dashboard at `/`.
 
 ## What you get
 
@@ -111,7 +111,7 @@ Set `CRON_SECRET` in Vercel env vars.
 
 ## Deploy to Vercel
 
-StoreForge uses [Vercel zero-config Express](https://vercel.com/docs/frameworks/backend/express). Static blog sites in `public/sites/` are served by the Vercel CDN.
+BeyondMythos uses [Vercel zero-config Express](https://vercel.com/docs/frameworks/backend/express). Static blog sites in `public/sites/` are served by the Vercel CDN.
 
 1. Import `Full-Stack-Assets/StoreForge` at [vercel.com/new](https://vercel.com/new)
 2. Set `STOREFORGE_URL` to your production URL
