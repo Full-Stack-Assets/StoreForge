@@ -26,7 +26,12 @@ async function main() {
       braveQueries: site.categories.map((category) => category.toLowerCase())
     };
 
-    const posts = await content.generatePosts(niche);
+    // Re-render from the accumulated archive; only generate fresh posts for
+    // a site that has none. Pass --fresh to force regeneration of content.
+    let posts = process.argv.includes("--fresh") ? [] : content.loadPostArchive(site.slug);
+    if (posts.length === 0) {
+      posts = await content.generatePosts(niche);
+    }
     site.postCount = posts.length;
     const siteDir = content.writeSiteFiles(site, posts, baseUrl);
     console.log(`rebuilt ${site.slug} (theme: ${site.design}, ${posts.length} posts)`);
