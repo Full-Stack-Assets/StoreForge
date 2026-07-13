@@ -1,5 +1,56 @@
 [
   {
+    "slug": "slow-train-advantages",
+    "title": "Unlocking the Power of Overnight Trains for Low-Impact Travel",
+    "dek": "Sleep your way to destination",
+    "takeaway": "Overnight trains offer a unique blend of sustainability and convenience for slow travelers",
+    "whatHappened": "As I embarked on my latest journey, I discovered the charm of overnight trains, which not only reduced my carbon footprint but also provided a comfortable and scenic way to travel. The rhythmic motion of the train and the sound of the tracks created a soothing melody that lulled me into a deep sleep. Upon arrival, I felt refreshed and ready to explore my destination",
+    "whyItMatters": "In today's fast-paced world, slow travel is gaining popularity, and overnight trains are an excellent option for those seeking to reduce their environmental impact while enjoying a unique travel experience. By choosing overnight trains, travelers can significantly lower their carbon emissions and support a more sustainable tourism industry. Moreover, overnight trains often pass through breathtaking landscapes, offering a visually stunning experience",
+    "howToThink": "When considering overnight train travel, it's essential to research the route, choose the right class of service, and pack accordingly. Travelers should also be mindful of their belongings and take necessary precautions to ensure a safe and comfortable journey. By being prepared and flexible, travelers can make the most of their overnight train experience and create lifelong memories",
+    "pros": [
+      "Sustainable",
+      "Scenic routes",
+      "Comfortable"
+    ],
+    "cons": [
+      "Limited routes",
+      "Noise levels",
+      "Delays"
+    ],
+    "watchOut": "Be aware of potential delays and plan accordingly to avoid disrupting your travel schedule",
+    "faq": [
+      {
+        "q": "What are the benefits of overnight train travel?",
+        "a": "Overnight train travel offers a unique blend of sustainability, comfort, and scenic views"
+      },
+      {
+        "q": "How can I ensure a comfortable overnight train journey?",
+        "a": "Choose the right class of service, pack accordingly, and take necessary precautions to secure your belongings"
+      },
+      {
+        "q": "What are some popular overnight train routes for slow travelers?",
+        "a": "Some popular routes include the Rocky Mountaineer in Canada, the Blue Train in South Africa, and the Trans-Siberian Railway in Russia"
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "Rail travel",
+      "Sustainable tourism"
+    ],
+    "sources": [
+      {
+        "label": "r/solotravel community threads",
+        "url": "https://www.reddit.com/r/solotravel/"
+      },
+      {
+        "label": "Search interest: \"train travel europe tips\"",
+        "url": "https://duckduckgo.com/?q=train%20travel%20europe%20tips"
+      }
+    ],
+    "publishedAt": "2026-07-13T22:37:00.984Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "reducing-waste-on-the-move",
     "title": "Sustainable Travel Hacks for the Conscious Explorer",
     "dek": "Minimize your footprint on the go",
