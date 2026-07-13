@@ -457,8 +457,29 @@
       "createdAt": "2026-07-13T21:13:03.170Z",
       "streamUrl": "https://www.beyondmythos.com/",
       "lastPostAt": "2026-07-13T21:35:55.942Z"
+    },
+    {
+      "id": "sawdust-standard-1783980766898",
+      "slug": "sawdust-standard",
+      "name": "Sawdust Standard",
+      "tagline": "Fresh takes for hobby woodworkers in small shops.",
+      "nicheId": "woodworking",
+      "audience": "hobby woodworkers in small shops",
+      "categories": [
+        "Hand Tools",
+        "Joinery",
+        "Finishing",
+        "Shop Setup"
+      ],
+      "url": "https://www.beyondmythos.com/sites/sawdust-standard/",
+      "localUrl": "https://www.beyondmythos.com/sites/sawdust-standard/",
+      "vercel": null,
+      "design": "zine",
+      "postCount": 6,
+      "createdAt": "2026-07-13T22:12:40.612Z",
+      "streamUrl": "https://www.beyondmythos.com/"
     }
   ],
-  "lastGeneratedAt": "2026-07-13T21:13:03.170Z",
+  "lastGeneratedAt": "2026-07-13T22:12:40.612Z",
   "lastPostRunAt": "2026-07-13T21:35:56.221Z"
 }

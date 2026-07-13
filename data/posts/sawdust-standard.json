@@ -1,0 +1,308 @@
+[
+  {
+    "slug": "table-saw-safety",
+    "title": "Table Saw Safety Essentials",
+    "category": "Shop Setup",
+    "dek": "Stay safe with these tips",
+    "takeaway": "A well-set-up table saw is a safe table saw",
+    "whatHappened": "Recently, a woodworker suffered a severe injury from a table saw kickback. This incident highlights the importance of proper table saw setup and safety precautions. A well-maintained and properly configured table saw can prevent such accidents.",
+    "whyItMatters": "Table saw safety is crucial in small shops where space is limited and the risk of accidents is higher. A safe table saw setup ensures that woodworkers can work efficiently without compromising their safety. It also helps to prevent damage to the saw and surrounding equipment.",
+    "howToThink": "When setting up your table saw, consider the type of projects you'll be working on and the space available in your shop. Ensure that the saw is properly aligned, and the fence is securely locked in place. Regularly inspect and maintain the saw to prevent wear and tear.",
+    "pros": [
+      "Improved safety",
+      "Increased efficiency",
+      "Reduced risk"
+    ],
+    "cons": [
+      "Initial setup time",
+      "Maintenance requirements",
+      "Cost of safety accessories"
+    ],
+    "watchOut": "Never reach over a running table saw blade",
+    "faq": [
+      {
+        "q": "What is the most common table saw accident?",
+        "a": "Kickback"
+      },
+      {
+        "q": "How often should I inspect my table saw?",
+        "a": "Daily"
+      },
+      {
+        "q": "What is the best way to prevent table saw kickback?",
+        "a": "Use a splitter or riving knife"
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/woodworking community threads",
+        "url": "https://www.reddit.com/r/woodworking/"
+      },
+      {
+        "label": "Search interest: \"woodworking small space\"",
+        "url": "https://duckduckgo.com/?q=woodworking%20small%20space"
+      }
+    ],
+    "tags": [
+      "table saw",
+      "safety"
+    ],
+    "publishedAt": "2026-07-13T22:12:46.898Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "hand-plane-techniques",
+    "title": "Mastering Hand Plane Techniques",
+    "category": "Hand Tools",
+    "dek": "Get the most from your hand planes",
+    "takeaway": "Proper technique makes all the difference in hand planing",
+    "whatHappened": "Many woodworkers struggle to achieve smooth, even surfaces with their hand planes. This is often due to improper technique, dull blades, or inadequate plane maintenance. With practice and patience, anyone can master the art of hand planing.",
+    "whyItMatters": "Hand planes are essential tools in any woodworking shop, offering unparalleled control and precision. By mastering hand plane techniques, woodworkers can improve the quality of their work, reduce waste, and increase efficiency.",
+    "howToThink": "To improve your hand planing skills, focus on developing a consistent stroke, keeping the plane blade sharp, and adjusting the plane to suit the specific task. Practice on scrap wood to build muscle memory and confidence.",
+    "pros": [
+      "Improved surface finish",
+      "Increased precision",
+      "Reduced waste"
+    ],
+    "cons": [
+      "Steep learning curve",
+      "Blade maintenance",
+      "Physical demands"
+    ],
+    "watchOut": "Always keep your hands behind the plane body",
+    "faq": [
+      {
+        "q": "What is the best way to sharpen a hand plane blade?",
+        "a": "Using a sharpening stone"
+      },
+      {
+        "q": "How often should I clean my hand plane?",
+        "a": "After each use"
+      },
+      {
+        "q": "What is the most common mistake in hand planing?",
+        "a": "Applying too much pressure"
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/BeginnerWoodWorking community threads",
+        "url": "https://www.reddit.com/r/BeginnerWoodWorking/"
+      },
+      {
+        "label": "Search interest: \"first hand tool set\"",
+        "url": "https://duckduckgo.com/?q=first%20hand%20tool%20set"
+      }
+    ],
+    "tags": [
+      "hand plane",
+      "technique"
+    ],
+    "publishedAt": "2026-07-12T09:12:46.898Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "mortise-and-tenon-joint",
+    "title": "The Mortise and Tenon Joint: A Joinery Classic",
+    "category": "Joinery",
+    "dek": "Strong, versatile, and timeless",
+    "takeaway": "The mortise and tenon joint is a fundamental joinery technique",
+    "whatHappened": "The mortise and tenon joint has been a cornerstone of woodworking for centuries, providing exceptional strength and versatility. Despite the rise of modern joinery methods, this classic joint remains a staple in many woodworking shops.",
+    "whyItMatters": "The mortise and tenon joint is an essential skill for any woodworker, offering a strong, rigid, and durable connection between two pieces of wood. It is particularly useful in furniture making, cabinet construction, and other applications where joint strength is critical.",
+    "howToThink": "When creating a mortise and tenon joint, focus on precision and attention to detail. Use a sharp mortise chisel and a well-tuned tenon saw to ensure clean, accurate cuts. Practice makes perfect, so don't be discouraged if your early attempts don't yield perfect results.",
+    "pros": [
+      "Exceptional strength",
+      "Versatility",
+      "Timeless design"
+    ],
+    "cons": [
+      "Requires precision",
+      "Can be time-consuming",
+      "Limited adjustability"
+    ],
+    "watchOut": "Never force a tenon into a mortise",
+    "faq": [
+      {
+        "q": "What is the best way to cut a mortise?",
+        "a": "Using a mortise chisel"
+      },
+      {
+        "q": "How do I ensure a tight fit between the mortise and tenon?",
+        "a": "Use a precise tenon saw and chisel"
+      },
+      {
+        "q": "What is the most common mistake in creating a mortise and tenon joint?",
+        "a": "Inaccurate marking or cutting"
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/handtools community threads",
+        "url": "https://www.reddit.com/r/handtools/"
+      },
+      {
+        "label": "Search interest: \"wood finishing basics\"",
+        "url": "https://duckduckgo.com/?q=wood%20finishing%20basics"
+      }
+    ],
+    "tags": [
+      "mortise and tenon",
+      "joinery"
+    ],
+    "publishedAt": "2026-07-10T20:12:46.898Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "finishing-techniques-for-small-shops",
+    "title": "Finishing Techniques for Small Shops",
+    "category": "Finishing",
+    "dek": "Achieve professional results in a small space",
+    "takeaway": "The right finishing techniques can make all the difference in small shops",
+    "whatHappened": "Many small shop woodworkers struggle to achieve professional-looking finishes due to limited space, equipment, and experience. However, with the right techniques and strategies, anyone can produce high-quality finishes in a small shop.",
+    "whyItMatters": "A well-executed finish can elevate the overall quality and appearance of a woodworking project, making it more enjoyable to use and behold. In small shops, where space and resources are limited, efficient and effective finishing techniques are crucial.",
+    "howToThink": "To improve your finishing skills in a small shop, focus on developing a solid understanding of the materials and processes involved. Invest in essential tools, such as a dust collector and a spray gun, and practice different techniques on test pieces to build confidence and competence.",
+    "pros": [
+      "Improved appearance",
+      "Enhanced durability",
+      "Increased satisfaction"
+    ],
+    "cons": [
+      "Requires practice",
+      "Can be messy",
+      "Limited space for drying"
+    ],
+    "watchOut": "Always work in a well-ventilated area when applying finishes",
+    "faq": [
+      {
+        "q": "What is the best finish for small shops?",
+        "a": "Water-based polyurethane"
+      },
+      {
+        "q": "How do I prevent dust from affecting my finish?",
+        "a": "Use a dust collector and work in a clean environment"
+      },
+      {
+        "q": "What is the most common mistake in applying a finish?",
+        "a": "Insufficient preparation or application"
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/woodworking community threads",
+        "url": "https://www.reddit.com/r/woodworking/"
+      },
+      {
+        "label": "Search interest: \"woodworking small space\"",
+        "url": "https://duckduckgo.com/?q=woodworking%20small%20space"
+      }
+    ],
+    "tags": [
+      "finishing",
+      "small shop"
+    ],
+    "publishedAt": "2026-07-09T07:12:46.898Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "shop-setup-for-productivity",
+    "title": "Shop Setup for Productivity",
+    "category": "Shop Setup",
+    "dek": "Optimize your shop for efficiency",
+    "takeaway": "A well-organized shop is a productive shop",
+    "whatHappened": "A cluttered and disorganized shop can lead to decreased productivity, increased waste, and a higher risk of accidents. By optimizing shop setup and workflow, woodworkers can improve their overall efficiency and enjoyment of the craft.",
+    "whyItMatters": "A well-organized shop enables woodworkers to focus on the task at hand, rather than wasting time searching for tools or navigating a cluttered workspace. This, in turn, leads to increased productivity, better quality work, and a more enjoyable woodworking experience.",
+    "howToThink": "To optimize your shop setup, start by assessing your workflow and identifying areas for improvement. Invest in essential storage solutions, such as toolboxes and shelving, and establish a consistent workflow to minimize waste and maximize efficiency.",
+    "pros": [
+      "Increased productivity",
+      "Improved safety",
+      "Reduced stress"
+    ],
+    "cons": [
+      "Initial investment",
+      "Ongoing maintenance",
+      "Limited space"
+    ],
+    "watchOut": "Never leave power tools unattended or within reach of children",
+    "faq": [
+      {
+        "q": "What is the best way to organize my shop?",
+        "a": "Use a combination of storage solutions and workflow optimization"
+      },
+      {
+        "q": "How often should I clean my shop?",
+        "a": "Daily, with a deeper clean weekly"
+      },
+      {
+        "q": "What is the most common mistake in shop setup?",
+        "a": "Inadequate storage or workflow planning"
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/BeginnerWoodWorking community threads",
+        "url": "https://www.reddit.com/r/BeginnerWoodWorking/"
+      },
+      {
+        "label": "Search interest: \"first hand tool set\"",
+        "url": "https://duckduckgo.com/?q=first%20hand%20tool%20set"
+      }
+    ],
+    "tags": [
+      "shop setup",
+      "productivity"
+    ],
+    "publishedAt": "2026-07-07T18:12:46.898Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "essential-hand-tools",
+    "title": "Essential Hand Tools for Woodworkers",
+    "category": "Hand Tools",
+    "dek": "The must-haves for any woodworking shop",
+    "takeaway": "The right hand tools make all the difference in woodworking",
+    "whatHappened": "Many woodworkers, especially beginners, struggle to determine which hand tools are essential for their shop. With so many options available, it can be overwhelming to decide where to start.",
+    "whyItMatters": "Hand tools are the foundation of any woodworking shop, offering precision, control, and versatility. By investing in essential hand tools, woodworkers can improve the quality of their work, increase efficiency, and enhance their overall woodworking experience.",
+    "howToThink": "When building your hand tool collection, focus on the basics: marking gauges, chisels, hand planes, and saws. Invest in high-quality tools that will last, and practice using them to develop muscle memory and confidence.",
+    "pros": [
+      "Precision",
+      "Control",
+      "Versatility"
+    ],
+    "cons": [
+      "Initial investment",
+      "Maintenance requirements",
+      "Storage needs"
+    ],
+    "watchOut": "Always store hand tools in a dry, secure location",
+    "faq": [
+      {
+        "q": "What is the most essential hand tool for woodworkers?",
+        "a": "Marking gauge"
+      },
+      {
+        "q": "How do I choose the right hand saw?",
+        "a": "Consider the type of projects you'll be working on and the tooth count"
+      },
+      {
+        "q": "What is the best way to maintain my hand tools?",
+        "a": "Regularly sharpen and clean them"
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/handtools community threads",
+        "url": "https://www.reddit.com/r/handtools/"
+      },
+      {
+        "label": "Search interest: \"wood finishing basics\"",
+        "url": "https://duckduckgo.com/?q=wood%20finishing%20basics"
+      }
+    ],
+    "tags": [
+      "hand tools",
+      "essential"
+    ],
+    "publishedAt": "2026-07-06T05:12:46.898Z",
+    "readMinutes": 2
+  }
+]
