@@ -1,5 +1,56 @@
 [
   {
+    "slug": "retro-hardware-revival",
+    "title": "Breathe New Life into Old Consoles: Refurbishing 101",
+    "dek": "Revive retro consoles with ease",
+    "takeaway": "Refurbishing old consoles can be a cost-effective way to play classic games without emulation",
+    "whatHappened": "The rise of retro game collecting has led to a surge in demand for refurbished consoles, with many enthusiasts seeking to play classic games on original hardware. However, finding working consoles can be a challenge, and refurbishing them requires a combination of technical know-how and patience. Luckily, a growing community of hobbyists and professionals are sharing their expertise online",
+    "whyItMatters": "Refurbishing old consoles not only preserves gaming history but also provides a unique gaming experience that emulators can't replicate. By restoring original hardware, collectors can appreciate the games as they were intended to be played, with authentic graphics, sound, and controls. Moreover, refurbished consoles can be a cost-effective alternative to buying new, retro-style consoles",
+    "howToThink": "When refurbishing a console, it's essential to identify the common issues that can arise, such as faulty capacitors or worn-out controller ports. Researchers should also be aware of the necessary tools and replacement parts required for the job. With the right guidance and a bit of practice, anyone can bring new life to an old console and enjoy their favorite retro games",
+    "pros": [
+      "Cost-effective",
+      "Authentic gaming experience",
+      "Preserves gaming history"
+    ],
+    "cons": [
+      "Technical challenges",
+      "Limited availability of parts",
+      "Time-consuming process"
+    ],
+    "watchOut": "Be cautious when sourcing replacement parts to avoid counterfeits or low-quality components",
+    "faq": [
+      {
+        "q": "What are the most common issues with old consoles?",
+        "a": "Faulty capacitors, worn-out controller ports, and corrupt RAM are common problems"
+      },
+      {
+        "q": "Where can I find replacement parts?",
+        "a": "Online marketplaces, specialty electronics stores, and console repair forums are good sources"
+      },
+      {
+        "q": "Do I need to be an expert to refurbish a console?",
+        "a": "No, with the right guidance and patience, anyone can learn to refurbish a console"
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Retro Consoles",
+      "Refurbishing"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-07-13T23:33:59.065Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "retro-game-emulation-on-modern-consoles",
     "title": "Emulation Evolution: Bringing Retro Games to Modern Consoles",
     "dek": "Retro games on modern consoles made easy",

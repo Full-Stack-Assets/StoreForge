@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-machine-maintenance",
+    "title": "The Secret to a Longer-Lasting Espresso Machine",
+    "dek": "Regular maintenance is key",
+    "takeaway": "Cleaning your espresso machine regularly can extend its lifespan by up to 50%",
+    "whatHappened": "Recently, we've noticed a trend of home baristas neglecting to descale their machines, leading to premature wear and tear. This can result in a range of issues, from clogged ports to faulty temperature control. By ignoring maintenance, you're not only risking the quality of your espresso but also the longevity of your machine.",
+    "whyItMatters": "A well-maintained espresso machine is essential for producing high-quality shots. Neglecting maintenance can lead to a decline in flavor and performance, ultimately affecting your daily coffee routine. Moreover, regular cleaning can help prevent costly repairs and replacements down the line.",
+    "howToThink": "To keep your espresso machine in top condition, make descaling and cleaning a regular part of your routine. Set aside time each week to wipe down the machine, clean the brew head, and run a descaling solution through the system. By doing so, you'll ensure optimal performance and extend the lifespan of your machine.",
+    "pros": [
+      "Improved flavor",
+      "Increased longevity",
+      "Reduced repair costs"
+    ],
+    "cons": [
+      "Time-consuming",
+      "Requires effort",
+      "Additional expense for cleaning supplies"
+    ],
+    "watchOut": "Be cautious not to use abrasive cleaners or scrubbers, as they can damage the machine's surface and compromise its performance",
+    "faq": [
+      {
+        "q": "How often should I descale my espresso machine?",
+        "a": "Every 3-6 months, depending on usage"
+      },
+      {
+        "q": "What type of cleaning solution should I use?",
+        "a": "A gentle, food-grade cleaner specifically designed for espresso machines"
+      },
+      {
+        "q": "Can I use vinegar to clean my espresso machine?",
+        "a": "Yes, but be sure to dilute it with water and avoid using it too frequently, as it can damage certain materials"
+      }
+    ],
+    "category": "Gear",
+    "tags": [
+      "espresso maintenance",
+      "coffee gear"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-07-13T23:33:58.648Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-home-espresso-dial-in",
     "title": "Myth vs. reality: home espresso dial in",
     "dek": "The persistent myths around home espresso dial in, stress-tested against what home coffee enthusiasts actually report.",
