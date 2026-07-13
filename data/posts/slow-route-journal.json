@@ -1,5 +1,56 @@
 [
   {
+    "slug": "reducing-waste-on-the-move",
+    "title": "Sustainable Travel Hacks for the Conscious Explorer",
+    "dek": "Minimize your footprint on the go",
+    "takeaway": "Simple changes to your daily travel routine can significantly reduce waste and make a positive impact on the environment",
+    "whatHappened": "As slow travelers, we often focus on the journey, not just the destination. However, this mindset can sometimes lead to generating unnecessary waste. From single-use plastics to unnecessary packaging, it's easy to get caught up in convenience over sustainability. Recently, our community has been sharing tips and tricks for reducing waste while on the move, and the results are inspiring.",
+    "whyItMatters": "Reducing waste is not just about protecting the environment; it's also about preserving the beauty and charm of the places we visit. By adopting sustainable practices, we can ensure that our travels have a positive impact on local communities and ecosystems. Moreover, making conscious choices about waste reduction can also lead to a more mindful and fulfilling travel experience.",
+    "howToThink": "To reduce waste while traveling, start by assessing your daily habits and identifying areas for improvement. Consider packing reusable alternatives to single-use items, choosing accommodations that prioritize sustainability, and supporting local businesses that share your values. By taking a thoughtful and intentional approach to travel, you can make a significant difference and set an example for others to follow.",
+    "pros": [
+      "Reduced environmental impact",
+      "Increased mindfulness",
+      "Cost savings"
+    ],
+    "cons": [
+      "Initial investment in reusable items",
+      "Limited access to sustainable options",
+      "Requires planning and research"
+    ],
+    "watchOut": "Be cautious of 'greenwashing' and ensure that the sustainable options you choose are genuinely making a positive impact",
+    "faq": [
+      {
+        "q": "What are some easy ways to reduce waste while traveling?",
+        "a": "Start by carrying a reusable water bottle, shopping bag, and straw"
+      },
+      {
+        "q": "How can I find sustainable accommodations?",
+        "a": "Look for hotels or hostels that have implemented eco-friendly practices, such as energy-efficient lighting or recycling programs"
+      },
+      {
+        "q": "What are some affordable alternatives to single-use plastics?",
+        "a": "Consider investing in a reusable coffee cup, bamboo toothbrush, or beeswax wraps"
+      }
+    ],
+    "category": "Local",
+    "tags": [
+      "sustainable travel",
+      "eco-friendly"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-07-13T21:35:56.028Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "rethinking-rail-cards",
     "title": "Maximizing Rail Card Value for Slow Travelers",
     "dek": "Get the most out of rail cards",

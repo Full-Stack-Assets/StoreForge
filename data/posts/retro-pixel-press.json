@@ -1,5 +1,56 @@
 [
   {
+    "slug": "optimal-controller-mods",
+    "title": "Supercharge Your Speedruns: Expert Controller Mods",
+    "dek": "Upgrade your game with pro mods",
+    "takeaway": "The right controller mods can shave seconds off your speedrun times",
+    "whatHappened": "Recent advancements in controller modding have led to a surge in speedrunners seeking custom setups. Top players are now achieving record-breaking times with the help of expertly modified controllers. The demand for these mods has sparked a new wave of innovation in the retro gaming community.",
+    "whyItMatters": "For speedrunners, every second counts, and a well-modded controller can be the difference between a world record and a mediocre run. Furthermore, these mods can also enhance the overall gaming experience, providing a more tactile and responsive feel. As the speedrunning scene continues to grow, the importance of optimal controller mods will only continue to increase.",
+    "howToThink": "When considering controller mods, think about your specific speedrunning needs and the games you play most often. Research the best mods for your controller type and consult with experts in the community to ensure you're getting the most out of your setup. By investing in the right mods, you can take your speedrunning to the next level and stay competitive in the scene.",
+    "pros": [
+      "Improved accuracy",
+      "Enhanced durability",
+      "Customizable"
+    ],
+    "cons": [
+      "Costly",
+      "Requires technical expertise",
+      "Void warranty"
+    ],
+    "watchOut": "Be cautious of low-quality mods that can damage your controller or void its warranty",
+    "faq": [
+      {
+        "q": "What are the most popular controller mods for speedrunners?",
+        "a": "The most popular mods include button remapping, trigger tweaks, and joystick enhancements"
+      },
+      {
+        "q": "How do I choose the right mods for my controller?",
+        "a": "Research the best mods for your controller type and consider your specific speedrunning needs"
+      },
+      {
+        "q": "Can I install controller mods myself?",
+        "a": "While it's possible to install mods yourself, it's recommended to consult with an expert to avoid damaging your controller"
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "speedrun",
+      "modding"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-07-13T21:35:55.975Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-indie-2",
     "title": "Ask the forge: your indie questions, answered",
     "dek": "Straight answers to the indie questions retro game collectors and speedrunners keep asking, minus the hedging.",
