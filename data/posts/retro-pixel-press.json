@@ -1,5 +1,56 @@
 [
   {
+    "slug": "retro-console-repair",
+    "title": "Reviving Retro Consoles: DIY Repair Tips",
+    "dek": "Fix your old consoles",
+    "takeaway": "Basic soldering skills can save your retro console collection",
+    "whatHappened": "Recent supply chain issues have made replacement parts scarce, forcing retro console collectors to get creative with DIY repairs. Many are turning to online forums and YouTube tutorials for guidance. With the right tools and patience, it's possible to revive classic consoles and extend their lifespan.",
+    "whyItMatters": "For speedrunners and collectors, a functioning retro console is essential for preserving gaming history and competing in events. DIY repair not only saves money but also helps maintain the authenticity of the original hardware. By learning basic repair skills, enthusiasts can ensure their consoles remain operational for years to come.",
+    "howToThink": "When approaching a repair project, start by identifying the faulty component and researching replacement options. Online communities and repair guides can provide valuable insights and step-by-step instructions. It's essential to work in a well-lit, static-free environment and use proper soldering techniques to avoid damaging the console's internal components.",
+    "pros": [
+      "Cost-effective",
+      "Environmentally friendly",
+      "Sense of accomplishment"
+    ],
+    "cons": [
+      "Time-consuming",
+      "Requires technical skills",
+      "Risk of damage"
+    ],
+    "watchOut": "Be cautious when handling sensitive electronics and avoid using excessive force, which can cause permanent damage to the console's internal components",
+    "faq": [
+      {
+        "q": "What are the basic tools required for DIY console repair?",
+        "a": "A soldering iron, desoldering wick, and replacement parts are essential for most repair jobs"
+      },
+      {
+        "q": "How can I find reliable repair guides and tutorials?",
+        "a": "Online forums, YouTube channels, and specialized repair websites offer a wealth of information and step-by-step instructions"
+      },
+      {
+        "q": "What are the most common issues with retro consoles?",
+        "a": "Faulty capacitors, corroded contacts, and worn-out buttons are common problems that can be addressed with basic repair skills"
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "RetroConsoles",
+      "DIYRepairs"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-07-13T19:03:30.050Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-retro-game-restoration",
     "title": "Myth vs. reality: retro game restoration",
     "dek": "The persistent myths around retro game restoration, stress-tested against what retro game collectors and speedrunners actually report.",
