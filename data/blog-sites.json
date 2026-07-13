@@ -14,7 +14,7 @@
         "Indie"
       ],
       "url": "https://storeforge-retro-pixel-press.vercel.app",
-      "postCount": 8,
+      "postCount": 9,
       "createdAt": "2026-06-30T05:17:19.238Z",
       "localUrl": "https://store-forge-roan.vercel.app/sites/retro-pixel-press/",
       "vercel": {
@@ -24,8 +24,8 @@
         "readyState": "READY"
       },
       "design": "cinema",
-      "streamUrl": "https://store-forge-roan.vercel.app/",
-      "lastPostAt": "2026-07-12T23:14:43.880Z"
+      "streamUrl": "http://localhost:3000/",
+      "lastPostAt": "2026-07-13T01:13:05.584Z"
     },
     {
       "id": "home-barista-lab-1782796639260",
@@ -41,7 +41,7 @@
         "Gear"
       ],
       "url": "https://storeforge-home-barista-lab.vercel.app",
-      "postCount": 8,
+      "postCount": 9,
       "createdAt": "2026-06-30T05:17:19.260Z",
       "localUrl": "https://store-forge-roan.vercel.app/sites/home-barista-lab/",
       "vercel": {
@@ -51,8 +51,8 @@
         "readyState": "READY"
       },
       "design": "ember",
-      "streamUrl": "https://store-forge-roan.vercel.app/",
-      "lastPostAt": "2026-07-12T23:14:43.913Z"
+      "streamUrl": "http://localhost:3000/",
+      "lastPostAt": "2026-07-13T01:13:06.495Z"
     },
     {
       "id": "slow-route-journal-1783847772236",
@@ -68,7 +68,7 @@
         "Local"
       ],
       "url": "https://storeforge-slow-route-journal.vercel.app",
-      "postCount": 8,
+      "postCount": 9,
       "createdAt": "2026-07-12T09:16:12.235Z",
       "localUrl": "https://store-forge-roan.vercel.app/sites/slow-route-journal/",
       "vercel": {
@@ -78,8 +78,8 @@
         "readyState": "READY"
       },
       "design": "moss",
-      "streamUrl": "https://store-forge-roan.vercel.app/",
-      "lastPostAt": "2026-07-12T23:14:43.919Z"
+      "streamUrl": "http://localhost:3000/",
+      "lastPostAt": "2026-07-13T01:13:06.830Z"
     },
     {
       "id": "urban-gardening-daily-1783855875125",
@@ -95,7 +95,7 @@
         "Seasonal"
       ],
       "url": "https://storeforge-urban-gardening-daily.vercel.app",
-      "postCount": 8,
+      "postCount": 9,
       "createdAt": "2026-07-12T11:31:15.125Z",
       "localUrl": "https://store-forge-roan.vercel.app/sites/urban-gardening-daily/",
       "vercel": {
@@ -105,8 +105,8 @@
         "readyState": "READY"
       },
       "design": "moss",
-      "streamUrl": "https://store-forge-roan.vercel.app/",
-      "lastPostAt": "2026-07-12T23:14:43.924Z"
+      "streamUrl": "http://localhost:3000/",
+      "lastPostAt": "2026-07-13T01:13:07.055Z"
     },
     {
       "id": "budget-build-bench-1783864569357",
@@ -122,7 +122,7 @@
         "Benchmarks"
       ],
       "url": "https://storeforge-budget-build-bench.vercel.app",
-      "postCount": 8,
+      "postCount": 9,
       "createdAt": "2026-07-12T13:56:09.357Z",
       "localUrl": "https://store-forge-roan.vercel.app/sites/budget-build-bench/",
       "vercel": {
@@ -132,8 +132,8 @@
         "readyState": "READY"
       },
       "design": "prism",
-      "streamUrl": "https://store-forge-roan.vercel.app/",
-      "lastPostAt": "2026-07-12T23:14:43.929Z"
+      "streamUrl": "http://localhost:3000/",
+      "lastPostAt": "2026-07-13T01:13:07.175Z"
     },
     {
       "id": "indie-frame-notes-1783869355821",
@@ -149,7 +149,7 @@
         "Gear"
       ],
       "url": "https://storeforge-indie-frame-notes.vercel.app",
-      "postCount": 8,
+      "postCount": 9,
       "createdAt": "2026-07-12T15:15:55.821Z",
       "localUrl": "https://store-forge-roan.vercel.app/sites/indie-frame-notes/",
       "vercel": {
@@ -159,8 +159,8 @@
         "readyState": "READY"
       },
       "design": "cinema",
-      "streamUrl": "https://store-forge-roan.vercel.app/",
-      "lastPostAt": "2026-07-12T23:14:43.934Z"
+      "streamUrl": "http://localhost:3000/",
+      "lastPostAt": "2026-07-13T01:13:07.293Z"
     },
     {
       "id": "prep-plate-weekly-1783876642739",
@@ -176,7 +176,7 @@
         "Tools"
       ],
       "url": "https://storeforge-prep-plate-weekly.vercel.app",
-      "postCount": 8,
+      "postCount": 9,
       "createdAt": "2026-07-12T17:17:22.739Z",
       "localUrl": "https://store-forge-roan.vercel.app/sites/prep-plate-weekly/",
       "vercel": {
@@ -186,8 +186,8 @@
         "readyState": "READY"
       },
       "design": "zine",
-      "streamUrl": "https://store-forge-roan.vercel.app/",
-      "lastPostAt": "2026-07-12T23:14:43.939Z"
+      "streamUrl": "http://localhost:3000/",
+      "lastPostAt": "2026-07-13T01:13:07.376Z"
     },
     {
       "id": "good-dog-field-notes-1783884673602",
@@ -203,7 +203,7 @@
         "Health"
       ],
       "url": "https://storeforge-good-dog-field-notes.vercel.app",
-      "postCount": 8,
+      "postCount": 9,
       "createdAt": "2026-07-12T19:31:13.602Z",
       "localUrl": "https://store-forge-roan.vercel.app/sites/good-dog-field-notes/",
       "vercel": {
@@ -213,8 +213,8 @@
         "readyState": "READY"
       },
       "design": "prism",
-      "streamUrl": "https://store-forge-roan.vercel.app/",
-      "lastPostAt": "2026-07-12T23:14:43.944Z"
+      "streamUrl": "http://localhost:3000/",
+      "lastPostAt": "2026-07-13T01:13:07.451Z"
     },
     {
       "id": "burnished-edge-1783898775315",
@@ -233,9 +233,10 @@
       "localUrl": "https://store-forge-roan.vercel.app/sites/burnished-edge/",
       "vercel": null,
       "design": "moss",
-      "postCount": 6,
+      "postCount": 7,
       "createdAt": "2026-07-12T23:26:15.314Z",
-      "streamUrl": "https://store-forge-roan.vercel.app/"
+      "streamUrl": "http://localhost:3000/",
+      "lastPostAt": "2026-07-13T01:13:07.525Z"
     },
     {
       "id": "night-lens-1783898775387",
@@ -254,9 +255,10 @@
       "localUrl": "https://store-forge-roan.vercel.app/sites/night-lens/",
       "vercel": null,
       "design": "zine",
-      "postCount": 6,
+      "postCount": 7,
       "createdAt": "2026-07-12T23:26:15.386Z",
-      "streamUrl": "https://store-forge-roan.vercel.app/"
+      "streamUrl": "http://localhost:3000/",
+      "lastPostAt": "2026-07-13T01:13:07.599Z"
     },
     {
       "id": "switchback-signal-1783898775462",
@@ -275,11 +277,12 @@
       "localUrl": "https://store-forge-roan.vercel.app/sites/switchback-signal/",
       "vercel": null,
       "design": "zine",
-      "postCount": 6,
+      "postCount": 7,
       "createdAt": "2026-07-12T23:26:15.461Z",
-      "streamUrl": "https://store-forge-roan.vercel.app/"
+      "streamUrl": "http://localhost:3000/",
+      "lastPostAt": "2026-07-13T01:13:07.680Z"
     }
   ],
   "lastGeneratedAt": "2026-07-12T23:26:15.461Z",
-  "lastPostRunAt": "2026-07-12T23:14:43.962Z"
+  "lastPostRunAt": "2026-07-13T01:13:07.752Z"
 }
