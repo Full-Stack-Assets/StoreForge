@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Burnished Edge</title>
+    <link>https://store-forge-roan.vercel.app/sites/burnished-edge/</link>
+    <description>Fresh takes for hobby leatherworkers.</description>
+    <item>
+      <title>The state of Tools in 2026</title>
+      <link>https://store-forge-roan.vercel.app/sites/burnished-edge/posts/state-of-tools.html</link>
+      <guid>https://store-forge-roan.vercel.app/sites/burnished-edge/posts/state-of-tools.html</guid>
+      <pubDate>Sun, 12 Jul 2026 23:26:15 GMT</pubDate>
+      <description>A field report on tools: where things stand, and what hobby leatherworkers should do next.</description>
+    </item>
+    <item>
+      <title>Starter guide: Patterns without the overwhelm</title>
+      <link>https://store-forge-roan.vercel.app/sites/burnished-edge/posts/starter-guide-patterns.html</link>
+      <guid>https://store-forge-roan.vercel.app/sites/burnished-edge/posts/starter-guide-patterns.html</guid>
+      <pubDate>Sat, 11 Jul 2026 10:26:15 GMT</pubDate>
+      <description>A practical on-ramp to patterns for hobby leatherworkers — one repeatable workflow, no gear debt.</description>
+    </item>
+    <item>
+      <title>&quot;leathercraft starter tools&quot; — separating signal from noise</title>
+      <link>https://store-forge-roan.vercel.app/sites/burnished-edge/posts/signal-vs-noise-leathercraft-starter-tools.html</link>
+      <guid>https://store-forge-roan.vercel.app/sites/burnished-edge/posts/signal-vs-noise-leathercraft-starter-tools.html</guid>
+      <pubDate>Thu, 09 Jul 2026 21:26:15 GMT</pubDate>
+      <description>Thousands of people search &quot;leathercraft starter tools&quot; every month. Most of what they find is recycled. Here is what holds up.</description>
+    </item>
+    <item>
+      <title>Why hobby leatherworkers are rethinking Stitching</title>
+      <link>https://store-forge-roan.vercel.app/sites/burnished-edge/posts/rethinking-stitching.html</link>
+      <guid>https://store-forge-roan.vercel.app/sites/burnished-edge/posts/rethinking-stitching.html</guid>
+      <pubDate>Wed, 08 Jul 2026 08:26:15 GMT</pubDate>
+      <description>A quiet shift is underway in how hobby leatherworkers approach stitching — less maximalism, more maintenance.</description>
+    </item>
+    <item>
+      <title>Finishing on a budget: what actually matters</title>
+      <link>https://store-forge-roan.vercel.app/sites/burnished-edge/posts/budget-finishing.html</link>
+      <guid>https://store-forge-roan.vercel.app/sites/burnished-edge/posts/budget-finishing.html</guid>
+      <pubDate>Mon, 06 Jul 2026 19:26:15 GMT</pubDate>
+      <description>Where money changes outcomes in finishing — and the line items that are pure vanity.</description>
+    </item>
+    <item>
+      <title>What to watch next in Patterns: five quiet shifts</title>
+      <link>https://store-forge-roan.vercel.app/sites/burnished-edge/posts/what-to-watch-patterns.html</link>
+      <guid>https://store-forge-roan.vercel.app/sites/burnished-edge/posts/what-to-watch-patterns.html</guid>
+      <pubDate>Sun, 05 Jul 2026 06:26:15 GMT</pubDate>
+      <description>Ignore the headlines — these are the slower currents reshaping patterns for hobby leatherworkers.</description>
+    </item>
+  </channel>
+</rss>

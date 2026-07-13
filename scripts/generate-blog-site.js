@@ -14,6 +14,11 @@ async function main() {
 }
 
 main().catch((error) => {
+  if (error.code === "NICHES_EXHAUSTED") {
+    console.log(error.message);
+    console.log("Skipping this run — no duplicate sites will be created.");
+    process.exit(0);
+  }
   console.error(error.message || error);
   process.exit(1);
 });
