@@ -325,8 +325,29 @@
       "createdAt": "2026-07-13T07:37:25.363Z",
       "streamUrl": "https://www.beyondmythos.com/",
       "lastPostAt": "2026-07-13T08:35:59.211Z"
+    },
+    {
+      "id": "caseback-chronicle-1783942122370",
+      "slug": "caseback-chronicle",
+      "name": "Caseback Chronicle",
+      "tagline": "Fresh takes for vintage watch collectors on a budget.",
+      "nicheId": "vintage-watches",
+      "audience": "vintage watch collectors on a budget",
+      "categories": [
+        "Buying",
+        "Servicing",
+        "Straps",
+        "History"
+      ],
+      "url": "https://www.beyondmythos.com/sites/caseback-chronicle/",
+      "localUrl": "https://www.beyondmythos.com/sites/caseback-chronicle/",
+      "vercel": null,
+      "design": "zine",
+      "postCount": 6,
+      "createdAt": "2026-07-13T11:28:42.366Z",
+      "streamUrl": "https://www.beyondmythos.com/"
     }
   ],
-  "lastGeneratedAt": "2026-07-13T07:37:25.363Z",
+  "lastGeneratedAt": "2026-07-13T11:28:42.366Z",
   "lastPostRunAt": "2026-07-13T08:35:59.341Z"
 }
