@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Myth vs. reality: crt setup guide</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/myth-vs-reality-crt-setup-guide-2.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/myth-vs-reality-crt-setup-guide-2.html</guid>
+      <pubDate>Tue, 14 Jul 2026 21:38:39 GMT</pubDate>
+      <description>The persistent myths around crt setup guide, stress-tested against what retro game collectors and speedrunners actually report.</description>
+    </item>
+    <item>
       <title>Rebooting the Classics: DIY Hardware for Retro Enthusiasts</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/retro-hardware-revival-4.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-hardware-revival-4.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/rethinking-preservation.html</guid>
       <pubDate>Wed, 08 Jul 2026 08:14:43 GMT</pubDate>
       <description>A quiet shift is underway in how retro game collectors and speedrunners approach preservation — less maximalism, more maintenance.</description>
-    </item>
-    <item>
-      <title>Indie on a budget: what actually matters</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/budget-indie.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/budget-indie.html</guid>
-      <pubDate>Mon, 06 Jul 2026 19:14:43 GMT</pubDate>
-      <description>Where money changes outcomes in indie — and the line items that are pure vanity.</description>
     </item>
   </channel>
 </rss>

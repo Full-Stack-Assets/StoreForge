@@ -1,5 +1,56 @@
 [
   {
+    "slug": "winter-container-prep",
+    "title": "Preparing Containers for Winter: A Guide",
+    "dek": "Get your containers ready for winter",
+    "takeaway": "Properly preparing your containers for winter will help your garden thrive come spring",
+    "whatHappened": "As winter approaches, many apartment dwellers and balcony gardeners are left wondering how to protect their containers from the cold. Without proper preparation, containers can crack, and plants can suffer. By taking a few simple steps, you can ensure your containers are ready for the winter months.",
+    "whyItMatters": "Preventing damage to your containers and plants is crucial for a successful garden. A well-prepared container can withstand freezing temperatures and harsh weather conditions, giving your plants the best chance to survive. This, in turn, will save you time and money in the long run, as you won't have to replace damaged containers or replant lost plants.",
+    "howToThink": "To prepare your containers for winter, start by cleaning and draining them thoroughly. Next, apply a layer of protective coating or sealant to prevent water from seeping in and causing damage. Finally, consider moving your containers to a sheltered location or covering them with a breathable cloth to protect them from wind and frost.",
+    "pros": [
+      "Protects containers from damage",
+      "Saves time and money",
+      "Extends plant life"
+    ],
+    "cons": [
+      "Requires some effort",
+      "May need specialized materials",
+      "Limited protection from extreme weather"
+    ],
+    "watchOut": "Be sure to check your containers regularly for signs of damage or wear, as neglecting to do so can lead to costly repairs or replacements",
+    "faq": [
+      {
+        "q": "What is the best way to clean my containers?",
+        "a": "Use a mixture of soap and warm water, and scrub them gently with a soft-bristled brush"
+      },
+      {
+        "q": "Can I use any type of sealant on my containers?",
+        "a": "No, make sure to use a sealant specifically designed for outdoor use and compatible with your container material"
+      },
+      {
+        "q": "How often should I inspect my containers during the winter?",
+        "a": "Check your containers at least once a month for signs of damage or wear, and more frequently during extreme weather conditions"
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "container care",
+      "winter gardening"
+    ],
+    "sources": [
+      {
+        "label": "r/UrbanGardening community threads",
+        "url": "https://www.reddit.com/r/UrbanGardening/"
+      },
+      {
+        "label": "Search interest: \"balcony garden ideas\"",
+        "url": "https://duckduckgo.com/?q=balcony%20garden%20ideas"
+      }
+    ],
+    "publishedAt": "2026-07-14T21:38:41.308Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "indoor-herb-garden-field-test-2",
     "title": "\"indoor herb garden\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about indoor herb garden through a month of actual use. Some of it survived.",

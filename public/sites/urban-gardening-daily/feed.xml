@@ -5,6 +5,13 @@
     <link>https://storeforge-urban-gardening-daily.vercel.app/</link>
     <description>Fresh takes for apartment dwellers and balcony gardeners.</description>
     <item>
+      <title>Preparing Containers for Winter: A Guide</title>
+      <link>https://storeforge-urban-gardening-daily.vercel.app/posts/winter-container-prep.html</link>
+      <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/winter-container-prep.html</guid>
+      <pubDate>Tue, 14 Jul 2026 21:38:41 GMT</pubDate>
+      <description>Get your containers ready for winter</description>
+    </item>
+    <item>
       <title>&quot;indoor herb garden&quot; in practice: a real-world field test</title>
       <link>https://storeforge-urban-gardening-daily.vercel.app/posts/indoor-herb-garden-field-test-2.html</link>
       <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/indoor-herb-garden-field-test-2.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/rethinking-composting.html</guid>
       <pubDate>Wed, 08 Jul 2026 08:14:43 GMT</pubDate>
       <description>A quiet shift is underway in how apartment dwellers and balcony gardeners approach composting — less maximalism, more maintenance.</description>
-    </item>
-    <item>
-      <title>Seasonal on a budget: what actually matters</title>
-      <link>https://storeforge-urban-gardening-daily.vercel.app/posts/budget-seasonal.html</link>
-      <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/budget-seasonal.html</guid>
-      <pubDate>Mon, 06 Jul 2026 19:14:43 GMT</pubDate>
-      <description>Where money changes outcomes in seasonal — and the line items that are pure vanity.</description>
     </item>
   </channel>
 </rss>

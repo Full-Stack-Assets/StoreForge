@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>Balancing the Perfect Shot: Mastering Espresso Distribution</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/tuning-espresso-distribution.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/tuning-espresso-distribution.html</guid>
+      <pubDate>Tue, 14 Jul 2026 21:38:41 GMT</pubDate>
+      <description>Expert tips for even extraction.</description>
+    </item>
+    <item>
       <title>&quot;budget grinder upgrade&quot; in practice: a real-world field test</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/budget-grinder-upgrade-field-test-2.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/budget-grinder-upgrade-field-test-2.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/rethinking-roasting.html</guid>
       <pubDate>Wed, 08 Jul 2026 08:14:43 GMT</pubDate>
       <description>A quiet shift is underway in how home coffee enthusiasts approach roasting — less maximalism, more maintenance.</description>
-    </item>
-    <item>
-      <title>Gear on a budget: what actually matters</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/budget-gear.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/budget-gear.html</guid>
-      <pubDate>Mon, 06 Jul 2026 19:14:43 GMT</pubDate>
-      <description>Where money changes outcomes in gear — and the line items that are pure vanity.</description>
     </item>
   </channel>
 </rss>

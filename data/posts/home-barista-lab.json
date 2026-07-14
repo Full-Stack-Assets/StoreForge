@@ -1,5 +1,56 @@
 [
   {
+    "slug": "tuning-espresso-distribution",
+    "title": "Balancing the Perfect Shot: Mastering Espresso Distribution",
+    "dek": "Expert tips for even extraction.",
+    "takeaway": "Proper espresso distribution is key to a balanced shot, and it's easier to achieve than you think.",
+    "whatHappened": "Recently, we've seen a surge in home baristas experimenting with espresso distribution techniques to improve their shots. From adjusting grind sizes to tweaking tamp levels, the pursuit of the perfect pour has never been more intense. But what really makes the difference?",
+    "whyItMatters": "Achieving balanced extraction is crucial for bringing out the full flavor potential of your espresso. Without it, shots can be over- or under-extracted, leading to bitter or sour tastes. By mastering distribution, you can elevate your home espresso game significantly.",
+    "howToThink": "To start improving your espresso distribution, consider investing in a distribution tool or a well-designed tamper. Practice makes perfect, so don't be discouraged if it takes a few tries to get the hang of it. Start by adjusting your grind and tamping technique, then move on to more advanced techniques like using a distribution tool.",
+    "pros": [
+      "Improved flavor",
+      "Easier technique",
+      "Better consistency"
+    ],
+    "cons": [
+      "Steep learning curve",
+      "Additional cost",
+      "More maintenance"
+    ],
+    "watchOut": "Be cautious not to over-tamp, as this can lead to channeling and inconsistent extraction.",
+    "faq": [
+      {
+        "q": "What is espresso distribution?",
+        "a": "Espresso distribution refers to the evenness of coffee grounds in the portafilter, which affects the extraction of the shot."
+      },
+      {
+        "q": "How do I improve my espresso distribution?",
+        "a": "Start by adjusting your grind size and tamping technique, then consider using a distribution tool for more precise control."
+      },
+      {
+        "q": "Is a distribution tool necessary?",
+        "a": "While not necessary, a distribution tool can significantly improve the consistency and quality of your espresso shots."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso techniques",
+      "coffee distribution"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-07-14T21:38:41.524Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "budget-grinder-upgrade-field-test-2",
     "title": "\"budget grinder upgrade\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about budget grinder upgrade through a month of actual use. Some of it survived.",
