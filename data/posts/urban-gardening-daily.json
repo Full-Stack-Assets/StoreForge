@@ -1,5 +1,56 @@
 [
   {
+    "slug": "summer-herb-container-care",
+    "title": "Beat the Heat: Summer Herb Container Care",
+    "dek": "Keep herbs thriving in summer",
+    "takeaway": "Proper summer care can extend the life of your herb containers",
+    "whatHappened": "As summer heats up, herb containers can quickly become overwhelmed. High temperatures and dry air can cause herbs to wilt and lose flavor. To combat this, it's essential to adjust your care routine to meet the changing needs of your plants.",
+    "whyItMatters": "Neglecting your herb containers in the summer can lead to a decrease in flavor and aroma, making them less useful for cooking. By taking a few simple steps, you can keep your herbs healthy and thriving, even in the hottest months. This not only ensures a continuous supply of fresh herbs but also adds to the overall aesthetic of your balcony garden.",
+    "howToThink": "To keep your herb containers happy in the summer, think about providing them with some shade, especially during the hottest part of the day. You should also increase the frequency of watering but make sure not to overwater, as this can be detrimental. Lastly, consider using a well-draining potting mix to prevent waterlogged soil.",
+    "pros": [
+      "Increased flavor",
+      "Improved plant health",
+      "Year-round harvest"
+    ],
+    "cons": [
+      "Requires more maintenance",
+      "Can be costly",
+      "Limited space"
+    ],
+    "watchOut": "Be cautious not to overwater your herbs, as this can lead to root rot and other problems",
+    "faq": [
+      {
+        "q": "How often should I water my herb containers in the summer?",
+        "a": "Water your herb containers when the top inch of soil feels dry to the touch"
+      },
+      {
+        "q": "Can I grow any type of herb in a container?",
+        "a": "Most herbs can thrive in containers, but some, like mint, may require more maintenance"
+      },
+      {
+        "q": "What is the best way to provide shade for my herb containers?",
+        "a": "Use a sheer curtain or move the containers to a spot that receives morning sun and afternoon shade"
+      }
+    ],
+    "category": "Herbs",
+    "tags": [
+      "herb care",
+      "summer gardening"
+    ],
+    "sources": [
+      {
+        "label": "r/houseplants community threads",
+        "url": "https://www.reddit.com/r/houseplants/"
+      },
+      {
+        "label": "Search interest: \"small space vegetables\"",
+        "url": "https://duckduckgo.com/?q=small%20space%20vegetables"
+      }
+    ],
+    "publishedAt": "2026-07-14T18:46:17.786Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "apartment-gardening-hacks",
     "title": "Sowing Seeds in Small Spaces",
     "dek": "Growing a garden in tight spaces just got easier",

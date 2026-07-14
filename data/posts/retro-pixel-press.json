@@ -1,5 +1,56 @@
 [
   {
+    "slug": "controller-modding-essentials",
+    "title": "Turbocharging YourGame with DIY Controller Mods",
+    "dek": "Get ahead with custom controls",
+    "takeaway": "Custom controller mods can significantly improve speedrun performance",
+    "whatHappened": "The community has seen a surge in DIY controller modding, with speedrunners reporting improved times and reduced fatigue. This trend is driven by the availability of affordable, high-quality components and online tutorials. As a result, modding has become more accessible to enthusiasts of all skill levels.",
+    "whyItMatters": "Custom controller mods can give speedrunners a competitive edge, while also enhancing the overall gaming experience. By tailoring controls to individual preferences, players can improve their reaction times, reduce errors, and enjoy a more immersive experience. Furthermore, modding encourages creativity, experimentation, and community engagement.",
+    "howToThink": "When considering controller mods, think about your specific gaming needs and goals. Start by identifying areas for improvement, such as button placement or analog stick sensitivity. Then, research and experiment with different components and techniques to find the optimal configuration for your style and preferences.",
+    "pros": [
+      "Improved speedrun times",
+      "Enhanced gaming experience",
+      "Increased customization"
+    ],
+    "cons": [
+      "Voided warranty",
+      "Potential for errors",
+      "Steep learning curve"
+    ],
+    "watchOut": "Be cautious when soldering and handling electronic components to avoid damage or injury",
+    "faq": [
+      {
+        "q": "What are the basic tools required for controller modding?",
+        "a": "A soldering iron, wire strippers, and a screwdriver are essential for most mods"
+      },
+      {
+        "q": "Can I mod any type of controller?",
+        "a": "Most modern controllers can be modded, but some may require specialized tools or expertise"
+      },
+      {
+        "q": "How do I ensure my mods are safe and reliable?",
+        "a": "Follow online tutorials, use high-quality components, and test your mods thoroughly before use"
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "speedrun",
+      "modding"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-07-14T18:46:17.808Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "retro-hardware-revival-3",
     "title": "Retro Bit Revival: Bringing Back Classic Consoles",
     "dek": "New life for old consoles",
