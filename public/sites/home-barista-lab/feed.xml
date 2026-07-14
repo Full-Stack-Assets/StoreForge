@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>The roasting checklist: run this before you spend</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/roasting-pre-spend-checklist-4.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/roasting-pre-spend-checklist-4.html</guid>
+      <pubDate>Tue, 14 Jul 2026 22:38:37 GMT</pubDate>
+      <description>Seven questions that separate a justified roasting purchase from an expensive mood.</description>
+    </item>
+    <item>
       <title>Balancing the Perfect Shot: Mastering Espresso Distribution</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/tuning-espresso-distribution.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/tuning-espresso-distribution.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/signal-vs-noise-home-espresso-dial-in.html</guid>
       <pubDate>Thu, 09 Jul 2026 21:14:43 GMT</pubDate>
       <description>Thousands of people search &quot;home espresso dial in&quot; every month. Most of what they find is recycled. Here is what holds up.</description>
-    </item>
-    <item>
-      <title>Why home coffee enthusiasts are rethinking Roasting</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/rethinking-roasting.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/rethinking-roasting.html</guid>
-      <pubDate>Wed, 08 Jul 2026 08:14:43 GMT</pubDate>
-      <description>A quiet shift is underway in how home coffee enthusiasts approach roasting — less maximalism, more maintenance.</description>
     </item>
   </channel>
 </rss>
