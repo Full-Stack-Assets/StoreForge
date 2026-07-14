@@ -633,8 +633,29 @@
       "createdAt": "2026-07-14T14:13:42.779Z",
       "streamUrl": "https://www.beyondmythos.com/",
       "lastPostAt": "2026-07-14T15:10:44.365Z"
+    },
+    {
+      "id": "middlegame-memo-1784044151355",
+      "slug": "middlegame-memo",
+      "name": "Middlegame Memo",
+      "tagline": "Fresh takes for adult chess improvers.",
+      "nicheId": "chess-improvement",
+      "audience": "adult chess improvers",
+      "categories": [
+        "Openings",
+        "Tactics",
+        "Endgames",
+        "Study Plans"
+      ],
+      "url": "https://www.beyondmythos.com/sites/middlegame-memo/",
+      "localUrl": "https://www.beyondmythos.com/sites/middlegame-memo/",
+      "vercel": null,
+      "design": "cinema",
+      "postCount": 6,
+      "createdAt": "2026-07-14T15:49:11.119Z",
+      "streamUrl": "https://www.beyondmythos.com/"
     }
   ],
-  "lastGeneratedAt": "2026-07-14T14:13:42.779Z",
+  "lastGeneratedAt": "2026-07-14T15:49:11.119Z",
   "lastPostRunAt": "2026-07-14T15:10:44.457Z"
 }
