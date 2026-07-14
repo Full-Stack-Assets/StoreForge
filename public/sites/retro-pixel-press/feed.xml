@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Rebooting the Classics: DIY Hardware for Retro Enthusiasts</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/retro-hardware-revival-4.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-hardware-revival-4.html</guid>
+      <pubDate>Tue, 14 Jul 2026 20:42:54 GMT</pubDate>
+      <description>Breathe new life into retro consoles</description>
+    </item>
+    <item>
       <title>Turbocharging YourGame with DIY Controller Mods</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/controller-modding-essentials.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/controller-modding-essentials.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/budget-indie.html</guid>
       <pubDate>Mon, 06 Jul 2026 19:14:43 GMT</pubDate>
       <description>Where money changes outcomes in indie — and the line items that are pure vanity.</description>
-    </item>
-    <item>
-      <title>What to watch next in Speedruns: five quiet shifts</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/what-to-watch-speedruns.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/what-to-watch-speedruns.html</guid>
-      <pubDate>Sun, 05 Jul 2026 06:14:43 GMT</pubDate>
-      <description>Ignore the headlines — these are the slower currents reshaping speedruns for retro game collectors and speedrunners.</description>
     </item>
   </channel>
 </rss>
