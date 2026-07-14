@@ -1,5 +1,56 @@
 [
   {
+    "slug": "retro-hardware-revival-2",
+    "title": "Retro Console Upcycling: Breathing Life into Old Hardware",
+    "dek": "Revive old consoles with DIY mods",
+    "takeaway": "Upcycling old hardware can save you money and reduce electronic waste",
+    "whatHappened": "The retro gaming community has seen a resurgence in recent years, with many collectors and speedrunners seeking to restore and modify their old consoles. This has led to a growing market for DIY hardware mods and upcycling solutions. As a result, enthusiasts are now able to breathe new life into their vintage gaming systems.",
+    "whyItMatters": "The ability to upcycle old hardware is crucial for retro game collectors and speedrunners, as it allows them to preserve their favorite childhood consoles and reduce electronic waste. Moreover, modified consoles can provide a unique gaming experience that is not possible with modern systems. By upcycling old hardware, enthusiasts can also support the environment and reduce their carbon footprint.",
+    "howToThink": "When considering retro console upcycling, it's essential to research and plan carefully to ensure that your modifications are safe and effective. Start by identifying the components that need replacement or upgrade, and then explore online resources and tutorials to learn the necessary skills. Additionally, consider joining online forums and communities to connect with other enthusiasts and learn from their experiences.",
+    "pros": [
+      "Cost-effective",
+      "Environmentally friendly",
+      "Unique gaming experience"
+    ],
+    "cons": [
+      "Technical challenges",
+      "Limited resources",
+      "Potential damage to original hardware"
+    ],
+    "watchOut": "Be cautious when sourcing components and following online tutorials to avoid damaging your console or causing safety hazards",
+    "faq": [
+      {
+        "q": "What is retro console upcycling?",
+        "a": "Retro console upcycling refers to the process of modifying and restoring old gaming consoles to extend their lifespan and improve their performance"
+      },
+      {
+        "q": "What are the benefits of upcycling old hardware?",
+        "a": "The benefits of upcycling old hardware include cost savings, reduced electronic waste, and a unique gaming experience"
+      },
+      {
+        "q": "Where can I find resources and tutorials for retro console upcycling?",
+        "a": "You can find resources and tutorials for retro console upcycling on online forums, YouTube channels, and specialized websites"
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Retro Gaming",
+      "DIY Mods"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-07-14T04:33:51.157Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-retrogaming",
     "title": "Community pulse: what r/retrogaming is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the indie community this week.",
