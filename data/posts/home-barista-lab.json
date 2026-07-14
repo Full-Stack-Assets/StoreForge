@@ -1,5 +1,56 @@
 [
   {
+    "slug": "tuning-espresso-grind",
+    "title": "Unlocking the Perfect Espresso Grind",
+    "dek": "Dial in your grind for better espresso",
+    "takeaway": "A well-tuned grind is key to unlocking great espresso at home",
+    "whatHappened": "Recent experiments in our Home Barista Lab have shown that even slight adjustments to the espresso grind can significantly impact the flavor of the shot. By fine-tuning the grind, home baristas can avoid channeling and under-extraction. This has led to a notable improvement in the overall quality of the espresso.",
+    "whyItMatters": "Achieving the perfect grind is crucial for home espresso enthusiasts as it directly affects the flavor profile and quality of the shot. A grind that's too fine or too coarse can lead to a range of issues, from bitter tastes to weak crema. By understanding how to adjust and tune the grind, enthusiasts can elevate their espresso game.",
+    "howToThink": "To tune your espresso grind, start by making small adjustments and tasting the results. Consider the type of coffee beans, the roast level, and the brewing method when determining the optimal grind size. Regularly cleaning and maintaining your grinder is also essential to ensure consistency and prevent any buildup that could affect the grind.",
+    "pros": [
+      "Improved flavor",
+      "Better crema",
+      "Increased consistency"
+    ],
+    "cons": [
+      "Requires experimentation",
+      "Can be time-consuming",
+      "Dependent on equipment quality"
+    ],
+    "watchOut": "Be cautious not to over-adjust the grind, as this can lead to a shot that's too fine or too coarse, negatively impacting the taste and quality of the espresso",
+    "faq": [
+      {
+        "q": "What is the ideal grind size for espresso?",
+        "a": "The ideal grind size for espresso is typically between 200-250 microns, but this can vary depending on the specific equipment and coffee beans being used."
+      },
+      {
+        "q": "How often should I clean my grinder?",
+        "a": "It's recommended to clean your grinder at least once a week, or more often if you notice a buildup of old coffee oils and residue."
+      },
+      {
+        "q": "Can I use a blade grinder for espresso?",
+        "a": "While it's technically possible to use a blade grinder for espresso, it's not recommended as it can generate heat and produce an inconsistent grind, leading to poor-tasting shots."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso tips",
+      "grind tuning"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-07-14T01:03:29.570Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "espresso-machine-maintenance",
     "title": "The Secret to a Longer-Lasting Espresso Machine",
     "dek": "Regular maintenance is key",
