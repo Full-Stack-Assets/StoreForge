@@ -1,5 +1,56 @@
 [
   {
+    "slug": "improving-n64-speedruns",
+    "title": "Optimizing N64 Controllers for Speedrunners",
+    "dek": "Turbocharge your N64 speedruns",
+    "takeaway": "Upgrading your N64 controller can significantly improve your speedrun performance",
+    "whatHappened": "Recent advancements in controller modification have made it easier for speedrunners to optimize their N64 controllers for better performance. This includes upgrading the D-pad and analog stick for improved precision and durability. As a result, many top speedrunners have started to adopt these modifications to gain a competitive edge",
+    "whyItMatters": "For speedrunners, every millisecond counts, and having a well-optimized controller can be the difference between a world record and a mediocre run. Moreover, a good controller can also reduce fatigue and improve overall gaming experience. By investing in a high-quality controller, speedrunners can take their skills to the next level",
+    "howToThink": "When upgrading your N64 controller, consider the type of games you play and the modifications that will benefit you the most. For example, if you play a lot of 3D platformers, upgrading the analog stick may be a priority. It's also essential to research and choose a reputable modder to ensure high-quality work",
+    "pros": [
+      "Improved precision",
+      "Increased durability",
+      "Enhanced gaming experience"
+    ],
+    "cons": [
+      "Costly modifications",
+      "Potential for controller damage",
+      "Limited availability of modders"
+    ],
+    "watchOut": "Be cautious when choosing a modder, as low-quality modifications can damage your controller and void its warranty",
+    "faq": [
+      {
+        "q": "What is the most important modification for N64 speedrunners?",
+        "a": "Upgrading the D-pad and analog stick are crucial for improved precision and control"
+      },
+      {
+        "q": "How much do N64 controller modifications cost?",
+        "a": "Prices vary depending on the modder and type of modification, but expect to pay between $50 to $200"
+      },
+      {
+        "q": "Can I modify my N64 controller myself?",
+        "a": "While it's possible, it's not recommended, as improper modifications can damage your controller and void its warranty"
+      }
+    ],
+    "category": "Speedruns",
+    "tags": [
+      "N64",
+      "Speedrunning"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-07-14T15:10:43.553Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "hidden-snes-gems-field-test",
     "title": "\"hidden snes gems\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about hidden snes gems through a month of actual use. Some of it survived.",

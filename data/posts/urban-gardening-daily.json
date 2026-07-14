@@ -1,5 +1,56 @@
 [
   {
+    "slug": "self-watering-containers",
+    "title": "Revolutionize Your Watering Schedule with Self-Watering Containers",
+    "dek": "Water your plants automatically",
+    "takeaway": "Self-watering containers can save you time and reduce plant loss",
+    "whatHappened": "Self-watering containers have been around for a while, but recent designs have made them more efficient and affordable. These innovative containers allow plants to draw water as needed, reducing overwatering and underwatering. This technology is a game-changer for busy apartment dwellers and balcony gardeners",
+    "whyItMatters": "Forgetting to water your plants can be devastating, especially during hot summer months. Self-watering containers provide a safety net, ensuring your plants receive the right amount of moisture. This is particularly important for herbs, which require consistent watering to thrive",
+    "howToThink": "When choosing self-watering containers, consider the size of your plants and the amount of water they require. Look for containers with built-in water reservoirs and moisture-wicking systems. Also, think about the type of plants you want to grow and select containers specifically designed for those plants",
+    "pros": [
+      "Convenient",
+      "Water-efficient",
+      "Reduced maintenance"
+    ],
+    "cons": [
+      "Higher upfront cost",
+      "Limited soil volume",
+      "Potential for root rot"
+    ],
+    "watchOut": "Be cautious of self-watering containers with complex systems that may be prone to clogging or require frequent cleaning",
+    "faq": [
+      {
+        "q": "How do self-watering containers work?",
+        "a": "Self-watering containers use a water reservoir and moisture-wicking system to provide plants with water as needed"
+      },
+      {
+        "q": "What types of plants are best suited for self-watering containers?",
+        "a": "Herbs, succulents, and other plants that require consistent moisture are ideal for self-watering containers"
+      },
+      {
+        "q": "Can I use self-watering containers indoors?",
+        "a": "Yes, self-watering containers are perfect for indoor gardening, as they help maintain a consistent moisture level and reduce mess"
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "container gardening",
+      "low-maintenance"
+    ],
+    "sources": [
+      {
+        "label": "r/vegetablegardening community threads",
+        "url": "https://www.reddit.com/r/vegetablegardening/"
+      },
+      {
+        "label": "Search interest: \"indoor herb garden\"",
+        "url": "https://duckduckgo.com/?q=indoor%20herb%20garden"
+      }
+    ],
+    "publishedAt": "2026-07-14T15:10:43.385Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-containers-3",
     "title": "A weekend project: level up your containers in two hours",
     "dek": "One contained, satisfying containers project for apartment dwellers — start Saturday morning, done by lunch.",

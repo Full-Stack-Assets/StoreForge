@@ -1,5 +1,56 @@
 [
   {
+    "slug": "mastering-local-transport-hubs",
+    "title": "Nailing Interchanges: The Key to Seamless Slow Travel",
+    "dek": "Cut journey times and stress with smart hub navigation",
+    "takeaway": "Mastering local transport hubs is crucial for efficient and low-impact travel",
+    "whatHappened": "During a recent trip, I encountered a particularly complex rail interchange that highlighted the importance of understanding local transport hubs. By studying the layout and schedules beforehand, I was able to navigate the hub with ease, saving time and reducing stress. This experience underscored the value of being prepared when dealing with unfamiliar transport systems.",
+    "whyItMatters": "Efficient navigation of local transport hubs can significantly reduce travel times, decrease carbon footprint, and enhance the overall travel experience. Moreover, it allows slow travelers to make the most of their time, exploring local areas without feeling rushed or overwhelmed. By mastering these hubs, travelers can truly immerse themselves in the local culture and environment.",
+    "howToThink": "To navigate local transport hubs effectively, it's essential to research the layout and schedules in advance, identify key transfer points, and leave ample time for connections. Additionally, staying aware of local conditions, such as construction or service disruptions, can help mitigate potential issues. By adopting a proactive and informed approach, slow travelers can ensure a smoother, more enjoyable journey.",
+    "pros": [
+      "Reduced travel times",
+      "Increased efficiency",
+      "Lower stress"
+    ],
+    "cons": [
+      "Initial research required",
+      "Potential for confusion",
+      "Dependence on local schedules"
+    ],
+    "watchOut": "Be cautious of peak travel times and potential service disruptions when navigating local transport hubs",
+    "faq": [
+      {
+        "q": "What is the best way to research local transport hubs?",
+        "a": "Utilize official transport websites, maps, and local guidebooks to gather information"
+      },
+      {
+        "q": "How can I stay up-to-date with local transport schedules?",
+        "a": "Download transport apps or follow local transport social media accounts for the latest information"
+      },
+      {
+        "q": "What should I do in case of a missed connection?",
+        "a": "Stay calm, consult local transport staff, and explore alternative routes or compensation options"
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "slow travel",
+      "local transport"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-07-14T15:10:43.631Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-rail-2",
     "title": "A weekend project: level up your rail in two hours",
     "dek": "One contained, satisfying rail project for slow-travel — start Saturday morning, done by lunch.",

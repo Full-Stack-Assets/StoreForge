@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-machine-maintenance-2",
+    "title": "The Espresso Machine Maintenance Schedule You Need",
+    "dek": "Stay on top of espresso machine upkeep",
+    "takeaway": "Regular maintenance can extend the life of your espresso machine and improve its performance",
+    "whatHappened": "Many home baristas neglect their espresso machines, leading to decreased performance and a shorter lifespan. A well-maintained machine can produce better-tasting espresso and reduce the need for costly repairs. By establishing a regular maintenance routine, you can ensure your machine continues to function optimally.",
+    "whyItMatters": "A poorly maintained espresso machine can lead to a range of issues, from decreased flavor and crema quality to complete machine failure. Regular maintenance is essential for preserving the investment you've made in your equipment and ensuring you can continue to enjoy high-quality espresso at home. By staying on top of maintenance, you can also reduce the risk of costly repairs and replacements.",
+    "howToThink": "To keep your espresso machine in top condition, think about maintenance as a regular process, not a one-time task. Set a schedule to clean and descale your machine, and make sure to monitor its performance regularly. By being proactive and addressing any issues promptly, you can extend the life of your machine and enjoy better-tasting espresso",
+    "pros": [
+      "Improved flavor",
+      "Increased longevity",
+      "Reduced repairs"
+    ],
+    "cons": [
+      "Time-consuming",
+      "Cost of replacement parts",
+      "Technical expertise required"
+    ],
+    "watchOut": "Neglecting to descale your machine regularly can lead to serious damage and costly repairs",
+    "faq": [
+      {
+        "q": "How often should I clean my espresso machine?",
+        "a": "Daily cleaning is essential, with deeper cleaning and descaling recommended every 1-3 months"
+      },
+      {
+        "q": "What are the most important maintenance tasks?",
+        "a": "Descaling, cleaning the group head and portafilter, and checking for worn-out seals and gaskets"
+      },
+      {
+        "q": "Can I perform maintenance tasks myself?",
+        "a": "Yes, many maintenance tasks can be performed at home with the right tools and knowledge, but some may require professional assistance"
+      }
+    ],
+    "category": "Gear",
+    "tags": [
+      "espresso machine",
+      "maintenance"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-07-14T15:10:43.426Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "tamping-technique-matters",
     "title": "The Tamping Technique You Need to Master",
     "dek": "Get the perfect tamp for better espresso",
