@@ -523,8 +523,29 @@
       "createdAt": "2026-07-14T00:09:54.247Z",
       "streamUrl": "https://www.beyondmythos.com/",
       "lastPostAt": "2026-07-14T01:03:29.166Z"
+    },
+    {
+      "id": "vanward-bound-1784000033789",
+      "slug": "vanward-bound",
+      "name": "Vanward Bound",
+      "tagline": "Fresh takes for van dwellers and weekend overlanders.",
+      "nicheId": "van-life",
+      "audience": "van dwellers and weekend overlanders",
+      "categories": [
+        "Builds",
+        "Power",
+        "Routes",
+        "Cooking"
+      ],
+      "url": "https://www.beyondmythos.com/sites/vanward-bound/",
+      "localUrl": "https://www.beyondmythos.com/sites/vanward-bound/",
+      "vercel": null,
+      "design": "ember",
+      "postCount": 6,
+      "createdAt": "2026-07-14T03:33:46.519Z",
+      "streamUrl": "https://www.beyondmythos.com/"
     }
   ],
-  "lastGeneratedAt": "2026-07-14T00:09:54.247Z",
+  "lastGeneratedAt": "2026-07-14T03:33:46.519Z",
   "lastPostRunAt": "2026-07-14T01:03:29.682Z"
 }
