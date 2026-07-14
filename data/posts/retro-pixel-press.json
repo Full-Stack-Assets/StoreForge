@@ -1,5 +1,56 @@
 [
   {
+    "slug": "retro-game-emulator-optimization",
+    "title": "Optimizing Emulators for Retro Game Speedrunning",
+    "dek": "Get the edge with optimized emulators",
+    "takeaway": "Optimizing your emulator setup can significantly improve speedrun performance",
+    "whatHappened": "Recent breakthroughs in emulator development have led to significant performance improvements, allowing speedrunners to achieve faster completion times. However, many speedrunners are not taking full advantage of these advancements due to suboptimal emulator settings. By optimizing their emulator setup, speedrunners can gain a competitive edge and improve their overall gaming experience.",
+    "whyItMatters": "With the rise of speedrunning as a competitive sport, every second counts, and optimized emulators can make all the difference. Moreover, optimized emulators can also enhance the overall gaming experience for retro game collectors, providing smoother gameplay and reduced lag. As the speedrunning community continues to grow, the importance of emulator optimization will only continue to increase.",
+    "howToThink": "To optimize your emulator setup, start by researching the best practices for your specific emulator and game. Look for community-driven guides and tutorials that provide step-by-step instructions on how to configure your emulator for optimal performance. Additionally, consider experimenting with different emulator settings to find the perfect balance between performance and accuracy.",
+    "pros": [
+      "Improved performance",
+      "Enhanced gaming experience",
+      "Competitive edge"
+    ],
+    "cons": [
+      "Steep learning curve",
+      "Potential for crashes",
+      "Resource-intensive"
+    ],
+    "watchOut": "Be cautious when experimenting with different emulator settings, as incorrect configurations can lead to game crashes or instability",
+    "faq": [
+      {
+        "q": "What is the best emulator for speedrunning?",
+        "a": "The best emulator for speedrunning depends on the specific game and system being emulated, but popular options include BizHawk and LSnes"
+      },
+      {
+        "q": "How do I optimize my emulator settings?",
+        "a": "Start by researching community-driven guides and tutorials, and experiment with different settings to find the perfect balance between performance and accuracy"
+      },
+      {
+        "q": "Can I use emulator optimization for non-speedrunning purposes?",
+        "a": "Yes, optimized emulators can also enhance the overall gaming experience for retro game collectors, providing smoother gameplay and reduced lag"
+      }
+    ],
+    "category": "Speedruns",
+    "tags": [
+      "speedrunning",
+      "emulators"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-07-14T11:11:37.937Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-preservation-2",
     "title": "The quiet upgrade: small tweaks in preservation with outsized returns",
     "dek": "No purchases, no overhauls — the modest preservation adjustments that retro game collectors and speedrunners report mattering most.",
