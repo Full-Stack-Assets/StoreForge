@@ -589,8 +589,29 @@
       "createdAt": "2026-07-14T09:17:34.729Z",
       "streamUrl": "https://www.beyondmythos.com/",
       "lastPostAt": "2026-07-14T11:11:37.266Z"
+    },
+    {
+      "id": "base-weight-bulletin-1784029482048",
+      "slug": "base-weight-bulletin",
+      "name": "Base Weight Bulletin",
+      "tagline": "Fresh takes for ultralight backpackers and thru-hike dreamers.",
+      "nicheId": "ultralight-backpacking",
+      "audience": "ultralight backpackers and thru-hike dreamers",
+      "categories": [
+        "Packs",
+        "Shelters",
+        "Food",
+        "Skills"
+      ],
+      "url": "https://www.beyondmythos.com/sites/base-weight-bulletin/",
+      "localUrl": "https://www.beyondmythos.com/sites/base-weight-bulletin/",
+      "vercel": null,
+      "design": "cinema",
+      "postCount": 6,
+      "createdAt": "2026-07-14T11:44:41.858Z",
+      "streamUrl": "https://www.beyondmythos.com/"
     }
   ],
-  "lastGeneratedAt": "2026-07-14T09:17:34.729Z",
+  "lastGeneratedAt": "2026-07-14T11:44:41.858Z",
   "lastPostRunAt": "2026-07-14T11:11:37.969Z"
 }
