@@ -1,5 +1,56 @@
 [
   {
+    "slug": "retro-hardware-revival-3",
+    "title": "Retro Bit Revival: Bringing Back Classic Consoles",
+    "dek": "New life for old consoles",
+    "takeaway": "Refurbishing retro consoles can be a cost-effective and rewarding hobby",
+    "whatHappened": "The retro gaming community has seen a resurgence in recent years, with many collectors and enthusiasts seeking to revive and restore their classic consoles. This has led to a growing market for refurbished and upcycled retro hardware. As a result, many retro gamers are now turning to DIY repair and restoration methods to breathe new life into their old consoles.",
+    "whyItMatters": "The ability to repair and restore retro consoles is crucial for preserving gaming history and allowing new generations to experience classic games. Furthermore, refurbished consoles can also provide a cost-effective alternative to buying new hardware, making retro gaming more accessible to a wider audience. By reviving old consoles, retro gamers can also help reduce electronic waste and promote sustainability",
+    "howToThink": "When considering refurbishing a retro console, it's essential to research and understand the repair process, as well as the potential costs and challenges involved. It's also crucial to source high-quality replacement parts and to follow proper safety guidelines to avoid damaging the console or causing injury. By taking a careful and informed approach, retro gamers can successfully restore their classic consoles and enjoy their favorite games for years to come",
+    "pros": [
+      "Cost-effective",
+      "Sustainable",
+      "Preserves gaming history"
+    ],
+    "cons": [
+      "Technical challenges",
+      "Limited parts availability",
+      "Time-consuming"
+    ],
+    "watchOut": "Be cautious when sourcing replacement parts to avoid counterfeit or low-quality components",
+    "faq": [
+      {
+        "q": "What tools do I need to refurbish a retro console?",
+        "a": "Basic electronics tools, such as a soldering iron and wire strippers, are typically required"
+      },
+      {
+        "q": "Can I refurbish any retro console?",
+        "a": "Most retro consoles can be refurbished, but some may require specialized tools or expertise"
+      },
+      {
+        "q": "How much does it cost to refurbish a retro console?",
+        "a": "The cost of refurbishment can vary widely, depending on the console model, parts required, and labor involved"
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Retro Consoles",
+      "Refurbishment"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-07-14T16:50:16.109Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "improving-n64-speedruns",
     "title": "Optimizing N64 Controllers for Speedrunners",
     "dek": "Turbocharge your N64 speedruns",

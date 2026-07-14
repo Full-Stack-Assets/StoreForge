@@ -1,5 +1,56 @@
 [
   {
+    "slug": "apartment-gardening-hacks",
+    "title": "Sowing Seeds in Small Spaces",
+    "dek": "Growing a garden in tight spaces just got easier",
+    "takeaway": "With the right strategy, anyone can grow a thriving garden in a small apartment or on a balcony",
+    "whatHappened": "For many apartment dwellers, the dream of having a lush garden seems impossible due to limited space. However, with the rise of creative container gardening, this is no longer the case. By utilizing vertical space and choosing the right plants, small-space gardeners can enjoy a bountiful harvest",
+    "whyItMatters": "Not only do small gardens provide fresh produce, but they also purify the air, improve mental health, and add a touch of nature to urban environments. As more people move to cities, finding ways to garden in small spaces is becoming increasingly important. By embracing container gardening, individuals can take control of their food supply and connect with the natural world",
+    "howToThink": "To get started, consider the amount of sunlight your space receives and choose plants that thrive in those conditions. Select a variety of containers that fit your aesthetic and functional needs, and don't be afraid to experiment with different layouts and arrangements. By thinking creatively and staying flexible, you can create a thriving garden in even the smallest of spaces",
+    "pros": [
+      "Space-saving",
+      "Low-maintenance",
+      "Cost-effective"
+    ],
+    "cons": [
+      "Limited crop selection",
+      "Soil quality issues",
+      "Pest control challenges"
+    ],
+    "watchOut": "Be mindful of overwatering, which can be detrimental to plants in small containers",
+    "faq": [
+      {
+        "q": "What type of soil is best for container gardening?",
+        "a": "A well-draining potting mix is ideal for container gardens"
+      },
+      {
+        "q": "How often should I water my container garden?",
+        "a": "Water your plants when the top inch of soil feels dry to the touch"
+      },
+      {
+        "q": "Can I grow herbs in a container garden?",
+        "a": "Yes, many herbs such as basil, mint, and cilantro thrive in container gardens"
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "small-space gardening",
+      "urban agriculture"
+    ],
+    "sources": [
+      {
+        "label": "r/UrbanGardening community threads",
+        "url": "https://www.reddit.com/r/UrbanGardening/"
+      },
+      {
+        "label": "Search interest: \"balcony garden ideas\"",
+        "url": "https://duckduckgo.com/?q=balcony%20garden%20ideas"
+      }
+    ],
+    "publishedAt": "2026-07-14T16:50:15.835Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "self-watering-containers",
     "title": "Revolutionize Your Watering Schedule with Self-Watering Containers",
     "dek": "Water your plants automatically",
