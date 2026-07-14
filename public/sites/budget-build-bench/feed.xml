@@ -5,6 +5,13 @@
     <link>https://storeforge-budget-build-bench.vercel.app/</link>
     <description>Fresh takes for PC builders on a budget.</description>
     <item>
+      <title>&quot;used pc parts guide&quot; in practice: a real-world field test</title>
+      <link>https://storeforge-budget-build-bench.vercel.app/posts/used-pc-parts-guide-field-test-2.html</link>
+      <guid>https://storeforge-budget-build-bench.vercel.app/posts/used-pc-parts-guide-field-test-2.html</guid>
+      <pubDate>Tue, 14 Jul 2026 23:32:58 GMT</pubDate>
+      <description>We put the most-repeated advice about used pc parts guide through a month of actual use. Some of it survived.</description>
+    </item>
+    <item>
       <title>Ask the forge: your benchmarks questions, answered</title>
       <link>https://storeforge-budget-build-bench.vercel.app/posts/ask-the-forge-benchmarks-4.html</link>
       <guid>https://storeforge-budget-build-bench.vercel.app/posts/ask-the-forge-benchmarks-4.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-budget-build-bench.vercel.app/posts/starter-guide-used-parts.html</guid>
       <pubDate>Sat, 11 Jul 2026 10:14:43 GMT</pubDate>
       <description>A practical on-ramp to used parts for PC builders on a budget — one repeatable workflow, no gear debt.</description>
-    </item>
-    <item>
-      <title>&quot;best budget gpu 2026&quot; — separating signal from noise</title>
-      <link>https://storeforge-budget-build-bench.vercel.app/posts/signal-vs-noise-best-budget-gpu-2026.html</link>
-      <guid>https://storeforge-budget-build-bench.vercel.app/posts/signal-vs-noise-best-budget-gpu-2026.html</guid>
-      <pubDate>Thu, 09 Jul 2026 21:14:43 GMT</pubDate>
-      <description>Thousands of people search &quot;best budget gpu 2026&quot; every month. Most of what they find is recycled. Here is what holds up.</description>
     </item>
   </channel>
 </rss>

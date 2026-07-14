@@ -1,5 +1,56 @@
 [
   {
+    "slug": "maximizing-vertical-space",
+    "title": "Take Your Balcony Garden to New Heights",
+    "dek": "Grow more with less floor space",
+    "takeaway": "Using wall-mounted planters can increase your yield without sacrificing precious balcony space",
+    "whatHappened": "As urban gardening continues to gain popularity, balcony gardeners are looking for innovative ways to maximize their limited space. One solution that has gained traction is the use of wall-mounted planters, which can be attached to railings, walls, or even the ceiling. This approach not only saves floor space but also adds a decorative element to the balcony.",
+    "whyItMatters": "For apartment dwellers, making the most of their outdoor space is crucial for growing their own herbs and plants. By utilizing vertical space, gardeners can increase their crop yield, improve air circulation, and enhance the overall aesthetic of their balcony. Moreover, this approach can also help to reduce the urban heat island effect by providing more greenery in densely populated areas.",
+    "howToThink": "When considering wall-mounted planters, it's essential to choose the right material and design for your specific needs. Consider the weight and water requirements of the plants you want to grow, as well as the amount of sunlight and wind your balcony receives. Additionally, think about the maintenance requirements of your planters, including watering and pruning, to ensure that your vertical garden thrives.",
+    "pros": [
+      "Space-saving",
+      "Increased yield",
+      "Aesthetic appeal"
+    ],
+    "cons": [
+      "Higher upfront cost",
+      "Requires careful planning",
+      "Limited accessibility"
+    ],
+    "watchOut": "Be mindful of the weight capacity of your balcony's railings or walls when installing wall-mounted planters to avoid any damage or safety hazards",
+    "faq": [
+      {
+        "q": "What type of plants are best suited for wall-mounted planters?",
+        "a": "Herbs, succulents, and strawberries are ideal for wall-mounted planters due to their compact growth habit and relatively low maintenance requirements"
+      },
+      {
+        "q": "How often should I water my vertical garden?",
+        "a": "Watering frequency depends on the type of plants, climate, and planter material, but as a general rule, check the soil moisture daily and water when the top inch of soil feels dry"
+      },
+      {
+        "q": "Can I use wall-mounted planters in a shaded balcony?",
+        "a": "Yes, but choose plants that tolerate shade, such as ferns or peace lilies, and consider using grow lights to supplement the limited natural light"
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "balcony gardening",
+      "small space gardening"
+    ],
+    "sources": [
+      {
+        "label": "r/vegetablegardening community threads",
+        "url": "https://www.reddit.com/r/vegetablegardening/"
+      },
+      {
+        "label": "Search interest: \"indoor herb garden\"",
+        "url": "https://duckduckgo.com/?q=indoor%20herb%20garden"
+      }
+    ],
+    "publishedAt": "2026-07-14T23:32:59.925Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "composting-pre-spend-checklist-4",
     "title": "The composting checklist: run this before you spend",
     "dek": "Seven questions that separate a justified composting purchase from an expensive mood.",
