@@ -853,8 +853,29 @@
       "createdAt": "2026-07-15T11:48:27.174Z",
       "streamUrl": "https://www.beyondmythos.com/",
       "lastPostAt": "2026-07-15T12:57:34.884Z"
+    },
+    {
+      "id": "polyglot-post-1784124556162",
+      "slug": "polyglot-post",
+      "name": "Polyglot Post",
+      "tagline": "Fresh takes for self-taught language learners.",
+      "nicheId": "language-learning",
+      "audience": "self-taught language learners",
+      "categories": [
+        "Methods",
+        "Apps",
+        "Immersion",
+        "Grammar"
+      ],
+      "url": "https://www.beyondmythos.com/sites/polyglot-post/",
+      "localUrl": "https://www.beyondmythos.com/sites/polyglot-post/",
+      "vercel": null,
+      "design": "moss",
+      "postCount": 6,
+      "createdAt": "2026-07-15T14:09:15.918Z",
+      "streamUrl": "https://www.beyondmythos.com/"
     }
   ],
-  "lastGeneratedAt": "2026-07-15T11:48:27.174Z",
+  "lastGeneratedAt": "2026-07-15T14:09:15.918Z",
   "lastPostRunAt": "2026-07-15T12:57:34.962Z"
 }
