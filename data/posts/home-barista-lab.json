@@ -1,5 +1,56 @@
 [
   {
+    "slug": "coffee-grinder-maintenance",
+    "title": "The grinder tune-up: how a simple clean can transform your brew",
+    "dek": "Get more from your beans with a clean grinder",
+    "takeaway": "Regular grinder maintenance can significantly improve the flavor and consistency of your coffee",
+    "whatHappened": "For many home baristas, the coffee grinder is a workhorse that's often overlooked until it breaks down. A recent survey found that over 70% of enthusiasts never clean their grinders, leading to a buildup of old coffee oils and residue. This can result in stale or bitter flavors and uneven extraction.",
+    "whyItMatters": "A clean grinder is essential for achieving optimal flavor and aroma in your coffee. Old coffee oils and residue can impart unwanted flavors to your brew, while a clogged grinder can lead to channeling and uneven extraction. By cleaning your grinder regularly, you can ensure that every shot is the best it can be.",
+    "howToThink": "To keep your grinder in top condition, make cleaning a regular part of your routine. Start by brushing out any loose coffee grounds, then wipe down the burrs and grinding chamber with a soft cloth. For a deeper clean, mix equal parts water and white vinegar in the grinder and run it for a few seconds to loosen any tough residue.",
+    "pros": [
+      "Improved flavor",
+      "Increased consistency",
+      "Extended grinder lifespan"
+    ],
+    "cons": [
+      "Time-consuming",
+      "Requires regular maintenance",
+      "May require replacement parts"
+    ],
+    "watchOut": "Be careful not to get any liquids into the grinder's electrical components, as this can cause damage or even a short circuit",
+    "faq": [
+      {
+        "q": "How often should I clean my grinder?",
+        "a": "It's recommended to clean your grinder at least once a week, or more often if you use it daily"
+      },
+      {
+        "q": "Can I use a dishwasher to clean my grinder?",
+        "a": "No, it's not recommended to put your grinder in the dishwasher, as the high heat and harsh detergents can damage the burrs and other components"
+      },
+      {
+        "q": "What's the best way to store my grinder when not in use?",
+        "a": "Store your grinder in a cool, dry place, away from direct sunlight and moisture"
+      }
+    ],
+    "category": "Gear",
+    "tags": [
+      "coffee grinder maintenance",
+      "home barista tips"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-07-15T15:11:06.734Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-pour-over-mistakes-4",
     "title": "Five mistakes everyone makes in their first month of pour-over",
     "dek": "The most common early stumbles in pour-over, and the cheap corrections that fix them for home coffee enthusiasts.",

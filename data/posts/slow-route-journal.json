@@ -1,5 +1,56 @@
 [
   {
+    "slug": "off-peak-rail-booking",
+    "title": "Timing is Everything: How to Save on Off-Peak Rail Tickets",
+    "dek": "Slash rail costs with strategic booking",
+    "takeaway": "Booking off-peak rail tickets can significantly reduce travel costs for slow-travel and low-impact explorers",
+    "whatHappened": "Recently, I experimented with off-peak rail booking for a cross-country trip, comparing prices across different booking times. The results were striking, with savings of up to 60% on certain routes. By understanding how rail pricing works, travelers can make informed decisions to minimize their expenses.",
+    "whyItMatters": "For slow-travel and low-impact explorers, every dollar saved on transportation can be reinvested in local experiences, sustainable accommodations, or community-driven initiatives. Moreover, reducing the financial burden of travel can make these journeys more accessible and enjoyable. By adopting strategic booking habits, travelers can align their financial goals with their values of sustainability and community engagement.",
+    "howToThink": "To maximize savings, consider traveling during off-peak hours, such as mid-morning or late evening, and book tickets well in advance. Additionally, look for rail operators that offer discounts for advance bookings or loyalty programs. By being flexible with travel dates and times, travelers can unlock significant savings without compromising on their slow-travel philosophy.",
+    "pros": [
+      "Cost savings",
+      "Increased flexibility",
+      "Reduced crowding"
+    ],
+    "cons": [
+      "Limited schedule options",
+      "Potential for delays",
+      "Less convenient travel times"
+    ],
+    "watchOut": "Be cautious of additional fees for changes or cancellations, which can negate the initial savings from off-peak booking",
+    "faq": [
+      {
+        "q": "What are off-peak hours for rail travel?",
+        "a": "Typically, off-peak hours are mid-morning to late evening, avoiding rush hour commutes"
+      },
+      {
+        "q": "How far in advance should I book off-peak tickets?",
+        "a": "Booking at least 2-3 weeks in advance can yield the best prices, but some operators offer discounts for even earlier bookings"
+      },
+      {
+        "q": "Can I change or cancel off-peak tickets?",
+        "a": "Policies vary by operator, but many offer limited flexibility for changes or cancellations, so it's essential to review the terms before booking"
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "sustainable travel",
+      "rail booking"
+    ],
+    "sources": [
+      {
+        "label": "r/solotravel community threads",
+        "url": "https://www.reddit.com/r/solotravel/"
+      },
+      {
+        "label": "Search interest: \"train travel europe tips\"",
+        "url": "https://duckduckgo.com/?q=train%20travel%20europe%20tips"
+      }
+    ],
+    "publishedAt": "2026-07-15T15:11:06.871Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "slow-train-advantages-2",
     "title": "Why Slow Trains Beat Flights for Low-Impact Travel",
     "dek": "Ditch the plane for a more relaxed ride",

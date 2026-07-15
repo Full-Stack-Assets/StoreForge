@@ -1,5 +1,56 @@
 [
   {
+    "slug": "optimizing-speedrun-setups",
+    "title": "Speed Demons: How to Supercharge Your Rig",
+    "dek": "Supercharge your speedrun setup",
+    "takeaway": "Optimizing your speedrun setup can shave seconds off your record times",
+    "whatHappened": "Professional speedrunners have long known that optimized hardware is key to achieving record times. Recent advancements in DIY controller mods and homebrew console tweaks have made it possible for amateur speedrunners to gain a competitive edge. By leveraging these advancements, speedrunners can significantly improve their performance",
+    "whyItMatters": "With the speedrunning community growing rapidly, having a well-optimized setup can be the difference between a top-10 finish and obscurity. Furthermore, optimized setups can also reduce the physical strain associated with long speedrunning sessions. This can lead to improved overall well-being and increased longevity in the sport",
+    "howToThink": "When optimizing your speedrun setup, consider the specific requirements of your game and the unique demands it places on your hardware. Think about the buttons and controls you use most frequently and prioritize those when making mods or tweaks. Additionally, stay up-to-date with the latest developments in the speedrunning community to stay ahead of the curve",
+    "pros": [
+      "Improved record times",
+      "Reduced physical strain",
+      "Competitive edge"
+    ],
+    "cons": [
+      "Steep learning curve",
+      "Expensive hardware upgrades",
+      "Trial-and-error tweaking"
+    ],
+    "watchOut": "Be cautious not to void your console's warranty when making DIY modifications",
+    "faq": [
+      {
+        "q": "What's the best way to get started with speedrun setup optimization?",
+        "a": "Begin by researching the specific needs of your game and reading tutorials from experienced speedrunners"
+      },
+      {
+        "q": "How much can I expect to spend on DIY mods and upgrades?",
+        "a": "Costs can vary widely depending on the complexity of the mods and the quality of the components used"
+      },
+      {
+        "q": "Are DIY mods and tweaks compatible with all consoles?",
+        "a": "Not always - be sure to research compatibility before attempting any modifications"
+      }
+    ],
+    "category": "Speedruns",
+    "tags": [
+      "speedrun",
+      "hardware"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-07-15T15:11:07.064Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-retro-game-restoration-2",
     "title": "Myth vs. reality: retro game restoration",
     "dek": "The persistent myths around retro game restoration, stress-tested against what retro game collectors and speedrunners actually report.",

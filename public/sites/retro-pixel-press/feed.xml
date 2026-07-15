@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Speed Demons: How to Supercharge Your Rig</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/optimizing-speedrun-setups.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/optimizing-speedrun-setups.html</guid>
+      <pubDate>Wed, 15 Jul 2026 15:11:07 GMT</pubDate>
+      <description>Supercharge your speedrun setup</description>
+    </item>
+    <item>
       <title>Myth vs. reality: retro game restoration</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/myth-vs-reality-retro-game-restoration-2.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/myth-vs-reality-retro-game-restoration-2.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/five-speedruns-mistakes.html</guid>
       <pubDate>Mon, 13 Jul 2026 08:35:58 GMT</pubDate>
       <description>The most common early stumbles in speedruns, and the cheap corrections that fix them for retro game collectors and speedrunners.</description>
-    </item>
-    <item>
-      <title>&quot;crt setup guide&quot; in practice: a real-world field test</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/crt-setup-guide-field-test.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/crt-setup-guide-field-test.html</guid>
-      <pubDate>Mon, 13 Jul 2026 05:05:45 GMT</pubDate>
-      <description>We put the most-repeated advice about crt setup guide through a month of actual use. Some of it survived.</description>
     </item>
   </channel>
 </rss>
