@@ -1,5 +1,56 @@
 [
   {
+    "slug": "winter-herb-care",
+    "title": "Shield Your Herbs from the Cold",
+    "dek": "Protect your herbs from winter damage",
+    "takeaway": "With proper care, your herbs can thrive year-round",
+    "whatHappened": "As winter approaches, many apartment dwellers and balcony gardeners face the challenge of keeping their herbs alive. Frost and freezing temperatures can quickly damage or kill herbs, leading to a loss of flavor and fragrance in cooking. By taking a few simple precautions, however, herb enthusiasts can shield their plants from the cold and enjoy a continuous harvest.",
+    "whyItMatters": "Herbs are a crucial component of many recipes, and having a steady supply can elevate the flavor and quality of home-cooked meals. Moreover, growing herbs indoors or on a balcony can be a calming and fulfilling hobby, providing a sense of connection to nature even in the midst of urban surroundings. By learning how to care for herbs in winter, gardeners can extend the growing season and reap the benefits of their labor.",
+    "howToThink": "To keep herbs thriving in winter, consider using insulated containers, bringing plants indoors, or utilizing a cold frame. It's also essential to monitor temperature fluctuations, adjust watering schedules, and provide sufficient light. By being mindful of these factors and taking proactive steps, herb gardeners can create a protective environment that fosters healthy growth and minimizes damage.",
+    "pros": [
+      "Year-round harvest",
+      "Improved flavor",
+      "Low maintenance"
+    ],
+    "cons": [
+      "Limited light",
+      "Temperature fluctuations",
+      "Pest risks"
+    ],
+    "watchOut": "Be cautious of overwatering, which can be detrimental to herbs in cold weather",
+    "faq": [
+      {
+        "q": "Can I leave my herbs outside in winter?",
+        "a": "No, most herbs are sensitive to frost and freezing temperatures"
+      },
+      {
+        "q": "How often should I water my herbs in winter?",
+        "a": "Water sparingly, as the soil takes longer to dry out in cold weather"
+      },
+      {
+        "q": "What are the best herbs to grow indoors during winter?",
+        "a": "Chives, parsley, and mint are popular choices for indoor winter gardening"
+      }
+    ],
+    "category": "Herbs",
+    "tags": [
+      "herb care",
+      "winter gardening"
+    ],
+    "sources": [
+      {
+        "label": "r/UrbanGardening community threads",
+        "url": "https://www.reddit.com/r/UrbanGardening/"
+      },
+      {
+        "label": "Search interest: \"balcony garden ideas\"",
+        "url": "https://duckduckgo.com/?q=balcony%20garden%20ideas"
+      }
+    ],
+    "publishedAt": "2026-07-15T19:53:12.965Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "self-watering-containers-2",
     "title": "Water Less, Grow More: The Self-Watering Container Revolution",
     "dek": "Save time and boost yields",

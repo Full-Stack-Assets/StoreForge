@@ -5,6 +5,13 @@
     <link>https://storeforge-urban-gardening-daily.vercel.app/</link>
     <description>Fresh takes for apartment dwellers and balcony gardeners.</description>
     <item>
+      <title>Shield Your Herbs from the Cold</title>
+      <link>https://storeforge-urban-gardening-daily.vercel.app/posts/winter-herb-care.html</link>
+      <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/winter-herb-care.html</guid>
+      <pubDate>Wed, 15 Jul 2026 19:53:12 GMT</pubDate>
+      <description>Protect your herbs from winter damage</description>
+    </item>
+    <item>
       <title>Water Less, Grow More: The Self-Watering Container Revolution</title>
       <link>https://storeforge-urban-gardening-daily.vercel.app/posts/self-watering-containers-2.html</link>
       <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/self-watering-containers-2.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/small-space-vegetables-field-test.html</guid>
       <pubDate>Mon, 13 Jul 2026 16:59:18 GMT</pubDate>
       <description>We put the most-repeated advice about small space vegetables through a month of actual use. Some of it survived.</description>
-    </item>
-    <item>
-      <title>Ask the forge: your seasonal questions, answered</title>
-      <link>https://storeforge-urban-gardening-daily.vercel.app/posts/ask-the-forge-seasonal.html</link>
-      <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/ask-the-forge-seasonal.html</guid>
-      <pubDate>Mon, 13 Jul 2026 13:49:55 GMT</pubDate>
-      <description>Straight answers to the seasonal questions apartment dwellers and balcony gardeners keep asking, minus the hedging.</description>
     </item>
   </channel>
 </rss>
