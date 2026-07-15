@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Smart Habitat</title>
+    <link>https://www.beyondmythos.com/sites/smart-habitat/</link>
+    <description>Fresh takes for smart-home tinkerers and privacy-minded automators.</description>
+    <item>
+      <title>Getting Started with Smart Sensors</title>
+      <link>https://www.beyondmythos.com/sites/smart-habitat/posts/smart-sensors-101.html</link>
+      <guid>https://www.beyondmythos.com/sites/smart-habitat/posts/smart-sensors-101.html</guid>
+      <pubDate>Wed, 15 Jul 2026 03:34:37 GMT</pubDate>
+      <description>Start building your smart home with these sensors</description>
+    </item>
+    <item>
+      <title>Mastering Routine Automation</title>
+      <link>https://www.beyondmythos.com/sites/smart-habitat/posts/routine-automation.html</link>
+      <guid>https://www.beyondmythos.com/sites/smart-habitat/posts/routine-automation.html</guid>
+      <pubDate>Mon, 13 Jul 2026 14:34:37 GMT</pubDate>
+      <description>Streamline your daily routine with automation</description>
+    </item>
+    <item>
+      <title>The Benefits of Local Control Systems</title>
+      <link>https://www.beyondmythos.com/sites/smart-habitat/posts/local-control-systems.html</link>
+      <guid>https://www.beyondmythos.com/sites/smart-habitat/posts/local-control-systems.html</guid>
+      <pubDate>Sun, 12 Jul 2026 01:34:37 GMT</pubDate>
+      <description>Take control of your smart home with local control systems</description>
+    </item>
+    <item>
+      <title>Getting Started with Smart Lighting</title>
+      <link>https://www.beyondmythos.com/sites/smart-habitat/posts/smart-lighting-101.html</link>
+      <guid>https://www.beyondmythos.com/sites/smart-habitat/posts/smart-lighting-101.html</guid>
+      <pubDate>Fri, 10 Jul 2026 12:34:37 GMT</pubDate>
+      <description>Brighten up your smart home with smart lighting</description>
+    </item>
+    <item>
+      <title>Addressing Sensor Privacy Concerns</title>
+      <link>https://www.beyondmythos.com/sites/smart-habitat/posts/sensor-privacy-concerns.html</link>
+      <guid>https://www.beyondmythos.com/sites/smart-habitat/posts/sensor-privacy-concerns.html</guid>
+      <pubDate>Wed, 08 Jul 2026 23:34:37 GMT</pubDate>
+      <description>Protect your privacy with secure sensor practices</description>
+    </item>
+    <item>
+      <title>Optimizing Your Smart Home Routines</title>
+      <link>https://www.beyondmythos.com/sites/smart-habitat/posts/routine-optimization.html</link>
+      <guid>https://www.beyondmythos.com/sites/smart-habitat/posts/routine-optimization.html</guid>
+      <pubDate>Tue, 07 Jul 2026 10:34:37 GMT</pubDate>
+      <description>Get the most out of your smart home with optimized routines</description>
+    </item>
+  </channel>
+</rss>

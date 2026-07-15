@@ -765,8 +765,29 @@
       "createdAt": "2026-07-15T00:05:51.586Z",
       "streamUrl": "https://www.beyondmythos.com/",
       "lastPostAt": "2026-07-15T00:59:37.951Z"
+    },
+    {
+      "id": "smart-habitat-1784086477612",
+      "slug": "smart-habitat",
+      "name": "Smart Habitat",
+      "tagline": "Fresh takes for smart-home tinkerers and privacy-minded automators.",
+      "nicheId": "home-automation",
+      "audience": "smart-home tinkerers and privacy-minded automators",
+      "categories": [
+        "Sensors",
+        "Routines",
+        "Local Control",
+        "Lighting"
+      ],
+      "url": "https://www.beyondmythos.com/sites/smart-habitat/",
+      "localUrl": "https://www.beyondmythos.com/sites/smart-habitat/",
+      "vercel": null,
+      "design": "cinema",
+      "postCount": 6,
+      "createdAt": "2026-07-15T03:34:31.146Z",
+      "streamUrl": "https://www.beyondmythos.com/"
     }
   ],
-  "lastGeneratedAt": "2026-07-15T00:05:51.586Z",
+  "lastGeneratedAt": "2026-07-15T03:34:31.146Z",
   "lastPostRunAt": "2026-07-15T00:59:37.985Z"
 }
