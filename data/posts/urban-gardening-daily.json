@@ -1,5 +1,56 @@
 [
   {
+    "slug": "maximizing-balcony-space",
+    "title": "Beyond the Balcony: Creative Container Arrangements",
+    "dek": "Transform small spaces with smart container layouts",
+    "takeaway": "With the right container arrangement, even the smallest balconies can become thriving gardens",
+    "whatHappened": "For apartment dwellers, maximizing balcony space is crucial for a thriving garden. Many turn to vertical gardening, but often overlook the potential of rearranging containers. By creatively arranging containers, gardeners can increase their growing space without needing to invest in new equipment or infrastructure.",
+    "whyItMatters": "Effective container arrangement can significantly impact the health and productivity of plants. Proper spacing and airflow can prevent disease, while also ensuring that each plant receives enough light. Moreover, well-arranged containers can add aesthetic value to small balconies, making them more inviting and enjoyable.",
+    "howToThink": "When considering a container rearrangement, think about the mature size of each plant, their light requirements, and how they will be accessed for maintenance. Grouping plants by their needs can streamline care and make the most of the available space. Additionally, incorporating a variety of textures and heights can add visual interest to the balcony garden.",
+    "pros": [
+      "Increased growing space",
+      "Improved plant health",
+      "Enhanced aesthetics"
+    ],
+    "cons": [
+      "Higher initial setup cost",
+      "Potential for overcrowding",
+      "Requires planning"
+    ],
+    "watchOut": "Be cautious not to overcrowd containers, as this can lead to reduced air circulation and increased disease susceptibility",
+    "faq": [
+      {
+        "q": "What is the best material for balcony containers?",
+        "a": "Choose durable, water-resistant materials like ceramic, metal, or recycled plastic"
+      },
+      {
+        "q": "How often should I water my balcony garden?",
+        "a": "Watering needs vary by plant, but a general rule is to water when the top inch of soil feels dry to the touch"
+      },
+      {
+        "q": "Can I grow vegetables in partial shade?",
+        "a": "Yes, many vegetables can thrive in partial shade, including leafy greens, herbs, and some varieties of tomatoes"
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "balcony gardening",
+      "small space gardening"
+    ],
+    "sources": [
+      {
+        "label": "r/houseplants community threads",
+        "url": "https://www.reddit.com/r/houseplants/"
+      },
+      {
+        "label": "Search interest: \"small space vegetables\"",
+        "url": "https://duckduckgo.com/?q=small%20space%20vegetables"
+      }
+    ],
+    "publishedAt": "2026-07-15T21:37:38.883Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "winter-herb-care",
     "title": "Shield Your Herbs from the Cold",
     "dek": "Protect your herbs from winter damage",

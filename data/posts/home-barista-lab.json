@@ -1,5 +1,56 @@
 [
   {
+    "slug": "coffee-scale-hacks",
+    "title": "Weighing Up: How a Coffee Scale Can Revolutionize Your Brew",
+    "dek": "Get the perfect cup with a coffee scale",
+    "takeaway": "Using a coffee scale ensures consistent flavor in every cup",
+    "whatHappened": "Home baristas often overlook the importance of measurement in their brewing process, relying on intuition rather than precision. However, using a coffee scale can significantly impact the quality of the brew. By measuring the exact amount of coffee and water, enthusiasts can replicate their perfect cup every time.",
+    "whyItMatters": "Precision is key to unlocking the full potential of coffee beans. A coffee scale allows home baristas to fine-tune their brewing technique, ensuring the ideal ratio of coffee to water. This attention to detail can elevate the entire coffee experience, making every sip a delight.",
+    "howToThink": "When investing in a coffee scale, consider the material, accuracy, and ease of use. Look for a scale that can handle the weight of your coffee beans and brewing equipment. Practice using the scale to develop a consistent routine, and don't be afraid to experiment with different ratios to find your perfect balance.",
+    "pros": [
+      "Precise measurements",
+      "Consistent flavor",
+      "Easy to use"
+    ],
+    "cons": [
+      "Added cost",
+      "Extra step in brewing",
+      "Dependence on batteries"
+    ],
+    "watchOut": "Be mindful of the scale's sensitivity to avoid inaccurate readings",
+    "faq": [
+      {
+        "q": "What is the ideal coffee-to-water ratio?",
+        "a": "Generally, a 1:15 to 1:17 ratio is recommended for drip brewing"
+      },
+      {
+        "q": "Can I use a kitchen scale for coffee?",
+        "a": "While possible, a dedicated coffee scale is more convenient and accurate"
+      },
+      {
+        "q": "How often should I calibrate my coffee scale?",
+        "a": "It's recommended to calibrate your scale every 1-2 months or when you notice inconsistent readings"
+      }
+    ],
+    "category": "Gear",
+    "tags": [
+      "Coffee Gear",
+      "Brewing Tips"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-07-15T21:37:38.708Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-home-espresso-dial-in-2",
     "title": "Myth vs. reality: home espresso dial in",
     "dek": "The persistent myths around home espresso dial in, stress-tested against what home coffee enthusiasts actually report.",
