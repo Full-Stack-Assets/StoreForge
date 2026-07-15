@@ -831,8 +831,29 @@
       "createdAt": "2026-07-15T09:21:30.903Z",
       "streamUrl": "https://www.beyondmythos.com/",
       "lastPostAt": "2026-07-15T11:14:36.782Z"
+    },
+    {
+      "id": "field-glass-notes-1784116107348",
+      "slug": "field-glass-notes",
+      "name": "Field Glass Notes",
+      "tagline": "Fresh takes for backyard birders and weekend twitchers.",
+      "nicheId": "birdwatching",
+      "audience": "backyard birders and weekend twitchers",
+      "categories": [
+        "Optics",
+        "ID Skills",
+        "Feeders",
+        "Migration"
+      ],
+      "url": "https://www.beyondmythos.com/sites/field-glass-notes/",
+      "localUrl": "https://www.beyondmythos.com/sites/field-glass-notes/",
+      "vercel": null,
+      "design": "zine",
+      "postCount": 6,
+      "createdAt": "2026-07-15T11:48:27.174Z",
+      "streamUrl": "https://www.beyondmythos.com/"
     }
   ],
-  "lastGeneratedAt": "2026-07-15T09:21:30.903Z",
+  "lastGeneratedAt": "2026-07-15T11:48:27.174Z",
   "lastPostRunAt": "2026-07-15T11:14:36.992Z"
 }
