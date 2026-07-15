@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>Beyond the Beans: Unlocking Hidden Flavor in Your Brew</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/maximizing-coffee-flavor.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/maximizing-coffee-flavor.html</guid>
+      <pubDate>Wed, 15 Jul 2026 23:39:32 GMT</pubDate>
+      <description>Roasting techniques to boost flavor</description>
+    </item>
+    <item>
       <title>Ask the forge: your gear questions, answered</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/ask-the-forge-gear-4.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/ask-the-forge-gear-4.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/refining-espresso-technique.html</guid>
       <pubDate>Mon, 13 Jul 2026 20:42:11 GMT</pubDate>
       <description>Elevate your espresso</description>
-    </item>
-    <item>
-      <title>The roasting checklist: run this before you spend</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/roasting-pre-spend-checklist-2.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/roasting-pre-spend-checklist-2.html</guid>
-      <pubDate>Mon, 13 Jul 2026 19:03:28 GMT</pubDate>
-      <description>Seven questions that separate a justified roasting purchase from an expensive mood.</description>
     </item>
   </channel>
 </rss>

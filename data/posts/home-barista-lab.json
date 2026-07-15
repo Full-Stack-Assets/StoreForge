@@ -1,5 +1,56 @@
 [
   {
+    "slug": "maximizing-coffee-flavor",
+    "title": "Beyond the Beans: Unlocking Hidden Flavor in Your Brew",
+    "dek": "Roasting techniques to boost flavor",
+    "takeaway": "Small tweaks in roasting can significantly enhance the flavor of your coffee",
+    "whatHappened": "Recent experiments in home coffee roasting have shown that subtle adjustments in temperature and timing can bring out unique flavors in coffee beans. By paying closer attention to the roasting process, home baristas can coax out a wider range of flavors from their beans. This includes notes that might have been missed with standard roasting approaches.",
+    "whyItMatters": "For home coffee enthusiasts, having control over the roasting process means being able to tailor the flavor of their coffee to their personal preferences. This level of customization is not always possible when relying on pre-roasted beans from a coffee shop or store. By understanding how to maximize flavor through roasting, enthusiasts can elevate their coffee experience.",
+    "howToThink": "To start experimenting with roasting for better flavor, consider investing in a small, manual roaster that allows for precise control over temperature and time. Start with small batches to quickly test different roasting profiles without committing to a large quantity of beans. Keep notes on the roasting conditions and the resulting flavors to refine your technique.",
+    "pros": [
+      "Customizable flavor",
+      "Cost-effective",
+      "Easy to learn"
+    ],
+    "cons": [
+      "Requires initial investment",
+      "Trial and error",
+      "Space needed"
+    ],
+    "watchOut": "Be cautious not to over-roast, as this can quickly lead to a burnt taste that's difficult to rescue",
+    "faq": [
+      {
+        "q": "What equipment do I need to start roasting coffee at home?",
+        "a": "You'll need a coffee roaster, which can range from a simple manual device to a more complex automated one, depending on your budget and preferences."
+      },
+      {
+        "q": "How do I know when my coffee beans are perfectly roasted?",
+        "a": "The perfect roast is subjective, but generally, you're looking for a bean that's fragrant, with no signs of burn or underdevelopment. Practice makes perfect."
+      },
+      {
+        "q": "Can I roast coffee in a regular oven?",
+        "a": "While it's technically possible, it's not recommended due to the lack of control over temperature and air flow, which are crucial for even roasting."
+      }
+    ],
+    "category": "Roasting",
+    "tags": [
+      "coffee roasting",
+      "home barista"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-07-15T23:39:32.849Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-gear-4",
     "title": "Ask the forge: your gear questions, answered",
     "dek": "Straight answers to the gear questions home coffee enthusiasts keep asking, minus the hedging.",

@@ -5,6 +5,13 @@
     <link>https://storeforge-slow-route-journal.vercel.app/</link>
     <description>Fresh takes for slow-travel and low-impact explorers.</description>
     <item>
+      <title>Maximizing Value in Budget Stays</title>
+      <link>https://storeforge-slow-route-journal.vercel.app/posts/hostel-hacks-for-slow-travelers.html</link>
+      <guid>https://storeforge-slow-route-journal.vercel.app/posts/hostel-hacks-for-slow-travelers.html</guid>
+      <pubDate>Wed, 15 Jul 2026 23:39:32 GMT</pubDate>
+      <description>Get the most from your hostel stay</description>
+    </item>
+    <item>
       <title>Ask the forge: your local questions, answered</title>
       <link>https://storeforge-slow-route-journal.vercel.app/posts/ask-the-forge-local-5.html</link>
       <guid>https://storeforge-slow-route-journal.vercel.app/posts/ask-the-forge-local-5.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-slow-route-journal.vercel.app/posts/rethinking-rail-cards.html</guid>
       <pubDate>Mon, 13 Jul 2026 20:42:11 GMT</pubDate>
       <description>Get the most out of rail cards</description>
-    </item>
-    <item>
-      <title>Optimizing Your Rail Experience</title>
-      <link>https://storeforge-slow-route-journal.vercel.app/posts/maximizing-rail-utility.html</link>
-      <guid>https://storeforge-slow-route-journal.vercel.app/posts/maximizing-rail-utility.html</guid>
-      <pubDate>Mon, 13 Jul 2026 19:03:30 GMT</pubDate>
-      <description>Squeeze more from your rail travel</description>
     </item>
   </channel>
 </rss>
