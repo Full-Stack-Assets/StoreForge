@@ -1,5 +1,56 @@
 [
   {
+    "slug": "slow-train-advantages-2",
+    "title": "Why Slow Trains Beat Flights for Low-Impact Travel",
+    "dek": "Ditch the plane for a more relaxed ride",
+    "takeaway": "Slow trains offer a unique, low-carbon way to see the countryside while traveling",
+    "whatHappened": "I recently took a slow train from Paris to Rome, watching the countryside roll by as I chatted with fellow travelers. The journey was relaxing and enjoyable, with plenty of time to read, write, and enjoy the scenery. Along the way, I met several like-minded travelers who shared tips and recommendations for low-impact exploration",
+    "whyItMatters": "As travelers become increasingly aware of their environmental impact, slow trains offer a guilt-free alternative to flying. By choosing the train, travelers can reduce their carbon footprint while supporting local economies and experiencing the unique culture of each region. This approach also fosters a sense of community and connection among travelers",
+    "howToThink": "When planning your next trip, consider the slow train as a viable option. Research routes and schedules in advance, and book early to secure the best prices. Don't be afraid to strike up conversations with fellow travelers – you never know who you might meet or what tips you might learn",
+    "pros": [
+      "Relaxed pace",
+      "Scenic views",
+      "Low carbon footprint"
+    ],
+    "cons": [
+      "Longer travel time",
+      "Limited routes",
+      "Variable comfort"
+    ],
+    "watchOut": "Be sure to research any necessary visas or travel documents before embarking on your slow train journey",
+    "faq": [
+      {
+        "q": "What is the average speed of a slow train?",
+        "a": "Typically around 50-70 km/h"
+      },
+      {
+        "q": "Can I bring my bike on a slow train?",
+        "a": "Yes, many slow trains have bike storage or allow bicycles in designated areas"
+      },
+      {
+        "q": "Are slow trains more expensive than flights?",
+        "a": "Not always – prices vary depending on the route and time of year, but slow trains can often be a cost-effective option"
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "slow travel",
+      "rail"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-07-15T12:57:34.226Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "carry-on-packing-list-field-test-2",
     "title": "\"carry on packing list\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about carry on packing list through a month of actual use. Some of it survived.",
