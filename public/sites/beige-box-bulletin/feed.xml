@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Beige Box Bulletin</title>
+    <link>https://www.beyondmythos.com/sites/beige-box-bulletin/</link>
+    <description>Fresh takes for retro computer restorers and emulation fans.</description>
+    <item>
+      <title>Bring Back the Beige</title>
+      <link>https://www.beyondmythos.com/sites/beige-box-bulletin/posts/restoring-ibm-ps2.html</link>
+      <guid>https://www.beyondmythos.com/sites/beige-box-bulletin/posts/restoring-ibm-ps2.html</guid>
+      <pubDate>Wed, 15 Jul 2026 09:21:39 GMT</pubDate>
+      <description>Revive your IBM PS/2</description>
+    </item>
+    <item>
+      <title>Emulate the Classics</title>
+      <link>https://www.beyondmythos.com/sites/beige-box-bulletin/posts/emulating-classic-mac.html</link>
+      <guid>https://www.beyondmythos.com/sites/beige-box-bulletin/posts/emulating-classic-mac.html</guid>
+      <pubDate>Mon, 13 Jul 2026 20:21:39 GMT</pubDate>
+      <description>Run vintage Mac apps on modern hardware</description>
+    </item>
+    <item>
+      <title>Upgrade Your 8-Bit</title>
+      <link>https://www.beyondmythos.com/sites/beige-box-bulletin/posts/upgrading-8-bit-computers.html</link>
+      <guid>https://www.beyondmythos.com/sites/beige-box-bulletin/posts/upgrading-8-bit-computers.html</guid>
+      <pubDate>Sun, 12 Jul 2026 07:21:39 GMT</pubDate>
+      <description>Boost performance with modern upgrades</description>
+    </item>
+    <item>
+      <title>Retro Gaming Revival</title>
+      <link>https://www.beyondmythos.com/sites/beige-box-bulletin/posts/retro-gaming-software.html</link>
+      <guid>https://www.beyondmythos.com/sites/beige-box-bulletin/posts/retro-gaming-software.html</guid>
+      <pubDate>Fri, 10 Jul 2026 18:21:39 GMT</pubDate>
+      <description>Explore classic games on modern systems</description>
+    </item>
+    <item>
+      <title>Preserving the Code</title>
+      <link>https://www.beyondmythos.com/sites/beige-box-bulletin/posts/preserving-vintage-code.html</link>
+      <guid>https://www.beyondmythos.com/sites/beige-box-bulletin/posts/preserving-vintage-code.html</guid>
+      <pubDate>Thu, 09 Jul 2026 05:21:39 GMT</pubDate>
+      <description>Save vintage software for future generations</description>
+    </item>
+    <item>
+      <title>Breathe New Life</title>
+      <link>https://www.beyondmythos.com/sites/beige-box-bulletin/posts/restoring-vintage-peripherals.html</link>
+      <guid>https://www.beyondmythos.com/sites/beige-box-bulletin/posts/restoring-vintage-peripherals.html</guid>
+      <pubDate>Tue, 07 Jul 2026 16:21:39 GMT</pubDate>
+      <description>Restore vintage peripherals to their former glory</description>
+    </item>
+  </channel>
+</rss>

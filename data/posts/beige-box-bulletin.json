@@ -1,0 +1,308 @@
+[
+  {
+    "slug": "restoring-ibm-ps2",
+    "title": "Bring Back the Beige",
+    "category": "Restoration",
+    "dek": "Revive your IBM PS/2",
+    "takeaway": "Restoration is key to preserving retro computing history",
+    "whatHappened": "The IBM PS/2 line was introduced in the late 1980s, featuring a range of models from desktops to laptops. Many of these machines still exist today, albeit in various states of disrepair. Restoration experts have been working to revive these systems, often using original parts and techniques. As a result, many restored IBM PS/2s are now available for enthusiasts to purchase and enjoy.",
+    "whyItMatters": "Restoring vintage computers like the IBM PS/2 helps preserve the history of the tech industry and provides a unique window into the development of modern computing. By preserving these systems, we can gain a deeper understanding of how technology has evolved over time. Furthermore, restored vintage computers can serve as a valuable educational tool, allowing students to learn about the inner workings of early computer systems.",
+    "howToThink": "When restoring a vintage computer, it's essential to approach the project with a clear plan and a thorough understanding of the system's components. Start by researching the specific model and its known issues, then gather the necessary tools and replacement parts. Be prepared to troubleshoot and adapt, as vintage systems can be unpredictable. Consider joining online forums or communities to connect with other restoration enthusiasts and learn from their experiences.",
+    "pros": [
+      "Preserves history",
+      "Educational value",
+      "Unique collectible"
+    ],
+    "cons": [
+      "Time-consuming",
+      "Expensive",
+      "Technical challenges"
+    ],
+    "watchOut": "Be cautious when handling sensitive electronics and high-voltage components",
+    "faq": [
+      {
+        "q": "What is the best way to clean a vintage computer?",
+        "a": "Use compressed air and a soft-bristled brush to gently remove dust and debris"
+      },
+      {
+        "q": "How do I troubleshoot a faulty vintage computer?",
+        "a": "Start by checking the power supply and verifying that all components are properly seated"
+      },
+      {
+        "q": "Where can I find replacement parts for my vintage computer?",
+        "a": "Check online marketplaces, specialty retailers, and vintage computer enthusiast communities"
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/retrobattlestations community threads",
+        "url": "https://www.reddit.com/r/retrobattlestations/"
+      },
+      {
+        "label": "Search interest: \"recap vintage computer\"",
+        "url": "https://duckduckgo.com/?q=recap%20vintage%20computer"
+      }
+    ],
+    "tags": [
+      "restoration",
+      "IBM PS/2"
+    ],
+    "publishedAt": "2026-07-15T09:21:39.466Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "emulating-classic-mac",
+    "title": "Emulate the Classics",
+    "category": "Emulation",
+    "dek": "Run vintage Mac apps on modern hardware",
+    "takeaway": "Emulation offers a convenient way to experience classic software on modern systems",
+    "whatHappened": "The rise of emulation has made it possible for retro computing enthusiasts to run vintage software on modern hardware. This has enabled the preservation of classic games, applications, and operating systems, allowing users to experience the past on contemporary devices. Emulation software can mimic the behavior of vintage systems, providing a faithful reproduction of the original computing environment.",
+    "whyItMatters": "Emulation plays a vital role in preserving the history of computing, as it allows users to interact with vintage software in a realistic and immersive way. By emulating classic systems, developers can test and refine their emulation software, ensuring that it accurately reproduces the behavior of the original hardware. This, in turn, helps to preserve the functionality and compatibility of vintage software, making it accessible to new generations of users.",
+    "howToThink": "When exploring emulation, it's essential to consider the legal and ethical implications of running vintage software on modern systems. Ensure that you have the necessary permissions or licenses to use the software, and be mindful of potential copyright and intellectual property issues. Additionally, be aware of the system requirements and potential compatibility issues when running emulated software on modern hardware.",
+    "pros": [
+      "Convenient",
+      "Preserves classic software",
+      "Cross-platform compatibility"
+    ],
+    "cons": [
+      "Legal and ethical concerns",
+      "System requirements",
+      "Compatibility issues"
+    ],
+    "watchOut": "Be aware of potential copyright and intellectual property issues when using emulated software",
+    "faq": [
+      {
+        "q": "What is the best emulation software for vintage Mac systems?",
+        "a": "Popular options include SheepShaver and Basilisk II"
+      },
+      {
+        "q": "How do I configure emulation software for optimal performance?",
+        "a": "Experiment with different settings and plugins to find the optimal configuration for your system"
+      },
+      {
+        "q": "Can I run emulated software on mobile devices?",
+        "a": "Yes, many emulation software options are available for mobile devices, including iOS and Android"
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/vintagecomputing community threads",
+        "url": "https://www.reddit.com/r/vintagecomputing/"
+      },
+      {
+        "label": "Search interest: \"best emulation setup\"",
+        "url": "https://duckduckgo.com/?q=best%20emulation%20setup"
+      }
+    ],
+    "tags": [
+      "emulation",
+      "vintage Mac"
+    ],
+    "publishedAt": "2026-07-13T20:21:39.466Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "upgrading-8-bit-computers",
+    "title": "Upgrade Your 8-Bit",
+    "category": "Upgrades",
+    "dek": "Boost performance with modern upgrades",
+    "takeaway": "Upgrading vintage computers can significantly enhance their performance and capabilities",
+    "whatHappened": "The 8-bit computing era saw the rise of iconic systems like the Commodore 64 and Apple II. Although these machines are still beloved by retro computing enthusiasts, their original hardware can be limiting. Modern upgrades, such as accelerated processors and expanded memory, can breathe new life into these vintage systems, enabling them to run more complex software and perform tasks that were previously impossible.",
+    "whyItMatters": "Upgrading vintage computers not only improves their performance but also extends their lifespan, allowing enthusiasts to continue using and appreciating these systems. By installing modern upgrades, users can unlock new capabilities, such as enhanced graphics and sound, and even enable these machines to connect to the internet. This, in turn, helps to preserve the relevance and usefulness of vintage computers, making them more appealing to a new generation of enthusiasts.",
+    "howToThink": "When upgrading a vintage computer, it's crucial to research and understand the specific requirements and limitations of the system. Identify the most critical components that need upgrading, such as the processor or memory, and ensure that the upgrades are compatible with the original hardware. Be prepared to troubleshoot and adapt, as vintage systems can be unpredictable, and consider seeking guidance from online forums or communities of experienced upgraders.",
+    "pros": [
+      "Improved performance",
+      "Enhanced capabilities",
+      "Extended lifespan"
+    ],
+    "cons": [
+      "Technical challenges",
+      "Cost",
+      "Compatibility issues"
+    ],
+    "watchOut": "Be cautious when handling sensitive electronics and ensure that upgrades are compatible with the original hardware",
+    "faq": [
+      {
+        "q": "What are the most popular upgrades for 8-bit computers?",
+        "a": "Accelerated processors, expanded memory, and modern storage solutions are popular upgrades"
+      },
+      {
+        "q": "How do I install upgrades in my vintage computer?",
+        "a": "Consult the system's documentation and online resources for specific installation instructions"
+      },
+      {
+        "q": "Can I upgrade my vintage computer to connect to the internet?",
+        "a": "Yes, various upgrades and peripherals are available to enable internet connectivity on vintage systems"
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/emulation community threads",
+        "url": "https://www.reddit.com/r/emulation/"
+      },
+      {
+        "label": "Search interest: \"crt monitor guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20monitor%20guide"
+      }
+    ],
+    "tags": [
+      "upgrades",
+      "8-bit computers"
+    ],
+    "publishedAt": "2026-07-12T07:21:39.466Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "retro-gaming-software",
+    "title": "Retro Gaming Revival",
+    "category": "Software",
+    "dek": "Explore classic games on modern systems",
+    "takeaway": "Retro gaming software offers a convenient way to experience classic games on modern hardware",
+    "whatHappened": "The retro gaming scene has experienced a significant resurgence in recent years, with many classic games being re-released or emulated on modern systems. This has enabled a new generation of gamers to discover and appreciate the pioneering titles that shaped the industry. Retro gaming software, such as ScummVM and DOSBox, has played a vital role in preserving the functionality and compatibility of vintage games, making them accessible to a wider audience.",
+    "whyItMatters": "Retro gaming software is essential for preserving the history and cultural significance of the video game industry. By making classic games available on modern systems, these software solutions help to promote a deeper understanding and appreciation of the medium, allowing gamers to experience the evolution of game design and technology firsthand. Furthermore, retro gaming software often provides a unique window into the development process and design decisions behind classic games, offering valuable insights for game developers and enthusiasts alike.",
+    "howToThink": "When exploring retro gaming software, it's essential to consider the compatibility and system requirements of the software. Ensure that your modern system meets the necessary specifications, and be prepared to troubleshoot any issues that may arise. Additionally, be aware of the legal and ethical implications of using retro gaming software, and ensure that you have the necessary permissions or licenses to use the software.",
+    "pros": [
+      "Convenient",
+      "Preserves classic games",
+      "Cross-platform compatibility"
+    ],
+    "cons": [
+      "System requirements",
+      "Compatibility issues",
+      "Legal and ethical concerns"
+    ],
+    "watchOut": "Be aware of potential copyright and intellectual property issues when using retro gaming software",
+    "faq": [
+      {
+        "q": "What is the best retro gaming software for classic PC games?",
+        "a": "Popular options include DOSBox and ScummVM"
+      },
+      {
+        "q": "How do I configure retro gaming software for optimal performance?",
+        "a": "Experiment with different settings and plugins to find the optimal configuration for your system"
+      },
+      {
+        "q": "Can I use retro gaming software on mobile devices?",
+        "a": "Yes, many retro gaming software options are available for mobile devices, including iOS and Android"
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/retrobattlestations community threads",
+        "url": "https://www.reddit.com/r/retrobattlestations/"
+      },
+      {
+        "label": "Search interest: \"recap vintage computer\"",
+        "url": "https://duckduckgo.com/?q=recap%20vintage%20computer"
+      }
+    ],
+    "tags": [
+      "retro gaming",
+      "software"
+    ],
+    "publishedAt": "2026-07-10T18:21:39.466Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "preserving-vintage-code",
+    "title": "Preserving the Code",
+    "category": "Software",
+    "dek": "Save vintage software for future generations",
+    "takeaway": "Preserving vintage code is crucial for understanding the evolution of software development",
+    "whatHappened": "The preservation of vintage code is essential for understanding the history and development of the software industry. Many classic software titles, including games and applications, are at risk of being lost due to the degradation of original media and the lack of compatible systems. Efforts to preserve vintage code, such as the Internet Archive's software collection, have helped to safeguard these valuable resources, making them available for future generations to study and appreciate.",
+    "whyItMatters": "Preserving vintage code provides a unique window into the development process and design decisions behind classic software. By studying vintage code, developers can gain valuable insights into the evolution of programming languages, software design patterns, and the challenges faced by early developers. This knowledge can inform and inspire modern software development, helping to shape the future of the industry.",
+    "howToThink": "When preserving vintage code, it's essential to consider the long-term viability and accessibility of the preserved software. Ensure that the code is properly documented, and consider using modern tools and formats to facilitate future access and study. Additionally, be aware of the legal and ethical implications of preserving and sharing vintage code, and ensure that you have the necessary permissions or licenses to use and distribute the software.",
+    "pros": [
+      "Preserves history",
+      "Informative",
+      "Inspires modern development"
+    ],
+    "cons": [
+      "Technical challenges",
+      "Legal and ethical concerns",
+      "Resource-intensive"
+    ],
+    "watchOut": "Be aware of potential copyright and intellectual property issues when preserving and sharing vintage code",
+    "faq": [
+      {
+        "q": "What is the best way to preserve vintage code?",
+        "a": "Use version control systems and document the code thoroughly"
+      },
+      {
+        "q": "How can I access and study preserved vintage code?",
+        "a": "Many preserved code repositories are available online, such as the Internet Archive's software collection"
+      },
+      {
+        "q": "Can I use preserved vintage code in modern projects?",
+        "a": "Yes, but be aware of potential copyright and intellectual property issues, and ensure that you have the necessary permissions or licenses"
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/vintagecomputing community threads",
+        "url": "https://www.reddit.com/r/vintagecomputing/"
+      },
+      {
+        "label": "Search interest: \"best emulation setup\"",
+        "url": "https://duckduckgo.com/?q=best%20emulation%20setup"
+      }
+    ],
+    "tags": [
+      "vintage code",
+      "preservation"
+    ],
+    "publishedAt": "2026-07-09T05:21:39.466Z",
+    "readMinutes": 2
+  },
+  {
+    "slug": "restoring-vintage-peripherals",
+    "title": "Breathe New Life",
+    "category": "Restoration",
+    "dek": "Restore vintage peripherals to their former glory",
+    "takeaway": "Restoring vintage peripherals can enhance the overall retro computing experience",
+    "whatHappened": "Vintage peripherals, such as keyboards, mice, and printers, are an essential part of the retro computing experience. However, these devices can be prone to wear and tear, making them difficult to use or even rendering them inoperable. Restoration experts have developed techniques and methods to revive these peripherals, often using original parts and materials to maintain their authenticity.",
+    "whyItMatters": "Restoring vintage peripherals is crucial for preserving the overall retro computing experience. By restoring these devices, enthusiasts can recreate the authentic look and feel of vintage systems, allowing them to fully immerse themselves in the retro computing world. Additionally, restored peripherals can provide a unique window into the design and engineering of early computer hardware, offering valuable insights for historians and collectors.",
+    "howToThink": "When restoring vintage peripherals, it's essential to approach the project with a clear plan and a thorough understanding of the device's components and mechanics. Research the specific peripheral and its known issues, then gather the necessary tools and replacement parts. Be prepared to troubleshoot and adapt, as vintage devices can be unpredictable, and consider seeking guidance from online forums or communities of experienced restorers.",
+    "pros": [
+      "Authentic experience",
+      "Preserves history",
+      "Unique collectible"
+    ],
+    "cons": [
+      "Time-consuming",
+      "Expensive",
+      "Technical challenges"
+    ],
+    "watchOut": "Be cautious when handling sensitive electronics and high-voltage components",
+    "faq": [
+      {
+        "q": "What is the best way to clean a vintage keyboard?",
+        "a": "Use compressed air and a soft-bristled brush to gently remove dust and debris"
+      },
+      {
+        "q": "How do I troubleshoot a faulty vintage mouse?",
+        "a": "Start by checking the connection and verifying that the mouse is properly calibrated"
+      },
+      {
+        "q": "Where can I find replacement parts for my vintage printer?",
+        "a": "Check online marketplaces, specialty retailers, and vintage computer enthusiast communities"
+      }
+    ],
+    "sources": [
+      {
+        "label": "r/emulation community threads",
+        "url": "https://www.reddit.com/r/emulation/"
+      },
+      {
+        "label": "Search interest: \"crt monitor guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20monitor%20guide"
+      }
+    ],
+    "tags": [
+      "restoration",
+      "vintage peripherals"
+    ],
+    "publishedAt": "2026-07-07T16:21:39.466Z",
+    "readMinutes": 2
+  }
+]
