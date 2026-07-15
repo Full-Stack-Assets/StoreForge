@@ -1,5 +1,56 @@
 [
   {
+    "slug": "optimizing-retro-hardware-for-speed",
+    "title": "Retro Hardware Hacks for Faster Speedruns",
+    "dek": "Boost your speedrun performance",
+    "takeaway": "Optimizing retro hardware can significantly improve speedrun times",
+    "whatHappened": "Recently, speedrunners have been experimenting with retro hardware modifications to gain a competitive edge. By tweaking and optimizing their consoles and controllers, they've been able to shave off precious seconds from their run times. This trend has sparked a renewed interest in the retro gaming community, with many enthusiasts seeking to upgrade their own hardware.",
+    "whyItMatters": "For speedrunners, every second counts, and optimizing retro hardware can be the difference between a world record and a mediocre run. Moreover, these modifications can also enhance the overall gaming experience, providing a more responsive and enjoyable playthrough. As the speedrunning community continues to grow, the demand for optimized retro hardware is likely to increase.",
+    "howToThink": "When optimizing retro hardware, it's essential to consider the specific needs of your game and speedrun strategy. Start by identifying bottlenecks in your current setup and researching potential modifications that can address these issues. Additionally, consider consulting with experienced speedrunners and hardware enthusiasts to gain valuable insights and tips.",
+    "pros": [
+      "Improved performance",
+      "Enhanced gaming experience",
+      "Competitive edge"
+    ],
+    "cons": [
+      "Technical complexity",
+      "Cost of modifications",
+      "Potential for damage"
+    ],
+    "watchOut": "Be cautious when modifying retro hardware, as improper changes can damage your console or controller",
+    "faq": [
+      {
+        "q": "What are the most common retro hardware modifications?",
+        "a": "Common modifications include upgrading controllers, optimizing console internals, and improving display output"
+      },
+      {
+        "q": "How do I determine which modifications are right for my speedrun?",
+        "a": "Research your game's specific requirements and consult with experienced speedrunners to determine the best modifications for your needs"
+      },
+      {
+        "q": "Can I modify my retro hardware myself, or should I seek professional help?",
+        "a": "While some modifications can be done DIY, others may require professional expertise to avoid damaging your hardware"
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Retro Gaming",
+      "Speedrunning"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-07-15T16:54:57.328Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "optimizing-speedrun-setups",
     "title": "Speed Demons: How to Supercharge Your Rig",
     "dek": "Supercharge your speedrun setup",

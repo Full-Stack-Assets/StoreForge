@@ -1,5 +1,56 @@
 [
   {
+    "slug": "maximizing-window-boxes",
+    "title": "Squeeze More From Your Window Boxes",
+    "dek": "Grow more with less space",
+    "takeaway": "Choosing the right plants can significantly increase yield in small window boxes",
+    "whatHappened": "Window boxes are a staple for urban gardeners, providing a compact way to grow herbs, flowers, and vegetables. However, their small size can limit growth. Recent experiments with layering plants and utilizing vertical space have shown promising results. By maximizing space, urban gardeners can enjoy a wider variety of plants",
+    "whyItMatters": "For apartment dwellers and balcony gardeners, space is at a premium. Being able to maximize window boxes means more opportunities to grow a diverse range of plants, from herbs for cooking to flowers for aesthetic appeal. This not only enhances the gardening experience but also increases the potential for a bountiful harvest",
+    "howToThink": "When planning your window box, consider the mature size of the plants, their growth habits, and how they can be layered or trained to use the available space efficiently. Selecting plants that have similar growing requirements can also simplify care. Additionally, incorporating a trellis or a self-watering system can help optimize growth and reduce maintenance",
+    "pros": [
+      "Increased yield",
+      "Improved aesthetics",
+      "Space efficiency"
+    ],
+    "cons": [
+      "Higher maintenance",
+      "Initial investment",
+      "Limited plant selection"
+    ],
+    "watchOut": "Be cautious of overwatering, as window boxes can be prone to waterlogged soil due to their small size and potentially limited drainage",
+    "faq": [
+      {
+        "q": "What plants are best for window boxes?",
+        "a": "Choose compact or trailing varieties of herbs, flowers, or vegetables"
+      },
+      {
+        "q": "How often should I water my window box?",
+        "a": "Water when the top inch of soil feels dry to the touch, avoiding overwatering"
+      },
+      {
+        "q": "Can I use regular potting soil in my window box?",
+        "a": "It's recommended to use a well-draining potting mix specifically designed for containers to prevent waterlogging"
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "urban gardening",
+      "window boxes"
+    ],
+    "sources": [
+      {
+        "label": "r/houseplants community threads",
+        "url": "https://www.reddit.com/r/houseplants/"
+      },
+      {
+        "label": "Search interest: \"small space vegetables\"",
+        "url": "https://duckduckgo.com/?q=small%20space%20vegetables"
+      }
+    ],
+    "publishedAt": "2026-07-15T16:54:57.251Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "composting-pre-spend-checklist-5",
     "title": "The composting checklist: run this before you spend",
     "dek": "Seven questions that separate a justified composting purchase from an expensive mood.",

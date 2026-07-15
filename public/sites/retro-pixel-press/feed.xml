@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Retro Hardware Hacks for Faster Speedruns</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/optimizing-retro-hardware-for-speed.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/optimizing-retro-hardware-for-speed.html</guid>
+      <pubDate>Wed, 15 Jul 2026 16:54:57 GMT</pubDate>
+      <description>Boost your speedrun performance</description>
+    </item>
+    <item>
       <title>Speed Demons: How to Supercharge Your Rig</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/optimizing-speedrun-setups.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/optimizing-speedrun-setups.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/preservation-pre-spend-checklist.html</guid>
       <pubDate>Mon, 13 Jul 2026 11:43:09 GMT</pubDate>
       <description>Seven questions that separate a justified preservation purchase from an expensive mood.</description>
-    </item>
-    <item>
-      <title>Five mistakes everyone makes in their first month of speedruns</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/five-speedruns-mistakes.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/five-speedruns-mistakes.html</guid>
-      <pubDate>Mon, 13 Jul 2026 08:35:58 GMT</pubDate>
-      <description>The most common early stumbles in speedruns, and the cheap corrections that fix them for retro game collectors and speedrunners.</description>
     </item>
   </channel>
 </rss>

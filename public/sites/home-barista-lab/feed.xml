@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>Community pulse: what r/Coffee is debating this week</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/community-pulse-coffee.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/community-pulse-coffee.html</guid>
+      <pubDate>Wed, 15 Jul 2026 16:54:55 GMT</pubDate>
+      <description>The arguments, consensus shifts, and quietly useful threads from the gear community this week.</description>
+    </item>
+    <item>
       <title>The grinder tune-up: how a simple clean can transform your brew</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/coffee-grinder-maintenance.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/coffee-grinder-maintenance.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/quiet-upgrade-roasting.html</guid>
       <pubDate>Mon, 13 Jul 2026 11:43:09 GMT</pubDate>
       <description>No purchases, no overhauls — the modest roasting adjustments that home coffee enthusiasts report mattering most.</description>
-    </item>
-    <item>
-      <title>Myth vs. reality: pour over technique</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/myth-vs-reality-pour-over-technique.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/myth-vs-reality-pour-over-technique.html</guid>
-      <pubDate>Mon, 13 Jul 2026 08:35:58 GMT</pubDate>
-      <description>The persistent myths around pour over technique, stress-tested against what home coffee enthusiasts actually report.</description>
     </item>
   </channel>
 </rss>
