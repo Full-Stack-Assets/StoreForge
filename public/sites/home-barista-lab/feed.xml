@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>Unlocking the Full Flavor: Pour-over Hacks for Home Baristas</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/turbocharge-your-pour-over.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/turbocharge-your-pour-over.html</guid>
+      <pubDate>Wed, 15 Jul 2026 18:44:35 GMT</pubDate>
+      <description>Elevate your pour-over game with these simple tweaks.</description>
+    </item>
+    <item>
       <title>Community pulse: what r/Coffee is debating this week</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/community-pulse-coffee.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/community-pulse-coffee.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/ask-the-forge-gear.html</guid>
       <pubDate>Mon, 13 Jul 2026 13:49:55 GMT</pubDate>
       <description>Straight answers to the gear questions home coffee enthusiasts keep asking, minus the hedging.</description>
-    </item>
-    <item>
-      <title>The quiet upgrade: small tweaks in roasting with outsized returns</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/quiet-upgrade-roasting.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/quiet-upgrade-roasting.html</guid>
-      <pubDate>Mon, 13 Jul 2026 11:43:09 GMT</pubDate>
-      <description>No purchases, no overhauls — the modest roasting adjustments that home coffee enthusiasts report mattering most.</description>
     </item>
   </channel>
 </rss>

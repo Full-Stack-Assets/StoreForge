@@ -5,6 +5,13 @@
     <link>https://storeforge-urban-gardening-daily.vercel.app/</link>
     <description>Fresh takes for apartment dwellers and balcony gardeners.</description>
     <item>
+      <title>Water Less, Grow More: The Self-Watering Container Revolution</title>
+      <link>https://storeforge-urban-gardening-daily.vercel.app/posts/self-watering-containers-2.html</link>
+      <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/self-watering-containers-2.html</guid>
+      <pubDate>Wed, 15 Jul 2026 18:44:35 GMT</pubDate>
+      <description>Save time and boost yields</description>
+    </item>
+    <item>
       <title>Squeeze More From Your Window Boxes</title>
       <link>https://storeforge-urban-gardening-daily.vercel.app/posts/maximizing-window-boxes.html</link>
       <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/maximizing-window-boxes.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/ask-the-forge-seasonal.html</guid>
       <pubDate>Mon, 13 Jul 2026 13:49:55 GMT</pubDate>
       <description>Straight answers to the seasonal questions apartment dwellers and balcony gardeners keep asking, minus the hedging.</description>
-    </item>
-    <item>
-      <title>The quiet upgrade: small tweaks in composting with outsized returns</title>
-      <link>https://storeforge-urban-gardening-daily.vercel.app/posts/quiet-upgrade-composting.html</link>
-      <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/quiet-upgrade-composting.html</guid>
-      <pubDate>Mon, 13 Jul 2026 11:43:09 GMT</pubDate>
-      <description>No purchases, no overhauls — the modest composting adjustments that apartment dwellers and balcony gardeners report mattering most.</description>
     </item>
   </channel>
 </rss>

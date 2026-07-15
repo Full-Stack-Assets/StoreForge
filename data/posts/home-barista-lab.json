@@ -1,5 +1,56 @@
 [
   {
+    "slug": "turbocharge-your-pour-over",
+    "title": "Unlocking the Full Flavor: Pour-over Hacks for Home Baristas",
+    "dek": "Elevate your pour-over game with these simple tweaks.",
+    "takeaway": "Even small adjustments in pour-over technique can significantly enhance the flavor of your coffee.",
+    "whatHappened": "Recently, experiments with pour-over techniques have shown that minor adjustments in water temperature, coffee-to-water ratio, and pouring speed can drastically change the final product. These experiments highlighted the importance of precision and consistency in achieving the perfect cup. By applying these findings, home baristas can easily upgrade their pour-over skills.",
+    "whyItMatters": "Understanding the impact of these variables on the final flavor is crucial for home baristas looking to refine their pour-over technique. It allows for a more tailored approach to brewing, catering to individual tastes and preferences. Moreover, recognizing the role of each element in the brewing process empowers baristas to troubleshoot and adjust their method as needed.",
+    "howToThink": "To start optimizing your pour-over, focus on one variable at a time, such as adjusting the grind size or altering the pouring technique. Keep detailed notes on the changes made and the outcomes, which will help in identifying patterns and preferences. Additionally, investing in a thermometer and a scale can provide more precise control over the brewing process.",
+    "pros": [
+      "Enhanced flavor",
+      "Increased control",
+      "Customizable"
+    ],
+    "cons": [
+      "Requires patience",
+      "Initial investment in tools",
+      "Trial and error"
+    ],
+    "watchOut": "Be cautious not to over-extract, as it can lead to a bitter taste.",
+    "faq": [
+      {
+        "q": "What is the ideal water temperature for pour-over?",
+        "a": "Between 195°F and 205°F"
+      },
+      {
+        "q": "How often should I clean my pour-over equipment?",
+        "a": "After each use to prevent any buildup or residue"
+      },
+      {
+        "q": "Can I use any type of coffee bean for pour-over?",
+        "a": "While any bean can be used, lighter roasts are often preferred for pour-over due to their brighter and more complex flavors"
+      }
+    ],
+    "category": "Pour-over",
+    "tags": [
+      "CoffeeHacks",
+      "PourOverTechnique"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-07-15T18:44:35.504Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-coffee",
     "title": "Community pulse: what r/Coffee is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the gear community this week.",
