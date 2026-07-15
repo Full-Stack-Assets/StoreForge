@@ -787,8 +787,29 @@
       "createdAt": "2026-07-15T03:34:31.146Z",
       "streamUrl": "https://www.beyondmythos.com/",
       "lastPostAt": "2026-07-15T04:33:53.485Z"
+    },
+    {
+      "id": "sous-chef-signal-1784096884649",
+      "slug": "sous-chef-signal",
+      "name": "Sous Chef Signal",
+      "tagline": "Fresh takes for home cooks systematizing weeknight dinners.",
+      "nicheId": "meal-kits-diy",
+      "audience": "home cooks systematizing weeknight dinners",
+      "categories": [
+        "Templates",
+        "Pantry",
+        "Knife Skills",
+        "Sauces"
+      ],
+      "url": "https://www.beyondmythos.com/sites/sous-chef-signal/",
+      "localUrl": "https://www.beyondmythos.com/sites/sous-chef-signal/",
+      "vercel": null,
+      "design": "aurora",
+      "postCount": 6,
+      "createdAt": "2026-07-15T06:27:57.869Z",
+      "streamUrl": "https://www.beyondmythos.com/"
     }
   ],
-  "lastGeneratedAt": "2026-07-15T03:34:31.146Z",
+  "lastGeneratedAt": "2026-07-15T06:27:57.869Z",
   "lastPostRunAt": "2026-07-15T04:33:54.101Z"
 }
