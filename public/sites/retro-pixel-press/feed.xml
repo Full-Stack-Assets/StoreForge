@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Fixing the Unfixable: DIY Retro Controller Repair for Speedrunners</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/retro-controller-repair-101.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-controller-repair-101.html</guid>
+      <pubDate>Wed, 15 Jul 2026 00:59:37 GMT</pubDate>
+      <description>Revive your retro controllers with DIY repair</description>
+    </item>
+    <item>
       <title>Ask the forge: your indie questions, answered</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/ask-the-forge-indie-3.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/ask-the-forge-indie-3.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/state-of-hardware.html</guid>
       <pubDate>Sun, 12 Jul 2026 23:14:43 GMT</pubDate>
       <description>A field report on hardware: where things stand, and what retro game collectors and speedrunners should do next.</description>
-    </item>
-    <item>
-      <title>Starter guide: Speedruns without the overwhelm</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/starter-guide-speedruns.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/starter-guide-speedruns.html</guid>
-      <pubDate>Sat, 11 Jul 2026 10:14:43 GMT</pubDate>
-      <description>A practical on-ramp to speedruns for retro game collectors and speedrunners — one repeatable workflow, no gear debt.</description>
     </item>
   </channel>
 </rss>

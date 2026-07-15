@@ -5,6 +5,13 @@
     <link>https://storeforge-urban-gardening-daily.vercel.app/</link>
     <description>Fresh takes for apartment dwellers and balcony gardeners.</description>
     <item>
+      <title>A weekend project: level up your containers in two hours</title>
+      <link>https://storeforge-urban-gardening-daily.vercel.app/posts/weekend-project-containers-4.html</link>
+      <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/weekend-project-containers-4.html</guid>
+      <pubDate>Wed, 15 Jul 2026 00:59:35 GMT</pubDate>
+      <description>One contained, satisfying containers project for apartment dwellers — start Saturday morning, done by lunch.</description>
+    </item>
+    <item>
       <title>Take Your Balcony Garden to New Heights</title>
       <link>https://storeforge-urban-gardening-daily.vercel.app/posts/maximizing-vertical-space.html</link>
       <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/maximizing-vertical-space.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/state-of-containers.html</guid>
       <pubDate>Sun, 12 Jul 2026 23:14:43 GMT</pubDate>
       <description>A field report on containers: where things stand, and what apartment dwellers and balcony gardeners should do next.</description>
-    </item>
-    <item>
-      <title>Starter guide: Herbs without the overwhelm</title>
-      <link>https://storeforge-urban-gardening-daily.vercel.app/posts/starter-guide-herbs.html</link>
-      <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/starter-guide-herbs.html</guid>
-      <pubDate>Sat, 11 Jul 2026 10:14:43 GMT</pubDate>
-      <description>A practical on-ramp to herbs for apartment dwellers and balcony gardeners — one repeatable workflow, no gear debt.</description>
     </item>
   </channel>
 </rss>

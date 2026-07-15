@@ -1,5 +1,56 @@
 [
   {
+    "slug": "retro-controller-repair-101",
+    "title": "Fixing the Unfixable: DIY Retro Controller Repair for Speedrunners",
+    "dek": "Revive your retro controllers with DIY repair",
+    "takeaway": "With basic soldering skills, you can breathe new life into your vintage gamepads",
+    "whatHappened": "Retro game collectors and speedrunners often face worn-out controllers, hindering their gaming experience. A faulty directional pad or sticky button can be frustrating, especially during critical speedruns. Many opt for replacement, but with the right tools and knowledge, DIY repair is a viable alternative.",
+    "whyItMatters": "Preserving original hardware is crucial for retro gaming authenticity. By repairing controllers, collectors can maintain the integrity of their vintage consoles and avoid relying on third-party reproductions. Furthermore, DIY repair can be cost-effective and environmentally friendly.",
+    "howToThink": "When approaching retro controller repair, it's essential to identify the root cause of the issue and research the specific fix. Online forums and repair guides can provide valuable resources. Start with basic repairs, such as cleaning or replacing buttons, and gradually move on to more complex tasks, like soldering or replacing analog sticks.",
+    "pros": [
+      "Cost-effective",
+      "Environmentally friendly",
+      "Preserves original hardware"
+    ],
+    "cons": [
+      "Requires technical skills",
+      "Time-consuming",
+      "Limited availability of replacement parts"
+    ],
+    "watchOut": "Be cautious when handling electronics and soldering to avoid damaging the controller or causing electrical shock",
+    "faq": [
+      {
+        "q": "What are the basic tools required for retro controller repair?",
+        "a": "A soldering iron, wire strippers, and a multimeter are essential tools for DIY repair"
+      },
+      {
+        "q": "Can I repair any type of retro controller?",
+        "a": "Most retro controllers can be repaired, but some may require specialized tools or expertise"
+      },
+      {
+        "q": "Where can I find repair guides and resources?",
+        "a": "Online forums, YouTube tutorials, and dedicated retro gaming communities are excellent resources for repair guides and advice"
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Retro Gaming",
+      "DIY Repair"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-07-15T00:59:37.659Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-indie-3",
     "title": "Ask the forge: your indie questions, answered",
     "dek": "Straight answers to the indie questions retro game collectors and speedrunners keep asking, minus the hedging.",

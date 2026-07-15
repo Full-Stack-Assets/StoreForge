@@ -5,6 +5,13 @@
     <link>https://storeforge-slow-route-journal.vercel.app/</link>
     <description>Fresh takes for slow-travel and low-impact explorers.</description>
     <item>
+      <title>Sustainable Journeys Start Here</title>
+      <link>https://storeforge-slow-route-journal.vercel.app/posts/reducing-carbon-footprint-through-rail-travel.html</link>
+      <guid>https://storeforge-slow-route-journal.vercel.app/posts/reducing-carbon-footprint-through-rail-travel.html</guid>
+      <pubDate>Wed, 15 Jul 2026 00:59:37 GMT</pubDate>
+      <description>Explore low-impact rail travel</description>
+    </item>
+    <item>
       <title>Community pulse: what r/onebag is debating this week</title>
       <link>https://storeforge-slow-route-journal.vercel.app/posts/community-pulse-onebag-2.html</link>
       <guid>https://storeforge-slow-route-journal.vercel.app/posts/community-pulse-onebag-2.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-slow-route-journal.vercel.app/posts/state-of-rail.html</guid>
       <pubDate>Sun, 12 Jul 2026 23:14:43 GMT</pubDate>
       <description>A field report on rail: where things stand, and what slow-travel and low-impact explorers should do next.</description>
-    </item>
-    <item>
-      <title>Starter guide: Stays without the overwhelm</title>
-      <link>https://storeforge-slow-route-journal.vercel.app/posts/starter-guide-stays.html</link>
-      <guid>https://storeforge-slow-route-journal.vercel.app/posts/starter-guide-stays.html</guid>
-      <pubDate>Sat, 11 Jul 2026 10:14:43 GMT</pubDate>
-      <description>A practical on-ramp to stays for slow-travel and low-impact explorers — one repeatable workflow, no gear debt.</description>
     </item>
   </channel>
 </rss>
