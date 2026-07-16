@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Mod Your Way to Victory: Essential Tools for Retro Console Modding</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/essential-tools-for-retro-console-modding.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/essential-tools-for-retro-console-modding.html</guid>
+      <pubDate>Thu, 16 Jul 2026 01:06:57 GMT</pubDate>
+      <description>Upgrade your retro console with these must-have tools.</description>
+    </item>
+    <item>
       <title>A weekend project: level up your hardware in two hours</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/weekend-project-hardware-3.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/weekend-project-hardware-3.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/optimal-controller-mods.html</guid>
       <pubDate>Mon, 13 Jul 2026 21:35:55 GMT</pubDate>
       <description>Upgrade your game with pro mods</description>
-    </item>
-    <item>
-      <title>Ask the forge: your indie questions, answered</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/ask-the-forge-indie-2.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/ask-the-forge-indie-2.html</guid>
-      <pubDate>Mon, 13 Jul 2026 20:42:09 GMT</pubDate>
-      <description>Straight answers to the indie questions retro game collectors and speedrunners keep asking, minus the hedging.</description>
     </item>
   </channel>
 </rss>
