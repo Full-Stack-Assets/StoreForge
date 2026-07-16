@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Upgrade Your Childhood: DIY Retro Console Upgrades</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-upgrades.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-upgrades.html</guid>
+      <pubDate>Thu, 16 Jul 2026 04:43:52 GMT</pubDate>
+      <description>Unlock new life from old consoles</description>
+    </item>
+    <item>
       <title>Mod Your Way to Victory: Essential Tools for Retro Console Modding</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/essential-tools-for-retro-console-modding.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/essential-tools-for-retro-console-modding.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-game-emulation-on-modern-consoles.html</guid>
       <pubDate>Mon, 13 Jul 2026 22:37:01 GMT</pubDate>
       <description>Retro games on modern consoles made easy</description>
-    </item>
-    <item>
-      <title>Supercharge Your Speedruns: Expert Controller Mods</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/optimal-controller-mods.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/optimal-controller-mods.html</guid>
-      <pubDate>Mon, 13 Jul 2026 21:35:55 GMT</pubDate>
-      <description>Upgrade your game with pro mods</description>
     </item>
   </channel>
 </rss>

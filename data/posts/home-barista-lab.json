@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-machine-maintenance-3",
+    "title": "Brewing Success: The Secret to Long-Lasting Espresso Machines",
+    "dek": "Regular maintenance can boost your espresso game",
+    "takeaway": "Proper upkeep is key to unlocking your espresso machine's full potential",
+    "whatHappened": "Many home baristas underestimate the importance of regular maintenance for their espresso machines, leading to subpar performance and shortened lifespan. A well-maintained machine can produce high-quality shots with ease, while a neglected one can lead to disappointment. By incorporating simple maintenance tasks into your routine, you can significantly improve your espresso experience.",
+    "whyItMatters": "A well-maintained espresso machine is crucial for achieving consistent flavor and preventing costly repairs. Regular cleaning and descaling can help prevent mineral buildup, reduce wear and tear, and ensure optimal performance. By taking care of your machine, you can enjoy better-tasting espresso and extend its lifespan.",
+    "howToThink": "To maintain your espresso machine, start by establishing a regular cleaning schedule, including daily wipe-downs and weekly deep cleans. Additionally, descale your machine every 3-6 months to prevent mineral buildup. By incorporating these simple tasks into your routine, you can ensure your machine continues to perform at its best and provide you with delicious espresso for years to come.",
+    "pros": [
+      "Improved flavor",
+      "Increased longevity",
+      "Reduced maintenance costs"
+    ],
+    "cons": [
+      "Time-consuming",
+      "Requires descaling solution",
+      "May void warranty if not done correctly"
+    ],
+    "watchOut": "Be cautious not to use abrasive cleaners or scouring pads, as they can damage your machine's surfaces and components",
+    "faq": [
+      {
+        "q": "How often should I clean my espresso machine?",
+        "a": "Daily wipe-downs and weekly deep cleans are recommended"
+      },
+      {
+        "q": "What is descaling and why is it important?",
+        "a": "Descaling removes mineral deposits that can damage your machine and affect flavor"
+      },
+      {
+        "q": "Can I use any cleaning solution on my espresso machine?",
+        "a": "No, use a gentle, non-abrasive cleaner specifically designed for espresso machines to avoid damage"
+      }
+    ],
+    "category": "Gear",
+    "tags": [
+      "espresso maintenance",
+      "coffee gear"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-07-16T04:43:52.284Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-pour-over-mistakes-5",
     "title": "Five mistakes everyone makes in their first month of pour-over",
     "dek": "The most common early stumbles in pour-over, and the cheap corrections that fix them for home coffee enthusiasts.",
