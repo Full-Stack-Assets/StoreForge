@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>&quot;crt setup guide&quot; in practice: a real-world field test</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/crt-setup-guide-field-test-2.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/crt-setup-guide-field-test-2.html</guid>
+      <pubDate>Thu, 16 Jul 2026 22:40:02 GMT</pubDate>
+      <description>We put the most-repeated advice about crt setup guide through a month of actual use. Some of it survived.</description>
+    </item>
+    <item>
       <title>Ask the forge: your indie questions, answered</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/ask-the-forge-indie-4.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/ask-the-forge-indie-4.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/controller-modding-essentials.html</guid>
       <pubDate>Tue, 14 Jul 2026 18:46:17 GMT</pubDate>
       <description>Get ahead with custom controls</description>
-    </item>
-    <item>
-      <title>Retro Bit Revival: Bringing Back Classic Consoles</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/retro-hardware-revival-3.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-hardware-revival-3.html</guid>
-      <pubDate>Tue, 14 Jul 2026 16:50:16 GMT</pubDate>
-      <description>New life for old consoles</description>
     </item>
   </channel>
 </rss>
