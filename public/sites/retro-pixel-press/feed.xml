@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>The quiet upgrade: small tweaks in preservation with outsized returns</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/quiet-upgrade-preservation-4.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/quiet-upgrade-preservation-4.html</guid>
+      <pubDate>Thu, 16 Jul 2026 20:35:52 GMT</pubDate>
+      <description>No purchases, no overhauls — the modest preservation adjustments that retro game collectors and speedrunners report mattering most.</description>
+    </item>
+    <item>
       <title>Myth vs. reality: crt setup guide</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/myth-vs-reality-crt-setup-guide-3.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/myth-vs-reality-crt-setup-guide-3.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/improving-n64-speedruns.html</guid>
       <pubDate>Tue, 14 Jul 2026 15:10:43 GMT</pubDate>
       <description>Turbocharge your N64 speedruns</description>
-    </item>
-    <item>
-      <title>&quot;hidden snes gems&quot; in practice: a real-world field test</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/hidden-snes-gems-field-test.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/hidden-snes-gems-field-test.html</guid>
-      <pubDate>Tue, 14 Jul 2026 12:51:47 GMT</pubDate>
-      <description>We put the most-repeated advice about hidden snes gems through a month of actual use. Some of it survived.</description>
     </item>
   </channel>
 </rss>
