@@ -5,6 +5,13 @@
     <link>https://storeforge-budget-build-bench.vercel.app/</link>
     <description>Fresh takes for PC builders on a budget.</description>
     <item>
+      <title>The upgrades checklist: run this before you spend</title>
+      <link>https://storeforge-budget-build-bench.vercel.app/posts/upgrades-pre-spend-checklist-7.html</link>
+      <guid>https://storeforge-budget-build-bench.vercel.app/posts/upgrades-pre-spend-checklist-7.html</guid>
+      <pubDate>Thu, 16 Jul 2026 23:36:58 GMT</pubDate>
+      <description>Seven questions that separate a justified upgrades purchase from an expensive mood.</description>
+    </item>
+    <item>
       <title>Five mistakes everyone makes in their first month of used parts</title>
       <link>https://storeforge-budget-build-bench.vercel.app/posts/five-used-parts-mistakes-7.html</link>
       <guid>https://storeforge-budget-build-bench.vercel.app/posts/five-used-parts-mistakes-7.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-budget-build-bench.vercel.app/posts/myth-vs-reality-used-pc-parts-guide-2.html</guid>
       <pubDate>Tue, 14 Jul 2026 20:42:53 GMT</pubDate>
       <description>The persistent myths around used pc parts guide, stress-tested against what PC builders on a budget actually report.</description>
-    </item>
-    <item>
-      <title>A weekend project: level up your gpus in two hours</title>
-      <link>https://storeforge-budget-build-bench.vercel.app/posts/weekend-project-gpus-3.html</link>
-      <guid>https://storeforge-budget-build-bench.vercel.app/posts/weekend-project-gpus-3.html</guid>
-      <pubDate>Tue, 14 Jul 2026 18:46:17 GMT</pubDate>
-      <description>One contained, satisfying gpus project for PC builders on a budget — start Saturday morning, done by lunch.</description>
     </item>
   </channel>
 </rss>

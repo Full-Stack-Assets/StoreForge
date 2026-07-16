@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Famicom Restoration for Perfectionists</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/restoring-famicom-perfection.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/restoring-famicom-perfection.html</guid>
+      <pubDate>Thu, 16 Jul 2026 23:36:59 GMT</pubDate>
+      <description>Expert Famicom restoration tips.</description>
+    </item>
+    <item>
       <title>&quot;crt setup guide&quot; in practice: a real-world field test</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/crt-setup-guide-field-test-2.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/crt-setup-guide-field-test-2.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-hardware-revival-4.html</guid>
       <pubDate>Tue, 14 Jul 2026 20:42:54 GMT</pubDate>
       <description>Breathe new life into retro consoles</description>
-    </item>
-    <item>
-      <title>Turbocharging YourGame with DIY Controller Mods</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/controller-modding-essentials.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/controller-modding-essentials.html</guid>
-      <pubDate>Tue, 14 Jul 2026 18:46:17 GMT</pubDate>
-      <description>Get ahead with custom controls</description>
     </item>
   </channel>
 </rss>

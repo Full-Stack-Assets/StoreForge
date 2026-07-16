@@ -1,5 +1,56 @@
 [
   {
+    "slug": "restoring-famicom-perfection",
+    "title": "Famicom Restoration for Perfectionists",
+    "dek": "Expert Famicom restoration tips.",
+    "takeaway": "Proper restoration can significantly enhance your Famicom gaming experience.",
+    "whatHappened": "The Famicom, Japan's version of the NES, has seen a surge in popularity among collectors and speedrunners due to its unique games and hardware. However, many of these consoles are in disrepair, with worn-out controllers and yellowed plastic. A thorough restoration can bring these consoles back to their former glory.",
+    "whyItMatters": "A well-restored Famicom not only looks better but also functions more reliably, reducing the risk of damage to your games and providing a better gaming experience. Moreover, a restored Famicom can increase its value for collectors, making it a worthwhile investment. For speedrunners, a reliable console is essential for achieving top scores.",
+    "howToThink": "When approaching a Famicom restoration, it's essential to prioritize the console's electrical components, ensuring they are clean and functioning correctly. Next, focus on the cosmetic aspects, such as replacing worn-out controllers and refinishing the plastic. Finally, consider upgrading certain components, like the capacitor, to improve the console's overall performance.",
+    "pros": [
+      "Improved reliability",
+      "Enhanced gaming experience",
+      "Increased console value"
+    ],
+    "cons": [
+      "Time-consuming process",
+      "Requires technical expertise",
+      "Can be costly"
+    ],
+    "watchOut": "Be cautious when handling electrical components to avoid damaging the console or causing injury to yourself.",
+    "faq": [
+      {
+        "q": "What is the most critical aspect of Famicom restoration?",
+        "a": "Ensuring the electrical components are clean and functioning correctly."
+      },
+      {
+        "q": "Can I restore my Famicom without technical expertise?",
+        "a": "While possible, it's not recommended, as improper handling of electrical components can damage the console or cause injury."
+      },
+      {
+        "q": "How long does a typical Famicom restoration take?",
+        "a": "The time required varies depending on the extent of the restoration, but expect several hours to several days."
+      }
+    ],
+    "category": "Preservation",
+    "tags": [
+      "Famicom",
+      "Restoration"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-07-16T23:36:59.575Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "crt-setup-guide-field-test-2",
     "title": "\"crt setup guide\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about crt setup guide through a month of actual use. Some of it survived.",
