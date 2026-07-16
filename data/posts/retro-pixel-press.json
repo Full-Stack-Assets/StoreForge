@@ -1,5 +1,56 @@
 [
   {
+    "slug": "custom-snes-controller-builds",
+    "title": "Supercharge Your SNES Experience: Custom Controller Builds",
+    "dek": "Upgrade your SNES setup with a custom controller",
+    "takeaway": "A well-designed custom controller can significantly enhance your SNES gaming experience",
+    "whatHappened": "Retro game enthusiasts have been experimenting with custom SNES controller builds, incorporating features like ergonomic design and customizable buttons. This trend has led to a surge in innovative controller designs that cater to speedrunners and casual gamers alike. As a result, the community is now spoiled for choice when it comes to upgrading their SNES setup",
+    "whyItMatters": "A custom controller can make a significant difference in gaming performance, especially for speedrunners who require precise and swift controls. Moreover, with the rise of retro gaming, custom controllers have become a staple of the community, allowing players to personalize their experience. By investing in a custom controller, gamers can take their SNES experience to the next level",
+    "howToThink": "When considering a custom SNES controller build, think about your specific gaming needs and preferences. Do you prioritize ergonomics, button mapping, or aesthetic design? By weighing these factors, you can create a controller that complements your gaming style and enhances your overall experience. Additionally, research and join online forums to learn from experienced builders and get inspiration for your project",
+    "pros": [
+      "Improved gaming performance",
+      "Customizable design",
+      "Enhanced comfort"
+    ],
+    "cons": [
+      "Higher cost",
+      "Technical expertise required",
+      "Limited compatibility"
+    ],
+    "watchOut": "Be cautious of cheap, low-quality components that can compromise your controller's performance and durability",
+    "faq": [
+      {
+        "q": "What is the average cost of a custom SNES controller build?",
+        "a": "The cost can range from $50 to $200, depending on the materials and features"
+      },
+      {
+        "q": "Do I need technical expertise to build a custom controller?",
+        "a": "While it's helpful, many DIY kits and online tutorials can guide you through the process, making it accessible to beginners"
+      },
+      {
+        "q": "Can I use a custom controller with my original SNES console?",
+        "a": "Yes, most custom controllers are designed to be compatible with the original SNES console, but be sure to check the specifications before making a purchase"
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "SNES",
+      "Custom Controllers"
+    ],
+    "sources": [
+      {
+        "label": "r/retrogaming community threads",
+        "url": "https://www.reddit.com/r/retrogaming/"
+      },
+      {
+        "label": "Search interest: \"retro game restoration\"",
+        "url": "https://duckduckgo.com/?q=retro%20game%20restoration"
+      }
+    ],
+    "publishedAt": "2026-07-16T17:50:17.233Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-snes",
     "title": "Community pulse: what r/snes is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the indie community this week.",
