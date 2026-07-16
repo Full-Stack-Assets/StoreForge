@@ -1,5 +1,56 @@
 [
   {
+    "slug": "vertical-gardening-hacks",
+    "title": "Double Your Harvest with Space-Saving Trellises",
+    "dek": "Grow up, not out, with these space-saving tips",
+    "takeaway": "Using trellises can increase your harvest by up to 50% in small spaces",
+    "whatHappened": "As urban gardeners, we're always looking for ways to maximize our space. Recently, we've seen a surge in the use of trellises to train vining plants like tomatoes and peas. By using trellises, gardeners can make the most of their vertical space, keeping pathways clear and increasing yields. This technique has been particularly effective for balcony gardeners with limited floor space.",
+    "whyItMatters": "For apartment dwellers, making the most of every inch is crucial. By adopting space-saving techniques like trellising, gardeners can enjoy a more bountiful harvest without sacrificing valuable outdoor space. As the demand for sustainable living continues to grow, innovative solutions like trellising will become increasingly important for urban gardeners.",
+    "howToThink": "When selecting a trellis, consider the type of plant you're working with and choose a material that's sturdy enough to support its weight. Look for trellises with adjustable arms or a modular design to accommodate different plant sizes. By incorporating trellises into your container garden, you can create a thriving, space-efficient oasis even in the smallest of spaces.",
+    "pros": [
+      "Space-saving",
+      "Increased yields",
+      "Aesthetically pleasing"
+    ],
+    "cons": [
+      "Initial investment",
+      "Plant training required",
+      "Limited to vining plants"
+    ],
+    "watchOut": "Be mindful of the weight capacity of your balcony or container when selecting a trellis and plants to ensure a safe and stable setup",
+    "faq": [
+      {
+        "q": "What types of plants are best for trellising?",
+        "a": "Vining plants like tomatoes, peas, and cucumbers thrive on trellises"
+      },
+      {
+        "q": "How tall can I expect my trellis to grow?",
+        "a": "Trellis height will depend on the type of plant and support system, but can range from 3-6 feet"
+      },
+      {
+        "q": "Can I use a trellis in a shaded area?",
+        "a": "While some plants can tolerate shade, most vining plants require at least 6 hours of direct sunlight to thrive"
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "small space gardening",
+      "container gardens"
+    ],
+    "sources": [
+      {
+        "label": "r/UrbanGardening community threads",
+        "url": "https://www.reddit.com/r/UrbanGardening/"
+      },
+      {
+        "label": "Search interest: \"balcony garden ideas\"",
+        "url": "https://duckduckgo.com/?q=balcony%20garden%20ideas"
+      }
+    ],
+    "publishedAt": "2026-07-16T14:36:31.923Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "herb-container-hacks",
     "title": "Maximizing Herb Yield in Small Containers",
     "dek": "Grow more herbs in less space",

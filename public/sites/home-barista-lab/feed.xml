@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>Even Extraction: The Secret to Perfect Espresso Shots</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/perfecting-espresso-distribution.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/perfecting-espresso-distribution.html</guid>
+      <pubDate>Thu, 16 Jul 2026 14:36:31 GMT</pubDate>
+      <description>Get perfect espresso every time</description>
+    </item>
+    <item>
       <title>Myth vs. reality: budget grinder upgrade</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/myth-vs-reality-budget-grinder-upgrade.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/myth-vs-reality-budget-grinder-upgrade.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/five-pour-over-mistakes-3.html</guid>
       <pubDate>Tue, 14 Jul 2026 06:57:04 GMT</pubDate>
       <description>The most common early stumbles in pour-over, and the cheap corrections that fix them for home coffee enthusiasts.</description>
-    </item>
-    <item>
-      <title>&quot;home espresso dial in&quot; in practice: a real-world field test</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/home-espresso-dial-in-field-test.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/home-espresso-dial-in-field-test.html</guid>
-      <pubDate>Tue, 14 Jul 2026 04:33:49 GMT</pubDate>
-      <description>We put the most-repeated advice about home espresso dial in through a month of actual use. Some of it survived.</description>
     </item>
   </channel>
 </rss>

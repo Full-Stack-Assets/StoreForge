@@ -1,5 +1,56 @@
 [
   {
+    "slug": "perfecting-espresso-distribution",
+    "title": "Even Extraction: The Secret to Perfect Espresso Shots",
+    "dek": "Get perfect espresso every time",
+    "takeaway": "Proper distribution is key to even extraction in espresso shots",
+    "whatHappened": "Recently, we've seen a surge in home baristas investing in high-end espresso machines, but still struggling to achieve consistent shots. This is often due to inadequate distribution of coffee grounds in the portafilter. By not ensuring even extraction, home baristas are leaving flavor on the table. The issue lies in the technique and tools used for distribution.",
+    "whyItMatters": "Even extraction is crucial for bringing out the full flavor potential of espresso. Uneven distribution can lead to channeling, under-extraction, or over-extraction, resulting in a subpar shot. By mastering distribution, home baristas can elevate their espresso game and enjoy a more refined coffee experience.",
+    "howToThink": "To achieve perfect distribution, home baristas should focus on using the right tools, such as a distribution tool or a WDT, and developing a consistent technique. It's also essential to experiment with different roasts and grind settings to find the optimal combination for their equipment. By doing so, they can ensure a balanced and flavorful shot every time.",
+    "pros": [
+      "Consistent flavor",
+      "Easy to learn",
+      "Affordable tools"
+    ],
+    "cons": [
+      "Requires practice",
+      "May not work with all grinders",
+      "Additional equipment needed"
+    ],
+    "watchOut": "Be cautious not to over-tamp or under-tamp the coffee grounds, as this can negatively impact distribution and extraction",
+    "faq": [
+      {
+        "q": "What is the best distribution tool for home baristas?",
+        "a": "A WDT or a distribution tool with a built-in level is recommended"
+      },
+      {
+        "q": "How often should I clean my distribution tool?",
+        "a": "After every use to prevent old coffee oils from building up"
+      },
+      {
+        "q": "Can I use a DIY distribution tool?",
+        "a": "While possible, it's not recommended, as DIY tools may not provide consistent results"
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "Espresso",
+      "Distribution"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-07-16T14:36:31.894Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-budget-grinder-upgrade",
     "title": "Myth vs. reality: budget grinder upgrade",
     "dek": "The persistent myths around budget grinder upgrade, stress-tested against what home coffee enthusiasts actually report.",

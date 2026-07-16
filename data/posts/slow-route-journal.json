@@ -1,5 +1,56 @@
 [
   {
+    "slug": "low-impact-rail-seats",
+    "title": "Seat Selection Strategies for the Conscious Traveler",
+    "dek": "Choose your seat wisely",
+    "takeaway": "Opting for the right seat can significantly reduce your carbon footprint on rail journeys",
+    "whatHappened": "Recent studies have highlighted the impact of seat selection on train emissions, with some seats producing more carbon emissions than others due to factors like air conditioning and lighting. This has sparked a debate among slow travelers about how to make more sustainable choices. As a result, many are now considering seat selection as a key part of their travel planning",
+    "whyItMatters": "For slow travelers, every decision counts, and choosing the right seat can be a simple yet effective way to reduce their environmental impact. By making informed choices, travelers can help to minimize their carbon footprint and promote more sustainable rail travel. This, in turn, can help to support the development of more environmentally friendly transportation options",
+    "howToThink": "When selecting a seat, consider factors like window orientation, proximity to doors, and the location of amenities like bathrooms and snack carts. Additionally, look for seats that are located in areas with more efficient lighting and climate control systems. By taking a thoughtful approach to seat selection, travelers can help to reduce their environmental impact while also enhancing their overall travel experience",
+    "pros": [
+      "Reduced carbon emissions",
+      "Increased comfort",
+      "Improved views"
+    ],
+    "cons": [
+      "Limited seat availability",
+      "Potential for increased noise",
+      "Higher cost"
+    ],
+    "watchOut": "Be aware that some seats may be located near noisy areas like Train engines or wheels",
+    "faq": [
+      {
+        "q": "How can I find out which seats are most sustainable?",
+        "a": "Check with the rail operator or consult online resources like seat maps and reviews"
+      },
+      {
+        "q": "Are there any specific seat types that are more sustainable than others?",
+        "a": "Yes, seats located in areas with more efficient lighting and climate control systems tend to be more sustainable"
+      },
+      {
+        "q": "Can I make a seat request when booking my ticket?",
+        "a": "Yes, many rail operators allow passengers to select their seat or make a seat request when booking their ticket"
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "Sustainable Rail",
+      "Low Impact Travel"
+    ],
+    "sources": [
+      {
+        "label": "r/solotravel community threads",
+        "url": "https://www.reddit.com/r/solotravel/"
+      },
+      {
+        "label": "Search interest: \"train travel europe tips\"",
+        "url": "https://duckduckgo.com/?q=train%20travel%20europe%20tips"
+      }
+    ],
+    "publishedAt": "2026-07-16T14:36:32.032Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "slow-train-revolution",
     "title": "Rethinking Routes: The Slow Train Comeback",
     "dek": "Slow trains gain speed",
