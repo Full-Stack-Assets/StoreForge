@@ -1,5 +1,56 @@
 [
   {
+    "slug": "slow-train-revolution",
+    "title": "Rethinking Routes: The Slow Train Comeback",
+    "dek": "Slow trains gain speed",
+    "takeaway": "Slow trains offer an eco-friendly alternative to flights and fast trains for travelers",
+    "whatHappened": "In recent years, there has been a resurgence of interest in slow train travel, with many countries investing in revitalized rail networks and nostalgic train routes. This shift is driven by growing concerns about climate change and the environmental impact of air travel. As a result, slow trains are becoming increasingly popular among travelers seeking a more sustainable and scenic way to explore",
+    "whyItMatters": "The slow train revolution matters because it provides a unique opportunity for travelers to experience the local culture and scenery of a region while minimizing their carbon footprint. By choosing slow trains, travelers can contribute to a more sustainable tourism industry and support local economies. Furthermore, slow trains often offer a more relaxed and enjoyable travel experience, allowing passengers to unwind and appreciate the journey",
+    "howToThink": "When considering slow train travel, think about the overall travel experience and not just the destination. Research scenic routes and book tickets in advance to secure the best seats. Additionally, pack light and bring entertainment for the journey, as slow trains often have limited onboard amenities. By adopting a slow travel mindset, you can make the most of your journey and create lasting memories",
+    "pros": [
+      "Scenic views",
+      "Eco-friendly",
+      "Relaxed pace"
+    ],
+    "cons": [
+      "Longer travel times",
+      "Limited amenities",
+      "Higher costs"
+    ],
+    "watchOut": "Be aware of potential delays and plan your itinerary accordingly",
+    "faq": [
+      {
+        "q": "What is slow train travel?",
+        "a": "Slow train travel refers to taking trains that prioritize scenic routes and local experiences over speed"
+      },
+      {
+        "q": "Is slow train travel expensive?",
+        "a": "Slow train travel can be more expensive than fast trains or flights, but it offers a unique experience and contributes to sustainable tourism"
+      },
+      {
+        "q": "Can I book slow train tickets online?",
+        "a": "Yes, many rail networks offer online booking systems for slow train tickets, making it easy to plan your journey"
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "Slow Travel",
+      "Sustainable Tourism"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-07-16T12:08:54.673Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-rail-4",
     "title": "A weekend project: level up your rail in two hours",
     "dek": "One contained, satisfying rail project for slow-travel — start Saturday morning, done by lunch.",

@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Rev Up Your SNES: Restoration Tips for Speedrunners</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/restoring-snes-consoles-for-speed.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/restoring-snes-consoles-for-speed.html</guid>
+      <pubDate>Thu, 16 Jul 2026 12:08:54 GMT</pubDate>
+      <description>Supercharge your SNES for record-breaking speedruns</description>
+    </item>
+    <item>
       <title>Resurrecting the 8-Bit Beast: A Guide to Restoring NES Consoles</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/restoring-nes-consoles.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/restoring-nes-consoles.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-hardware-revival-2.html</guid>
       <pubDate>Tue, 14 Jul 2026 04:33:51 GMT</pubDate>
       <description>Revive old consoles with DIY mods</description>
-    </item>
-    <item>
-      <title>Community pulse: what r/retrogaming is debating this week</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/community-pulse-retrogaming.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/community-pulse-retrogaming.html</guid>
-      <pubDate>Tue, 14 Jul 2026 01:03:27 GMT</pubDate>
-      <description>The arguments, consensus shifts, and quietly useful threads from the indie community this week.</description>
     </item>
   </channel>
 </rss>

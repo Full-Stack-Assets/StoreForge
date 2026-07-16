@@ -1,5 +1,56 @@
 [
   {
+    "slug": "herb-container-hacks",
+    "title": "Maximizing Herb Yield in Small Containers",
+    "dek": "Grow more herbs in less space",
+    "takeaway": "Using the right container size and layout can significantly increase herb yields",
+    "whatHappened": "Recent experiments with compact herb gardening have shown that careful container selection and arrangement can lead to remarkable increases in herb production. By optimizing space and minimizing waste, apartment dwellers can enjoy a bounty of fresh herbs. This approach has been particularly successful with popular herbs like basil and mint.",
+    "whyItMatters": "For balcony gardeners, making the most of limited space is crucial for a successful and sustainable herb garden. By applying the principles of efficient container use, gardeners can reduce their environmental footprint while enhancing their culinary experiences. This knowledge can also help reduce costs associated with buying herbs and increase food security.",
+    "howToThink": "To apply these findings, consider using vertical planters or tiered containers to maximize space. Choose herbs that thrive in compact conditions and prune them regularly to promote bushy growth. Additionally, select containers with good drainage to prevent waterlogged soil, a common issue in small spaces.",
+    "pros": [
+      "Increased yields",
+      "Space efficiency",
+      "Improved flavor"
+    ],
+    "cons": [
+      "Higher upfront costs",
+      "Requires regular pruning",
+      "Limited crop selection"
+    ],
+    "watchOut": "Be cautious not to overwater, as this can lead to root rot and other issues in compact containers",
+    "faq": [
+      {
+        "q": "What herbs are best for compact containers?",
+        "a": "Basil, mint, and parsley are excellent choices"
+      },
+      {
+        "q": "How often should I water my herbs in small containers?",
+        "a": "Water when the top inch of soil feels dry to the touch"
+      },
+      {
+        "q": "Can I use regular potting soil in my compact herb containers?",
+        "a": "It's recommended to use a well-draining potting mix specifically designed for containers"
+      }
+    ],
+    "category": "Herbs",
+    "tags": [
+      "herb gardening",
+      "small space"
+    ],
+    "sources": [
+      {
+        "label": "r/vegetablegardening community threads",
+        "url": "https://www.reddit.com/r/vegetablegardening/"
+      },
+      {
+        "label": "Search interest: \"indoor herb garden\"",
+        "url": "https://duckduckgo.com/?q=indoor%20herb%20garden"
+      }
+    ],
+    "publishedAt": "2026-07-16T12:08:54.610Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-containers-5",
     "title": "A weekend project: level up your containers in two hours",
     "dek": "One contained, satisfying containers project for apartment dwellers — start Saturday morning, done by lunch.",
