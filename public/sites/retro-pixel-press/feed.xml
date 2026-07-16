@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Ask the forge: your indie questions, answered</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/ask-the-forge-indie-4.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/ask-the-forge-indie-4.html</guid>
+      <pubDate>Thu, 16 Jul 2026 21:44:35 GMT</pubDate>
+      <description>Straight answers to the indie questions retro game collectors and speedrunners keep asking, minus the hedging.</description>
+    </item>
+    <item>
       <title>The quiet upgrade: small tweaks in preservation with outsized returns</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/quiet-upgrade-preservation-4.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/quiet-upgrade-preservation-4.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-hardware-revival-3.html</guid>
       <pubDate>Tue, 14 Jul 2026 16:50:16 GMT</pubDate>
       <description>New life for old consoles</description>
-    </item>
-    <item>
-      <title>Optimizing N64 Controllers for Speedrunners</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/improving-n64-speedruns.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/improving-n64-speedruns.html</guid>
-      <pubDate>Tue, 14 Jul 2026 15:10:43 GMT</pubDate>
-      <description>Turbocharge your N64 speedruns</description>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "sustainable-stay-secrets",
+    "title": "Staying Local: The Untapped Potential of Community Guesthouses",
+    "dek": "Discover authentic community guesthouses for a more immersive travel experience",
+    "takeaway": "Staying in community guesthouses can greatly reduce your carbon footprint and support local economies",
+    "whatHappened": "As slow travelers, we're constantly seeking ways to minimize our impact on the environment and truly experience local cultures. Community guesthouses offer a unique opportunity to do just that. By staying in these hidden gems, we can reduce our reliance on large hotel chains and support local families and communities.",
+    "whyItMatters": "The rise of sustainable tourism has led to an increased demand for eco-friendly accommodations, and community guesthouses are at the forefront of this movement. By choosing to stay in these guesthouses, we're not only reducing our carbon footprint but also contributing to the local economy and preserving traditional ways of life. This, in turn, helps to promote cultural exchange and understanding.",
+    "howToThink": "When searching for community guesthouses, consider factors such as location, amenities, and reviews from fellow travelers. Look for guesthouses that are family-owned and operated, and prioritize those that use sustainable practices and source local materials. By taking the time to research and choose a community guesthouse, you'll be rewarded with a more authentic and immersive travel experience.",
+    "pros": [
+      "Immersion in local culture",
+      "Support for local economies",
+      "Eco-friendly practices"
+    ],
+    "cons": [
+      "Limited amenities",
+      "Variable quality",
+      "Off-the-beaten-path locations"
+    ],
+    "watchOut": "Be cautious of guesthouses that claim to be community-run but are actually owned by large corporations, as this can lead to a loss of authenticity and cultural integrity",
+    "faq": [
+      {
+        "q": "What is a community guesthouse?",
+        "a": "A community guesthouse is a small, family-owned accommodation that is often operated by local families and communities."
+      },
+      {
+        "q": "How can I find community guesthouses?",
+        "a": "You can find community guesthouses through online research, word of mouth, and recommendations from fellow travelers."
+      },
+      {
+        "q": "What are the benefits of staying in a community guesthouse?",
+        "a": "The benefits of staying in a community guesthouse include immersion in local culture, support for local economies, and eco-friendly practices."
+      }
+    ],
+    "category": "Stays",
+    "tags": [
+      "sustainable tourism",
+      "eco-friendly stays"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-07-16T21:44:37.161Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "packing-pre-spend-checklist-4",
     "title": "The packing checklist: run this before you spend",
     "dek": "Seven questions that separate a justified packing purchase from an expensive mood.",
