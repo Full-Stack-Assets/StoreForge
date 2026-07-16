@@ -1,5 +1,56 @@
 [
   {
+    "slug": "coffee-roast-temperature-control",
+    "title": "Temperature Tantrums: Mastering Roast Temperature for Home Baristas",
+    "dek": "Unlock perfect roasts with temperature control.",
+    "takeaway": "Precise temperature control is key to achieving consistent and flavorful coffee roasts at home.",
+    "whatHappened": "Recently, home coffee roasting has experienced a surge in popularity, with many enthusiasts investing in bespoke roasting equipment. However, temperature control remains a significant hurdle for those seeking to perfect their roasting technique. Without precise control, roasts can be inconsistent, leading to a lackluster flavor profile.",
+    "whyItMatters": "Temperature plays a critical role in coffee roasting, as it directly affects the chemical reactions that occur during the roasting process. By mastering temperature control, home baristas can tailor their roasts to specific flavor profiles, from light and fruity to dark and smoky. This level of control also enables the replication of favorite roasts, ensuring a consistent supply of high-quality coffee.",
+    "howToThink": "To improve temperature control, home baristas should invest in a thermometer and a heat source with adjustable settings. It's also crucial to monitor temperature fluctuations during the roasting process and make adjustments as necessary. By doing so, enthusiasts can develop a keen sense of how temperature affects their roasts and make data-driven decisions to refine their technique.",
+    "pros": [
+      "Improved flavor control",
+      "Increased consistency",
+      "Enhanced roast quality"
+    ],
+    "cons": [
+      "Steeper learning curve",
+      "Higher equipment costs",
+      "Increased complexity"
+    ],
+    "watchOut": "Improper temperature control can lead to under or over-roasted beans, resulting in a subpar flavor profile.",
+    "faq": [
+      {
+        "q": "What is the ideal temperature range for coffee roasting?",
+        "a": "Between 400°F and 450°F"
+      },
+      {
+        "q": "How often should I calibrate my thermometer?",
+        "a": "Every 1-2 months or as recommended by the manufacturer"
+      },
+      {
+        "q": "Can I achieve good temperature control with a popcorn popper?",
+        "a": "While possible, it's challenging due to limited heat control and potential hotspots"
+      }
+    ],
+    "category": "Roasting",
+    "tags": [
+      "roast mastery",
+      "temperature control"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-07-16T09:48:32.488Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "espresso-machine-maintenance-4",
     "title": "The Daily Grind: How Regular Cleaning Saves Your Espresso",
     "dek": "Keep your machine in top shape",

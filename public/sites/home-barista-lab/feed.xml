@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>Temperature Tantrums: Mastering Roast Temperature for Home Baristas</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/coffee-roast-temperature-control.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/coffee-roast-temperature-control.html</guid>
+      <pubDate>Thu, 16 Jul 2026 09:48:32 GMT</pubDate>
+      <description>Unlock perfect roasts with temperature control.</description>
+    </item>
+    <item>
       <title>The Daily Grind: How Regular Cleaning Saves Your Espresso</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-maintenance-4.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-maintenance-4.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/tuning-espresso-grind.html</guid>
       <pubDate>Tue, 14 Jul 2026 01:03:29 GMT</pubDate>
       <description>Dial in your grind for better espresso</description>
-    </item>
-    <item>
-      <title>The Secret to a Longer-Lasting Espresso Machine</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-maintenance.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-maintenance.html</guid>
-      <pubDate>Mon, 13 Jul 2026 23:33:58 GMT</pubDate>
-      <description>Regular maintenance is key</description>
     </item>
   </channel>
 </rss>

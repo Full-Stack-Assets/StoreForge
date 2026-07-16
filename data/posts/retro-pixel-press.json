@@ -1,5 +1,56 @@
 [
   {
+    "slug": "restoring-nes-consoles",
+    "title": "Resurrecting the 8-Bit Beast: A Guide to Restoring NES Consoles",
+    "dek": "Breathe new life into your old NES console",
+    "takeaway": "With the right tools and techniques, you can restore your NES console to its former glory",
+    "whatHappened": "The NES remains one of the most beloved consoles of all time, but decades of use can take a toll on its hardware. Many collectors and speedrunners are now turning to restoration as a way to preserve their childhood memories. By restoring their NES consoles, enthusiasts can ensure that these classic systems continue to function properly for years to come.",
+    "whyItMatters": "Restoring an NES console is not just about preserving a piece of gaming history, but also about ensuring that these systems remain functional for future generations. A restored NES console can provide a unique gaming experience that is hard to replicate with modern consoles. Additionally, restoration can also increase the console's value, making it a worthwhile investment for collectors.",
+    "howToThink": "When approaching an NES restoration project, it's essential to start with a thorough cleaning of the console and its components. Next, inspect the system for any damaged or worn-out parts, such as capacitors or fuses, and replace them as needed. Finally, apply a protective coating to the console's PCB to prevent further damage from corrosion or wear.",
+    "pros": [
+      "Improved performance",
+      "Increased console value",
+      "Preserves gaming history"
+    ],
+    "cons": [
+      "Time-consuming process",
+      "Requires technical expertise",
+      "Can be costly"
+    ],
+    "watchOut": "Be cautious when handling sensitive electronic components to avoid causing further damage to the console",
+    "faq": [
+      {
+        "q": "What is the most common issue with old NES consoles?",
+        "a": "Capacitor failure and corrosion are common issues that can cause an NES console to malfunction"
+      },
+      {
+        "q": "Do I need to be an expert to restore an NES console?",
+        "a": "While technical expertise can be helpful, many restoration tasks can be completed with basic electronics knowledge and the right tools"
+      },
+      {
+        "q": "Can I use a restored NES console for speedrunning?",
+        "a": "Yes, a properly restored NES console can provide a stable and consistent platform for speedrunning, but it's essential to ensure that the console is calibrated correctly"
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "NES restoration",
+      "Retro console repair"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-07-16T09:48:32.528Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "retro-console-performance-optimization",
     "title": "Optimizing Retro Consoles for Speed",
     "dek": "Boost your retro console's performance",
