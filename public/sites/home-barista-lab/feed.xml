@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>The Daily Grind: How Regular Cleaning Saves Your Espresso</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-maintenance-4.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-maintenance-4.html</guid>
+      <pubDate>Thu, 16 Jul 2026 07:09:30 GMT</pubDate>
+      <description>Keep your machine in top shape</description>
+    </item>
+    <item>
       <title>Brewing Success: The Secret to Long-Lasting Espresso Machines</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-maintenance-3.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-maintenance-3.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-maintenance.html</guid>
       <pubDate>Mon, 13 Jul 2026 23:33:58 GMT</pubDate>
       <description>Regular maintenance is key</description>
-    </item>
-    <item>
-      <title>Myth vs. reality: home espresso dial in</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/myth-vs-reality-home-espresso-dial-in.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/myth-vs-reality-home-espresso-dial-in.html</guid>
-      <pubDate>Mon, 13 Jul 2026 22:36:59 GMT</pubDate>
-      <description>The persistent myths around home espresso dial in, stress-tested against what home coffee enthusiasts actually report.</description>
     </item>
   </channel>
 </rss>

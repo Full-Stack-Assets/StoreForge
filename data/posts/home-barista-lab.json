@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-machine-maintenance-4",
+    "title": "The Daily Grind: How Regular Cleaning Saves Your Espresso",
+    "dek": "Keep your machine in top shape",
+    "takeaway": "Regular cleaning extends the life of your espresso machine and improves flavor",
+    "whatHappened": "A recent survey of home baristas found that many espresso machine owners neglect regular cleaning, leading to decreased performance and flavor. This can result in a buildup of old coffee oils and residue, affecting the taste of every shot. By incorporating a daily cleaning routine, home baristas can prevent this issue",
+    "whyItMatters": "A well-maintained espresso machine is essential for producing high-quality shots, and neglecting cleaning can lead to expensive repairs or even replacement. Regular cleaning also helps to prevent bacterial growth and keeps the machine in good working order. This, in turn, ensures that every cup of coffee tastes its best",
+    "howToThink": "To keep your espresso machine in top condition, set aside a few minutes each day to wipe down the exterior, clean the brew group, and descale the machine regularly. This simple routine can make a significant difference in the flavor and longevity of your machine. Start by incorporating one new cleaning habit into your daily routine and build from there",
+    "pros": [
+      "Improved flavor",
+      "Extended machine life",
+      "Easy to implement"
+    ],
+    "cons": [
+      "Time-consuming",
+      "Requires effort",
+      "Additional cost for cleaning supplies"
+    ],
+    "watchOut": "Be careful not to use abrasive cleaners, as they can damage the machine's surfaces",
+    "faq": [
+      {
+        "q": "How often should I clean my espresso machine?",
+        "a": "Daily, with a deeper clean once a week"
+      },
+      {
+        "q": "What cleaning products should I use?",
+        "a": "Mild detergents and water, or specialized espresso machine cleaning solutions"
+      },
+      {
+        "q": "Can I use a mixture of water and vinegar to clean my machine?",
+        "a": "Yes, a 1:1 mixture of water and vinegar can be used to descale and clean the machine"
+      }
+    ],
+    "category": "Gear",
+    "tags": [
+      "espresso",
+      "gear"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-07-16T07:09:30.906Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "espresso-machine-maintenance-3",
     "title": "Brewing Success: The Secret to Long-Lasting Espresso Machines",
     "dek": "Regular maintenance can boost your espresso game",

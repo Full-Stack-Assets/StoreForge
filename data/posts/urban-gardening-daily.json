@@ -1,5 +1,56 @@
 [
   {
+    "slug": "micro-green-revolution",
+    "title": "Growing Micro Greens in Small Spaces",
+    "dek": "Maximize space with micro greens",
+    "takeaway": "Micro greens can thrive in tiny containers with proper care",
+    "whatHappened": "Micro greens have become increasingly popular among urban gardeners due to their ability to thrive in small spaces. They can be harvested in as little as 1-3 weeks, making them a great option for apartment dwellers. With the right conditions, micro greens can be grown year-round, providing a constant supply of fresh produce.",
+    "whyItMatters": "Growing micro greens in small spaces is a game-changer for urban gardeners, as it allows them to produce their own food despite limited space. Micro greens are also packed with nutrients, making them a great addition to a healthy diet. By growing their own micro greens, urban gardeners can reduce their reliance on industrial agriculture and lower their carbon footprint.",
+    "howToThink": "To get started with growing micro greens, choose a container that is at least 1-2 inches deep and has good drainage. Select a mix of micro green seeds that are suitable for indoor growing, and make sure to provide them with adequate light and water. With a little practice, you can be harvesting your own micro greens in no time and enjoying the benefits of fresh, homegrown produce.",
+    "pros": [
+      "Space-efficient",
+      "Fast growth rate",
+      "Nutrient-rich"
+    ],
+    "cons": [
+      "Requires adequate light",
+      "Can be sensitive to temperature",
+      "May require frequent watering"
+    ],
+    "watchOut": "Be careful not to overwater your micro greens, as this can lead to mold and poor growth",
+    "faq": [
+      {
+        "q": "What are micro greens?",
+        "a": "Young, immature versions of leafy greens and other vegetables"
+      },
+      {
+        "q": "How much light do micro greens need?",
+        "a": "Most micro greens require at least 4-6 hours of direct sunlight or 12-14 hours of indirect sunlight per day"
+      },
+      {
+        "q": "Can I grow micro greens indoors?",
+        "a": "Yes, micro greens can be grown indoors using a sunny windowsill, grow lights, or a indoor growing system"
+      }
+    ],
+    "category": "Herbs",
+    "tags": [
+      "urban gardening",
+      "small space gardening"
+    ],
+    "sources": [
+      {
+        "label": "r/UrbanGardening community threads",
+        "url": "https://www.reddit.com/r/UrbanGardening/"
+      },
+      {
+        "label": "Search interest: \"balcony garden ideas\"",
+        "url": "https://duckduckgo.com/?q=balcony%20garden%20ideas"
+      }
+    ],
+    "publishedAt": "2026-07-16T07:09:30.619Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "composting-pre-spend-checklist-6",
     "title": "The composting checklist: run this before you spend",
     "dek": "Seven questions that separate a justified composting purchase from an expensive mood.",

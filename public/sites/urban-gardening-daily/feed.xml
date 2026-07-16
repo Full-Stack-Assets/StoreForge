@@ -5,6 +5,13 @@
     <link>https://storeforge-urban-gardening-daily.vercel.app/</link>
     <description>Fresh takes for apartment dwellers and balcony gardeners.</description>
     <item>
+      <title>Growing Micro Greens in Small Spaces</title>
+      <link>https://storeforge-urban-gardening-daily.vercel.app/posts/micro-green-revolution.html</link>
+      <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/micro-green-revolution.html</guid>
+      <pubDate>Thu, 16 Jul 2026 07:09:30 GMT</pubDate>
+      <description>Maximize space with micro greens</description>
+    </item>
+    <item>
       <title>The composting checklist: run this before you spend</title>
       <link>https://storeforge-urban-gardening-daily.vercel.app/posts/composting-pre-spend-checklist-6.html</link>
       <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/composting-pre-spend-checklist-6.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/balcony-gardening-hacks.html</guid>
       <pubDate>Mon, 13 Jul 2026 23:33:58 GMT</pubDate>
       <description>Unlock hidden space on your balcony</description>
-    </item>
-    <item>
-      <title>Myth vs. reality: balcony garden ideas</title>
-      <link>https://storeforge-urban-gardening-daily.vercel.app/posts/myth-vs-reality-balcony-garden-ideas.html</link>
-      <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/myth-vs-reality-balcony-garden-ideas.html</guid>
-      <pubDate>Mon, 13 Jul 2026 22:36:59 GMT</pubDate>
-      <description>The persistent myths around balcony garden ideas, stress-tested against what apartment dwellers and balcony gardeners actually report.</description>
     </item>
   </channel>
 </rss>

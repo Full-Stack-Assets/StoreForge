@@ -1,5 +1,56 @@
 [
   {
+    "slug": "retro-console-performance-optimization",
+    "title": "Optimizing Retro Consoles for Speed",
+    "dek": "Boost your retro console's performance",
+    "takeaway": "Proper optimization can significantly improve your retro gaming experience and speedruns",
+    "whatHappened": "Retro console collectors and speedrunners often overlook the importance of optimizing their hardware for peak performance. This neglect can result in subpar gaming experiences and slower speedruns. Recently, enthusiasts have begun sharing their optimization techniques, leading to a surge in community interest",
+    "whyItMatters": "Optimizing retro consoles is crucial for achieving faster speedruns and a more immersive gaming experience. A well-optimized console can also extend the lifespan of the hardware, reducing the need for costly repairs or replacements. Furthermore, optimization can help preserve the integrity of the original gaming experience",
+    "howToThink": "When optimizing your retro console, consider the type of games you play and the desired performance level. Assess your console's current state and identify areas for improvement, such as cleaning, upgrading, or adjusting components. Research and experiment with different optimization techniques to find the best approach for your specific console and needs",
+    "pros": [
+      "Improved performance",
+      "Enhanced gaming experience",
+      "Increased console lifespan"
+    ],
+    "cons": [
+      "Risk of damage",
+      "Cost of upgrades",
+      "Time-consuming process"
+    ],
+    "watchOut": "Be cautious when handling internal components to avoid damaging your console",
+    "faq": [
+      {
+        "q": "What is the most important factor in optimizing retro console performance?",
+        "a": "Proper cleaning and maintenance of the console's internal components"
+      },
+      {
+        "q": "Can I use modern upgrades to improve my retro console's performance?",
+        "a": "Yes, but be sure to research compatibility and potential risks before installing any upgrades"
+      },
+      {
+        "q": "How often should I optimize my retro console?",
+        "a": "Regularly, ideally every 6-12 months, to maintain peak performance and prevent degradation"
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "RetroConsoles",
+      "SpeedrunOptimization"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-07-16T07:09:30.942Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "retro-console-upgrades",
     "title": "Upgrade Your Childhood: DIY Retro Console Upgrades",
     "dek": "Unlock new life from old consoles",

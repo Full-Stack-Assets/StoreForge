@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Optimizing Retro Consoles for Speed</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-performance-optimization.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-performance-optimization.html</guid>
+      <pubDate>Thu, 16 Jul 2026 07:09:30 GMT</pubDate>
+      <description>Boost your retro console&apos;s performance</description>
+    </item>
+    <item>
       <title>Upgrade Your Childhood: DIY Retro Console Upgrades</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-upgrades.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-upgrades.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-hardware-revival.html</guid>
       <pubDate>Mon, 13 Jul 2026 23:33:59 GMT</pubDate>
       <description>Revive retro consoles with ease</description>
-    </item>
-    <item>
-      <title>Emulation Evolution: Bringing Retro Games to Modern Consoles</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/retro-game-emulation-on-modern-consoles.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-game-emulation-on-modern-consoles.html</guid>
-      <pubDate>Mon, 13 Jul 2026 22:37:01 GMT</pubDate>
-      <description>Retro games on modern consoles made easy</description>
     </item>
   </channel>
 </rss>
