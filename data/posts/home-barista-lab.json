@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-machine-maintenance-5",
+    "title": "The Importance of Regular Espresso Machine Maintenance",
+    "dek": "Keep your machine running smoothly",
+    "takeaway": "Regular maintenance is key to extending the life of your espresso machine",
+    "whatHappened": "A well-maintained espresso machine can produce perfect shots every time, but neglecting maintenance can lead to poor taste and machine failure. Recently, many home baristas have reported issues with their machines due to lack of regular cleaning and maintenance. This highlights the need for a routine maintenance schedule to prevent such problems.",
+    "whyItMatters": "Proper maintenance is crucial for ensuring the quality and consistency of your espresso shots, as well as extending the lifespan of your machine. A dirty or clogged machine can lead to a range of issues, from poor flavor to complete machine failure. By prioritizing maintenance, you can avoid these problems and enjoy great espresso at home.",
+    "howToThink": "To maintain your espresso machine, start by cleaning the brew group and portafilter after each use, and descale the machine every 3-6 months. Additionally, regularly check and replace worn-out parts, such as gaskets and seals, to prevent leaks and other issues. By following these simple steps, you can keep your machine in top condition and ensure great-tasting espresso every time.",
+    "pros": [
+      "Improved flavor",
+      "Increased longevity",
+      "Reduced repair costs"
+    ],
+    "cons": [
+      "Time-consuming",
+      "Requires effort",
+      "Additional expense"
+    ],
+    "watchOut": "Neglecting maintenance can lead to costly repairs or even machine replacement",
+    "faq": [
+      {
+        "q": "How often should I clean my espresso machine?",
+        "a": "Daily, with a deep clean every week"
+      },
+      {
+        "q": "What are the most important maintenance tasks?",
+        "a": "Cleaning the brew group and portafilter, and descaling the machine"
+      },
+      {
+        "q": "Can I perform maintenance tasks myself?",
+        "a": "Yes, many tasks can be done at home with the right tools and knowledge"
+      }
+    ],
+    "category": "Gear",
+    "tags": [
+      "Espresso Machine",
+      "Maintenance"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-07-16T19:45:09.986Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "budget-grinder-upgrade-field-test-3",
     "title": "\"budget grinder upgrade\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about budget grinder upgrade through a month of actual use. Some of it survived.",

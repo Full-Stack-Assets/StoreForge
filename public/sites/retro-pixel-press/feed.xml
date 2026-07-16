@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Myth vs. reality: crt setup guide</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/myth-vs-reality-crt-setup-guide-3.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/myth-vs-reality-crt-setup-guide-3.html</guid>
+      <pubDate>Thu, 16 Jul 2026 19:45:08 GMT</pubDate>
+      <description>The persistent myths around crt setup guide, stress-tested against what retro game collectors and speedrunners actually report.</description>
+    </item>
+    <item>
       <title>Supercharge Your SNES Experience: Custom Controller Builds</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/custom-snes-controller-builds.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/custom-snes-controller-builds.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/hidden-snes-gems-field-test.html</guid>
       <pubDate>Tue, 14 Jul 2026 12:51:47 GMT</pubDate>
       <description>We put the most-repeated advice about hidden snes gems through a month of actual use. Some of it survived.</description>
-    </item>
-    <item>
-      <title>Optimizing Emulators for Retro Game Speedrunning</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/retro-game-emulator-optimization.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-game-emulator-optimization.html</guid>
-      <pubDate>Tue, 14 Jul 2026 11:11:37 GMT</pubDate>
-      <description>Get the edge with optimized emulators</description>
     </item>
   </channel>
 </rss>

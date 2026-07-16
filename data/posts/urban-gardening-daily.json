@@ -1,5 +1,56 @@
 [
   {
+    "slug": "winter-herb-care-2",
+    "title": "Winterizing Your Herb Garden: A Seasonal Survival Guide",
+    "dek": "Protect your herbs from winter damage",
+    "takeaway": "With proper care, your herbs can thrive year-round",
+    "whatHappened": "As winter approaches, many herb gardeners struggle to keep their plants alive. Frost, lack of sunlight, and dry air can all take a toll on sensitive herbs. However, with the right techniques, you can keep your herbs healthy and thriving even in the coldest months.",
+    "whyItMatters": "Herbs are a great way to add fresh flavor to winter meals, and having a steady supply can make a big difference in your cooking. Additionally, many herbs have medicinal properties that can help boost your immune system during the cold and flu season. By winterizing your herb garden, you can enjoy these benefits all year round.",
+    "howToThink": "To keep your herbs happy in winter, think about providing them with the right conditions: plenty of light, protection from frost, and consistent moisture. Consider using grow lights, bringing plants indoors, or using cold frames to extend the growing season. With a little creativity, you can enjoy fresh herbs even in the dead of winter.",
+    "pros": [
+      "Year-round harvest",
+      "Improved air quality",
+      "Increased flavor"
+    ],
+    "cons": [
+      "Requires extra care",
+      "Limited natural light",
+      "Potential for overwatering"
+    ],
+    "watchOut": "Be careful not to overwater your herbs in winter, as this can lead to root rot and other problems",
+    "faq": [
+      {
+        "q": "Can I leave my herbs outside in winter?",
+        "a": "It depends on the type of herb and your climate, but in general, it's best to bring them indoors or provide protection from frost"
+      },
+      {
+        "q": "How often should I water my herbs in winter?",
+        "a": "Check the soil daily and water only when it feels dry to the touch, as overwatering can be detrimental"
+      },
+      {
+        "q": "Can I use grow lights to supplement natural light?",
+        "a": "Yes, grow lights can be a great way to provide your herbs with the light they need to thrive, especially in areas with limited natural light"
+      }
+    ],
+    "category": "Herbs",
+    "tags": [
+      "winter gardening",
+      "herb care"
+    ],
+    "sources": [
+      {
+        "label": "r/UrbanGardening community threads",
+        "url": "https://www.reddit.com/r/UrbanGardening/"
+      },
+      {
+        "label": "Search interest: \"balcony garden ideas\"",
+        "url": "https://duckduckgo.com/?q=balcony%20garden%20ideas"
+      }
+    ],
+    "publishedAt": "2026-07-16T19:45:10.162Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "indoor-herb-garden-field-test-3",
     "title": "\"indoor herb garden\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about indoor herb garden through a month of actual use. Some of it survived.",
