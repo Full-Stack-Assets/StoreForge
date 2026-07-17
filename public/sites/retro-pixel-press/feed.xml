@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Optimizing Console Performance for Speed Demons</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/turbo-charge-your-speedruns.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/turbo-charge-your-speedruns.html</guid>
+      <pubDate>Fri, 17 Jul 2026 16:45:20 GMT</pubDate>
+      <description>Boost your speedrun potential</description>
+    </item>
+    <item>
       <title>&quot;retro game restoration&quot; in practice: a real-world field test</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/retro-game-restoration-field-test-2.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-game-restoration-field-test-2.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-upgrade.html</guid>
       <pubDate>Wed, 15 Jul 2026 11:14:35 GMT</pubDate>
       <description>Upgrade your retro console for better performance</description>
-    </item>
-    <item>
-      <title>Community pulse: what r/Gameboy is debating this week</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/community-pulse-gameboy-2.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/community-pulse-gameboy-2.html</guid>
-      <pubDate>Wed, 15 Jul 2026 09:32:52 GMT</pubDate>
-      <description>The arguments, consensus shifts, and quietly useful threads from the indie community this week.</description>
     </item>
   </channel>
 </rss>

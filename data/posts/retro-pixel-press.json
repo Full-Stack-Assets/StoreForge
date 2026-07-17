@@ -1,5 +1,56 @@
 [
   {
+    "slug": "turbo-charge-your-speedruns",
+    "title": "Optimizing Console Performance for Speed Demons",
+    "dek": "Boost your speedrun potential",
+    "takeaway": "Simple hardware tweaks can significantly improve speedrun times",
+    "whatHappened": "Recent speedruns have shown that optimized console hardware can lead to faster completion times. By upgrading key components, speedrunners can gain a competitive edge. This trend has sparked a wave of interest in hardware modification among the speedrunning community.",
+    "whyItMatters": "For speedrunners, every second counts, and optimized hardware can be the difference between a world record and a mediocre run. Moreover, understanding how to tweak hardware can also inform strategies for Preservation and indie game development. By exploring these modifications, retro game collectors can also enhance their overall gaming experience.",
+    "howToThink": "When considering hardware upgrades for speedrunning, it's essential to understand the specific bottlenecks in your current setup and target those areas for improvement. Look for components that are known to impact performance, such as processors or memory. Additionally, research and join communities to learn from others who have successfully optimized their hardware for speedrunning.",
+    "pros": [
+      "Faster load times",
+      "Improved frame rates",
+      "Competitive edge"
+    ],
+    "cons": [
+      "Cost of upgrades",
+      "Voiding warranties",
+      "Technical complexity"
+    ],
+    "watchOut": "Be cautious of overheating when pushing your console to its limits with hardware upgrades",
+    "faq": [
+      {
+        "q": "What is the most common hardware upgrade for speedrunners?",
+        "a": "Upgrading the processor or adding a faster storage drive"
+      },
+      {
+        "q": "Can hardware upgrades void my console's warranty?",
+        "a": "Yes, in many cases, modifying your console's hardware can void its warranty"
+      },
+      {
+        "q": "How do I know which hardware upgrades will improve my speedrun times?",
+        "a": "Research and benchmark different upgrades to see which ones provide the most significant performance improvements"
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Speedrunning",
+      "ConsoleMods"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-07-17T16:45:20.506Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "retro-game-restoration-field-test-2",
     "title": "\"retro game restoration\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about retro game restoration through a month of actual use. Some of it survived.",
