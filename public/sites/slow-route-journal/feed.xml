@@ -5,6 +5,13 @@
     <link>https://storeforge-slow-route-journal.vercel.app/</link>
     <description>Fresh takes for slow-travel and low-impact explorers.</description>
     <item>
+      <title>Uncharted Rail Routes: A Fresh Perspective</title>
+      <link>https://storeforge-slow-route-journal.vercel.app/posts/slow-train-exploration.html</link>
+      <guid>https://storeforge-slow-route-journal.vercel.app/posts/slow-train-exploration.html</guid>
+      <pubDate>Fri, 17 Jul 2026 22:30:21 GMT</pubDate>
+      <description>Discover hidden rail gems.</description>
+    </item>
+    <item>
       <title>&quot;train travel europe tips&quot; in practice: a real-world field test</title>
       <link>https://storeforge-slow-route-journal.vercel.app/posts/train-travel-europe-tips-field-test-2.html</link>
       <guid>https://storeforge-slow-route-journal.vercel.app/posts/train-travel-europe-tips-field-test-2.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-slow-route-journal.vercel.app/posts/weekend-project-rail-3.html</guid>
       <pubDate>Wed, 15 Jul 2026 18:44:34 GMT</pubDate>
       <description>One contained, satisfying rail project for slow-travel — start Saturday morning, done by lunch.</description>
-    </item>
-    <item>
-      <title>Community pulse: what r/backpacking is debating this week</title>
-      <link>https://storeforge-slow-route-journal.vercel.app/posts/community-pulse-backpacking.html</link>
-      <guid>https://storeforge-slow-route-journal.vercel.app/posts/community-pulse-backpacking.html</guid>
-      <pubDate>Wed, 15 Jul 2026 16:54:55 GMT</pubDate>
-      <description>The arguments, consensus shifts, and quietly useful threads from the local community this week.</description>
     </item>
   </channel>
 </rss>

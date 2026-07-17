@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Myth vs. reality: hidden snes gems</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/myth-vs-reality-hidden-snes-gems-2.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/myth-vs-reality-hidden-snes-gems-2.html</guid>
+      <pubDate>Fri, 17 Jul 2026 22:30:20 GMT</pubDate>
+      <description>The persistent myths around hidden snes gems, stress-tested against what retro game collectors and speedrunners actually report.</description>
+    </item>
+    <item>
       <title>Tooling Up: The Essential Kit for Speed Demons</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/essential-tools-for-speedrunners.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/essential-tools-for-speedrunners.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-game-restoration-field-test.html</guid>
       <pubDate>Wed, 15 Jul 2026 18:44:33 GMT</pubDate>
       <description>We put the most-repeated advice about retro game restoration through a month of actual use. Some of it survived.</description>
-    </item>
-    <item>
-      <title>Retro Hardware Hacks for Faster Speedruns</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/optimizing-retro-hardware-for-speed.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/optimizing-retro-hardware-for-speed.html</guid>
-      <pubDate>Wed, 15 Jul 2026 16:54:57 GMT</pubDate>
-      <description>Boost your speedrun performance</description>
     </item>
   </channel>
 </rss>

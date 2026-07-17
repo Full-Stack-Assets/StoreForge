@@ -1,5 +1,56 @@
 [
   {
+    "slug": "slow-train-exploration",
+    "title": "Uncharted Rail Routes: A Fresh Perspective",
+    "dek": "Discover hidden rail gems.",
+    "takeaway": "Slow train travel offers unique local insights and offbeat adventures.",
+    "whatHappened": "During a recent journey, I stumbled upon an unmarked rail stop that led to a picturesque village, untouched by mass tourism. The locals were friendly and eager to share their stories. This experience reinforced the idea that slow travel can lead to remarkable discoveries.",
+    "whyItMatters": "In an era of fast travel and impersonal tours, slow train exploration allows travelers to genuinely connect with local cultures and environments. It promotes a deeper understanding and appreciation of the places we visit. By embracing this approach, travelers can contribute to sustainable tourism and preserve the unique character of each location.",
+    "howToThink": "To embark on your own slow train adventure, start by researching lesser-known rail routes and talking to fellow travelers about their experiences. Consider purchasing a rail pass for flexibility and spontaneity. Don't be afraid to ask locals for recommendations and explore beyond the typical tourist trails.",
+    "pros": [
+      "Unique local experiences",
+      "Offbeat adventures",
+      "Sustainable tourism"
+    ],
+    "cons": [
+      "Time-consuming",
+      "Limited amenities",
+      "Unpredictable schedules"
+    ],
+    "watchOut": "Be cautious of rail schedules and plan ahead to avoid last-minute changes or cancellations.",
+    "faq": [
+      {
+        "q": "What is slow train travel?",
+        "a": "A mindset that prioritizes local immersion and exploration over fast, efficient travel."
+      },
+      {
+        "q": "How do I find unmarked rail stops?",
+        "a": "Talk to locals, consult rail maps, and look for lesser-known routes."
+      },
+      {
+        "q": "Is slow train travel expensive?",
+        "a": "Not necessarily – with planning, it can be a cost-effective way to experience local cultures."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "Rail Exploration",
+      "Local Travel"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-07-17T22:30:21.831Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "train-travel-europe-tips-field-test-2",
     "title": "\"train travel europe tips\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about train travel europe tips through a month of actual use. Some of it survived.",

@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>Five mistakes everyone makes in their first month of pour-over</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/five-pour-over-mistakes-6.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/five-pour-over-mistakes-6.html</guid>
+      <pubDate>Fri, 17 Jul 2026 22:30:19 GMT</pubDate>
+      <description>The most common early stumbles in pour-over, and the cheap corrections that fix them for home coffee enthusiasts.</description>
+    </item>
+    <item>
       <title>&quot;home espresso dial in&quot; in practice: a real-world field test</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/home-espresso-dial-in-field-test-2.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/home-espresso-dial-in-field-test-2.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/turbocharge-your-pour-over.html</guid>
       <pubDate>Wed, 15 Jul 2026 18:44:35 GMT</pubDate>
       <description>Elevate your pour-over game with these simple tweaks.</description>
-    </item>
-    <item>
-      <title>Community pulse: what r/Coffee is debating this week</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/community-pulse-coffee.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/community-pulse-coffee.html</guid>
-      <pubDate>Wed, 15 Jul 2026 16:54:55 GMT</pubDate>
-      <description>The arguments, consensus shifts, and quietly useful threads from the gear community this week.</description>
     </item>
   </channel>
 </rss>
