@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>The Art of Microfoam: Elevating Your Coffee Game</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/elevating-coffee-with-milk-texture.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/elevating-coffee-with-milk-texture.html</guid>
+      <pubDate>Fri, 17 Jul 2026 19:45:37 GMT</pubDate>
+      <description>Perfect microfoam made easy</description>
+    </item>
+    <item>
       <title>Brewing Brilliance: Essential Espresso Machine Maintenance</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-maintenance-hacks.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-maintenance-hacks.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/coffee-grinder-maintenance.html</guid>
       <pubDate>Wed, 15 Jul 2026 15:11:06 GMT</pubDate>
       <description>Get more from your beans with a clean grinder</description>
-    </item>
-    <item>
-      <title>Five mistakes everyone makes in their first month of pour-over</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/five-pour-over-mistakes-4.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/five-pour-over-mistakes-4.html</guid>
-      <pubDate>Wed, 15 Jul 2026 12:57:32 GMT</pubDate>
-      <description>The most common early stumbles in pour-over, and the cheap corrections that fix them for home coffee enthusiasts.</description>
     </item>
   </channel>
 </rss>

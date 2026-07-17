@@ -1,5 +1,56 @@
 [
   {
+    "slug": "elevating-coffee-with-milk-texture",
+    "title": "The Art of Microfoam: Elevating Your Coffee Game",
+    "dek": "Perfect microfoam made easy",
+    "takeaway": "Achieving perfect microfoam can elevate your espresso drinks to a professional level",
+    "whatHappened": "Recently, we've seen a surge in home baristas experimenting with milk texturing techniques to take their espresso game to the next level. With the right tools and a bit of practice, anyone can create silky smooth microfoam. Our team has been testing various steam wand techniques to find the perfect method.",
+    "whyItMatters": "Microfoam is a crucial component of espresso-based drinks, as it enhances the flavor and aesthetic of the coffee. A well-crafted microfoam can make a significant difference in the overall drinking experience. By mastering microfoam, home baristas can create cafe-quality drinks in the comfort of their own homes.",
+    "howToThink": "To achieve perfect microfoam, it's essential to consider the type of milk used, the temperature, and the steam wand technique. Experimenting with different ratios of milk to air and adjusting the steam wand's position can help create the ideal texture. With practice and patience, anyone can develop the skills to craft beautiful microfoam.",
+    "pros": [
+      "Enhances flavor",
+      "Improves aesthetics",
+      "Elevates coffee experience"
+    ],
+    "cons": [
+      "Requires practice",
+      "Dependent on equipment",
+      "Sensitive to temperature"
+    ],
+    "watchOut": "Be cautious not to over-aerate the milk, as it can lead to a too-stiff or too-thin microfoam",
+    "faq": [
+      {
+        "q": "What type of milk is best for microfoam?",
+        "a": "Whole milk or a non-dairy milk alternative with a high fat content works best"
+      },
+      {
+        "q": "How do I clean my steam wand?",
+        "a": "Regularly purge and wipe the steam wand with a damp cloth to prevent milk residue buildup"
+      },
+      {
+        "q": "Can I achieve microfoam without an espresso machine?",
+        "a": "While it's challenging, you can use a milk frothing pitcher or a handheld frother to create a similar texture"
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "microfoam",
+      "espresso"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-07-17T19:45:37.202Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "espresso-machine-maintenance-hacks",
     "title": "Brewing Brilliance: Essential Espresso Machine Maintenance",
     "dek": "Keep your espresso machine in top shape",
