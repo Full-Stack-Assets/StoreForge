@@ -1,5 +1,56 @@
 [
   {
+    "slug": "slow-train-secrets",
+    "title": "Cracking the Code on Local Rail Schedules",
+    "dek": "Maximize your slow travel experience",
+    "takeaway": "Understanding local rail schedules is key to a stress-free journey",
+    "whatHappened": "Recently, I embarked on a journey to explore the local rail network in a rural town. I was surprised to find that the schedules were not easily accessible online. After visiting the local train station, I discovered a hidden pattern to the schedules that made my travels much more efficient. The staff at the station were happy to share their knowledge with me, and I was able to plan my trips with ease.",
+    "whyItMatters": "For slow travelers, understanding the local rail schedules is crucial in planning a seamless journey. It allows for a more relaxed pace, taking in the sights and sounds of the local area without the stress of rushing to catch a train. By cracking the code on local rail schedules, travelers can make the most of their time and experience the true essence of the place.",
+    "howToThink": "To make the most of local rail schedules, think like a local. Visit the train station, talk to the staff, and observe the patterns of the trains. Look for hidden gems, such as scenic routes or off-peak travel times, that can enhance your travel experience. By being flexible and adaptable, you can turn a potentially stressful experience into a enjoyable one.",
+    "pros": [
+      "Relaxed pace",
+      "Scenic routes",
+      "Local insights"
+    ],
+    "cons": [
+      "Limited online info",
+      "Unpredictable schedules",
+      "Language barriers"
+    ],
+    "watchOut": "Be aware of unexpected schedule changes or engineering works that may affect your travel plans",
+    "faq": [
+      {
+        "q": "How do I find local rail schedules?",
+        "a": "Visit the local train station or check with the tourist information office"
+      },
+      {
+        "q": "Can I book tickets in advance?",
+        "a": "Yes, but be aware that some local trains may not offer advance booking options"
+      },
+      {
+        "q": "What if I miss my train?",
+        "a": "Don't panic, just head to the next station or ask a local for assistance"
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "slow travel",
+      "local rail"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-07-17T07:36:31.989Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "rethinking-local-rail-stops",
     "title": "Slow Travel Revolution: Rethinking Local Rail Stops",
     "dek": "Revamp your rail travel with local insights",

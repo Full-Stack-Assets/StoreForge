@@ -1,5 +1,56 @@
 [
   {
+    "slug": "small-space-composting",
+    "title": "Composting in Tiny Spaces: Yes, It's Possible",
+    "dek": "Turn food scraps into gold",
+    "takeaway": "Apartment dwellers can compost effectively with the right tools and techniques",
+    "whatHappened": "Many apartment dwellers assume composting is off-limits due to space constraints, but innovative products and methods are changing the game. From compact tumblers to indoor worm composters, the options are growing. As a result, more people are giving small-space composting a try.",
+    "whyItMatters": "Composting helps reduce waste, creates a nutrient-rich soil amendment, and supports a more sustainable lifestyle. For apartment dwellers, it's also a chance to connect with nature and take control of their environmental impact. By adopting composting practices, individuals can make a positive difference in their community",
+    "howToThink": "When considering small-space composting, think about your lifestyle and available space. Choose a method that fits your needs, whether it's a compact bin or a DIY worm composter. Be mindful of maintenance and odor control to ensure a successful composting experience",
+    "pros": [
+      "Reduces waste",
+      "Creates nutrient-rich soil",
+      "Supports sustainability"
+    ],
+    "cons": [
+      "Space requirements",
+      "Odor potential",
+      "Maintenance needs"
+    ],
+    "watchOut": "Be cautious of pests and odors when composting indoors",
+    "faq": [
+      {
+        "q": "What can I compost?",
+        "a": "Food scraps, coffee grounds, and yard trimmings"
+      },
+      {
+        "q": "How often should I turn my compost?",
+        "a": "Every 1-2 weeks, depending on the method"
+      },
+      {
+        "q": "Can I compost in a small apartment?",
+        "a": "Yes, with the right tools and techniques"
+      }
+    ],
+    "category": "Composting",
+    "tags": [
+      "apartment gardening",
+      "sustainability"
+    ],
+    "sources": [
+      {
+        "label": "r/houseplants community threads",
+        "url": "https://www.reddit.com/r/houseplants/"
+      },
+      {
+        "label": "Search interest: \"small space vegetables\"",
+        "url": "https://duckduckgo.com/?q=small%20space%20vegetables"
+      }
+    ],
+    "publishedAt": "2026-07-17T07:36:31.796Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "rethinking-vertical-gardens",
     "title": "Revolutionize Your Balcony: The Power of Vertical Gardens",
     "dek": "Maximize space with vertical gardens",
