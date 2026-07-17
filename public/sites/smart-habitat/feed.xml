@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/smart-habitat/</link>
     <description>Fresh takes for smart-home tinkerers and privacy-minded automators.</description>
     <item>
+      <title>Ask the forge: your lighting questions, answered</title>
+      <link>https://www.beyondmythos.com/sites/smart-habitat/posts/ask-the-forge-lighting-4.html</link>
+      <guid>https://www.beyondmythos.com/sites/smart-habitat/posts/ask-the-forge-lighting-4.html</guid>
+      <pubDate>Fri, 17 Jul 2026 09:30:02 GMT</pubDate>
+      <description>Straight answers to the lighting questions smart-home tinkerers and privacy-minded automators keep asking, minus the hedging.</description>
+    </item>
+    <item>
       <title>The quiet upgrade: small tweaks in local control with outsized returns</title>
       <link>https://www.beyondmythos.com/sites/smart-habitat/posts/quiet-upgrade-local-control-4.html</link>
       <guid>https://www.beyondmythos.com/sites/smart-habitat/posts/quiet-upgrade-local-control-4.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/smart-habitat/posts/smart-sensors-101.html</guid>
       <pubDate>Wed, 15 Jul 2026 03:34:37 GMT</pubDate>
       <description>Start building your smart home with these sensors</description>
-    </item>
-    <item>
-      <title>Mastering Routine Automation</title>
-      <link>https://www.beyondmythos.com/sites/smart-habitat/posts/routine-automation.html</link>
-      <guid>https://www.beyondmythos.com/sites/smart-habitat/posts/routine-automation.html</guid>
-      <pubDate>Mon, 13 Jul 2026 14:34:37 GMT</pubDate>
-      <description>Streamline your daily routine with automation</description>
     </item>
   </channel>
 </rss>

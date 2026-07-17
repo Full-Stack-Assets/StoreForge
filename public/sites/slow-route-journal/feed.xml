@@ -5,6 +5,13 @@
     <link>https://storeforge-slow-route-journal.vercel.app/</link>
     <description>Fresh takes for slow-travel and low-impact explorers.</description>
     <item>
+      <title>Mastering the Art of Overnight Rail Journeys</title>
+      <link>https://storeforge-slow-route-journal.vercel.app/posts/slow-travel-overnight-routes.html</link>
+      <guid>https://storeforge-slow-route-journal.vercel.app/posts/slow-travel-overnight-routes.html</guid>
+      <pubDate>Fri, 17 Jul 2026 09:30:02 GMT</pubDate>
+      <description>Transform your travel with overnight trains</description>
+    </item>
+    <item>
       <title>Cracking the Code on Local Rail Schedules</title>
       <link>https://storeforge-slow-route-journal.vercel.app/posts/slow-train-secrets.html</link>
       <guid>https://storeforge-slow-route-journal.vercel.app/posts/slow-train-secrets.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-slow-route-journal.vercel.app/posts/reducing-carbon-footprint-through-rail-travel.html</guid>
       <pubDate>Wed, 15 Jul 2026 00:59:37 GMT</pubDate>
       <description>Explore low-impact rail travel</description>
-    </item>
-    <item>
-      <title>Community pulse: what r/onebag is debating this week</title>
-      <link>https://storeforge-slow-route-journal.vercel.app/posts/community-pulse-onebag-2.html</link>
-      <guid>https://storeforge-slow-route-journal.vercel.app/posts/community-pulse-onebag-2.html</guid>
-      <pubDate>Tue, 14 Jul 2026 23:32:58 GMT</pubDate>
-      <description>The arguments, consensus shifts, and quietly useful threads from the local community this week.</description>
     </item>
   </channel>
 </rss>

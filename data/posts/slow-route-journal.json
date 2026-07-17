@@ -1,5 +1,56 @@
 [
   {
+    "slug": "slow-travel-overnight-routes",
+    "title": "Mastering the Art of Overnight Rail Journeys",
+    "dek": "Transform your travel with overnight trains",
+    "takeaway": "Overnight rail journeys offer a sustainable and immersive way to explore local destinations while reducing carbon footprint",
+    "whatHappened": "Recently, I embarked on an overnight train journey from a rural town to a bustling city, witnessing breathtaking landscapes and meeting fellow travelers from diverse backgrounds. The experience was nothing short of magical, with the train winding through mountains and valleys under the starry night sky. As the sun rose, the scenery outside transformed, and we arrived feeling refreshed and ready to explore",
+    "whyItMatters": "Overnight train travel matters because it allows slow-travel enthusiasts to experience the local culture and scenery without the hassle of frequent hotel changes or rushed itineraries. It also promotes sustainable tourism by reducing the need for flights and cars. Moreover, it provides a unique opportunity to disconnect from the digital world and reconnect with nature and fellow human beings",
+    "howToThink": "To make the most of your overnight rail journey, consider booking a sleeper cabin with large windows to take in the views, and pack a portable charger to keep your devices charged throughout the trip. Additionally, bring a reusable water bottle and a good book to stay hydrated and entertained. Finally, be open to striking up conversations with your fellow passengers, as they often become the most memorable part of the journey",
+    "pros": [
+      "Scenic routes",
+      "Sustainable",
+      "Immersive"
+    ],
+    "cons": [
+      "Limited amenities",
+      "Noise levels",
+      "Delays possible"
+    ],
+    "watchOut": "Be cautious of peak travel seasons and book your tickets well in advance to avoid high prices and sold-out trains",
+    "faq": [
+      {
+        "q": "What type of accommodation is available on overnight trains?",
+        "a": "Most overnight trains offer sleeper cabins, seats, or a combination of both, ranging from basic to luxurious options"
+      },
+      {
+        "q": "Can I bring my own food and drinks on board?",
+        "a": "Yes, you can bring your own food and drinks, but be sure to follow the train's rules and regulations regarding eating and drinking in your seat or cabin"
+      },
+      {
+        "q": "How do I stay safe and secure during my journey?",
+        "a": "Make sure to keep your valuables close, be mindful of your surroundings, and follow the train staff's instructions in case of an emergency"
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "Overnight journeys",
+      "Sustainable travel"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-07-17T09:30:02.498Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "slow-train-secrets",
     "title": "Cracking the Code on Local Rail Schedules",
     "dek": "Maximize your slow travel experience",

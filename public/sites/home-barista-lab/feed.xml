@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>Unlocking Espresso Potential: The Power of Proper Tamping</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/tamping-technique-tips.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/tamping-technique-tips.html</guid>
+      <pubDate>Fri, 17 Jul 2026 09:30:02 GMT</pubDate>
+      <description>Improve your espresso with better tamping</description>
+    </item>
+    <item>
       <title>&quot;pour over technique&quot; in practice: a real-world field test</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/pour-over-technique-field-test-3.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/pour-over-technique-field-test-3.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/weekend-project-espresso-3.html</guid>
       <pubDate>Wed, 15 Jul 2026 00:59:35 GMT</pubDate>
       <description>One contained, satisfying espresso project for home coffee enthusiasts — start Saturday morning, done by lunch.</description>
-    </item>
-    <item>
-      <title>Community pulse: what r/pourover is debating this week</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/community-pulse-pourover-2.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/community-pulse-pourover-2.html</guid>
-      <pubDate>Tue, 14 Jul 2026 23:32:58 GMT</pubDate>
-      <description>The arguments, consensus shifts, and quietly useful threads from the gear community this week.</description>
     </item>
   </channel>
 </rss>
