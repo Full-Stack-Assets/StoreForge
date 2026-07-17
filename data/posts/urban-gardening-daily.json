@@ -1,5 +1,56 @@
 [
   {
+    "slug": "rethinking-vertical-gardens",
+    "title": "Revolutionize Your Balcony: The Power of Vertical Gardens",
+    "dek": "Maximize space with vertical gardens",
+    "takeaway": "Vertical gardens can triple your yield in small spaces",
+    "whatHappened": "As urban gardening continues to evolve, apartment dwellers are turning to innovative solutions to make the most of their limited space. Vertical gardens have emerged as a game-changer, allowing growers to cultivate a wide variety of plants in even the smallest of areas. From trellises to wall-mounted planters, the options are endless",
+    "whyItMatters": "Vertical gardens not only increase your growing space but also add a decorative element to your balcony or patio. They can also help to purify the air and reduce noise pollution, making them a great option for city dwellers. By utilizing vertical space, you can create a thriving garden even in the most compact of areas",
+    "howToThink": "When designing your vertical garden, consider the amount of sunlight your plants will receive and choose varieties that thrive in those conditions. Make sure to select a sturdy trellis or planter that can support the weight of your plants and soil. Don't be afraid to experiment and try out new configurations to find what works best for you",
+    "pros": [
+      "Increased growing space",
+      "Aesthetic appeal",
+      "Improved air quality"
+    ],
+    "cons": [
+      "Higher initial investment",
+      "Requires regular maintenance",
+      "May not be suitable for all plant types"
+    ],
+    "watchOut": "Be cautious not to overwater your vertical garden, as this can lead to root rot and other problems",
+    "faq": [
+      {
+        "q": "What type of plants are best suited for vertical gardens?",
+        "a": "Plants with trailing or climbing habits, such as ivy, peas, and cucumbers, work well in vertical gardens"
+      },
+      {
+        "q": "How much sunlight does a vertical garden need?",
+        "a": "Most plants require at least 4-6 hours of direct sunlight per day, but some can thrive in partial shade"
+      },
+      {
+        "q": "Can I use a vertical garden indoors?",
+        "a": "Yes, many types of plants can be grown indoors using a vertical garden, provided they receive sufficient light"
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "balcony gardening",
+      "small space gardening"
+    ],
+    "sources": [
+      {
+        "label": "r/UrbanGardening community threads",
+        "url": "https://www.reddit.com/r/UrbanGardening/"
+      },
+      {
+        "label": "Search interest: \"balcony garden ideas\"",
+        "url": "https://duckduckgo.com/?q=balcony%20garden%20ideas"
+      }
+    ],
+    "publishedAt": "2026-07-17T04:47:12.359Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "balcony-gardening-hacks-2",
     "title": "5 Space-Saving Hacks for Balcony Gardeners",
     "dek": "Maximize your balcony space with these 5 hacks",

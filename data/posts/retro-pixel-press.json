@@ -1,5 +1,56 @@
 [
   {
+    "slug": "retro-console-modding-101",
+    "title": "Retro Console Modding for Beginners",
+    "dek": "Upgrade your retro console with ease",
+    "takeaway": "Modding your retro console can significantly enhance your gaming experience",
+    "whatHappened": "Recently, retro console modding has become increasingly popular among collectors and speedrunners, with many enthusiasts turning to online forums and communities to share their knowledge and showcase their custom modifications. This trend has led to the development of new and innovative mods that can improve the performance and functionality of retro consoles. As a result, gamers can now enjoy their favorite classic games with enhanced graphics, faster loading times, and improved controller responsiveness.",
+    "whyItMatters": "Retro console modding matters because it allows gamers to breathe new life into their beloved classic consoles, making them more enjoyable to play and preserving their functionality for years to come. By upgrading their consoles, gamers can also access new features and capabilities that were not available when the consoles were first released. This can include support for modern display formats, improved audio quality, and enhanced gameplay mechanics.",
+    "howToThink": "When considering retro console modding, it's essential to approach the process with a clear understanding of your goals and the potential risks involved. Start by researching the types of mods available for your console and evaluating the complexity and cost of each option. It's also crucial to ensure that you have the necessary skills and expertise to complete the mod successfully, or to seek guidance from experienced modders if needed.",
+    "pros": [
+      "Improved performance",
+      "Enhanced functionality",
+      "Customization options"
+    ],
+    "cons": [
+      "Voiding warranty",
+      "Potential damage",
+      "Costly components"
+    ],
+    "watchOut": "Be cautious when sourcing components and follow proper installation procedures to avoid damaging your console",
+    "faq": [
+      {
+        "q": "What is retro console modding?",
+        "a": "Retro console modding refers to the process of modifying or upgrading a classic video game console to improve its performance, functionality, or appearance."
+      },
+      {
+        "q": "Do I need to be tech-savvy to mod my console?",
+        "a": "While some technical knowledge can be beneficial, many mods are designed to be accessible to gamers with limited technical expertise, and online communities often provide guidance and support."
+      },
+      {
+        "q": "Can modding my console void its warranty?",
+        "a": "Yes, modifying your console can potentially void its warranty, so it's essential to weigh the risks and benefits before proceeding with any modifications."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "RetroConsoles",
+      "Modding"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-07-17T04:47:12.399Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "preservation-pre-spend-checklist-5",
     "title": "The preservation checklist: run this before you spend",
     "dek": "Seven questions that separate a justified preservation purchase from an expensive mood.",

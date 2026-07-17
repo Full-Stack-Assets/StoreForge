@@ -1,5 +1,56 @@
 [
   {
+    "slug": "dialing-in-espresso",
+    "title": "The Art of Dialing In: Optimizing Your Espresso Shot",
+    "dek": "Perfect your espresso shot with these tips",
+    "takeaway": "Dialing in your espresso machine is crucial for achieving the perfect shot",
+    "whatHappened": " Recently, we've seen a surge in home baristas investing in high-end espresso machines, only to find themselves struggling to produce consistent results. This is often due to a lack of understanding of the dialing-in process. By adjusting parameters such as grind size, tamp, and brewing time, you can coax the best out of your machine.",
+    "whyItMatters": "A well-dialed-in espresso machine can make all the difference in the flavor and quality of your shots. It allows you to balance the nuances of your coffee beans and bring out the desired notes. Moreover, it extends the lifespan of your equipment by preventing unnecessary wear and tear.",
+    "howToThink": "To start dialing in, begin by adjusting your grind size and monitoring the shot's flow rate. Then, fine-tune your tamp and brewing time to achieve the optimal balance. Remember, it's all about experimentation and patience, so don't be discouraged if it takes a few tries to get it just right.",
+    "pros": [
+      "Improved flavor",
+      "Increased consistency",
+      "Reduced waste"
+    ],
+    "cons": [
+      "Time-consuming",
+      "Requires patience",
+      "May require additional equipment"
+    ],
+    "watchOut": "Be careful not to over-extract your coffee, as this can lead to bitter and unpleasant flavors",
+    "faq": [
+      {
+        "q": "What is dialing in?",
+        "a": "Dialing in refers to the process of adjusting your espresso machine's parameters to achieve the perfect shot"
+      },
+      {
+        "q": "How often should I dial in my machine?",
+        "a": "You should dial in your machine whenever you switch to a new type of coffee bean or notice a change in the flavor of your shots"
+      },
+      {
+        "q": "What are the key parameters to adjust when dialing in?",
+        "a": "The key parameters to adjust are grind size, tamp, and brewing time"
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "dialingin"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-07-17T04:47:11.993Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "calibrating-your-grinder",
     "title": "Get the Most Out of Your Beans: Grinder Calibration 101",
     "dek": "Unlock perfect extraction with proper grinder calibration",

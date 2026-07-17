@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>The Art of Dialing In: Optimizing Your Espresso Shot</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/dialing-in-espresso.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/dialing-in-espresso.html</guid>
+      <pubDate>Fri, 17 Jul 2026 04:47:11 GMT</pubDate>
+      <description>Perfect your espresso shot with these tips</description>
+    </item>
+    <item>
       <title>Get the Most Out of Your Beans: Grinder Calibration 101</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/calibrating-your-grinder.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/calibrating-your-grinder.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/roasting-pre-spend-checklist-4.html</guid>
       <pubDate>Tue, 14 Jul 2026 22:38:37 GMT</pubDate>
       <description>Seven questions that separate a justified roasting purchase from an expensive mood.</description>
-    </item>
-    <item>
-      <title>Balancing the Perfect Shot: Mastering Espresso Distribution</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/tuning-espresso-distribution.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/tuning-espresso-distribution.html</guid>
-      <pubDate>Tue, 14 Jul 2026 21:38:41 GMT</pubDate>
-      <description>Expert tips for even extraction.</description>
     </item>
   </channel>
 </rss>

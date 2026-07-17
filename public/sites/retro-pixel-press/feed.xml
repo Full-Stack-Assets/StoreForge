@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Retro Console Modding for Beginners</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-modding-101.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-modding-101.html</guid>
+      <pubDate>Fri, 17 Jul 2026 04:47:12 GMT</pubDate>
+      <description>Upgrade your retro console with ease</description>
+    </item>
+    <item>
       <title>The preservation checklist: run this before you spend</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/preservation-pre-spend-checklist-5.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/preservation-pre-spend-checklist-5.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/quiet-upgrade-preservation-3.html</guid>
       <pubDate>Tue, 14 Jul 2026 22:38:37 GMT</pubDate>
       <description>No purchases, no overhauls — the modest preservation adjustments that retro game collectors and speedrunners report mattering most.</description>
-    </item>
-    <item>
-      <title>Myth vs. reality: crt setup guide</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/myth-vs-reality-crt-setup-guide-2.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/myth-vs-reality-crt-setup-guide-2.html</guid>
-      <pubDate>Tue, 14 Jul 2026 21:38:39 GMT</pubDate>
-      <description>The persistent myths around crt setup guide, stress-tested against what retro game collectors and speedrunners actually report.</description>
     </item>
   </channel>
 </rss>
