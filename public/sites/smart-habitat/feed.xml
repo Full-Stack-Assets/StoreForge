@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/smart-habitat/</link>
     <description>Fresh takes for smart-home tinkerers and privacy-minded automators.</description>
     <item>
+      <title>A weekend project: level up your sensors in two hours</title>
+      <link>https://www.beyondmythos.com/sites/smart-habitat/posts/weekend-project-sensors-4.html</link>
+      <guid>https://www.beyondmythos.com/sites/smart-habitat/posts/weekend-project-sensors-4.html</guid>
+      <pubDate>Fri, 17 Jul 2026 01:10:45 GMT</pubDate>
+      <description>One contained, satisfying sensors project for smart-home tinkerers — start Saturday morning, done by lunch.</description>
+    </item>
+    <item>
       <title>Community pulse: what r/homeautomation is debating this week</title>
       <link>https://www.beyondmythos.com/sites/smart-habitat/posts/community-pulse-homeautomation-2.html</link>
       <guid>https://www.beyondmythos.com/sites/smart-habitat/posts/community-pulse-homeautomation-2.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/smart-habitat/posts/smart-lighting-101.html</guid>
       <pubDate>Fri, 10 Jul 2026 12:34:37 GMT</pubDate>
       <description>Brighten up your smart home with smart lighting</description>
-    </item>
-    <item>
-      <title>Addressing Sensor Privacy Concerns</title>
-      <link>https://www.beyondmythos.com/sites/smart-habitat/posts/sensor-privacy-concerns.html</link>
-      <guid>https://www.beyondmythos.com/sites/smart-habitat/posts/sensor-privacy-concerns.html</guid>
-      <pubDate>Wed, 08 Jul 2026 23:34:37 GMT</pubDate>
-      <description>Protect your privacy with secure sensor practices</description>
     </item>
   </channel>
 </rss>

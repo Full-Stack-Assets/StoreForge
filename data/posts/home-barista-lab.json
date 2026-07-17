@@ -1,5 +1,56 @@
 [
   {
+    "slug": "calibrating-your-grinder",
+    "title": "Get the Most Out of Your Beans: Grinder Calibration 101",
+    "dek": "Unlock perfect extraction with proper grinder calibration",
+    "takeaway": "Calibrating your grinder is crucial for optimal espresso flavor and crema",
+    "whatHappened": "Many home baristas overlook the importance of grinder calibration, leading to subpar shots. A well-calibrated grinder ensures consistent particle size, which is vital for even extraction. Without it, you may end up with channeling or under-extraction, ruining your espresso experience.",
+    "whyItMatters": "Proper grinder calibration affects the flavor profile and aroma of your espresso, making it a critical step in the brewing process. It also helps prevent wear and tear on your equipment, extending its lifespan. By calibrating your grinder, you'll be able to dial in the perfect shot every time, saving you time and money in the long run.",
+    "howToThink": "To calibrate your grinder, start by adjusting the burrs to the recommended setting for your specific machine. Then, experiment with small adjustments to find the sweet spot for your favorite beans. Remember to clean and maintain your grinder regularly to ensure consistent performance and prevent any buildup or blockages.",
+    "pros": [
+      "Improved flavor",
+      "Increased consistency",
+      "Extended equipment lifespan"
+    ],
+    "cons": [
+      "Time-consuming process",
+      "Requires patience and experimentation",
+      "May require additional equipment"
+    ],
+    "watchOut": "Be cautious not to over-tighten or under-tighten the burrs, as this can lead to damage or inconsistent grind quality",
+    "faq": [
+      {
+        "q": "How often should I calibrate my grinder?",
+        "a": "Calibrate your grinder every 1-3 months, depending on usage and bean type"
+      },
+      {
+        "q": "What are the signs of a poorly calibrated grinder?",
+        "a": "Channeling, under-extraction, or over-extraction are common signs of a poorly calibrated grinder"
+      },
+      {
+        "q": "Can I calibrate my grinder without a scale?",
+        "a": "While a scale can be helpful, it's not necessary; you can calibrate your grinder by adjusting the burrs and monitoring the grind quality"
+      }
+    ],
+    "category": "Gear",
+    "tags": [
+      "grinder calibration",
+      "espresso tips"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-07-17T01:10:43.519Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-pour-over-technique-3",
     "title": "Myth vs. reality: pour over technique",
     "dek": "The persistent myths around pour over technique, stress-tested against what home coffee enthusiasts actually report.",

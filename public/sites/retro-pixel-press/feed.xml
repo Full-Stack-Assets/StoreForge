@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>The preservation checklist: run this before you spend</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/preservation-pre-spend-checklist-5.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/preservation-pre-spend-checklist-5.html</guid>
+      <pubDate>Fri, 17 Jul 2026 01:10:42 GMT</pubDate>
+      <description>Seven questions that separate a justified preservation purchase from an expensive mood.</description>
+    </item>
+    <item>
       <title>Famicom Restoration for Perfectionists</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/restoring-famicom-perfection.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/restoring-famicom-perfection.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/myth-vs-reality-crt-setup-guide-2.html</guid>
       <pubDate>Tue, 14 Jul 2026 21:38:39 GMT</pubDate>
       <description>The persistent myths around crt setup guide, stress-tested against what retro game collectors and speedrunners actually report.</description>
-    </item>
-    <item>
-      <title>Rebooting the Classics: DIY Hardware for Retro Enthusiasts</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/retro-hardware-revival-4.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-hardware-revival-4.html</guid>
-      <pubDate>Tue, 14 Jul 2026 20:42:54 GMT</pubDate>
-      <description>Breathe new life into retro consoles</description>
     </item>
   </channel>
 </rss>
