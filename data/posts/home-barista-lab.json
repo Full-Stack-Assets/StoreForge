@@ -1,5 +1,56 @@
 [
   {
+    "slug": "elevating-espresso-with-water-temperature",
+    "title": "Water You Waiting For: The Impact of Temperature on Espresso",
+    "dek": "Optimize your espresso with precision temperature control",
+    "takeaway": "Adjusting water temperature can significantly improve the flavor of your espresso shots",
+    "whatHappened": "Recently, we experimented with varying water temperatures to see how it affects the taste of our espresso. The results were surprising, with even small changes in temperature noticeably impacting the flavor. From brighter notes to smoother finishes, the difference was palpable.",
+    "whyItMatters": "Temperature control is crucial because it influences the extraction process, which in turn affects the balance and flavor profile of the espresso. Incorrect temperatures can lead to under or over-extraction, resulting in a less than ideal cup. By mastering temperature, home baristas can elevate their espresso game.",
+    "howToThink": "To apply this knowledge, start by investing in a thermometer or an espresso machine with temperature control. Experiment with different temperatures to find what works best for your specific coffee beans and taste preferences. Keep in mind that the ideal temperature range for espresso is between 195°F and 205°F.",
+    "pros": [
+      "Enhanced flavor",
+      "Increased control",
+      "Better extraction"
+    ],
+    "cons": [
+      "Additional cost",
+      "Steeper learning curve",
+      "Potential for overheating"
+    ],
+    "watchOut": "Be cautious not to overheat your espresso machine, as this can lead to damage and affect the lifespan of your equipment",
+    "faq": [
+      {
+        "q": "What is the ideal water temperature for espresso?",
+        "a": "The ideal temperature range for espresso is between 195°F and 205°F"
+      },
+      {
+        "q": "How does temperature affect the flavor of espresso?",
+        "a": "Temperature influences the extraction process, impacting the balance and flavor profile of the espresso"
+      },
+      {
+        "q": "Can I adjust the temperature on my current espresso machine?",
+        "a": "It depends on your machine; some models allow for temperature adjustment, while others may require a thermometer or additional equipment"
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "Espresso Tips",
+      "Coffee Temperature"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-07-17T15:01:26.098Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "espresso-machine-troubleshooting",
     "title": "Troubleshooting 101: Fixing Common Espresso Machine Issues",
     "dek": "Fix your espresso machine",

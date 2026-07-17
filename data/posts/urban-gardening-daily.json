@@ -1,5 +1,56 @@
 [
   {
+    "slug": "spring-herb-container-revival",
+    "title": "Breathing New Life into Last Year's Herb Containers",
+    "dek": "Revive old herb containers for spring",
+    "takeaway": "Don't discard last year's herb containers, revive them for a fresh spring harvest",
+    "whatHappened": "As winter comes to a close, many of us are left with old, worn-out herb containers that seem beyond repair. However, with a little creativity and some practical know-how, these containers can be restored to their former glory. By giving them a thorough clean and replenishing the soil, you can breathe new life into your herb garden",
+    "whyItMatters": "Reviving old containers not only reduces waste but also saves you money on purchasing new ones. Moreover, it allows you to maintain the health and continuity of your herb garden, ensuring a consistent supply of fresh herbs throughout the year. This approach also helps to minimize the environmental impact of your gardening practices",
+    "howToThink": "To revive your old herb containers, start by thoroughly cleaning them with soap and water, then replace the old soil with a fresh, well-draining mix. Next, prune back any dead or leggy herbs, and finally, add some new herb seedlings to fill any gaps. By following these simple steps, you can create a thriving and vibrant herb garden in no time",
+    "pros": [
+      "Reduces waste",
+      "Saves money",
+      "Maintains garden health"
+    ],
+    "cons": [
+      "Time-consuming",
+      "Requires some effort",
+      "May not always be possible"
+    ],
+    "watchOut": "Be cautious not to transfer any diseases from the old soil to the new, by properly disinfecting the containers before reuse",
+    "faq": [
+      {
+        "q": "What is the best way to clean old herb containers?",
+        "a": "Mix 1 part bleach with 10 parts water and soak the containers for 10-15 minutes before rinsing thoroughly"
+      },
+      {
+        "q": "Can I reuse the old soil in my herb containers?",
+        "a": "No, it's recommended to replace the old soil with a fresh, well-draining mix to prevent the transfer of diseases and pests"
+      },
+      {
+        "q": "How often should I prune my herbs to keep them healthy?",
+        "a": "Prune your herbs regularly, ideally every 1-2 weeks, to encourage bushy growth and prevent them from becoming leggy"
+      }
+    ],
+    "category": "Herbs",
+    "tags": [
+      "herb gardening",
+      "container revival"
+    ],
+    "sources": [
+      {
+        "label": "r/vegetablegardening community threads",
+        "url": "https://www.reddit.com/r/vegetablegardening/"
+      },
+      {
+        "label": "Search interest: \"indoor herb garden\"",
+        "url": "https://duckduckgo.com/?q=indoor%20herb%20garden"
+      }
+    ],
+    "publishedAt": "2026-07-17T15:01:26.511Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "maximizing-balcony-space-2",
     "title": "Balcony Layout Hacks for More Growing Room",
     "dek": "Squeeze more from your balcony",

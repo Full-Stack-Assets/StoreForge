@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>Water You Waiting For: The Impact of Temperature on Espresso</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/elevating-espresso-with-water-temperature.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/elevating-espresso-with-water-temperature.html</guid>
+      <pubDate>Fri, 17 Jul 2026 15:01:26 GMT</pubDate>
+      <description>Optimize your espresso with precision temperature control</description>
+    </item>
+    <item>
       <title>Troubleshooting 101: Fixing Common Espresso Machine Issues</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-troubleshooting.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-troubleshooting.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/ask-the-forge-gear-3.html</guid>
       <pubDate>Wed, 15 Jul 2026 09:32:52 GMT</pubDate>
       <description>Straight answers to the gear questions home coffee enthusiasts keep asking, minus the hedging.</description>
-    </item>
-    <item>
-      <title>The quiet upgrade: small tweaks in roasting with outsized returns</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/quiet-upgrade-roasting-3.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/quiet-upgrade-roasting-3.html</guid>
-      <pubDate>Wed, 15 Jul 2026 06:59:01 GMT</pubDate>
-      <description>No purchases, no overhauls — the modest roasting adjustments that home coffee enthusiasts report mattering most.</description>
     </item>
   </channel>
 </rss>
