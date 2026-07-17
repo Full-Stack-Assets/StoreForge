@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Ask the forge: your indie questions, answered</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/ask-the-forge-indie-5.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/ask-the-forge-indie-5.html</guid>
+      <pubDate>Fri, 17 Jul 2026 12:47:16 GMT</pubDate>
+      <description>Straight answers to the indie questions retro game collectors and speedrunners keep asking, minus the hedging.</description>
+    </item>
+    <item>
       <title>The quiet upgrade: small tweaks in preservation with outsized returns</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/quiet-upgrade-preservation-5.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/quiet-upgrade-preservation-5.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/preservation-pre-spend-checklist-2.html</guid>
       <pubDate>Wed, 15 Jul 2026 06:59:02 GMT</pubDate>
       <description>Seven questions that separate a justified preservation purchase from an expensive mood.</description>
-    </item>
-    <item>
-      <title>Five mistakes everyone makes in their first month of speedruns</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/five-speedruns-mistakes-2.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/five-speedruns-mistakes-2.html</guid>
-      <pubDate>Wed, 15 Jul 2026 04:33:51 GMT</pubDate>
-      <description>The most common early stumbles in speedruns, and the cheap corrections that fix them for retro game collectors and speedrunners.</description>
     </item>
   </channel>
 </rss>

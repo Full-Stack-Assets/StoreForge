@@ -1,5 +1,56 @@
 [
   {
+    "slug": "maximizing-balcony-space-2",
+    "title": "Balcony Layout Hacks for More Growing Room",
+    "dek": "Squeeze more from your balcony",
+    "takeaway": "Optimizing your balcony layout can significantly increase your growing space",
+    "whatHappened": "Many apartment dwellers and balcony gardeners face the challenge of limited space for their gardens. With a little creativity and planning, it's possible to maximize the use of this space. By rethinking the layout and utilizing vertical gardening techniques, individuals can create thriving gardens in even the smallest of areas.",
+    "whyItMatters": "Maximizing balcony space is crucial for urban gardeners as it allows for a greater variety of plants to be grown, increasing crop yields and overall gardening satisfaction. This, in turn, can lead to improved mental health and a stronger connection to nature. Furthermore, efficient use of space can reduce waste and the need for external gardening areas.",
+    "howToThink": "To maximize your balcony space, start by assessing the available area and sunlight patterns. Consider using trellises, wall-mounted planters, and tiered gardening systems to make the most of your vertical space. Additionally, choose compact or dwarf varieties of plants that are specifically bred for small-space gardening.",
+    "pros": [
+      "Increased growing space",
+      "Improved crop yields",
+      "Enhanced aesthetic appeal"
+    ],
+    "cons": [
+      "Higher initial investment",
+      "Requires planning and maintenance",
+      "May be challenging for beginners"
+    ],
+    "watchOut": "Be cautious not to overplant, as this can lead to reduced air circulation and increased risk of disease among your plants",
+    "faq": [
+      {
+        "q": "What is the best way to determine my balcony's sunlight pattern?",
+        "a": "Observe the sunlight on your balcony over the course of a day, noting the areas that receive direct sunlight, partial shade, and full shade."
+      },
+      {
+        "q": "How often should I water my vertical garden?",
+        "a": "Watering frequency will depend on the specific plants, climate, and time of year, but as a general rule, check the soil moisture daily and water when the top inch of soil feels dry to the touch."
+      },
+      {
+        "q": "Can I use regular potting soil in my vertical garden?",
+        "a": "It's recommended to use a well-draining potting mix specifically designed for containers to prevent waterlogged soil and root rot."
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "urban gardening",
+      "small space tips"
+    ],
+    "sources": [
+      {
+        "label": "r/houseplants community threads",
+        "url": "https://www.reddit.com/r/houseplants/"
+      },
+      {
+        "label": "Search interest: \"small space vegetables\"",
+        "url": "https://duckduckgo.com/?q=small%20space%20vegetables"
+      }
+    ],
+    "publishedAt": "2026-07-17T12:47:18.113Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "microgreen-mastery",
     "title": "Growing Microgreens on Your Windowsill",
     "dek": "Boost flavor with minimal space",

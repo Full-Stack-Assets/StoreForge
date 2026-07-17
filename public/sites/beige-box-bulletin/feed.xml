@@ -5,6 +5,13 @@
     <link>https://www.beyondmythos.com/sites/beige-box-bulletin/</link>
     <description>Fresh takes for retro computer restorers and emulation fans.</description>
     <item>
+      <title>Ask the forge: your software questions, answered</title>
+      <link>https://www.beyondmythos.com/sites/beige-box-bulletin/posts/ask-the-forge-software-4.html</link>
+      <guid>https://www.beyondmythos.com/sites/beige-box-bulletin/posts/ask-the-forge-software-4.html</guid>
+      <pubDate>Fri, 17 Jul 2026 12:47:19 GMT</pubDate>
+      <description>Straight answers to the software questions retro computer restorers and emulation fans keep asking, minus the hedging.</description>
+    </item>
+    <item>
       <title>The quiet upgrade: small tweaks in upgrades with outsized returns</title>
       <link>https://www.beyondmythos.com/sites/beige-box-bulletin/posts/quiet-upgrade-upgrades-4.html</link>
       <guid>https://www.beyondmythos.com/sites/beige-box-bulletin/posts/quiet-upgrade-upgrades-4.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://www.beyondmythos.com/sites/beige-box-bulletin/posts/restoring-ibm-ps2.html</guid>
       <pubDate>Wed, 15 Jul 2026 09:21:39 GMT</pubDate>
       <description>Revive your IBM PS/2</description>
-    </item>
-    <item>
-      <title>Emulate the Classics</title>
-      <link>https://www.beyondmythos.com/sites/beige-box-bulletin/posts/emulating-classic-mac.html</link>
-      <guid>https://www.beyondmythos.com/sites/beige-box-bulletin/posts/emulating-classic-mac.html</guid>
-      <pubDate>Mon, 13 Jul 2026 20:21:39 GMT</pubDate>
-      <description>Run vintage Mac apps on modern hardware</description>
     </item>
   </channel>
 </rss>

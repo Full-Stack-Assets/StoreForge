@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-machine-troubleshooting",
+    "title": "Troubleshooting 101: Fixing Common Espresso Machine Issues",
+    "dek": "Fix your espresso machine",
+    "takeaway": "Regular maintenance and troubleshooting can save you money and ensure perfect espresso shots every time",
+    "whatHappened": "Many home baristas experience issues with their espresso machines, from faulty pumps to clogged grinders. These problems can be frustrating and expensive to fix. However, with the right knowledge and tools, you can troubleshoot and repair your machine yourself",
+    "whyItMatters": "A well-maintained espresso machine is essential for producing high-quality espresso shots. By learning how to troubleshoot and fix common issues, you can extend the life of your machine and ensure that it continues to perform at its best. This can also save you money by reducing the need for costly repairs or replacements",
+    "howToThink": "To troubleshoot your espresso machine, start by identifying the problem and checking the machine's manual for guidance. You can also search online for tutorials and videos that demonstrate how to fix common issues. Additionally, make sure to clean and maintain your machine regularly to prevent problems from occurring in the first place",
+    "pros": [
+      "Saves money",
+      "Extends machine life",
+      "Improves espresso quality"
+    ],
+    "cons": [
+      "Requires technical knowledge",
+      "Can be time-consuming",
+      "May require specialized tools"
+    ],
+    "watchOut": "Be careful when working with electrical components, as they can be hazardous if not handled properly",
+    "faq": [
+      {
+        "q": "What are the most common issues with espresso machines?",
+        "a": "The most common issues include faulty pumps, clogged grinders, and temperature control problems"
+      },
+      {
+        "q": "Can I fix my espresso machine myself?",
+        "a": "Yes, many issues can be fixed with basic tools and knowledge, but some problems may require professional assistance"
+      },
+      {
+        "q": "How often should I clean and maintain my espresso machine?",
+        "a": "You should clean and maintain your machine regularly, ideally after every use, to prevent problems and ensure optimal performance"
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso machine",
+      "troubleshooting"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-07-17T12:47:17.684Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "espresso-machine-cleaning-hacks",
     "title": "Descale, Drain, and Shine: The Ultimate Espresso Machine Cleaning Guide",
     "dek": "Clean your espresso machine like a pro",

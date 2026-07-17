@@ -5,6 +5,13 @@
     <link>https://storeforge-good-dog-field-notes.vercel.app/</link>
     <description>Fresh takes for first-time dog owners.</description>
     <item>
+      <title>A weekend project: level up your puppies in two hours</title>
+      <link>https://storeforge-good-dog-field-notes.vercel.app/posts/weekend-project-puppies-8.html</link>
+      <guid>https://storeforge-good-dog-field-notes.vercel.app/posts/weekend-project-puppies-8.html</guid>
+      <pubDate>Fri, 17 Jul 2026 12:47:17 GMT</pubDate>
+      <description>One contained, satisfying puppies project for first-time dog owners — start Saturday morning, done by lunch.</description>
+    </item>
+    <item>
       <title>Community pulse: what r/puppy101 is debating this week</title>
       <link>https://storeforge-good-dog-field-notes.vercel.app/posts/community-pulse-puppy101-3.html</link>
       <guid>https://storeforge-good-dog-field-notes.vercel.app/posts/community-pulse-puppy101-3.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-good-dog-field-notes.vercel.app/posts/ask-the-forge-health-4.html</guid>
       <pubDate>Wed, 15 Jul 2026 06:59:02 GMT</pubDate>
       <description>Straight answers to the health questions first-time dog owners keep asking, minus the hedging.</description>
-    </item>
-    <item>
-      <title>The quiet upgrade: small tweaks in gear with outsized returns</title>
-      <link>https://storeforge-good-dog-field-notes.vercel.app/posts/quiet-upgrade-gear-4.html</link>
-      <guid>https://storeforge-good-dog-field-notes.vercel.app/posts/quiet-upgrade-gear-4.html</guid>
-      <pubDate>Wed, 15 Jul 2026 04:33:52 GMT</pubDate>
-      <description>No purchases, no overhauls — the modest gear adjustments that first-time dog owners report mattering most.</description>
     </item>
   </channel>
 </rss>

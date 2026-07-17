@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>Troubleshooting 101: Fixing Common Espresso Machine Issues</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-troubleshooting.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-troubleshooting.html</guid>
+      <pubDate>Fri, 17 Jul 2026 12:47:17 GMT</pubDate>
+      <description>Fix your espresso machine</description>
+    </item>
+    <item>
       <title>Descale, Drain, and Shine: The Ultimate Espresso Machine Cleaning Guide</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-cleaning-hacks.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-cleaning-hacks.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/quiet-upgrade-roasting-3.html</guid>
       <pubDate>Wed, 15 Jul 2026 06:59:01 GMT</pubDate>
       <description>No purchases, no overhauls — the modest roasting adjustments that home coffee enthusiasts report mattering most.</description>
-    </item>
-    <item>
-      <title>Myth vs. reality: pour over technique</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/myth-vs-reality-pour-over-technique-2.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/myth-vs-reality-pour-over-technique-2.html</guid>
-      <pubDate>Wed, 15 Jul 2026 04:33:51 GMT</pubDate>
-      <description>The persistent myths around pour over technique, stress-tested against what home coffee enthusiasts actually report.</description>
     </item>
   </channel>
 </rss>
