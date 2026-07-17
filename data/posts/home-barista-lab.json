@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-machine-maintenance-hacks",
+    "title": "Brewing Brilliance: Essential Espresso Machine Maintenance",
+    "dek": "Keep your espresso machine in top shape",
+    "takeaway": "Regular maintenance is key to perfect espresso shots",
+    "whatHappened": "We've all been there - a perfectly good espresso machine that suddenly stops producing great shots. Often, the culprit is a lack of maintenance. scale buildup, worn-out gaskets, and dirty brew heads can all affect the taste of your espresso. By keeping your machine in top condition, you can prevent these issues and ensure consistently great coffee.",
+    "whyItMatters": "A well-maintained espresso machine is not only essential for great taste, but also for the longevity of your equipment. Regular cleaning and maintenance can help prevent costly repairs and even extend the life of your machine. By staying on top of maintenance, you can enjoy perfect espresso shots every time, without the hassle and expense of frequent repairs.",
+    "howToThink": "To keep your espresso machine in top shape, start by descaling regularly, cleaning the brew head and gaskets, and checking for worn-out parts. Consider implementing a regular maintenance schedule to ensure your machine stays in great condition. By taking a proactive approach to maintenance, you can enjoy perfect espresso shots and extend the life of your machine.",
+    "pros": [
+      "Improved taste",
+      "Increased longevity",
+      "Cost savings"
+    ],
+    "cons": [
+      "Time consuming",
+      "Requires effort",
+      "Can be messy"
+    ],
+    "watchOut": "Be careful not to damage your machine's components when cleaning or descaling",
+    "faq": [
+      {
+        "q": "How often should I descale my espresso machine?",
+        "a": "Every 3-6 months, depending on usage"
+      },
+      {
+        "q": "What is the best way to clean my espresso machine's brew head?",
+        "a": "Use a mixture of water and vinegar, and a soft brush to remove any buildup"
+      },
+      {
+        "q": "Can I use any type of cleaner on my espresso machine?",
+        "a": "No, only use cleaners specifically designed for espresso machines to avoid damaging the components"
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "Espresso Machine",
+      "Maintenance"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-07-17T18:39:52.371Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-home-espresso-dial-in-3",
     "title": "Myth vs. reality: home espresso dial in",
     "dek": "The persistent myths around home espresso dial in, stress-tested against what home coffee enthusiasts actually report.",

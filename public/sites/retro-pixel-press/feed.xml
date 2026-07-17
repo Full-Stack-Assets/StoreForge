@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Reviving Retro Consoles: A Cost-Effective Approach</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/retro-hardware-revival-5.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-hardware-revival-5.html</guid>
+      <pubDate>Fri, 17 Jul 2026 18:39:52 GMT</pubDate>
+      <description>Breathe new life into old consoles</description>
+    </item>
+    <item>
       <title>Optimizing Console Performance for Speed Demons</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/turbo-charge-your-speedruns.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/turbo-charge-your-speedruns.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/myth-vs-reality-retro-game-restoration-2.html</guid>
       <pubDate>Wed, 15 Jul 2026 12:57:32 GMT</pubDate>
       <description>The persistent myths around retro game restoration, stress-tested against what retro game collectors and speedrunners actually report.</description>
-    </item>
-    <item>
-      <title>Breathe New Life into Your Retro Console</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-upgrade.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-upgrade.html</guid>
-      <pubDate>Wed, 15 Jul 2026 11:14:35 GMT</pubDate>
-      <description>Upgrade your retro console for better performance</description>
     </item>
   </channel>
 </rss>
