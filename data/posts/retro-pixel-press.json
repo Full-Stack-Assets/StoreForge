@@ -1,5 +1,56 @@
 [
   {
+    "slug": "essential-tools-for-speedrunners",
+    "title": "Tooling Up: The Essential Kit for Speed Demons",
+    "dek": "Boost your speedrun game with the right tools",
+    "takeaway": "The right software and hardware can significantly improve your speedrunning performance",
+    "whatHappened": "Speedrunning has become increasingly popular in the retro gaming community, with new techniques and tools being developed all the time. However, many runners are still using outdated or inefficient methods, holding them back from achieving their full potential. Recently, several high-profile runners have spoken out about the importance of having the right equipment and software to stay competitive.",
+    "whyItMatters": "Having the right tools can make all the difference in speedrunning, allowing runners to execute complex maneuvers with precision and consistency. This can be especially important for runners attempting to complete difficult games or push for world records. By investing in the right equipment and software, runners can take their skills to the next level and stay ahead of the competition.",
+    "howToThink": "When it comes to choosing the right tools for speedrunning, it's essential to consider your specific needs and goals. Look for software that provides features such as frame advancement, speed manipulation, and input display, and consider investing in a high-quality controller or keyboard. Additionally, stay up-to-date with the latest developments in the speedrunning community to stay informed about new tools and techniques.",
+    "pros": [
+      "Improved performance",
+      "Increased precision",
+      "Enhanced competitiveness"
+    ],
+    "cons": [
+      "Steep learning curve",
+      "High upfront cost",
+      "Compatibility issues"
+    ],
+    "watchOut": "Be wary of cheap or low-quality equipment that can hinder your performance and cause frustration",
+    "faq": [
+      {
+        "q": "What is the best software for speedrunning?",
+        "a": "Popular options include BizHawk, LSnes, and Dolphin"
+      },
+      {
+        "q": "Do I need a high-end computer to speedrun?",
+        "a": "Not necessarily, but a decent processor and graphics card can be helpful"
+      },
+      {
+        "q": "Can I use a standard controller for speedrunning?",
+        "a": "While possible, a high-quality controller or keyboard is often recommended for optimal performance"
+      }
+    ],
+    "category": "Speedruns",
+    "tags": [
+      "Speedrunning",
+      "Retro Gaming"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-07-17T21:31:37.303Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-retrogaming-3",
     "title": "Community pulse: what r/retrogaming is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the indie community this week.",

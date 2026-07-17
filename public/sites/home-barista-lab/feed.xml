@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>&quot;home espresso dial in&quot; in practice: a real-world field test</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/home-espresso-dial-in-field-test-2.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/home-espresso-dial-in-field-test-2.html</guid>
+      <pubDate>Fri, 17 Jul 2026 21:31:35 GMT</pubDate>
+      <description>We put the most-repeated advice about home espresso dial in through a month of actual use. Some of it survived.</description>
+    </item>
+    <item>
       <title>The Art of Microfoam: Elevating Your Coffee Game</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/elevating-coffee-with-milk-texture.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/elevating-coffee-with-milk-texture.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/community-pulse-coffee.html</guid>
       <pubDate>Wed, 15 Jul 2026 16:54:55 GMT</pubDate>
       <description>The arguments, consensus shifts, and quietly useful threads from the gear community this week.</description>
-    </item>
-    <item>
-      <title>The grinder tune-up: how a simple clean can transform your brew</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/coffee-grinder-maintenance.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/coffee-grinder-maintenance.html</guid>
-      <pubDate>Wed, 15 Jul 2026 15:11:06 GMT</pubDate>
-      <description>Get more from your beans with a clean grinder</description>
     </item>
   </channel>
 </rss>

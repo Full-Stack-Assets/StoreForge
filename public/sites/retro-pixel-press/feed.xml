@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Tooling Up: The Essential Kit for Speed Demons</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/essential-tools-for-speedrunners.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/essential-tools-for-speedrunners.html</guid>
+      <pubDate>Fri, 17 Jul 2026 21:31:37 GMT</pubDate>
+      <description>Boost your speedrun game with the right tools</description>
+    </item>
+    <item>
       <title>Community pulse: what r/retrogaming is debating this week</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/community-pulse-retrogaming-3.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/community-pulse-retrogaming-3.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/optimizing-retro-hardware-for-speed.html</guid>
       <pubDate>Wed, 15 Jul 2026 16:54:57 GMT</pubDate>
       <description>Boost your speedrun performance</description>
-    </item>
-    <item>
-      <title>Speed Demons: How to Supercharge Your Rig</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/optimizing-speedrun-setups.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/optimizing-speedrun-setups.html</guid>
-      <pubDate>Wed, 15 Jul 2026 15:11:07 GMT</pubDate>
-      <description>Supercharge your speedrun setup</description>
     </item>
   </channel>
 </rss>
