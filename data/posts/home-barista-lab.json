@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-machine-cleaning-hacks",
+    "title": "Descale, Drain, and Shine: The Ultimate Espresso Machine Cleaning Guide",
+    "dek": "Clean your espresso machine like a pro",
+    "takeaway": "Regular cleaning is crucial for optimal espresso flavor and machine longevity",
+    "whatHappened": "Over time, espresso machines can accumulate old coffee oils, limescale, and other residues that affect the taste and performance of your shots. A thorough cleaning can make a significant difference in the quality of your espresso. By descaling and draining your machine, you can prevent damage and ensure a longer lifespan.",
+    "whyItMatters": "A clean espresso machine is essential for achieving the perfect shot, as any buildup or residue can alter the flavor profile and crema texture. Moreover, regular maintenance can help prevent costly repairs and replacements down the line. By incorporating a cleaning routine into your espresso practice, you can enjoy better-tasting coffee and extend the life of your machine.",
+    "howToThink": "To keep your espresso machine in top condition, focus on regular descaling, cleaning the brew group, and running a mixture of water and vinegar through the system. Additionally, make sure to wipe down the machine's exterior and clean the steam wand after each use. By adopting these habits, you'll be able to maintain the optimal performance and flavor of your espresso machine.",
+    "pros": [
+      "Improved flavor",
+      "Increased longevity",
+      "Easy maintenance"
+    ],
+    "cons": [
+      "Time-consuming",
+      "Requires patience",
+      "Can be messy"
+    ],
+    "watchOut": "Be careful not to use abrasive cleaners or scrubbers, as they can damage the machine's surfaces and harm its components",
+    "faq": [
+      {
+        "q": "How often should I clean my espresso machine?",
+        "a": "It's recommended to clean your machine at least once a week, depending on usage"
+      },
+      {
+        "q": "What is the best way to descale my espresso machine?",
+        "a": "Use a mixture of water and white vinegar, and run it through the machine's system"
+      },
+      {
+        "q": "Can I use a commercial cleaning solution on my espresso machine?",
+        "a": "It's best to consult the manufacturer's instructions before using any cleaning solution, as some may damage the machine's components"
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso maintenance",
+      "coffee machine cleaning"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-07-17T11:09:17.797Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "tamping-technique-tips",
     "title": "Unlocking Espresso Potential: The Power of Proper Tamping",
     "dek": "Improve your espresso with better tamping",

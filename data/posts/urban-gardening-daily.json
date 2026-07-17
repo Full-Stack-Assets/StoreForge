@@ -1,5 +1,56 @@
 [
   {
+    "slug": "microgreen-mastery",
+    "title": "Growing Microgreens on Your Windowsill",
+    "dek": "Boost flavor with minimal space",
+    "takeaway": "Microgreens can be harvested in as little as 7-10 days with proper care and conditions",
+    "whatHappened": "Microgreens have gained popularity for their ease of growth and nutrient-dense profiles. These young, immature greens can be grown from a variety of herb and vegetable seeds. With the right conditions, anyone can start growing microgreens, even in small spaces like apartment windowsills.",
+    "whyItMatters": "Microgreens offer a way for apartment dwellers to have a constant supply of fresh, healthy greens year-round, regardless of the season. They require minimal space and care, making them perfect for urban gardening. By incorporating microgreens into their diet, individuals can add variety and nutrition to their meals.",
+    "howToThink": "To start growing microgreens, consider the type of seeds to use, the amount of light they require, and the watering schedule. Most microgreens need about 4-6 hours of direct sunlight or 12-14 hours under grow lights. Water them gently but thoroughly, and harvest when the leaves are 1-3 inches tall. Regular harvests will encourage new growth.",
+    "pros": [
+      "Space-efficient",
+      "Quick to harvest",
+      "Nutrient-rich"
+    ],
+    "cons": [
+      "Requires consistent watering",
+      "Can be prone to mold",
+      "Limited crop selection"
+    ],
+    "watchOut": "Be cautious of overwatering, which can lead to mold and poor germination rates",
+    "faq": [
+      {
+        "q": "What seeds are best for microgreens?",
+        "a": "Lettuce, kale, and radish seeds are popular choices"
+      },
+      {
+        "q": "How often should I water microgreens?",
+        "a": "Water them when the soil feels dry to the touch, usually once a day"
+      },
+      {
+        "q": "Can I grow microgreens indoors without sunlight?",
+        "a": "Yes, using grow lights can provide the necessary light for healthy growth"
+      }
+    ],
+    "category": "Herbs",
+    "tags": [
+      "urbanag",
+      "herbgardening"
+    ],
+    "sources": [
+      {
+        "label": "r/UrbanGardening community threads",
+        "url": "https://www.reddit.com/r/UrbanGardening/"
+      },
+      {
+        "label": "Search interest: \"balcony garden ideas\"",
+        "url": "https://duckduckgo.com/?q=balcony%20garden%20ideas"
+      }
+    ],
+    "publishedAt": "2026-07-17T11:09:17.814Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-herbs-mistakes-6",
     "title": "Five mistakes everyone makes in their first month of herbs",
     "dek": "The most common early stumbles in herbs, and the cheap corrections that fix them for apartment dwellers and balcony gardeners.",
