@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Rethinking Arcade Hardware: Custom Boards for Retro Enthusiasts</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/custom-arcade-boards.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/custom-arcade-boards.html</guid>
+      <pubDate>Sat, 18 Jul 2026 06:32:58 GMT</pubDate>
+      <description>Upgrade your arcade experience</description>
+    </item>
+    <item>
       <title>Reinvent Your Game: Upgrading Retro Controllers</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/refreshing-retro-controllers.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/refreshing-retro-controllers.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/weekend-project-hardware-3.html</guid>
       <pubDate>Wed, 15 Jul 2026 23:39:30 GMT</pubDate>
       <description>One contained, satisfying hardware project for retro game collectors — start Saturday morning, done by lunch.</description>
-    </item>
-    <item>
-      <title>Community pulse: what r/retrogaming is debating this week</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/community-pulse-retrogaming-2.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/community-pulse-retrogaming-2.html</guid>
-      <pubDate>Wed, 15 Jul 2026 22:39:21 GMT</pubDate>
-      <description>The arguments, consensus shifts, and quietly useful threads from the indie community this week.</description>
     </item>
   </channel>
 </rss>

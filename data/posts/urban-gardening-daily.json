@@ -1,5 +1,56 @@
 [
   {
+    "slug": "vertical-gardening-hacks-2",
+    "title": "Sky's the Limit: Vertical Gardening for Apartment Dwellers",
+    "dek": "Maximize space with vertical gardening",
+    "takeaway": "Vertical gardening is a game-changer for small-space gardeners looking to increase yields",
+    "whatHappened": "As urban gardening continues to grow in popularity, gardeners are looking for innovative ways to maximize their space. Vertical gardening has emerged as a top solution, allowing gardeners to grow more plants in less space. From trellises to wall-mounted planters, the options are endless",
+    "whyItMatters": "Vertical gardening not only increases yields but also adds a decorative element to any balcony or patio. It's also a great way to make the most of limited sunlight, as plants can be positioned to receive optimal light. By utilizing vertical space, gardeners can create a lush oasis in even the smallest of areas",
+    "howToThink": "When considering vertical gardening, think about the types of plants that thrive in your climate and the amount of maintenance you're willing to commit to. Choose a system that is easy to install and maintain, and don't be afraid to get creative with your design. Consider using a mix of plants with different textures and growth habits to add visual interest",
+    "pros": [
+      "Space-saving",
+      "Increased yields",
+      "Aesthetic appeal"
+    ],
+    "cons": [
+      "Higher initial investment",
+      "Requires planning",
+      "May require additional support"
+    ],
+    "watchOut": "Be cautious of over-watering, as vertical gardens can be prone to waterlogged soil",
+    "faq": [
+      {
+        "q": "What type of plants are best for vertical gardening?",
+        "a": "Choose plants that are compact, trailing, or climbing, such as herbs, succulents, or flowering vines"
+      },
+      {
+        "q": "How much maintenance is required?",
+        "a": "Regular watering, fertilization, and pruning are necessary to keep your vertical garden thriving"
+      },
+      {
+        "q": "Can I use a vertical garden on a shaded balcony?",
+        "a": "Yes, but choose plants that tolerate shade, such as ferns or peace lilies, and consider using grow lights to supplement natural light"
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "small-space gardening",
+      "urban gardening"
+    ],
+    "sources": [
+      {
+        "label": "r/vegetablegardening community threads",
+        "url": "https://www.reddit.com/r/vegetablegardening/"
+      },
+      {
+        "label": "Search interest: \"indoor herb garden\"",
+        "url": "https://duckduckgo.com/?q=indoor%20herb%20garden"
+      }
+    ],
+    "publishedAt": "2026-07-18T06:32:58.027Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-containers-7",
     "title": "A weekend project: level up your containers in two hours",
     "dek": "One contained, satisfying containers project for apartment dwellers — start Saturday morning, done by lunch.",
