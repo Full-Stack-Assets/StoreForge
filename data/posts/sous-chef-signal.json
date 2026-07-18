@@ -1,5 +1,56 @@
 [
   {
+    "slug": "streamlining-dinner-templates",
+    "title": "Turbocharge Your Weeknights: The 5-Minute Template Hack",
+    "dek": "Simplify dinner planning",
+    "takeaway": "A well-structured dinner template can save you up to 30 minutes of daily planning time",
+    "whatHappened": "Home cooks often struggle with weeknight dinners due to a lack of planning and organization. By implementing a simple yet effective dinner template, cooks can save time and reduce stress. This system helps to categorize and prioritize meals, making grocery shopping and cooking more efficient.",
+    "whyItMatters": "A reliable dinner template matters because it helps home cooks to establish a consistent routine, ensuring that meals are prepared on time and with minimal effort. This, in turn, promotes healthier eating habits and reduces the likelihood of relying on fast food or takeout. By streamlining the dinner process, cooks can also experiment with new recipes and flavors, keeping their meals exciting and engaging.",
+    "howToThink": "To create an effective dinner template, start by categorizing your meals into themes, such as vegetarian, poultry, or fish. Then, assign a specific day of the week to each theme, and fill in the corresponding recipes. Be sure to leave some flexibility in your template to accommodate unexpected changes or leftovers, and review and adjust your plan regularly to keep things fresh and exciting.",
+    "pros": [
+      "Saves time",
+      "Reduces stress",
+      "Increases meal variety"
+    ],
+    "cons": [
+      "Requires initial setup",
+      "May feel restrictive",
+      "Needs regular updates"
+    ],
+    "watchOut": "Be careful not to overcomplicate your template, as this can lead to feelings of overwhelm and decreased motivation",
+    "faq": [
+      {
+        "q": "What is a dinner template?",
+        "a": "A dinner template is a structured plan for organizing and scheduling meals"
+      },
+      {
+        "q": "How often should I review my template?",
+        "a": "Review and adjust your template every 2-3 weeks to keep things fresh and exciting"
+      },
+      {
+        "q": "Can I use a template for special diets?",
+        "a": "Yes, dinner templates can be tailored to accommodate special diets, such as gluten-free, vegan, or keto"
+      }
+    ],
+    "category": "Templates",
+    "tags": [
+      "dinner planning",
+      "meal prep"
+    ],
+    "sources": [
+      {
+        "label": "r/MealPrepSunday community threads",
+        "url": "https://www.reddit.com/r/MealPrepSunday/"
+      },
+      {
+        "label": "Search interest: \"pantry staples list\"",
+        "url": "https://duckduckgo.com/?q=pantry%20staples%20list"
+      }
+    ],
+    "publishedAt": "2026-07-18T08:26:40.529Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-cooking-2",
     "title": "Community pulse: what r/Cooking is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the sauces community this week.",

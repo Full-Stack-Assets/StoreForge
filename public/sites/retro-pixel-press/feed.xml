@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Fix It Yourself: DIY Retro Console Repair</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/diy-retro-console-repair.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/diy-retro-console-repair.html</guid>
+      <pubDate>Sat, 18 Jul 2026 08:26:37 GMT</pubDate>
+      <description>Save money, fix your console</description>
+    </item>
+    <item>
       <title>Rethinking Arcade Hardware: Custom Boards for Retro Enthusiasts</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/custom-arcade-boards.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/custom-arcade-boards.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/essential-tools-for-retro-console-modding.html</guid>
       <pubDate>Thu, 16 Jul 2026 01:06:57 GMT</pubDate>
       <description>Upgrade your retro console with these must-have tools.</description>
-    </item>
-    <item>
-      <title>A weekend project: level up your hardware in two hours</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/weekend-project-hardware-3.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/weekend-project-hardware-3.html</guid>
-      <pubDate>Wed, 15 Jul 2026 23:39:30 GMT</pubDate>
-      <description>One contained, satisfying hardware project for retro game collectors — start Saturday morning, done by lunch.</description>
     </item>
   </channel>
 </rss>

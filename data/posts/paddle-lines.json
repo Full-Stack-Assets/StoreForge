@@ -1,5 +1,56 @@
 [
   {
+    "slug": "paddle-craft-repair",
+    "title": "Fix It: DIY Kayak Hull Repair for Beginners",
+    "dek": "Fix your kayak hull with ease",
+    "takeaway": "Repairing your kayak hull can be a cost-effective and straightforward DIY project",
+    "whatHappened": "Many kayakers are put off by the idea of repairing their own boats, but with the right tools and knowledge, it can be a simple process. A damaged hull can render your kayak unusable, resulting in costly repairs or even replacement. However, with a few basic materials and some practice, you can fix minor damage and get back on the water",
+    "whyItMatters": "Being able to repair your own kayak hull is essential for any serious paddler, as it can save you time and money in the long run. It also gives you a sense of self-sufficiency and confidence on the water. Moreover, repairing your kayak can help extend its lifespan, reducing waste and the environmental impact of frequent replacements",
+    "howToThink": "To get started with DIY kayak hull repair, you'll need to assess the damage and gather the necessary materials, such as epoxy resin, fiberglass, and a patching kit. It's essential to follow a step-by-step guide and take your time to ensure a strong and durable repair. Practice makes perfect, so don't be discouraged if your first attempts don't yield perfect results",
+    "pros": [
+      "Cost-effective",
+      "Environmentally friendly",
+      "Develops DIY skills"
+    ],
+    "cons": [
+      "Time-consuming",
+      "Requires patience",
+      "Limited to minor repairs"
+    ],
+    "watchOut": "Be cautious when working with epoxy resin and fiberglass, as they can be hazardous to your health if not handled properly",
+    "faq": [
+      {
+        "q": "What type of epoxy resin is best for kayak hull repair?",
+        "a": "A marine-grade epoxy resin is recommended for its durability and water resistance"
+      },
+      {
+        "q": "Can I repair a severely damaged kayak hull?",
+        "a": "While minor damage can be repaired, severe damage may require professional attention or even replacement"
+      },
+      {
+        "q": "How long does it take to repair a kayak hull?",
+        "a": "The time it takes to repair a kayak hull depends on the extent of the damage and your level of experience, but most minor repairs can be completed within a few hours"
+      }
+    ],
+    "category": "Boats",
+    "tags": [
+      "kayak repair",
+      "DIY paddling"
+    ],
+    "sources": [
+      {
+        "label": "r/Kayaking community threads",
+        "url": "https://www.reddit.com/r/Kayaking/"
+      },
+      {
+        "label": "Search interest: \"first kayak buying guide\"",
+        "url": "https://duckduckgo.com/?q=first%20kayak%20buying%20guide"
+      }
+    ],
+    "publishedAt": "2026-07-18T08:26:40.312Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-best-day-paddle-trips-2",
     "title": "Myth vs. reality: best day paddle trips",
     "dek": "The persistent myths around best day paddle trips, stress-tested against what recreational kayakers and paddlers actually report.",

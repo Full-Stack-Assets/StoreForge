@@ -1,5 +1,56 @@
 [
   {
+    "slug": "better-bitters",
+    "title": "Bitters: The Secret to Unlocking Classic Cocktails",
+    "dek": "Elevate your cocktails with bitters",
+    "takeaway": "Using the right bitters can make or break a classic cocktail",
+    "whatHappened": "Recently, there's been a resurgence of interest in bitters among home bartenders, with many experimenting with different types and flavors. This has led to a renewed focus on the importance of bitters in classic cocktails. From the Old Fashioned to the Manhattan, bitters play a crucial role in adding depth and complexity to these timeless drinks.",
+    "whyItMatters": "Bitters can make a huge difference in the flavor profile of a cocktail, and using the right type can elevate a drink from good to great. With so many different types of bitters available, it can be overwhelming to choose the right one, but understanding the basics of bitters can help home bartenders take their cocktails to the next level. By experimenting with different bitters, home bartenders can develop a deeper understanding of how they interact with other ingredients and create more complex, interesting flavors.",
+    "howToThink": "When working with bitters, it's essential to start with a small amount and taste as you go, adjusting the amount to your taste. It's also important to consider the type of bitters you're using and how it will interact with other ingredients in the drink. By thinking critically about bitters and how they fit into the overall flavor profile of a cocktail, home bartenders can create more balanced, delicious drinks.",
+    "pros": [
+      "adds depth",
+      "increases complexity",
+      "elevates flavor"
+    ],
+    "cons": [
+      "can be overwhelming",
+      "expensive",
+      "difficult to find"
+    ],
+    "watchOut": "Be careful not to overdo it with the bitters, as too much can quickly overpower a drink",
+    "faq": [
+      {
+        "q": "What type of bitters should I use in an Old Fashioned?",
+        "a": "Traditionally, Angostura bitters are used in an Old Fashioned, but feel free to experiment with other types to find your favorite"
+      },
+      {
+        "q": "How much bitters should I use in a cocktail?",
+        "a": "Start with a small amount, usually 2-3 dashes, and adjust to taste"
+      },
+      {
+        "q": "Can I make my own bitters at home?",
+        "a": "Yes, making your own bitters at home can be a fun and rewarding project, but it does require some patience and experimentation"
+      }
+    ],
+    "category": "Ingredients",
+    "tags": [
+      "cocktail ingredients",
+      "bitters"
+    ],
+    "sources": [
+      {
+        "label": "r/bartenders community threads",
+        "url": "https://www.reddit.com/r/bartenders/"
+      },
+      {
+        "label": "Search interest: \"cocktail tools essentials\"",
+        "url": "https://duckduckgo.com/?q=cocktail%20tools%20essentials"
+      }
+    ],
+    "publishedAt": "2026-07-18T08:26:40.183Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-tools-mistakes-6",
     "title": "Five mistakes everyone makes in their first month of tools",
     "dek": "The most common early stumbles in tools, and the cheap corrections that fix them for home bartenders and cocktail hobbyists.",

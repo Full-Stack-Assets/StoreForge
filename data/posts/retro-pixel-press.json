@@ -1,5 +1,56 @@
 [
   {
+    "slug": "diy-retro-console-repair",
+    "title": "Fix It Yourself: DIY Retro Console Repair",
+    "dek": "Save money, fix your console",
+    "takeaway": "DIY repair can breathe new life into old consoles",
+    "whatHappened": "Retro console owners often face expensive repair bills or rely on third-party services. However, with the right tools and knowledge, many common issues can be fixed at home. From replacing worn-out controllers to fixing faulty motherboard components, DIY repair is a viable option.",
+    "whyItMatters": "Preserving retro consoles is crucial for maintaining gaming history and culture. By learning DIY repair techniques, enthusiasts can extend the lifespan of their consoles and ensure that classic games remain playable. This approach also helps to reduce electronic waste and supports a more sustainable gaming community.",
+    "howToThink": "When approaching DIY retro console repair, it's essential to research the specific issue, gather the necessary tools and components, and follow step-by-step guides from reputable sources. Start with simple repairs and gradually move on to more complex tasks. Joining online forums and communities can also provide valuable resources and support.",
+    "pros": [
+      "Cost-effective",
+      "Increased console lifespan",
+      "Improved troubleshooting skills"
+    ],
+    "cons": [
+      "Risk of damage",
+      "Limited availability of parts",
+      "Steep learning curve"
+    ],
+    "watchOut": "Be cautious when handling sensitive electronic components to avoid causing further damage or injuring yourself",
+    "faq": [
+      {
+        "q": "What are the most common retro console issues that can be fixed with DIY repair?",
+        "a": "Faulty capacitors, broken controllers, and worn-out motherboard components are common issues that can be addressed with DIY repair"
+      },
+      {
+        "q": "Where can I find reliable guides and resources for DIY retro console repair?",
+        "a": "Online forums, YouTube tutorials, and specialized repair websites are excellent sources for DIY repair guides and resources"
+      },
+      {
+        "q": "What safety precautions should I take when performing DIY retro console repair?",
+        "a": "Wear anti-static gloves, use a soldering iron with caution, and ensure a well-ventilated workspace to avoid injury or damage"
+      }
+    ],
+    "category": "Preservation",
+    "tags": [
+      "RetroConsoles",
+      "DIYrepair"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-07-18T08:26:37.207Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "custom-arcade-boards",
     "title": "Rethinking Arcade Hardware: Custom Boards for Retro Enthusiasts",
     "dek": "Upgrade your arcade experience",
