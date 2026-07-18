@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>Five mistakes everyone makes in their first month of pour-over</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/five-pour-over-mistakes-7.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/five-pour-over-mistakes-7.html</guid>
+      <pubDate>Sat, 18 Jul 2026 12:37:19 GMT</pubDate>
+      <description>The most common early stumbles in pour-over, and the cheap corrections that fix them for home coffee enthusiasts.</description>
+    </item>
+    <item>
       <title>&quot;budget grinder upgrade&quot; in practice: a real-world field test</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/budget-grinder-upgrade-field-test-4.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/budget-grinder-upgrade-field-test-4.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/coffee-roast-temperature-control.html</guid>
       <pubDate>Thu, 16 Jul 2026 09:48:32 GMT</pubDate>
       <description>Unlock perfect roasts with temperature control.</description>
-    </item>
-    <item>
-      <title>The Daily Grind: How Regular Cleaning Saves Your Espresso</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-maintenance-4.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-maintenance-4.html</guid>
-      <pubDate>Thu, 16 Jul 2026 07:09:30 GMT</pubDate>
-      <description>Keep your machine in top shape</description>
     </item>
   </channel>
 </rss>
