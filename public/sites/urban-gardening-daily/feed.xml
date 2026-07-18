@@ -5,6 +5,13 @@
     <link>https://storeforge-urban-gardening-daily.vercel.app/</link>
     <description>Fresh takes for apartment dwellers and balcony gardeners.</description>
     <item>
+      <title>Protecting Your Herbs from the Cold</title>
+      <link>https://storeforge-urban-gardening-daily.vercel.app/posts/winter-herb-container-care.html</link>
+      <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/winter-herb-container-care.html</guid>
+      <pubDate>Sat, 18 Jul 2026 11:36:08 GMT</pubDate>
+      <description>Shield your herbs from winter damage</description>
+    </item>
+    <item>
       <title>Ask the forge: your seasonal questions, answered</title>
       <link>https://storeforge-urban-gardening-daily.vercel.app/posts/ask-the-forge-seasonal-7.html</link>
       <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/ask-the-forge-seasonal-7.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/micro-green-revolution.html</guid>
       <pubDate>Thu, 16 Jul 2026 07:09:30 GMT</pubDate>
       <description>Maximize space with micro greens</description>
-    </item>
-    <item>
-      <title>The composting checklist: run this before you spend</title>
-      <link>https://storeforge-urban-gardening-daily.vercel.app/posts/composting-pre-spend-checklist-6.html</link>
-      <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/composting-pre-spend-checklist-6.html</guid>
-      <pubDate>Thu, 16 Jul 2026 04:43:50 GMT</pubDate>
-      <description>Seven questions that separate a justified composting purchase from an expensive mood.</description>
     </item>
   </channel>
 </rss>

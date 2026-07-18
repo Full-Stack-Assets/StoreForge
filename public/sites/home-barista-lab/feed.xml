@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>&quot;budget grinder upgrade&quot; in practice: a real-world field test</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/budget-grinder-upgrade-field-test-4.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/budget-grinder-upgrade-field-test-4.html</guid>
+      <pubDate>Sat, 18 Jul 2026 11:36:07 GMT</pubDate>
+      <description>We put the most-repeated advice about budget grinder upgrade through a month of actual use. Some of it survived.</description>
+    </item>
+    <item>
       <title>Descale or Die: The Hidden Dangers of Limescale in Espresso</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-descale.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-descale.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-maintenance-4.html</guid>
       <pubDate>Thu, 16 Jul 2026 07:09:30 GMT</pubDate>
       <description>Keep your machine in top shape</description>
-    </item>
-    <item>
-      <title>Brewing Success: The Secret to Long-Lasting Espresso Machines</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-maintenance-3.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-maintenance-3.html</guid>
-      <pubDate>Thu, 16 Jul 2026 04:43:52 GMT</pubDate>
-      <description>Regular maintenance can boost your espresso game</description>
     </item>
   </channel>
 </rss>

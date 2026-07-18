@@ -1,5 +1,56 @@
 [
   {
+    "slug": "winter-herb-container-care",
+    "title": "Protecting Your Herbs from the Cold",
+    "dek": "Shield your herbs from winter damage",
+    "takeaway": "With proper care, your container herbs can thrive year-round",
+    "whatHappened": "As winter approaches, herb gardeners face a unique challenge: protecting their plants from harsh weather conditions. Container gardens are particularly vulnerable, as the soil can freeze and damage roots. By taking a few simple precautions, you can keep your herbs healthy and thriving.",
+    "whyItMatters": "Herbs are a staple of many urban gardens, providing fresh flavor and fragrance to a wide range of dishes. Losing your herb plants to winter damage can be a significant setback, requiring time and effort to replace. By learning how to care for your herbs in the cold months, you can enjoy a continuous harvest and avoid the hassle of replanting.",
+    "howToThink": "To keep your herbs safe, start by moving your containers to a sheltered location, such as a balcony or patio with a roof overhead. Next, insulate the soil with a layer of straw or mulch, and consider using a thermal blanket to retain warmth. Finally, reduce watering to once a week, as the soil will dry out more slowly in the cold weather.",
+    "pros": [
+      "Year-round harvest",
+      "Fresh flavor",
+      "Low maintenance"
+    ],
+    "cons": [
+      "Limited light",
+      "Soil erosion",
+      "Pests"
+    ],
+    "watchOut": "Be careful not to overwater, as this can lead to root rot and kill your plants",
+    "faq": [
+      {
+        "q": "Can I leave my herbs outside in the snow?",
+        "a": "No, it's best to bring them under cover or move to a sheltered location"
+      },
+      {
+        "q": "How often should I water my herbs in the winter?",
+        "a": "Once a week, as the soil will dry out more slowly in the cold weather"
+      },
+      {
+        "q": "Can I use a regular blanket to insulate my herb containers?",
+        "a": "No, it's best to use a thermal blanket specifically designed for this purpose"
+      }
+    ],
+    "category": "Herbs",
+    "tags": [
+      "Herb Care",
+      "Winter Gardening"
+    ],
+    "sources": [
+      {
+        "label": "r/vegetablegardening community threads",
+        "url": "https://www.reddit.com/r/vegetablegardening/"
+      },
+      {
+        "label": "Search interest: \"indoor herb garden\"",
+        "url": "https://duckduckgo.com/?q=indoor%20herb%20garden"
+      }
+    ],
+    "publishedAt": "2026-07-18T11:36:08.870Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-seasonal-7",
     "title": "Ask the forge: your seasonal questions, answered",
     "dek": "Straight answers to the seasonal questions apartment dwellers and balcony gardeners keep asking, minus the hedging.",

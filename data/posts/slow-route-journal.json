@@ -1,5 +1,56 @@
 [
   {
+    "slug": "mindful-mornings-on-the-move",
+    "title": "Rise and Shine: Morning Routines for Slow Travelers",
+    "dek": "Start your day like a local",
+    "takeaway": "Mindful morning routines can enhance your slow travel experience",
+    "whatHappened": "As a slow traveler, I've found that adopting local morning routines can be a great way to immerse myself in the culture. From sipping coffee at a charming café to practicing yoga in a park, these quiet moments set the tone for the day. By embracing the local way of life, I've been able to connect with the community and feel more grounded",
+    "whyItMatters": "Incorporating mindful morning routines into your travel itinerary can have a significant impact on your overall experience. It allows you to slow down, appreciate the local culture, and recharge for the day ahead. By doing so, you'll be more present and engaged, making the most of your time in each destination",
+    "howToThink": "To create your own mindful morning routine, start by researching local customs and traditions. Look for unique coffee shops, parks, or other spots where you can begin your day. Consider activities like meditation, journaling, or simply taking a moment to people-watch and observe the local scene",
+    "pros": [
+      "Enhanced cultural immersion",
+      "Improved mental clarity",
+      "Increased energy"
+    ],
+    "cons": [
+      "Difficulty adjusting to new routines",
+      "Limited access to certain activities",
+      "Potential for jet lag"
+    ],
+    "watchOut": "Be respectful of local customs and traditions when adopting new morning routines",
+    "faq": [
+      {
+        "q": "What are some popular morning routines for slow travelers?",
+        "a": "Popular routines include yoga, meditation, journaling, and visiting local cafes"
+      },
+      {
+        "q": "How can I find local morning spots?",
+        "a": "Research online, ask locals, or explore neighborhoods on foot to discover unique spots"
+      },
+      {
+        "q": "Can I still have a mindful morning routine in a busy city?",
+        "a": "Yes, look for parks, gardens, or quiet spots to escape the hustle and bustle"
+      }
+    ],
+    "category": "Local",
+    "tags": [
+      "slow travel",
+      "mindful mornings"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-07-18T11:36:09.118Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "rethinking-rail-cards-3",
     "title": "Cutting rail costs with smart card strategies",
     "dek": "Maximize rail travel value without the guesswork",

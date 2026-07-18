@@ -5,6 +5,13 @@
     <link>https://storeforge-slow-route-journal.vercel.app/</link>
     <description>Fresh takes for slow-travel and low-impact explorers.</description>
     <item>
+      <title>Rise and Shine: Morning Routines for Slow Travelers</title>
+      <link>https://storeforge-slow-route-journal.vercel.app/posts/mindful-mornings-on-the-move.html</link>
+      <guid>https://storeforge-slow-route-journal.vercel.app/posts/mindful-mornings-on-the-move.html</guid>
+      <pubDate>Sat, 18 Jul 2026 11:36:09 GMT</pubDate>
+      <description>Start your day like a local</description>
+    </item>
+    <item>
       <title>Cutting rail costs with smart card strategies</title>
       <link>https://storeforge-slow-route-journal.vercel.app/posts/rethinking-rail-cards-3.html</link>
       <guid>https://storeforge-slow-route-journal.vercel.app/posts/rethinking-rail-cards-3.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-slow-route-journal.vercel.app/posts/community-pulse-solotravel-2.html</guid>
       <pubDate>Thu, 16 Jul 2026 07:09:29 GMT</pubDate>
       <description>The arguments, consensus shifts, and quietly useful threads from the local community this week.</description>
-    </item>
-    <item>
-      <title>The Unsung Heroes of Slow Travel: Local Railway Stations</title>
-      <link>https://storeforge-slow-route-journal.vercel.app/posts/rethinking-rail-stations.html</link>
-      <guid>https://storeforge-slow-route-journal.vercel.app/posts/rethinking-rail-stations.html</guid>
-      <pubDate>Thu, 16 Jul 2026 04:43:52 GMT</pubDate>
-      <description>Local rail stations are hidden gems</description>
     </item>
   </channel>
 </rss>
