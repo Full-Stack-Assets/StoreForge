@@ -1,5 +1,56 @@
 [
   {
+    "slug": "optimizing-footwork",
+    "title": "Mastering Footwork: The Key to Unstuck Sends",
+    "dek": "Improve your footwork, improve your climb",
+    "takeaway": "Optimizing footwork is crucial for efficient and effective climbing",
+    "whatHappened": "Recently, the climbing community has seen a surge in conversations about the importance of footwork in climbing. Many climbers are realizing that proper foot placement and movement can make or break a send. By focusing on footwork, climbers can unlock new levels of efficiency and precision in their climbing.",
+    "whyItMatters": "Footwork is often overlooked, but it's a critical aspect of climbing that can greatly impact performance. Poor footwork can lead to wasted energy, decreased balance, and increased risk of injury. By prioritizing footwork, climbers can improve their overall technique and achieve better results.",
+    "howToThink": "To optimize footwork, climbers should focus on developing a keen sense of balance and weight distribution. This can be achieved through practice and attention to foot placement, as well as incorporating specific footwork exercises into training routines. By doing so, climbers can develop the skills and instincts needed to improve their footwork and take their climbing to the next level.",
+    "pros": [
+      "Improved balance",
+      "Increased efficiency",
+      "Enhanced technique"
+    ],
+    "cons": [
+      "Steep learning curve",
+      "Requires practice",
+      "May feel uncomfortable"
+    ],
+    "watchOut": "Don't neglect to warm up and stretch your feet and ankles before climbing to prevent injury",
+    "faq": [
+      {
+        "q": "What are some exercises to improve footwork?",
+        "a": "Try single-leg squats, balance boards, and footwork drills on smaller holds"
+      },
+      {
+        "q": "How can I incorporate footwork into my training routine?",
+        "a": "Set aside dedicated time to focus on footwork exercises and incorporate them into your regular climbing sessions"
+      },
+      {
+        "q": "Will optimizing footwork guarantee a successful send?",
+        "a": "No, but it can significantly improve your chances by increasing efficiency and reducing energy waste"
+      }
+    ],
+    "category": "Technique",
+    "tags": [
+      "footwork",
+      "technique"
+    ],
+    "sources": [
+      {
+        "label": "r/climbing community threads",
+        "url": "https://www.reddit.com/r/climbing/"
+      },
+      {
+        "label": "Search interest: \"climbing shoe guide\"",
+        "url": "https://duckduckgo.com/?q=climbing%20shoe%20guide"
+      }
+    ],
+    "publishedAt": "2026-07-18T23:34:48.368Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-climbharder-3",
     "title": "Community pulse: what r/climbharder is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the recovery community this week.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "streamlining-dinner-templates-2",
+    "title": "Dinner in 30 Minutes or Less: The Power of Simplified Templates",
+    "dek": "Simplify your weeknights with efficient templates.",
+    "takeaway": "Streamlined dinner templates can significantly reduce weeknight cooking time and stress.",
+    "whatHappened": "Home cooks often find themselves overwhelmed by the complexity of weeknight dinner planning. This can lead to reliance on takeout or processed foods, which, while convenient, may not align with health or budget goals. By simplifying dinner templates, cooks can regain control over their meals.",
+    "whyItMatters": "Efficient templates matter because they allow for quicker decision-making and preparation, ensuring that home cooks can provide healthy, satisfying meals even on the most hectic days. This approach also fosters creativity within established frameworks, keeping meals interesting without introducing unnecessary complexity. Ultimately, it's about achieving a balance between simplicity and variety.",
+    "howToThink": "To start streamlining your dinner templates, focus on core ingredients that can be mixed and matched across different meals. Identify your favorite proteins, vegetables, and grains, and then find ways to interchange them in simple, tried-and-true recipes. Additionally, consider meal prepping components like sauces or roasted vegetables that can be used throughout the week.",
+    "pros": [
+      "Saves Time",
+      "Reduces Stress",
+      "Increases Creativity"
+    ],
+    "cons": [
+      "Initial Setup Required",
+      "May Feel Repetitive",
+      "Requires Some Planning"
+    ],
+    "watchOut": "Be cautious not to oversimplify your templates to the point where meals become boring or unvaried.",
+    "faq": [
+      {
+        "q": "What is a dinner template?",
+        "a": "A basic framework for a meal that can be customized with different ingredients."
+      },
+      {
+        "q": "How do I start simplifying my templates?",
+        "a": "Begin by listing your favorite ingredients and finding simple recipes that can incorporate them."
+      },
+      {
+        "q": "Will using templates make my meals boring?",
+        "a": "Not if you balance simplicity with variety; templates should be a starting point, not a rigid rule."
+      }
+    ],
+    "category": "Templates",
+    "tags": [
+      "Quick Dinners",
+      "Meal Planning"
+    ],
+    "sources": [
+      {
+        "label": "r/MealPrepSunday community threads",
+        "url": "https://www.reddit.com/r/MealPrepSunday/"
+      },
+      {
+        "label": "Search interest: \"pantry staples list\"",
+        "url": "https://duckduckgo.com/?q=pantry%20staples%20list"
+      }
+    ],
+    "publishedAt": "2026-07-18T23:34:48.567Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-sauces-7",
     "title": "Ask the forge: your sauces questions, answered",
     "dek": "Straight answers to the sauces questions home cooks systematizing weeknight dinners keep asking, minus the hedging.",
