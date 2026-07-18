@@ -5,6 +5,13 @@
     <link>https://storeforge-urban-gardening-daily.vercel.app/</link>
     <description>Fresh takes for apartment dwellers and balcony gardeners.</description>
     <item>
+      <title>Maximizing Space: Expert Advice for Urban Gardeners</title>
+      <link>https://storeforge-urban-gardening-daily.vercel.app/posts/apartment-gardening-hacks-2.html</link>
+      <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/apartment-gardening-hacks-2.html</guid>
+      <pubDate>Sat, 18 Jul 2026 01:04:17 GMT</pubDate>
+      <description>Tips to boost your urban harvest</description>
+    </item>
+    <item>
       <title>The composting checklist: run this before you spend</title>
       <link>https://storeforge-urban-gardening-daily.vercel.app/posts/composting-pre-spend-checklist-8.html</link>
       <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/composting-pre-spend-checklist-8.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/maximizing-balcony-space.html</guid>
       <pubDate>Wed, 15 Jul 2026 21:37:38 GMT</pubDate>
       <description>Transform small spaces with smart container layouts</description>
-    </item>
-    <item>
-      <title>Shield Your Herbs from the Cold</title>
-      <link>https://storeforge-urban-gardening-daily.vercel.app/posts/winter-herb-care.html</link>
-      <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/winter-herb-care.html</guid>
-      <pubDate>Wed, 15 Jul 2026 19:53:12 GMT</pubDate>
-      <description>Protect your herbs from winter damage</description>
     </item>
   </channel>
 </rss>

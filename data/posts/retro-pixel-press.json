@@ -1,5 +1,56 @@
 [
   {
+    "slug": "retro-hardware-revival-6",
+    "title": "Breathe New Life into Old Consoles",
+    "dek": "Revamp your retro consoles",
+    "takeaway": "Upgrading your retro console's hardware can significantly improve performance and longevity",
+    "whatHappened": "The retro gaming community has seen a resurgence in recent years, with many enthusiasts seeking to restore and upgrade their classic consoles. This has led to a proliferation of DIY guides and aftermarket components. As a result, it's now easier than ever to breathe new life into old hardware.",
+    "whyItMatters": "Upgrading your retro console's hardware can make all the difference in your gaming experience, from faster load times to improved graphics. Moreover, it can also help to extend the lifespan of your console, saving you money in the long run. By taking the time to upgrade and maintain your hardware, you can ensure that your retro gaming collection remains viable for years to come.",
+    "howToThink": "When approaching a hardware upgrade, it's essential to consider your goals and priorities. Think about what you want to achieve with your upgrade, whether it's improving performance or adding new features. Research your options carefully, and don't be afraid to seek out advice from the retro gaming community.",
+    "pros": [
+      "Improved performance",
+      "Increased longevity",
+      "Cost-effective"
+    ],
+    "cons": [
+      "Technical difficulty",
+      "Component sourcing",
+      "Potential for damage"
+    ],
+    "watchOut": "Be cautious when handling sensitive electronics, as damage can be irreparable",
+    "faq": [
+      {
+        "q": "What's the best way to clean my retro console?",
+        "a": "Use compressed air and a soft brush to gently remove dust and debris"
+      },
+      {
+        "q": "Can I upgrade my console's RAM?",
+        "a": "It depends on the console model, but many retro consoles can be upgraded with additional RAM"
+      },
+      {
+        "q": "How do I troubleshoot common hardware issues?",
+        "a": "Check online forums and repair guides for specific troubleshooting steps"
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "RetroConsoles",
+      "HardwareUpgrades"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-07-18T01:04:17.509Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-preservation-6",
     "title": "The quiet upgrade: small tweaks in preservation with outsized returns",
     "dek": "No purchases, no overhauls — the modest preservation adjustments that retro game collectors and speedrunners report mattering most.",

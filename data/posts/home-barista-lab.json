@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-machine-calibration",
+    "title": "Calibrating Your Espresso Machine for Perfect Shots",
+    "dek": "Get the most out of your espresso machine",
+    "takeaway": "Proper calibration is key to perfect espresso shots at home",
+    "whatHappened": "Recently, we've seen a surge in home espresso enthusiasts struggling to achieve consistent results. This is often due to improper machine calibration, leading to under or over-extracted shots. By understanding how to calibrate your machine, you can significantly improve your espresso game.",
+    "whyItMatters": "Calibration affects the temperature, pressure, and flow rate of your espresso machine, all of which are critical for extracting the perfect shot. Without proper calibration, even the best beans and techniques can fall short. It's a foundational step that ensures consistency and quality in every cup.",
+    "howToThink": "To approach calibration, start by consulting your machine's manual for specific guidance. Generally, you'll need to adjust the temperature and pressure to match the recommended settings for espresso. It's also crucial to regularly clean and maintain your machine to prevent any buildup that could throw off your calibration.",
+    "pros": [
+      "Improved flavor",
+      "Consistent results",
+      "Easy to learn"
+    ],
+    "cons": [
+      "Requires patience",
+      "Machine specific",
+      "Initial investment"
+    ],
+    "watchOut": "Be cautious not to over-calibrate, as this can lead to machine damage or inconsistent performance",
+    "faq": [
+      {
+        "q": "What is the ideal temperature for espresso?",
+        "a": "Between 195°F and 205°F"
+      },
+      {
+        "q": "How often should I calibrate my machine?",
+        "a": "After every 3-6 months of use or when changing coffee beans significantly"
+      },
+      {
+        "q": "Can I calibrate my machine without the manual?",
+        "a": "While possible, it's highly recommended to follow the manufacturer's instructions for best results"
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "calibration"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-07-18T01:04:17.449Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "roasting-pre-spend-checklist-6",
     "title": "The roasting checklist: run this before you spend",
     "dek": "Seven questions that separate a justified roasting purchase from an expensive mood.",

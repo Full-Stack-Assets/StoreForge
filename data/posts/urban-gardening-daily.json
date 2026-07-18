@@ -1,5 +1,56 @@
 [
   {
+    "slug": "apartment-gardening-hacks-2",
+    "title": "Maximizing Space: Expert Advice for Urban Gardeners",
+    "dek": "Tips to boost your urban harvest",
+    "takeaway": "Optimizing your container garden can significantly increase yields and beauty",
+    "whatHappened": "Urban gardeners often face the challenge of limited space, but with the right strategies, it's possible to create a thriving and productive garden. By utilizing vertical gardening methods and selecting the right containers, gardeners can make the most of their available space. This approach not only increases the aesthetic appeal of the garden but also allows for a greater variety of plants to be grown.",
+    "whyItMatters": "For apartment dwellers and balcony gardeners, maximizing space is crucial for achieving a successful and satisfying gardening experience. By implementing space-saving techniques, gardeners can enjoy a higher level of productivity and a greater sense of accomplishment. Furthermore, optimizing space can also lead to a more efficient use of resources, such as water and nutrients.",
+    "howToThink": "To maximize space in your container garden, consider using trellises, wall-mounted planters, and tiered containers. It's also essential to choose compact or dwarf varieties of plants, which are specifically bred for small spaces. Additionally, implementing a regular maintenance routine, including pruning and fertilization, will help to ensure the health and productivity of your plants.",
+    "pros": [
+      "Increased yields",
+      "Improved aesthetics",
+      "Reduced waste"
+    ],
+    "cons": [
+      "Higher initial investment",
+      "Requires regular maintenance",
+      "Limited plant selection"
+    ],
+    "watchOut": "Be cautious not to overwater your plants, as this can lead to root rot and other problems in container gardens",
+    "faq": [
+      {
+        "q": "What is the best type of container for urban gardening?",
+        "a": "Self-watering containers are ideal for urban gardening, as they help to reduce watering frequency and prevent overwatering."
+      },
+      {
+        "q": "How often should I fertilize my container garden?",
+        "a": "Fertilize your container garden regularly, using a balanced fertilizer, to promote healthy plant growth and maximize yields."
+      },
+      {
+        "q": "Can I grow a variety of plants in a small space?",
+        "a": "Yes, by using space-saving techniques and selecting compact or dwarf varieties of plants, you can grow a variety of plants in a small space, including herbs, vegetables, and flowers."
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "Urban Gardening",
+      "Container Garden"
+    ],
+    "sources": [
+      {
+        "label": "r/UrbanGardening community threads",
+        "url": "https://www.reddit.com/r/UrbanGardening/"
+      },
+      {
+        "label": "Search interest: \"balcony garden ideas\"",
+        "url": "https://duckduckgo.com/?q=balcony%20garden%20ideas"
+      }
+    ],
+    "publishedAt": "2026-07-18T01:04:17.651Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "composting-pre-spend-checklist-8",
     "title": "The composting checklist: run this before you spend",
     "dek": "Seven questions that separate a justified composting purchase from an expensive mood.",
