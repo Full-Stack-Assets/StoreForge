@@ -1,5 +1,56 @@
 [
   {
+    "slug": "optimal-watering-schedules",
+    "title": "Watering Wisdom: Getting it Right for Apartment Herb Gardens",
+    "dek": "Perfect your herb garden's hydration",
+    "takeaway": "Regular, consistent watering is key to thriving apartment herb gardens",
+    "whatHappened": "Many apartment gardeners struggle with finding the perfect balance of watering their herb gardens, often resulting in overwatering or underwatering. This imbalance can lead to stunted growth, wilted leaves, or even the death of the plants. Observations from seasoned gardeners indicate that a well-planned watering schedule can mitigate these issues.",
+    "whyItMatters": "Proper hydration is essential for herb plants to grow healthily and produce flavorful leaves. Incorrect watering techniques can lead to a decrease in the plant's overall quality and longevity. Moreover, understanding the specific watering needs of each herb type can help gardeners tailor their care and maximize their harvest.",
+    "howToThink": "To create an optimal watering schedule, start by monitoring your herb garden's moisture levels daily, taking into account factors such as pot size, soil type, and the amount of direct sunlight the plants receive. Adjust your watering frequency based on these observations, aiming for moist but not waterlogged soil. Additionally, consider using self-watering planters or smart watering devices to help maintain consistent moisture levels.",
+    "pros": [
+      "Increased yields",
+      "Healthier plants",
+      "Reduced maintenance"
+    ],
+    "cons": [
+      "Initial schedule setup",
+      "Ongoing monitoring required",
+      "Potential for overwatering"
+    ],
+    "watchOut": "Be cautious not to overwater, as this can lead to root rot and other problems in your herb garden",
+    "faq": [
+      {
+        "q": "How often should I water my herb garden?",
+        "a": "Water your herb garden when the top inch of soil feels dry to the touch, usually every 1-3 days depending on the conditions."
+      },
+      {
+        "q": "What is the best time of day to water my herbs?",
+        "a": "Water your herbs in the morning to allow the plants to absorb the water throughout the day, reducing the risk of fungal diseases."
+      },
+      {
+        "q": "Can I use tap water for my herb garden?",
+        "a": "Yes, tap water is generally fine for most herb gardens, but if you have particularly sensitive plants, consider using filtered or distilled water to avoid any potential chemical imbalances."
+      }
+    ],
+    "category": "Herbs",
+    "tags": [
+      "herb care",
+      "watering tips"
+    ],
+    "sources": [
+      {
+        "label": "r/houseplants community threads",
+        "url": "https://www.reddit.com/r/houseplants/"
+      },
+      {
+        "label": "Search interest: \"small space vegetables\"",
+        "url": "https://duckduckgo.com/?q=small%20space%20vegetables"
+      }
+    ],
+    "publishedAt": "2026-07-18T14:07:51.552Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-herbs-mistakes-7",
     "title": "Five mistakes everyone makes in their first month of herbs",
     "dek": "The most common early stumbles in herbs, and the cheap corrections that fix them for apartment dwellers and balcony gardeners.",

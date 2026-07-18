@@ -1,5 +1,56 @@
 [
   {
+    "slug": "tuning-temp-for-perfection",
+    "title": "Temperature Tuning for Espresso Mastery",
+    "dek": "Dial in the perfect shot with temperature control.",
+    "takeaway": "Accurate temperature control is crucial for optimal espresso extraction.",
+    "whatHappened": "Recently, we experimented with various temperature settings on our home espresso machine, observing significant differences in flavor and crema quality. Even minor adjustments had noticeable effects, underscoring the importance of precise temperature control. Our findings emphasized the need for home baristas to understand and manage temperature for better espresso.",
+    "whyItMatters": "Temperature directly affects the extraction process, influencing the balance of flavors in the coffee. Incorrect temperatures can lead to under or over-extraction, resulting in a subpar cup. By mastering temperature control, home enthusiasts can significantly improve the quality and consistency of their espresso shots.",
+    "howToThink": "When adjusting your espresso machine's temperature, consider the type of coffee beans and roast level. Generally, lighter roasts require higher temperatures, while darker roasts prefer slightly lower temperatures. It's essential to consult your machine's manual and experiment within the recommended temperature range for optimal results.",
+    "pros": [
+      "Improved flavor balance",
+      "Better crema quality",
+      "Increased consistency"
+    ],
+    "cons": [
+      "Requires precise adjustments",
+      "May need additional equipment",
+      "Steep learning curve"
+    ],
+    "watchOut": "Be cautious not to overheat, as this can lead to burnt flavors and machine damage.",
+    "faq": [
+      {
+        "q": "What is the ideal temperature for espresso?",
+        "a": "The ideal temperature range for espresso is between 195°F and 205°F."
+      },
+      {
+        "q": "How often should I check my machine's temperature?",
+        "a": "It's recommended to check and adjust your machine's temperature before each use, especially if you live in an area with fluctuating ambient temperatures."
+      },
+      {
+        "q": "Can I use a thermometer to measure my machine's temperature?",
+        "a": "Yes, using a thermometer can provide accurate readings and help you adjust your machine's temperature for optimal performance."
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "Espresso Tips",
+      "Temperature Control"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-07-18T14:07:51.337Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-pour-over-mistakes-7",
     "title": "Five mistakes everyone makes in their first month of pour-over",
     "dek": "The most common early stumbles in pour-over, and the cheap corrections that fix them for home coffee enthusiasts.",

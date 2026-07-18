@@ -1,5 +1,56 @@
 [
   {
+    "slug": "retro-console-modding-101-2",
+    "title": "Mod Your Way to Glory: A Beginner's Guide to Retro Console Modding",
+    "dek": "Unlock your console's full potential",
+    "takeaway": "Retro console modding can significantly enhance your gaming experience and speedrunning capabilities",
+    "whatHappened": "The world of retro console modding has exploded in recent years, with new tools and techniques emerging to help enthusiasts breathe new life into classic systems. From regions-free modifications to performance-enhancing upgrades, the possibilities are endless. With the rise of social media and online forums, it's never been easier to connect with fellow modders and learn from their experiences.",
+    "whyItMatters": "For speedrunners and collectors alike, retro console modding can be a game-changer. By upgrading their hardware, enthusiasts can enjoy faster load times, improved graphics, and enhanced overall performance. Moreover, modding can also help to preserve classic consoles and extend their lifespan, ensuring that they remain playable for generations to come.",
+    "howToThink": "When it comes to retro console modding, it's essential to approach the process with caution and patience. Start by researching the specific modification you want to attempt, and make sure you have the necessary skills and tools. Don't be afraid to ask for help or seek guidance from more experienced modders. With the right mindset and approach, you can unlock your console's full potential and take your gaming experience to the next level.",
+    "pros": [
+      "Improved performance",
+      "Enhanced graphics",
+      "Increased longevity"
+    ],
+    "cons": [
+      "Risk of damage",
+      "Cost of components",
+      "Complexity of installation"
+    ],
+    "watchOut": "Be cautious when handling electrical components to avoid damage or injury",
+    "faq": [
+      {
+        "q": "What is the most popular retro console to mod?",
+        "a": "The Nintendo Entertainment System (NES) is a favorite among modders due to its simplicity and versatility"
+      },
+      {
+        "q": "Do I need to be an expert to mod my console?",
+        "a": "No, with the right guidance and resources, anyone can learn to mod their console, regardless of their skill level"
+      },
+      {
+        "q": "Can I void my console's warranty by modding it?",
+        "a": "Yes, modifying your console can void its warranty, so proceed with caution and carefully consider the risks and benefits"
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Retro Gaming",
+      "Console Modding"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-07-18T14:07:51.288Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-crt-setup-guide-4",
     "title": "Myth vs. reality: crt setup guide",
     "dek": "The persistent myths around crt setup guide, stress-tested against what retro game collectors and speedrunners actually report.",

@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Mod Your Way to Glory: A Beginner&apos;s Guide to Retro Console Modding</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-modding-101-2.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-modding-101-2.html</guid>
+      <pubDate>Sat, 18 Jul 2026 14:07:51 GMT</pubDate>
+      <description>Unlock your console&apos;s full potential</description>
+    </item>
+    <item>
       <title>Myth vs. reality: crt setup guide</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/myth-vs-reality-crt-setup-guide-4.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/myth-vs-reality-crt-setup-guide-4.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/restoring-snes-consoles-for-speed.html</guid>
       <pubDate>Thu, 16 Jul 2026 12:08:54 GMT</pubDate>
       <description>Supercharge your SNES for record-breaking speedruns</description>
-    </item>
-    <item>
-      <title>Resurrecting the 8-Bit Beast: A Guide to Restoring NES Consoles</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/restoring-nes-consoles.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/restoring-nes-consoles.html</guid>
-      <pubDate>Thu, 16 Jul 2026 09:48:32 GMT</pubDate>
-      <description>Breathe new life into your old NES console</description>
     </item>
   </channel>
 </rss>

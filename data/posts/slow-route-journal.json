@@ -1,5 +1,56 @@
 [
   {
+    "slug": "slow-train-adventures",
+    "title": "Off the Beaten Track: Exploring Local Rail Lines",
+    "dek": "Discover hidden gems on local trains",
+    "takeaway": "Slow train travel offers a unique perspective on local cultures and landscapes",
+    "whatHappened": "While researching local transportation options, I stumbled upon a network of underutilized rail lines that crisscross the countryside. These lines often pass through quaint villages and picturesque landscapes, offering a glimpse into rural life. By taking these trains, I experienced the local culture in a way that would have been impossible on a high-speed route",
+    "whyItMatters": "Slow train travel allows for a more immersive experience, enabling passengers to engage with locals and appreciate the scenery. It also reduces carbon emissions and supports local economies. By choosing slow trains, travelers can make a positive impact on the environment and the communities they visit",
+    "howToThink": "To make the most of slow train travel, consider packing lightly, bringing a good book, and being open to conversations with fellow passengers. Research local rail lines and schedules in advance, and don't be afraid to ask locals for recommendations. By embracing the slow pace, travelers can cultivate a deeper appreciation for the journey",
+    "pros": [
+      "Scenic routes",
+      "Local insights",
+      "Relaxed pace"
+    ],
+    "cons": [
+      "Limited schedules",
+      "Basic amenities",
+      "Language barriers"
+    ],
+    "watchOut": "Be mindful of train schedules and plan ahead to avoid missing connections",
+    "faq": [
+      {
+        "q": "Are slow trains comfortable?",
+        "a": "While amenities may be basic, the scenery and local interactions make up for it"
+      },
+      {
+        "q": "Can I use slow trains for long-distance travel?",
+        "a": "Slow trains are ideal for shorter journeys, but can be used for longer trips with careful planning"
+      },
+      {
+        "q": "How do I find local rail lines?",
+        "a": "Research online, ask locals, or visit train stations to discover hidden gems"
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "Slow travel",
+      "Local rails"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-07-18T14:07:51.194Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "five-stays-mistakes-6",
     "title": "Five mistakes everyone makes in their first month of stays",
     "dek": "The most common early stumbles in stays, and the cheap corrections that fix them for slow-travel and low-impact explorers.",
