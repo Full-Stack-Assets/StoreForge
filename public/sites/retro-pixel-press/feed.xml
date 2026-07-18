@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>The preservation checklist: run this before you spend</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/preservation-pre-spend-checklist-6.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/preservation-pre-spend-checklist-6.html</guid>
+      <pubDate>Sat, 18 Jul 2026 18:35:33 GMT</pubDate>
+      <description>Seven questions that separate a justified preservation purchase from an expensive mood.</description>
+    </item>
+    <item>
       <title>Five mistakes everyone makes in their first month of speedruns</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/five-speedruns-mistakes-4.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/five-speedruns-mistakes-4.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/myth-vs-reality-crt-setup-guide-3.html</guid>
       <pubDate>Thu, 16 Jul 2026 19:45:08 GMT</pubDate>
       <description>The persistent myths around crt setup guide, stress-tested against what retro game collectors and speedrunners actually report.</description>
-    </item>
-    <item>
-      <title>Supercharge Your SNES Experience: Custom Controller Builds</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/custom-snes-controller-builds.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/custom-snes-controller-builds.html</guid>
-      <pubDate>Thu, 16 Jul 2026 17:50:17 GMT</pubDate>
-      <description>Upgrade your SNES setup with a custom controller</description>
     </item>
   </channel>
 </rss>
