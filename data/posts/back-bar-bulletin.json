@@ -1,5 +1,56 @@
 [
   {
+    "slug": "rethinking-juicer-essentiality",
+    "title": "Juicing the Truth: Do You Really Need a Juicer?",
+    "dek": "A closer look at the necessity of juicers in home bars",
+    "takeaway": "You don't always need a juicer to make great cocktails, but it can elevate certain drinks",
+    "whatHappened": "The rise of home bartending has led to a surge in sales of various tools, including juicers. However, many enthusiasts question whether a juicer is truly essential for crafting top-notch cocktails. In exploring this, it becomes clear that while a juicer can be beneficial, it's not a one-size-fits-all solution.",
+    "whyItMatters": "Understanding the role of a juicer in your home bar setup can save you money and space, allowing you to focus on what really matters - the quality of your ingredients and the technique behind your cocktails. It also prompts a deeper consideration of the types of drinks you want to make and the flavors you aim to achieve.",
+    "howToThink": "When deciding on a juicer, consider the frequency of use and the types of citrus you typically work with. For those who occasionally make a classic daiquiri or margarita, a manual or makeshift method might suffice. However, for the enthusiast who frequently experiments with citrus-forward cocktails, a quality juicer can be a worthwhile investment.",
+    "pros": [
+      "Enhances flavor",
+      "Saves time",
+      "Professional results"
+    ],
+    "cons": [
+      "Expensive",
+      "Space-consuming",
+      "Not always necessary"
+    ],
+    "watchOut": "Be cautious of overly expensive or complicated juicers that might not fit your bartending needs or skill level",
+    "faq": [
+      {
+        "q": "What's the best alternative to a juicer?",
+        "a": "Manual citrus squeezers or even a good knife can be effective alternatives"
+      },
+      {
+        "q": "How do I choose the right juicer for my needs?",
+        "a": "Consider the size, material, and type of juicer that fits your bar space and cocktail repertoire"
+      },
+      {
+        "q": "Can I make margaritas without a juicer?",
+        "a": "Yes, you can use bottled juice or freshly squeeze citrus with a manual tool for a similar effect"
+      }
+    ],
+    "category": "Tools",
+    "tags": [
+      "HomeBar",
+      "CocktailTools"
+    ],
+    "sources": [
+      {
+        "label": "r/mixology community threads",
+        "url": "https://www.reddit.com/r/mixology/"
+      },
+      {
+        "label": "Search interest: \"batch cocktails for parties\"",
+        "url": "https://duckduckgo.com/?q=batch%20cocktails%20for%20parties"
+      }
+    ],
+    "publishedAt": "2026-07-18T04:32:21.526Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-batching-6",
     "title": "Ask the forge: your batching questions, answered",
     "dek": "Straight answers to the batching questions home bartenders and cocktail hobbyists keep asking, minus the hedging.",

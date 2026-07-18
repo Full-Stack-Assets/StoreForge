@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>The Daily Grind: How Cleaning Your Espresso Machine Can Transform Your Coffee</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-cleaning-hacks-2.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-cleaning-hacks-2.html</guid>
+      <pubDate>Sat, 18 Jul 2026 04:32:19 GMT</pubDate>
+      <description>Clean machine, better coffee</description>
+    </item>
+    <item>
       <title>Calibrating Your Espresso Machine for Perfect Shots</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-calibration.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-calibration.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/ask-the-forge-gear-4.html</guid>
       <pubDate>Wed, 15 Jul 2026 22:39:21 GMT</pubDate>
       <description>Straight answers to the gear questions home coffee enthusiasts keep asking, minus the hedging.</description>
-    </item>
-    <item>
-      <title>Weighing Up: How a Coffee Scale Can Revolutionize Your Brew</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/coffee-scale-hacks.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/coffee-scale-hacks.html</guid>
-      <pubDate>Wed, 15 Jul 2026 21:37:38 GMT</pubDate>
-      <description>Get the perfect cup with a coffee scale</description>
     </item>
   </channel>
 </rss>

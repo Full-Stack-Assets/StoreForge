@@ -1,5 +1,56 @@
 [
   {
+    "slug": "refreshing-retro-controllers",
+    "title": "Reinvent Your Game: Upgrading Retro Controllers",
+    "dek": "New life for old pads",
+    "takeaway": "Upgrading your retro controllers can significantly enhance your gaming experience",
+    "whatHappened": "Recently, advancements in DIY controller modification kits have made it easier for retro gaming enthusiasts to upgrade their old controllers. These kits often include replacement parts such as analog sticks, directional pads, and buttons. As a result, players can now breathe new life into their classic consoles",
+    "whyItMatters": "Upgrading retro controllers is crucial for speedrunners and collectors alike, as it allows for more precise control and a more authentic gaming experience. Moreover, with the rise of retro gaming events, having a reliable and responsive controller can make all the difference. By upgrading their controllers, players can unlock new levels of performance and enjoyment",
+    "howToThink": "When considering an upgrade, think about the specific needs of your game and the type of controller you're using. For example, if you're playing a platformer, you may want to prioritize precise jump controls. On the other hand, if you're playing a fighting game, you may want to focus on upgrading your controller's buttons for faster execution",
+    "pros": [
+      "Improved precision",
+      "Enhanced durability",
+      "Customization options"
+    ],
+    "cons": [
+      "Cost",
+      "Installation hassle",
+      "Potential for over-modification"
+    ],
+    "watchOut": "Be cautious not to over-modify your controller, as this can lead to decreased performance and a less authentic experience",
+    "faq": [
+      {
+        "q": "What are the most popular controller modification kits?",
+        "a": "The most popular kits vary by console, but popular options include the 8BitDo kit for NES and SNES controllers"
+      },
+      {
+        "q": "How difficult is it to install a modification kit?",
+        "a": "Installation difficulty varies by kit, but most can be installed with basic soldering skills and patience"
+      },
+      {
+        "q": "Will upgrading my controller void its warranty?",
+        "a": "Yes, upgrading your controller will likely void its warranty, so proceed with caution"
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Retro Gaming",
+      "Controller Mods"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-07-18T04:32:19.344Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "retro-hardware-revival-6",
     "title": "Breathe New Life into Old Consoles",
     "dek": "Revamp your retro consoles",

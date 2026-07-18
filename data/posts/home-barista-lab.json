@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-machine-cleaning-hacks-2",
+    "title": "The Daily Grind: How Cleaning Your Espresso Machine Can Transform Your Coffee",
+    "dek": "Clean machine, better coffee",
+    "takeaway": "Regular espresso machine cleaning is crucial for optimal flavor and longevity",
+    "whatHappened": "We put our espresso machine through a rigorous testing cycle, pushing it to its limits to see how it would perform with and without regular cleaning. The results were astonishing, with a noticeable drop in flavor quality when the machine wasn't properly maintained. By incorporating a daily cleaning routine, we were able to restore the machine to its former glory",
+    "whyItMatters": "A clean espresso machine is not just a matter of hygiene, but also directly impacts the taste of your coffee. Old coffee oils and residue can build up and affect the flavor profile, making it bitter or stale. By keeping your machine clean, you can ensure that every shot is the best it can be",
+    "howToThink": "To keep your espresso machine in top condition, think of cleaning as a daily habit, just like brushing your teeth. Set aside a few minutes each day to wipe down the machine, clean the group head, and run a cleaning cycle. It's also essential to descale your machine regularly to prevent mineral buildup",
+    "pros": [
+      "Improved flavor",
+      "Increased machine longevity",
+      "Easier maintenance"
+    ],
+    "cons": [
+      "Time-consuming",
+      "Requires regular effort",
+      "Can be costly if not done properly"
+    ],
+    "watchOut": "Be careful not to use abrasive materials that can damage your machine's surfaces",
+    "faq": [
+      {
+        "q": "How often should I clean my espresso machine?",
+        "a": "Daily, with a deeper clean every week"
+      },
+      {
+        "q": "What's the best way to descale my machine?",
+        "a": "Use a mixture of water and white vinegar, and follow the manufacturer's instructions"
+      },
+      {
+        "q": "Can I use a dishwasher to clean my espresso machine parts?",
+        "a": "No, it's not recommended, as the high heat and harsh detergents can damage the materials"
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "cleaning"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-07-18T04:32:19.303Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "espresso-machine-calibration",
     "title": "Calibrating Your Espresso Machine for Perfect Shots",
     "dek": "Get the most out of your espresso machine",

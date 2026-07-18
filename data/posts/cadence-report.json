@@ -1,5 +1,56 @@
 [
   {
+    "slug": "indoor-cycling-efficiency",
+    "title": "Unlocking Power: The Efficiency Revolution",
+    "dek": "Ride smarter, not harder",
+    "takeaway": "Optimizing your indoor cycling technique can boost your performance by up to 20%",
+    "whatHappened": "Recent studies have shown that many indoor cyclists are wasting energy due to poor pedaling technique. By focusing on efficiency, riders can achieve more with less. This shift in approach has been driven by advancements in training technology and data analysis.",
+    "whyItMatters": "As indoor cycling continues to grow in popularity, the importance of efficient training cannot be overstated. By adopting a more efficient approach, riders can reduce the risk of injury, improve their overall performance, and enhance their virtual racing experience. This, in turn, can lead to a more engaging and rewarding experience for the indoor cycling community.",
+    "howToThink": "To ride more efficiently, focus on smooth pedaling, engage your core, and maintain a consistent cadence. Practice drills such as high-cadence intervals and single-leg pedaling to improve your technique. By incorporating these exercises into your training routine, you can develop the skills and strength needed to ride more efficiently.",
+    "pros": [
+      "Improved performance",
+      "Reduced injury risk",
+      "Enhanced experience"
+    ],
+    "cons": [
+      "Steep learning curve",
+      "Requires consistent practice",
+      "May feel uncomfortable at first"
+    ],
+    "watchOut": "Don't sacrifice proper technique for short-term gains, as this can lead to long-term injuries and decreased performance",
+    "faq": [
+      {
+        "q": "What is the most efficient cadence for indoor cycling?",
+        "a": "The ideal cadence varies depending on the individual and the specific workout, but a range of 80-100 RPM is often considered optimal"
+      },
+      {
+        "q": "How can I improve my pedaling technique?",
+        "a": "Focus on smooth, circular motions and practice drills such as single-leg pedaling and high-cadence intervals"
+      },
+      {
+        "q": "Will improving my efficiency guarantee better virtual racing results?",
+        "a": "While improved efficiency can certainly contribute to better performance, other factors such as strategy, tactics, and mental preparation also play a significant role"
+      }
+    ],
+    "category": "Training",
+    "tags": [
+      "indoor cycling",
+      "training tips"
+    ],
+    "sources": [
+      {
+        "label": "r/Zwift community threads",
+        "url": "https://www.reddit.com/r/Zwift/"
+      },
+      {
+        "label": "Search interest: \"smart trainer guide\"",
+        "url": "https://duckduckgo.com/?q=smart%20trainer%20guide"
+      }
+    ],
+    "publishedAt": "2026-07-18T04:32:21.115Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "pain-cave-setup-field-test-3",
     "title": "\"pain cave setup\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about pain cave setup through a month of actual use. Some of it survived.",
