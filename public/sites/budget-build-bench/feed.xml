@@ -5,6 +5,13 @@
     <link>https://storeforge-budget-build-bench.vercel.app/</link>
     <description>Fresh takes for PC builders on a budget.</description>
     <item>
+      <title>A weekend project: level up your gpus in two hours</title>
+      <link>https://storeforge-budget-build-bench.vercel.app/posts/weekend-project-gpus-10.html</link>
+      <guid>https://storeforge-budget-build-bench.vercel.app/posts/weekend-project-gpus-10.html</guid>
+      <pubDate>Sat, 18 Jul 2026 19:49:24 GMT</pubDate>
+      <description>One contained, satisfying gpus project for PC builders on a budget — start Saturday morning, done by lunch.</description>
+    </item>
+    <item>
       <title>Community pulse: what r/buildapc is debating this week</title>
       <link>https://storeforge-budget-build-bench.vercel.app/posts/community-pulse-buildapc-4.html</link>
       <guid>https://storeforge-budget-build-bench.vercel.app/posts/community-pulse-buildapc-4.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-budget-build-bench.vercel.app/posts/ask-the-forge-benchmarks-7.html</guid>
       <pubDate>Thu, 16 Jul 2026 20:35:54 GMT</pubDate>
       <description>Straight answers to the benchmarks questions PC builders on a budget keep asking, minus the hedging.</description>
-    </item>
-    <item>
-      <title>The quiet upgrade: small tweaks in upgrades with outsized returns</title>
-      <link>https://storeforge-budget-build-bench.vercel.app/posts/quiet-upgrade-upgrades-7.html</link>
-      <guid>https://storeforge-budget-build-bench.vercel.app/posts/quiet-upgrade-upgrades-7.html</guid>
-      <pubDate>Thu, 16 Jul 2026 19:45:08 GMT</pubDate>
-      <description>No purchases, no overhauls — the modest upgrades adjustments that PC builders on a budget report mattering most.</description>
     </item>
   </channel>
 </rss>
