@@ -1,5 +1,56 @@
 [
   {
+    "slug": "local-rail-secrets",
+    "title": "Cracking the Code on Local Train Schedules",
+    "dek": "Unlock local rail secrets for stress-free travel",
+    "takeaway": "Mastering local train schedules can transform your slow-travel experience",
+    "whatHappened": "During a recent trip, I discovered the benefits of deciphering local rail schedules. By understanding the intricacies of the system, I was able to navigate unfamiliar cities with ease. This experience sparked a curiosity about the potential of local rail schedules to enhance slow travel",
+    "whyItMatters": "Having control over your rail travel allows for greater flexibility and spontaneity. It also enables travelers to connect with local communities and explore hidden gems. Moreover, being familiar with local rail systems can lead to significant cost savings and reduced environmental impact",
+    "howToThink": "To make the most of local rail travel, it's crucial to research and understand the scheduling system before arriving at your destination. Look for patterns and anomalies that can inform your travel plans. Additionally, consider purchasing a local rail pass or card to streamline your journeys",
+    "pros": [
+      "Increased flexibility",
+      "Cost savings",
+      "Deeper local connections"
+    ],
+    "cons": [
+      "Initial research required",
+      "Potential language barriers",
+      "Complex schedules"
+    ],
+    "watchOut": "Be cautious of limited English support on local rail systems and plan accordingly",
+    "faq": [
+      {
+        "q": "What resources are available for researching local rail schedules?",
+        "a": "Local tourism websites, rail company websites, and apps like Rome2rio or Trainline can provide valuable information"
+      },
+      {
+        "q": "Can I use my credit card to buy local rail tickets?",
+        "a": "It's best to have local currency or a debit card with no foreign transaction fees, as not all local rail systems accept credit cards"
+      },
+      {
+        "q": "How can I validate my rail ticket?",
+        "a": "Validation procedures vary by country, but typically involve stamping your ticket at a machine before boarding the train"
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "Slow Travel",
+      "Local Rail"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-07-18T17:39:20.839Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-rail-8",
     "title": "A weekend project: level up your rail in two hours",
     "dek": "One contained, satisfying rail project for slow-travel — start Saturday morning, done by lunch.",

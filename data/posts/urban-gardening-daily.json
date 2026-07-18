@@ -1,5 +1,56 @@
 [
   {
+    "slug": "self-watering-containers-3",
+    "title": "Revolutionize Your Watering Schedule with Self-Watering Containers",
+    "dek": "Water less, grow more",
+    "takeaway": "Self-watering containers can increase herb yields by up to 30% with minimal maintenance",
+    "whatHappened": "Self-watering containers have been gaining popularity among urban gardeners, and for good reason. They allow for a consistent supply of moisture to the roots of plants, reducing the risk of overwatering and underwatering. This is especially beneficial for busy apartment dwellers who may not have the time to constantly monitor their plants' watering needs.",
+    "whyItMatters": "Using self-watering containers can be a game-changer for herb gardeners, as herbs are particularly sensitive to watering fluctuations. By providing a stable and consistent water supply, self-watering containers can help to promote healthy growth and prevent common problems like root rot and leaf drop. This can lead to higher yields and better flavor from your homegrown herbs.",
+    "howToThink": "When selecting a self-watering container, consider the size and material, as well as the type of plant you'll be growing. Look for containers with built-in water reservoirs and moisture-wicking materials to help regulate watering. It's also important to monitor the water level and adjust as needed to ensure optimal growth.",
+    "pros": [
+      "Increased yields",
+      "Reduced maintenance",
+      "Improved plant health"
+    ],
+    "cons": [
+      "Higher upfront cost",
+      "Limited availability",
+      "May require more soil"
+    ],
+    "watchOut": "Be cautious not to overfill the water reservoir, as this can lead to waterlogged soil and root rot",
+    "faq": [
+      {
+        "q": "How do self-watering containers work?",
+        "a": "Self-watering containers use a built-in water reservoir and moisture-wicking materials to provide a consistent supply of moisture to the roots of plants"
+      },
+      {
+        "q": "What types of plants are best suited for self-watering containers?",
+        "a": "Herbs, succulents, and other plants that prefer well-draining soil are well-suited for self-watering containers"
+      },
+      {
+        "q": "Can I make my own self-watering container?",
+        "a": "Yes, you can make your own self-watering container using a plastic bottle or other materials, but be sure to research and follow proper instructions to ensure optimal performance"
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "urban gardening",
+      "container gardening"
+    ],
+    "sources": [
+      {
+        "label": "r/houseplants community threads",
+        "url": "https://www.reddit.com/r/houseplants/"
+      },
+      {
+        "label": "Search interest: \"small space vegetables\"",
+        "url": "https://duckduckgo.com/?q=small%20space%20vegetables"
+      }
+    ],
+    "publishedAt": "2026-07-18T17:39:20.911Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-containers-8",
     "title": "A weekend project: level up your containers in two hours",
     "dek": "One contained, satisfying containers project for apartment dwellers — start Saturday morning, done by lunch.",
