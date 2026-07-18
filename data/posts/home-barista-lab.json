@@ -1,5 +1,56 @@
 [
   {
+    "slug": "grinder-maintenance-hacks",
+    "title": "Breathe New Life into Your Grinder",
+    "dek": "Get more from your grinder.",
+    "takeaway": "Regular maintenance can significantly extend the lifespan and performance of your coffee grinder.",
+    "whatHappened": "Many home baristas overlook the importance of regularly cleaning and maintaining their coffee grinders, leading to subpar grind quality and potentially damaging the machine. A well-maintained grinder, however, can ensure consistency in your brews and prevent common issues like clogging. By incorporating simple maintenance habits into your routine, you can elevate your coffee game.",
+    "whyItMatters": "A clean and well-maintained grinder directly impacts the flavor and aroma of your coffee, as old coffee oils and residue can impart unwanted tastes. Moreover, regular maintenance can help prevent mechanical failures, saving you from costly repairs or replacements. It's a small step that makes a big difference in the quality of your daily brew.",
+    "howToThink": "To keep your grinder in top condition, think about maintenance as part of your coffee ritual. Set aside a few minutes each week to wipe down the exterior, clean the burrs, and check for any blockages. Additionally, consider deep cleaning your grinder every few months to remove any built-up residue and oils, ensuring your grinder continues to perform at its best.",
+    "pros": [
+      "Improved grind quality",
+      "Extended lifespan",
+      "Better flavor"
+    ],
+    "cons": [
+      "Time consuming",
+      "Requires patience",
+      "Can be messy"
+    ],
+    "watchOut": "Be cautious not to use water when cleaning your grinder's electrical components to avoid damage or safety hazards.",
+    "faq": [
+      {
+        "q": "How often should I clean my grinder?",
+        "a": "Clean your grinder after every use and deep clean it every 1-3 months."
+      },
+      {
+        "q": "What is the best way to clean grinder burrs?",
+        "a": "Use a small brush or a cleaning cloth to gently remove old coffee residue from the burrs."
+      },
+      {
+        "q": "Can I use a dishwasher to clean my grinder parts?",
+        "a": "No, it's not recommended to wash grinder parts in a dishwasher as it can damage them; instead, use a manual cleaning method."
+      }
+    ],
+    "category": "Gear",
+    "tags": [
+      "Coffee Grinder",
+      "Maintenance Tips"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-07-18T15:36:28.290Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "tuning-temp-for-perfection",
     "title": "Temperature Tuning for Espresso Mastery",
     "dek": "Dial in the perfect shot with temperature control.",

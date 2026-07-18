@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>Breathe New Life into Your Grinder</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/grinder-maintenance-hacks.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/grinder-maintenance-hacks.html</guid>
+      <pubDate>Sat, 18 Jul 2026 15:36:28 GMT</pubDate>
+      <description>Get more from your grinder.</description>
+    </item>
+    <item>
       <title>Temperature Tuning for Espresso Mastery</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/tuning-temp-for-perfection.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/tuning-temp-for-perfection.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/perfecting-espresso-distribution.html</guid>
       <pubDate>Thu, 16 Jul 2026 14:36:31 GMT</pubDate>
       <description>Get perfect espresso every time</description>
-    </item>
-    <item>
-      <title>Myth vs. reality: budget grinder upgrade</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/myth-vs-reality-budget-grinder-upgrade.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/myth-vs-reality-budget-grinder-upgrade.html</guid>
-      <pubDate>Thu, 16 Jul 2026 12:08:53 GMT</pubDate>
-      <description>The persistent myths around budget grinder upgrade, stress-tested against what home coffee enthusiasts actually report.</description>
     </item>
   </channel>
 </rss>
