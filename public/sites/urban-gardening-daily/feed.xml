@@ -5,6 +5,13 @@
     <link>https://storeforge-urban-gardening-daily.vercel.app/</link>
     <description>Fresh takes for apartment dwellers and balcony gardeners.</description>
     <item>
+      <title>Ask the forge: your seasonal questions, answered</title>
+      <link>https://storeforge-urban-gardening-daily.vercel.app/posts/ask-the-forge-seasonal-7.html</link>
+      <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/ask-the-forge-seasonal-7.html</guid>
+      <pubDate>Sat, 18 Jul 2026 10:03:30 GMT</pubDate>
+      <description>Straight answers to the seasonal questions apartment dwellers and balcony gardeners keep asking, minus the hedging.</description>
+    </item>
+    <item>
       <title>The quiet upgrade: small tweaks in composting with outsized returns</title>
       <link>https://storeforge-urban-gardening-daily.vercel.app/posts/quiet-upgrade-composting-4.html</link>
       <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/quiet-upgrade-composting-4.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/composting-pre-spend-checklist-6.html</guid>
       <pubDate>Thu, 16 Jul 2026 04:43:50 GMT</pubDate>
       <description>Seven questions that separate a justified composting purchase from an expensive mood.</description>
-    </item>
-    <item>
-      <title>Five mistakes everyone makes in their first month of herbs</title>
-      <link>https://storeforge-urban-gardening-daily.vercel.app/posts/five-herbs-mistakes-5.html</link>
-      <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/five-herbs-mistakes-5.html</guid>
-      <pubDate>Thu, 16 Jul 2026 01:06:56 GMT</pubDate>
-      <description>The most common early stumbles in herbs, and the cheap corrections that fix them for apartment dwellers and balcony gardeners.</description>
     </item>
   </channel>
 </rss>

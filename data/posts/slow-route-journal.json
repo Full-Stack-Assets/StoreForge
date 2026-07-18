@@ -1,5 +1,56 @@
 [
   {
+    "slug": "rethinking-rail-cards-3",
+    "title": "Cutting rail costs with smart card strategies",
+    "dek": "Maximize rail travel value without the guesswork",
+    "takeaway": "Using the right rail card can save you up to 50% on travel costs",
+    "whatHappened": "As a slow traveler, navigating various rail systems in Europe can be daunting, especially when considering the array of rail cards available. Recent changes in rail card policies have opened up more options for frequent travelers. By choosing the right card, travelers can significantly reduce their expenses.",
+    "whyItMatters": "The savings from using the appropriate rail card can be substantial, allowing for more travel or simply making a trip more affordable. Additionally, understanding the different types of rail cards helps in planning more efficiently, ensuring that travel time is used as effectively as possible. This knowledge can make the difference between a good trip and a great one.",
+    "howToThink": "When considering rail cards, think about the frequency and duration of your trips, as well as the regions you plan to visit. Research the specific cards that cover your travel area and calculate the costs to ensure you're making the most cost-effective choice. Moreover, look into any promotional offers or discounts that might be available.",
+    "pros": [
+      "Cost Savings",
+      "Travel Flexibility",
+      "Convenience"
+    ],
+    "cons": [
+      "Initial Cost",
+      "Restrictions",
+      "Complexity"
+    ],
+    "watchOut": "Be sure to understand the terms and conditions of your rail card to avoid any unexpected fees or limitations",
+    "faq": [
+      {
+        "q": "What types of rail cards are available?",
+        "a": "There are various types, including regional, national, and international cards, each with its own set of benefits and restrictions."
+      },
+      {
+        "q": "How do I choose the right rail card?",
+        "a": "Consider your travel frequency, destinations, and the duration of your trips to select the most suitable card."
+      },
+      {
+        "q": "Can I use my rail card on any train?",
+        "a": "Most rail cards have restrictions on the types of trains or classes of service they cover, so it's essential to check the card's details before travel."
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "Rail Travel",
+      "Budget Tips"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-07-18T10:03:32.156Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-packing-7",
     "title": "The quiet upgrade: small tweaks in packing with outsized returns",
     "dek": "No purchases, no overhauls — the modest packing adjustments that slow-travel and low-impact explorers report mattering most.",
