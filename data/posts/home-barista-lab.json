@@ -1,5 +1,56 @@
 [
   {
+    "slug": "scaling-coffee-recipes",
+    "title": "Dialing in Your Brew: A Guide to Scaling Coffee Recipes",
+    "dek": "Perfect your pour-over with scaled recipes",
+    "takeaway": "Scaling coffee recipes can significantly improve the flavor and consistency of your pour-over brews",
+    "whatHappened": "When experimenting with pour-over, many enthusiasts struggle to find the perfect balance of coffee and water. Recently, we've seen a surge in interest in scaling coffee recipes to achieve consistent results. By applying mathematical ratios to coffee brewing, home baristas can unlock a new level of flavor and control.",
+    "whyItMatters": "Scaling coffee recipes matters because it allows home baristas to easily replicate their favorite brews and make adjustments with precision. This approach also facilitates experimentation with different roasts, grinds, and brewing techniques. By mastering the art of scaling, enthusiasts can take their coffee game to the next level and explore new flavors",
+    "howToThink": "To scale your coffee recipes effectively, start by identifying your desired brew strength and then apply a consistent ratio of coffee to water. Consider the type of coffee bean, roast level, and grind size when making adjustments. By thinking in terms of ratios and proportions, you can simplify the brewing process and focus on perfecting your technique",
+    "pros": [
+      "Improved consistency",
+      "Easier experimentation",
+      "Better flavor control"
+    ],
+    "cons": [
+      "Requires mathematical calculations",
+      "May not account for equipment variations",
+      "Can be time-consuming to dial in"
+    ],
+    "watchOut": "Be careful not to over-extract your coffee when scaling up recipes, as this can result in bitter flavors and an unbalanced brew",
+    "faq": [
+      {
+        "q": "What is the ideal coffee-to-water ratio for pour-over?",
+        "a": "The ideal ratio is between 1:15 and 1:17, but this can vary depending on personal taste and equipment"
+      },
+      {
+        "q": "Can I scale coffee recipes for other brewing methods?",
+        "a": "Yes, scaling recipes can be applied to various brewing methods, including espresso and French press"
+      },
+      {
+        "q": "How do I adjust my grind size when scaling recipes?",
+        "a": "Grind size may need to be adjusted to achieve the optimal flow rate and extraction level, especially when scaling up or down"
+      }
+    ],
+    "category": "Pour-over",
+    "tags": [
+      "pour-over",
+      "brewing"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-07-19T10:13:59.200Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "espresso-machine-maintenance-6",
     "title": "The Espresso Machine Maintenance Checklist",
     "dek": "Keep your machine in top shape.",

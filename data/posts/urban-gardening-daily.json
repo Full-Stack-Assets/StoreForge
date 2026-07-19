@@ -1,5 +1,56 @@
 [
   {
+    "slug": "maximizing-vertical-space-3",
+    "title": "Double Your Harvest: The Power of Vertical Gardening",
+    "dek": "Grow more with less space",
+    "takeaway": "Vertical gardening can increase yields by up to 50% in small spaces",
+    "whatHappened": "Apartment dwellers are turning to vertical gardening to maximize their space. With the right containers and a little creativity, even the smallest balconies can become productive gardens. From trellises to wall-mounted planters, the options are endless.",
+    "whyItMatters": "As urban populations grow, finding ways to garden in small spaces is becoming increasingly important. Vertical gardening offers a solution, allowing people to grow their own food and connect with nature even in the midst of the city. This approach can also help reduce carbon footprints and increase food security.",
+    "howToThink": "When designing a vertical garden, consider the amount of sunlight your space receives and choose plants accordingly. Make sure to use a well-draining potting mix and avoid overwatering, which can lead to root rot and other problems. With a little practice, you can create a thriving and productive vertical garden.",
+    "pros": [
+      "Increased yields",
+      "Space-saving",
+      "Aesthetically pleasing"
+    ],
+    "cons": [
+      "Higher upfront costs",
+      "Requires regular maintenance",
+      "May require additional support"
+    ],
+    "watchOut": "Be careful not to overwater, as this can lead to root rot and other problems in vertical gardens",
+    "faq": [
+      {
+        "q": "What type of plants are best for vertical gardening?",
+        "a": "Choose compact or trailing varieties, such as herbs, leafy greens, or strawberries"
+      },
+      {
+        "q": "How often should I water my vertical garden?",
+        "a": "Water when the top inch of soil feels dry to the touch, usually every 1-3 days"
+      },
+      {
+        "q": "Can I use regular potting soil in my vertical garden?",
+        "a": "No, use a well-draining potting mix specifically designed for containers to prevent waterlogged soil"
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "vertical gardening",
+      "small space gardening"
+    ],
+    "sources": [
+      {
+        "label": "r/houseplants community threads",
+        "url": "https://www.reddit.com/r/houseplants/"
+      },
+      {
+        "label": "Search interest: \"small space vegetables\"",
+        "url": "https://duckduckgo.com/?q=small%20space%20vegetables"
+      }
+    ],
+    "publishedAt": "2026-07-19T10:13:58.699Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-balcony-garden-ideas-3",
     "title": "Myth vs. reality: balcony garden ideas",
     "dek": "The persistent myths around balcony garden ideas, stress-tested against what apartment dwellers and balcony gardeners actually report.",

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "small-town-rail-hacks",
+    "title": "Cracking Local Rail: Expert Strategies for Slow Travelers",
+    "dek": "Unlock local rail secrets",
+    "takeaway": "Mastering local rail networks is key to authentic slow travel experiences",
+    "whatHappened": "On a recent journey through rural Europe, I discovered the advantages of using local rail lines to reach off-the-beaten-path destinations. By avoiding major stations, I encountered unique cultural experiences and breathtaking landscapes. This approach allowed me to connect with local communities and reduce my environmental footprint.",
+    "whyItMatters": "For slow travelers, local rail lines offer a chance to immerse themselves in local cultures and enjoy a more relaxed pace. By using these lines, travelers can reduce their reliance on tourist infrastructure and contribute to the local economy. This approach also promotes a more sustainable and environmentally friendly way of exploring new destinations.",
+    "howToThink": "To make the most of local rail lines, travelers should research local routes and schedules in advance, consider purchasing a local rail pass, and be prepared for variable train frequencies and comfort levels. It's also essential to learn a few basic phrases in the local language to interact with station staff and fellow passengers. By being flexible and open-minded, travelers can turn potential challenges into memorable experiences.",
+    "pros": [
+      "Authentic experiences",
+      "Scenic routes",
+      "Low-impact travel"
+    ],
+    "cons": [
+      "Variable schedules",
+      "Limited amenities",
+      "Language barriers"
+    ],
+    "watchOut": "Be aware of local rail line closures or construction, which can impact travel plans",
+    "faq": [
+      {
+        "q": "What is the best way to research local rail lines?",
+        "a": "Use online resources, such as national rail websites or mapping apps, to plan your route and check schedules"
+      },
+      {
+        "q": "Can I use my credit card to buy tickets at local stations?",
+        "a": "It's best to have local cash on hand, as not all stations accept credit or debit cards"
+      },
+      {
+        "q": "How can I stay safe while traveling on local rail lines?",
+        "a": "Be mindful of your belongings, keep valuables secure, and avoid traveling alone at night if possible"
+      }
+    ],
+    "category": "Rail",
+    "tags": [
+      "slow travel",
+      "local rail"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-07-19T10:13:59.010Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-train-travel-europe-tips-2",
     "title": "Myth vs. reality: train travel europe tips",
     "dek": "The persistent myths around train travel europe tips, stress-tested against what slow-travel and low-impact explorers actually report.",

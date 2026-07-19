@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>Dialing in Your Brew: A Guide to Scaling Coffee Recipes</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/scaling-coffee-recipes.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/scaling-coffee-recipes.html</guid>
+      <pubDate>Sun, 19 Jul 2026 10:13:59 GMT</pubDate>
+      <description>Perfect your pour-over with scaled recipes</description>
+    </item>
+    <item>
       <title>The Espresso Machine Maintenance Checklist</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-maintenance-6.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-maintenance-6.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/tamping-technique-tips.html</guid>
       <pubDate>Fri, 17 Jul 2026 09:30:02 GMT</pubDate>
       <description>Improve your espresso with better tamping</description>
-    </item>
-    <item>
-      <title>&quot;pour over technique&quot; in practice: a real-world field test</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/pour-over-technique-field-test-3.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/pour-over-technique-field-test-3.html</guid>
-      <pubDate>Fri, 17 Jul 2026 07:36:30 GMT</pubDate>
-      <description>We put the most-repeated advice about pour over technique through a month of actual use. Some of it survived.</description>
     </item>
   </channel>
 </rss>
