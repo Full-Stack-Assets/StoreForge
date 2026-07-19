@@ -5,6 +5,13 @@
     <link>https://store-forge-roan.vercel.app/sites/burnished-edge/</link>
     <description>Fresh takes for hobby leatherworkers.</description>
     <item>
+      <title>Sharpen your skills: mastering the edge beveler</title>
+      <link>https://store-forge-roan.vercel.app/sites/burnished-edge/posts/breaking-in-your-edge-beveler.html</link>
+      <guid>https://store-forge-roan.vercel.app/sites/burnished-edge/posts/breaking-in-your-edge-beveler.html</guid>
+      <pubDate>Sun, 19 Jul 2026 07:48:23 GMT</pubDate>
+      <description>Get the most from your edge beveler</description>
+    </item>
+    <item>
       <title>Ask the forge: your finishing questions, answered</title>
       <link>https://store-forge-roan.vercel.app/sites/burnished-edge/posts/ask-the-forge-finishing-11.html</link>
       <guid>https://store-forge-roan.vercel.app/sites/burnished-edge/posts/ask-the-forge-finishing-11.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://store-forge-roan.vercel.app/sites/burnished-edge/posts/community-pulse-leatherworking-3.html</guid>
       <pubDate>Fri, 17 Jul 2026 07:36:31 GMT</pubDate>
       <description>The arguments, consensus shifts, and quietly useful threads from the finishing community this week.</description>
-    </item>
-    <item>
-      <title>The stitching checklist: run this before you spend</title>
-      <link>https://store-forge-roan.vercel.app/sites/burnished-edge/posts/stitching-pre-spend-checklist-7.html</link>
-      <guid>https://store-forge-roan.vercel.app/sites/burnished-edge/posts/stitching-pre-spend-checklist-7.html</guid>
-      <pubDate>Fri, 17 Jul 2026 04:47:12 GMT</pubDate>
-      <description>Seven questions that separate a justified stitching purchase from an expensive mood.</description>
     </item>
   </channel>
 </rss>

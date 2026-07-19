@@ -1,5 +1,56 @@
 [
   {
+    "slug": "optimizing-speedrun-routes",
+    "title": "Route Optimization for Speed Demons",
+    "dek": "Boost your speedrun times",
+    "takeaway": "Optimizing your speedrun route can shave off precious seconds from your record",
+    "whatHappened": "Recent speedrunning competitions have highlighted the importance of route optimization in achieving record times. Top speedrunners have been experimenting with new routes and techniques to gain an edge over their competitors. This has led to a renewed focus on the role of route optimization in speedrunning",
+    "whyItMatters": "A well-optimized route can make all the difference in a speedrun, allowing runners to execute complex maneuvers with precision and speed. This, in turn, can lead to faster completion times and a higher ranking in the speedrunning community. As the speedrunning scene continues to evolve, route optimization is becoming an essential skill for competitors",
+    "howToThink": "To optimize your speedrun route, start by analyzing the game's level design and identifying areas where you can save time. Look for alternative paths, exploit glitches, and practice your execution to ensure a smooth run. By adopting a methodical and analytical approach, you can develop a winning route that sets you apart from the competition",
+    "pros": [
+      "Improved completion times",
+      "Enhanced execution",
+      "Increased competitiveness"
+    ],
+    "cons": [
+      "Steep learning curve",
+      "Route experimentation time-consuming",
+      "Dependence on game knowledge"
+    ],
+    "watchOut": "Don't get too caught up in optimizing a single segment, as this can lead to overlooking bigger time-saving opportunities elsewhere in the route",
+    "faq": [
+      {
+        "q": "What tools are available for route optimization?",
+        "a": "Speedrunners can use tools like route planners, game mods, and video analysis software to optimize their routes"
+      },
+      {
+        "q": "How do I know if a route is optimized?",
+        "a": "A well-optimized route should be the fastest possible path through the game, taking into account factors like enemy placement, obstacle avoidance, and glitch exploitation"
+      },
+      {
+        "q": "Can route optimization be applied to any game?",
+        "a": "While route optimization is most commonly associated with platformers and action games, its principles can be applied to any game genre where speed and efficiency are key"
+      }
+    ],
+    "category": "Speedruns",
+    "tags": [
+      "speedrun",
+      "route optimization"
+    ],
+    "sources": [
+      {
+        "label": "r/Gameboy community threads",
+        "url": "https://www.reddit.com/r/Gameboy/"
+      },
+      {
+        "label": "Search interest: \"crt setup guide\"",
+        "url": "https://duckduckgo.com/?q=crt%20setup%20guide"
+      }
+    ],
+    "publishedAt": "2026-07-19T07:48:21.891Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "retro-game-restoration-field-test-3",
     "title": "\"retro game restoration\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about retro game restoration through a month of actual use. Some of it survived.",

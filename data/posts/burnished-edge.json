@@ -1,5 +1,56 @@
 [
   {
+    "slug": "breaking-in-your-edge-beveler",
+    "title": "Sharpen your skills: mastering the edge beveler",
+    "dek": "Get the most from your edge beveler",
+    "takeaway": "A well-maintained edge beveler is key to professional finishes",
+    "whatHappened": "We've all been there: a beautifully crafted leather project, marred by rough edges. The edge beveler is a crucial tool in smoothing out these imperfections. However, many hobbyists struggle to get the most from this tool, often due to improper use or maintenance.",
+    "whyItMatters": "A good edge beveler can make all the difference in the quality of your leatherwork, providing a clean, professional finish that elevates your projects from amateur to expert. By mastering the edge beveler, you'll be able to achieve consistent, high-quality results that reflect your skills as a craftsman.",
+    "howToThink": "To get the best results from your edge beveler, consider the type of leather you're working with and adjust your technique accordingly. Regular maintenance, such as cleaning and sharpening, is also essential for optimal performance. Practice makes perfect, so don't be discouraged if it takes a few attempts to get the hang of it.",
+    "pros": [
+      "Improved edge finish",
+      "Enhanced project quality",
+      "Increased efficiency"
+    ],
+    "cons": [
+      "Steep learning curve",
+      "Requires regular maintenance",
+      "Can be expensive"
+    ],
+    "watchOut": "Be careful not to apply too much pressure, as this can damage the leather or the tool itself",
+    "faq": [
+      {
+        "q": "What is an edge beveler used for?",
+        "a": "An edge beveler is used to smooth and finish the edges of leather projects, removing rough edges and creating a professional finish"
+      },
+      {
+        "q": "How often should I sharpen my edge beveler?",
+        "a": "The frequency of sharpening will depend on usage, but as a general rule, sharpen your edge beveler every 5-10 uses"
+      },
+      {
+        "q": "Can I use my edge beveler on other materials?",
+        "a": "While an edge beveler is specifically designed for leather, it can also be used on other materials such as fabric or synthetic leather, but be sure to test on a scrap piece first"
+      }
+    ],
+    "category": "Tools",
+    "tags": [
+      "leatherworking",
+      "edging"
+    ],
+    "sources": [
+      {
+        "label": "r/Leathercraft community threads",
+        "url": "https://www.reddit.com/r/Leathercraft/"
+      },
+      {
+        "label": "Search interest: \"leathercraft starter tools\"",
+        "url": "https://duckduckgo.com/?q=leathercraft%20starter%20tools"
+      }
+    ],
+    "publishedAt": "2026-07-19T07:48:23.893Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "ask-the-forge-finishing-11",
     "title": "Ask the forge: your finishing questions, answered",
     "dek": "Straight answers to the finishing questions hobby leatherworkers keep asking, minus the hedging.",

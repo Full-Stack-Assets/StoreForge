@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>The Espresso Machine Maintenance Checklist</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-maintenance-6.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-maintenance-6.html</guid>
+      <pubDate>Sun, 19 Jul 2026 07:48:21 GMT</pubDate>
+      <description>Keep your machine in top shape.</description>
+    </item>
+    <item>
       <title>A weekend project: level up your espresso in two hours</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/weekend-project-espresso-6.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/weekend-project-espresso-6.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/pour-over-technique-field-test-3.html</guid>
       <pubDate>Fri, 17 Jul 2026 07:36:30 GMT</pubDate>
       <description>We put the most-repeated advice about pour over technique through a month of actual use. Some of it survived.</description>
-    </item>
-    <item>
-      <title>The Art of Dialing In: Optimizing Your Espresso Shot</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/dialing-in-espresso.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/dialing-in-espresso.html</guid>
-      <pubDate>Fri, 17 Jul 2026 04:47:11 GMT</pubDate>
-      <description>Perfect your espresso shot with these tips</description>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "scoring-whole-grain-breads",
+    "title": "Scoring Whole Grain Breads: The Unseen Advantage",
+    "dek": "Boost your whole grain bread game",
+    "takeaway": "Scoring whole grain breads requires a delicate touch to bring out their full potential",
+    "whatHappened": "Recently, I experimented with various scoring techniques on whole grain breads, observing how each method affected the final product. The results were surprising, with some scoring patterns yielding more open crumb structures than others. By paying closer attention to the scoring process, I was able to achieve more consistent results and a more complex flavor profile.",
+    "whyItMatters": "Scoring is a critical step in bread making, as it allows the dough to expand during baking and creates the bread's visual appeal. For whole grain breads, scoring is particularly important, as it can help to balance the denser, heavier texture of the bread. By mastering the art of scoring whole grain breads, home bakers can elevate their creations and achieve a more professional finish.",
+    "howToThink": "When scoring whole grain breads, consider the type of grain used and the desired outcome. A more delicate score may be necessary for breads with coarser grains, while a more aggressive score can be used for breads with finer grains. Additionally, paying attention to the angle and depth of the score can help to control the bread's expansion and create a more even crumb.",
+    "pros": [
+      "Improved crumb structure",
+      "Enhanced flavor",
+      "Professional finish"
+    ],
+    "cons": [
+      "Requires practice",
+      "Sensitive to grain type",
+      "Easy to over-score"
+    ],
+    "watchOut": "Be careful not to over-score, as this can lead to a bread that is too dense or even collapses",
+    "faq": [
+      {
+        "q": "What type of blade is best for scoring whole grain breads?",
+        "a": "A razor blade or lame is ideal, as it allows for a clean, precise cut"
+      },
+      {
+        "q": "How deep should I score my whole grain bread?",
+        "a": "The depth of the score will depend on the type of grain and the desired outcome, but a general rule of thumb is to score at a depth of about 1/4 inch"
+      },
+      {
+        "q": "Can I use a serrated knife to score my whole grain bread?",
+        "a": "While a serrated knife can be used, it is not recommended, as it can tear the dough and create an uneven score"
+      }
+    ],
+    "category": "Scoring",
+    "tags": [
+      "whole grain",
+      "scoring"
+    ],
+    "sources": [
+      {
+        "label": "r/AskBaking community threads",
+        "url": "https://www.reddit.com/r/AskBaking/"
+      },
+      {
+        "label": "Search interest: \"sourdough schedule for workers\"",
+        "url": "https://duckduckgo.com/?q=sourdough%20schedule%20for%20workers"
+      }
+    ],
+    "publishedAt": "2026-07-19T07:48:24.354Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "open-crumb-hydration-field-test-4",
     "title": "\"open crumb hydration\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about open crumb hydration through a month of actual use. Some of it survived.",

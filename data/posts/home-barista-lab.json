@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-machine-maintenance-6",
+    "title": "The Espresso Machine Maintenance Checklist",
+    "dek": "Keep your machine in top shape.",
+    "takeaway": "Regular maintenance is key to perfect espresso shots every time.",
+    "whatHappened": "As home baristas, we often focus on the perfect shot, but neglect the machine that makes it all possible. A well-maintained espresso machine is essential for optimal performance and longevity. Neglecting maintenance can lead to subpar shots and costly repairs.",
+    "whyItMatters": "A clean and well-maintained machine ensures that every shot is of the highest quality, with the perfect balance of flavor and crema. It also helps prevent bacterial growth and extends the lifespan of the machine. By prioritizing maintenance, home baristas can enjoy a better espresso experience and save money in the long run.",
+    "howToThink": "To keep your espresso machine in top condition, think about maintenance as a regular routine, rather than a one-time task. Set aside time each week to descale, clean, and inspect your machine. This will help you catch any issues before they become major problems and ensure that your machine continues to perform at its best.",
+    "pros": [
+      "Improved shot quality",
+      "Increased machine longevity",
+      "Reduced repair costs"
+    ],
+    "cons": [
+      "Time-consuming",
+      "Requires effort",
+      "Additional expense for cleaning supplies"
+    ],
+    "watchOut": "Be careful not to use abrasive cleaners or excessive water, as this can damage your machine's components.",
+    "faq": [
+      {
+        "q": "How often should I descale my espresso machine?",
+        "a": "Every 3-6 months, depending on usage and water quality"
+      },
+      {
+        "q": "What is the best way to clean my espresso machine's group head?",
+        "a": "Use a soft brush and a mild detergent, and avoid using harsh chemicals or abrasive materials"
+      },
+      {
+        "q": "Can I use a vinegar solution to clean my espresso machine?",
+        "a": "Yes, a 1:1 water and white vinegar solution can be used to clean and descale your machine, but be sure to rinse thoroughly to avoid any lingering flavors"
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "Espresso Maintenance",
+      "Home Barista"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-07-19T07:48:21.603Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "weekend-project-espresso-6",
     "title": "A weekend project: level up your espresso in two hours",
     "dek": "One contained, satisfying espresso project for home coffee enthusiasts — start Saturday morning, done by lunch.",

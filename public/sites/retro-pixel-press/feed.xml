@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Route Optimization for Speed Demons</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/optimizing-speedrun-routes.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/optimizing-speedrun-routes.html</guid>
+      <pubDate>Sun, 19 Jul 2026 07:48:21 GMT</pubDate>
+      <description>Boost your speedrun times</description>
+    </item>
+    <item>
       <title>&quot;retro game restoration&quot; in practice: a real-world field test</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/retro-game-restoration-field-test-3.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-game-restoration-field-test-3.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/weekend-project-hardware-4.html</guid>
       <pubDate>Fri, 17 Jul 2026 07:36:30 GMT</pubDate>
       <description>One contained, satisfying hardware project for retro game collectors — start Saturday morning, done by lunch.</description>
-    </item>
-    <item>
-      <title>Retro Console Modding for Beginners</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-modding-101.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-modding-101.html</guid>
-      <pubDate>Fri, 17 Jul 2026 04:47:12 GMT</pubDate>
-      <description>Upgrade your retro console with ease</description>
     </item>
   </channel>
 </rss>
