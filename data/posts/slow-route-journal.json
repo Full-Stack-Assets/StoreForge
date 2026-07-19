@@ -1,5 +1,56 @@
 [
   {
+    "slug": "mastering-local-transport-hubs-2",
+    "title": "The Art of Navigation: Decoding Local Transport Hubs",
+    "dek": "Navigate local transport hubs like a pro",
+    "takeaway": "Understanding local transport hubs is key to seamless slow travel",
+    "whatHappened": "During a recent trip to a foreign city, I found myself struggling to navigate the local transport hub. The signs were unclear, and the staff didn't speak my language. After some trial and error, I finally figured out how to use the hub to get to my destination. This experience taught me the importance of understanding local transport hubs. With some research and planning, I was able to master the system and make the most of my trip.",
+    "whyItMatters": "Mastering local transport hubs is crucial for slow travelers as it allows them to move freely and explore the local area without relying on tourist-friendly options. It also helps to reduce stress and anxiety, making the travel experience more enjoyable. By understanding how to use local transport hubs, travelers can save time and money, and have a more authentic experience.",
+    "howToThink": "To navigate local transport hubs, start by researching the hub's layout and the different types of transportation available. Look for signs and maps, and don't be afraid to ask for help. Consider purchasing a local transport card or ticket, which can make traveling easier and more convenient. Additionally, try to learn a few key phrases in the local language, such as 'where is the nearest station?' or 'how do I get to the city center?'",
+    "pros": [
+      "Convenient",
+      "Affordable",
+      "Authentic"
+    ],
+    "cons": [
+      "Overwhelming",
+      "Language barriers",
+      "Complex"
+    ],
+    "watchOut": "Be aware of pickpocketing and scams in crowded transport hubs",
+    "faq": [
+      {
+        "q": "What is a local transport hub?",
+        "a": "A central location where multiple forms of transportation converge"
+      },
+      {
+        "q": "How do I find my way around a local transport hub?",
+        "a": "Look for signs and maps, and ask for help if needed"
+      },
+      {
+        "q": "What are the benefits of using local transport?",
+        "a": "Convenience, affordability, and an authentic travel experience"
+      }
+    ],
+    "category": "Local",
+    "tags": [
+      "SlowTravel",
+      "LocalTransport"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-07-19T11:41:42.289Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "small-town-rail-hacks",
     "title": "Cracking Local Rail: Expert Strategies for Slow Travelers",
     "dek": "Unlock local rail secrets",

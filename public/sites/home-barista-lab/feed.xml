@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>Ask the forge: your gear questions, answered</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/ask-the-forge-gear-7.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/ask-the-forge-gear-7.html</guid>
+      <pubDate>Sun, 19 Jul 2026 11:41:40 GMT</pubDate>
+      <description>Straight answers to the gear questions home coffee enthusiasts keep asking, minus the hedging.</description>
+    </item>
+    <item>
       <title>Dialing in Your Brew: A Guide to Scaling Coffee Recipes</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/scaling-coffee-recipes.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/scaling-coffee-recipes.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-cleaning-hacks.html</guid>
       <pubDate>Fri, 17 Jul 2026 11:09:17 GMT</pubDate>
       <description>Clean your espresso machine like a pro</description>
-    </item>
-    <item>
-      <title>Unlocking Espresso Potential: The Power of Proper Tamping</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/tamping-technique-tips.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/tamping-technique-tips.html</guid>
-      <pubDate>Fri, 17 Jul 2026 09:30:02 GMT</pubDate>
-      <description>Improve your espresso with better tamping</description>
     </item>
   </channel>
 </rss>
