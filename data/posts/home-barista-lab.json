@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-machine-temperature-control",
+    "title": "Unlocking the Perfect Shot: Temperature Control for Home Espresso",
+    "dek": "Take control of your espresso machine's temperature",
+    "takeaway": "Temperature control is key to achieving consistent and delicious espresso shots at home",
+    "whatHappened": "Many home espresso enthusiasts struggle to achieve the perfect shot due to inconsistent temperature. Recent advancements in temperature control technology have made it more accessible to home users. With the right tools and techniques, anyone can improve their espresso game",
+    "whyItMatters": "Temperature plays a crucial role in extracting the optimal amount of flavor and oils from coffee beans. Inconsistent temperature can result in under or over-extracted shots, leading to a disappointing espresso experience. By controlling temperature, home baristas can ensure a more consistent and enjoyable cup",
+    "howToThink": "To take advantage of temperature control, start by understanding the ideal temperature range for espresso extraction. Invest in a high-quality thermometer and consider upgrading to a machine with built-in temperature control. Experiment with different roasts and brewing techniques to find the perfect combination for your taste preferences",
+    "pros": [
+      "Improved flavor",
+      "Increased consistency",
+      "Enhanced control"
+    ],
+    "cons": [
+      "Higher cost",
+      "Steeper learning curve",
+      "More maintenance"
+    ],
+    "watchOut": "Be cautious of cheaper temperature control solutions that may not provide accurate or stable readings",
+    "faq": [
+      {
+        "q": "What is the ideal temperature for espresso extraction?",
+        "a": "The ideal temperature range is between 195°F and 205°F"
+      },
+      {
+        "q": "Can I use a regular thermometer for temperature control?",
+        "a": "No, a regular thermometer may not provide accurate readings for espresso machines"
+      },
+      {
+        "q": "How often should I calibrate my temperature control device?",
+        "a": "Calibrate your device every 1-2 months to ensure accuracy"
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso",
+      "temperature control"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-07-19T19:50:58.182Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-budget-grinder-upgrade-3",
     "title": "Myth vs. reality: budget grinder upgrade",
     "dek": "The persistent myths around budget grinder upgrade, stress-tested against what home coffee enthusiasts actually report.",
