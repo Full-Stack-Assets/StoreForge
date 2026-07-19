@@ -1,5 +1,56 @@
 [
   {
+    "slug": "retro-hardware-revival-8",
+    "title": "Breathing New Life into Classic Consoles",
+    "dek": "Revive your retro consoles with these DIY tips.",
+    "takeaway": "With the right tools and knowledge, you can repair and upgrade your classic consoles to last a lifetime.",
+    "whatHappened": "The rise of retro gaming has led to a surge in demand for classic consoles, but many of these systems are showing their age. Faulty hardware and outdated technology can make it difficult for collectors to enjoy their favorite games. However, a growing community of DIY enthusiasts and retro gaming experts are working to change this.",
+    "whyItMatters": "Preserving and restoring classic consoles is crucial for the retro gaming community, as it allows collectors to experience games in their original form and helps to keep the history of the industry alive. By learning how to repair and upgrade their consoles, collectors can also save money and extend the lifespan of their systems.",
+    "howToThink": "When it comes to repairing and upgrading classic consoles, it's essential to approach the process with patience and caution. Start by researching the specific issues you're experiencing and learning about the necessary tools and techniques. Joining online forums and communities can also provide valuable resources and support.",
+    "pros": [
+      "Cost-effective",
+      "Environmentally friendly",
+      "Fun project"
+    ],
+    "cons": [
+      "Time-consuming",
+      "Requires technical knowledge",
+      "Limited resources"
+    ],
+    "watchOut": "Be cautious when working with electrical components, as they can be fragile and potentially hazardous.",
+    "faq": [
+      {
+        "q": "What tools do I need to get started?",
+        "a": "Basic electronics tools, such as a soldering iron and wire strippers, are essential for most repairs."
+      },
+      {
+        "q": "Where can I find replacement parts?",
+        "a": "Online marketplaces, specialty retailers, and enthusiast forums are great resources for finding replacement parts."
+      },
+      {
+        "q": "How do I troubleshoot common issues?",
+        "a": "Consulting repair guides, online forums, and expert tutorials can help you identify and fix common problems."
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Retro Tech",
+      "Console Repair"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-07-19T21:32:53.871Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "preservation-pre-spend-checklist-8",
     "title": "The preservation checklist: run this before you spend",
     "dek": "Seven questions that separate a justified preservation purchase from an expensive mood.",

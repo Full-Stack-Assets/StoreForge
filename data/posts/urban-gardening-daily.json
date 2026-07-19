@@ -1,5 +1,56 @@
 [
   {
+    "slug": "spring-container-revival-2",
+    "title": "Revive Your Containers for Spring",
+    "dek": "Breathe new life into old pots",
+    "takeaway": "Revamping your containers can boost spring growth and yields",
+    "whatHappened": "As winter subsides, balcony gardens often lie dormant. However, with the right strategy, you can quickly revive your containers and get a head start on the growing season. By assessing and refurbishing your containers, you set the stage for a thriving spring garden.",
+    "whyItMatters": "A well-maintained container garden not only enhances the aesthetic appeal of your balcony but also ensures healthy plant growth. Reviving your containers for spring allows you to capitalize on the longer days and warmer temperatures, giving your plants the best chance to flourish. This, in turn, can lead to higher yields and a more satisfying gardening experience.",
+    "howToThink": "When reviving your containers, consider the soil quality, drainage, and the condition of the containers themselves. Start by replacing old soil with a fresh mix, and inspect your containers for any damage or blockages that might hinder water flow. Finally, choose plants that thrive in spring and are suitable for your balcony's conditions, such as sunlight and wind exposure.",
+    "pros": [
+      "Improved soil quality",
+      "Enhanced plant growth",
+      "Increased yields"
+    ],
+    "cons": [
+      "Initial cost of new soil",
+      "Potential for overwatering",
+      "Limited space"
+    ],
+    "watchOut": "Be cautious not to overwater your plants during the revival process, as this can lead to root rot and other issues",
+    "faq": [
+      {
+        "q": "What is the best time to revive my containers?",
+        "a": "Ideally, start the revival process 2-3 weeks before the last frost date in your area to give your plants a head start on the growing season"
+      },
+      {
+        "q": "Can I reuse old potting soil?",
+        "a": "It's generally not recommended, as old soil may lack necessary nutrients and could harbor diseases or pests"
+      },
+      {
+        "q": "How often should I inspect my containers?",
+        "a": "Regular inspections every 1-2 weeks can help you catch and address any issues before they become major problems"
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "spring gardening",
+      "container care"
+    ],
+    "sources": [
+      {
+        "label": "r/houseplants community threads",
+        "url": "https://www.reddit.com/r/houseplants/"
+      },
+      {
+        "label": "Search interest: \"small space vegetables\"",
+        "url": "https://duckduckgo.com/?q=small%20space%20vegetables"
+      }
+    ],
+    "publishedAt": "2026-07-19T21:32:54.127Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-composting-6",
     "title": "The quiet upgrade: small tweaks in composting with outsized returns",
     "dek": "No purchases, no overhauls — the modest composting adjustments that apartment dwellers and balcony gardeners report mattering most.",
