@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>Revolutionize Your Grind: Why a Burr Grinder is a Game-Changer</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/burr-grinder-upgrade.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/burr-grinder-upgrade.html</guid>
+      <pubDate>Sun, 19 Jul 2026 17:40:13 GMT</pubDate>
+      <description>Elevate your brew with precise grind control</description>
+    </item>
+    <item>
       <title>Community pulse: what r/espresso is debating this week</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/community-pulse-espresso-2.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/community-pulse-espresso-2.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/elevating-coffee-with-milk-texture.html</guid>
       <pubDate>Fri, 17 Jul 2026 19:45:37 GMT</pubDate>
       <description>Perfect microfoam made easy</description>
-    </item>
-    <item>
-      <title>Brewing Brilliance: Essential Espresso Machine Maintenance</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-maintenance-hacks.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-maintenance-hacks.html</guid>
-      <pubDate>Fri, 17 Jul 2026 18:39:52 GMT</pubDate>
-      <description>Keep your espresso machine in top shape</description>
     </item>
   </channel>
 </rss>

@@ -5,6 +5,13 @@
     <link>https://storeforge-budget-build-bench.vercel.app/</link>
     <description>Fresh takes for PC builders on a budget.</description>
     <item>
+      <title>Five mistakes everyone makes in their first month of used parts</title>
+      <link>https://storeforge-budget-build-bench.vercel.app/posts/five-used-parts-mistakes-12.html</link>
+      <guid>https://storeforge-budget-build-bench.vercel.app/posts/five-used-parts-mistakes-12.html</guid>
+      <pubDate>Sun, 19 Jul 2026 17:40:12 GMT</pubDate>
+      <description>The most common early stumbles in used parts, and the cheap corrections that fix them for PC builders on a budget.</description>
+    </item>
+    <item>
       <title>&quot;1440p value build&quot; in practice: a real-world field test</title>
       <link>https://storeforge-budget-build-bench.vercel.app/posts/1440p-value-build-field-test-4.html</link>
       <guid>https://storeforge-budget-build-bench.vercel.app/posts/1440p-value-build-field-test-4.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-budget-build-bench.vercel.app/posts/weekend-project-gpus-8.html</guid>
       <pubDate>Fri, 17 Jul 2026 19:45:36 GMT</pubDate>
       <description>One contained, satisfying gpus project for PC builders on a budget — start Saturday morning, done by lunch.</description>
-    </item>
-    <item>
-      <title>Community pulse: what r/buildapcsales is debating this week</title>
-      <link>https://storeforge-budget-build-bench.vercel.app/posts/community-pulse-buildapcsales-3.html</link>
-      <guid>https://storeforge-budget-build-bench.vercel.app/posts/community-pulse-buildapcsales-3.html</guid>
-      <pubDate>Fri, 17 Jul 2026 18:39:51 GMT</pubDate>
-      <description>The arguments, consensus shifts, and quietly useful threads from the benchmarks community this week.</description>
     </item>
   </channel>
 </rss>

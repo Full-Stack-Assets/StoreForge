@@ -1,5 +1,56 @@
 [
   {
+    "slug": "burr-grinder-upgrade",
+    "title": "Revolutionize Your Grind: Why a Burr Grinder is a Game-Changer",
+    "dek": "Elevate your brew with precise grind control",
+    "takeaway": "A burr grinder is a worthwhile investment for any serious home coffee enthusiast",
+    "whatHappened": "Using a blade grinder can lead to inconsistent grind sizes, affecting the flavor of your coffee. In contrast, burr grinders produce a uniform grind, allowing for better extraction. This difference can be a turning point for those looking to upgrade their coffee game.",
+    "whyItMatters": "The right grind size can make or break the flavor of your coffee, and burr grinders offer the precision needed to achieve optimal extraction. With a burr grinder, you can experiment with different roast levels and brewing methods, unlocking a world of flavors. This level of control is crucial for home coffee enthusiasts seeking to refine their craft.",
+    "howToThink": "When considering a burr grinder upgrade, think about your brewing method and the type of coffee you typically drink. Look for a grinder with adjustable settings to accommodate different roast levels and brewing techniques. Additionally, consider the grinder's build quality and ease of cleaning to ensure it will withstand regular use.",
+    "pros": [
+      "Precise grind control",
+      "Improved flavor extraction",
+      "Durable construction"
+    ],
+    "cons": [
+      "Higher cost",
+      "Requires regular cleaning",
+      "Louder operation"
+    ],
+    "watchOut": "Be cautious of low-quality burr grinders that may not provide the expected level of precision and durability",
+    "faq": [
+      {
+        "q": "What is the main difference between blade and burr grinders?",
+        "a": "Burr grinders produce a uniform grind, while blade grinders can lead to inconsistent grind sizes"
+      },
+      {
+        "q": "Do I need to adjust the grind size for different brewing methods?",
+        "a": "Yes, different brewing methods require specific grind sizes for optimal extraction"
+      },
+      {
+        "q": "How often should I clean my burr grinder?",
+        "a": "Regular cleaning is recommended to prevent oil buildup and maintain the grinder's performance"
+      }
+    ],
+    "category": "Gear",
+    "tags": [
+      "Coffee Gear",
+      "Brewing Tips"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-07-19T17:40:13.389Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-espresso-2",
     "title": "Community pulse: what r/espresso is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the gear community this week.",
