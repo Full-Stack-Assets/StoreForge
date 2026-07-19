@@ -5,6 +5,13 @@
     <link>https://store-forge-roan.vercel.app/sites/night-lens/</link>
     <description>Fresh takes for backyard astrophotographers.</description>
     <item>
+      <title>Myth vs. reality: stacking software guide</title>
+      <link>https://store-forge-roan.vercel.app/sites/night-lens/posts/myth-vs-reality-stacking-software-guide-4.html</link>
+      <guid>https://store-forge-roan.vercel.app/sites/night-lens/posts/myth-vs-reality-stacking-software-guide-4.html</guid>
+      <pubDate>Sun, 19 Jul 2026 16:34:02 GMT</pubDate>
+      <description>The persistent myths around stacking software guide, stress-tested against what backyard astrophotographers actually report.</description>
+    </item>
+    <item>
       <title>A weekend project: level up your rigs in two hours</title>
       <link>https://store-forge-roan.vercel.app/sites/night-lens/posts/weekend-project-rigs-12.html</link>
       <guid>https://store-forge-roan.vercel.app/sites/night-lens/posts/weekend-project-rigs-12.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://store-forge-roan.vercel.app/sites/night-lens/posts/astrophotography-without-tracker-field-test-3.html</guid>
       <pubDate>Fri, 17 Jul 2026 18:39:52 GMT</pubDate>
       <description>We put the most-repeated advice about astrophotography without tracker through a month of actual use. Some of it survived.</description>
-    </item>
-    <item>
-      <title>Ask the forge: your light pollution questions, answered</title>
-      <link>https://store-forge-roan.vercel.app/sites/night-lens/posts/ask-the-forge-light-pollution-8.html</link>
-      <guid>https://store-forge-roan.vercel.app/sites/night-lens/posts/ask-the-forge-light-pollution-8.html</guid>
-      <pubDate>Fri, 17 Jul 2026 16:45:19 GMT</pubDate>
-      <description>Straight answers to the light pollution questions backyard astrophotographers keep asking, minus the hedging.</description>
     </item>
   </channel>
 </rss>

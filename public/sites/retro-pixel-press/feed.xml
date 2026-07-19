@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>Emulation Evolution: How to Get the Most Out of Your Retro Games</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/retro-game-emulation-optimization.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-game-emulation-optimization.html</guid>
+      <pubDate>Sun, 19 Jul 2026 16:34:03 GMT</pubDate>
+      <description>Unlock smoother gameplay with these tips</description>
+    </item>
+    <item>
       <title>The quiet upgrade: small tweaks in preservation with outsized returns</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/quiet-upgrade-preservation-8.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/quiet-upgrade-preservation-8.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-hardware-revival-5.html</guid>
       <pubDate>Fri, 17 Jul 2026 18:39:52 GMT</pubDate>
       <description>Breathe new life into old consoles</description>
-    </item>
-    <item>
-      <title>Optimizing Console Performance for Speed Demons</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/turbo-charge-your-speedruns.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/turbo-charge-your-speedruns.html</guid>
-      <pubDate>Fri, 17 Jul 2026 16:45:20 GMT</pubDate>
-      <description>Boost your speedrun potential</description>
     </item>
   </channel>
 </rss>
