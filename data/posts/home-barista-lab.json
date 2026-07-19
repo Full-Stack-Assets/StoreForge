@@ -1,5 +1,56 @@
 [
   {
+    "slug": "grind-size-matters",
+    "title": "The Grind Size Experiment: Boosting Flavor in Home Brews",
+    "dek": "Perfecting grind size boosts flavor",
+    "takeaway": "Adjusting grind size can significantly improve the taste of your home-brewed coffee",
+    "whatHappened": "In a recent experiment, we tested the impact of different grind sizes on the flavor of pour-over coffee. The results showed that even small adjustments can make a significant difference. From over-extracted and bitter to perfectly balanced, grind size proved to be a crucial factor.",
+    "whyItMatters": "Getting the grind size right is essential because it affects the rate of extraction, which in turn impacts the flavor. Incorrect grind sizes can lead to under or over-extraction, resulting in subpar taste. Understanding how to adjust grind size gives home baristas more control over their brewing process.",
+    "howToThink": "When adjusting grind size, consider the type of coffee bean, the brewing method, and personal taste preferences. A burr grinder is the best tool for achieving consistent grind sizes. Start with a medium grind and adjust based on the flavor profile you're aiming for.",
+    "pros": [
+      "Improved flavor",
+      "Increased control",
+      "Easy to adjust"
+    ],
+    "cons": [
+      "Requires a burr grinder",
+      "Trial and error",
+      "Sensitive to change"
+    ],
+    "watchOut": "Be cautious not to over-adjust, as this can lead to inconsistent results and frustration",
+    "faq": [
+      {
+        "q": "What is the ideal grind size for pour-over?",
+        "a": "A medium to fine grind is usually recommended"
+      },
+      {
+        "q": "Can I use a blade grinder for adjusting grind size?",
+        "a": "No, blade grinders are not recommended as they can generate heat and inconsistently grind the beans"
+      },
+      {
+        "q": "How often should I clean my burr grinder?",
+        "a": "Regular cleaning is essential; aim to clean your grinder at least once a week to prevent old coffee oils from affecting the taste"
+      }
+    ],
+    "category": "Pour-over",
+    "tags": [
+      "coffee grinding",
+      "pour-over tips"
+    ],
+    "sources": [
+      {
+        "label": "r/Coffee community threads",
+        "url": "https://www.reddit.com/r/Coffee/"
+      },
+      {
+        "label": "Search interest: \"pour over technique\"",
+        "url": "https://duckduckgo.com/?q=pour%20over%20technique"
+      }
+    ],
+    "publishedAt": "2026-07-19T14:10:59.914Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "home-espresso-dial-in-field-test-3",
     "title": "\"home espresso dial in\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about home espresso dial in through a month of actual use. Some of it survived.",

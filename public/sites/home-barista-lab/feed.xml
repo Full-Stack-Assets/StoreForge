@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>The Grind Size Experiment: Boosting Flavor in Home Brews</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/grind-size-matters.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/grind-size-matters.html</guid>
+      <pubDate>Sun, 19 Jul 2026 14:10:59 GMT</pubDate>
+      <description>Perfecting grind size boosts flavor</description>
+    </item>
+    <item>
       <title>&quot;home espresso dial in&quot; in practice: a real-world field test</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/home-espresso-dial-in-field-test-3.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/home-espresso-dial-in-field-test-3.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/elevating-espresso-with-water-temperature.html</guid>
       <pubDate>Fri, 17 Jul 2026 15:01:26 GMT</pubDate>
       <description>Optimize your espresso with precision temperature control</description>
-    </item>
-    <item>
-      <title>Troubleshooting 101: Fixing Common Espresso Machine Issues</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-troubleshooting.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-troubleshooting.html</guid>
-      <pubDate>Fri, 17 Jul 2026 12:47:17 GMT</pubDate>
-      <description>Fix your espresso machine</description>
     </item>
   </channel>
 </rss>
