@@ -1,5 +1,56 @@
 [
   {
+    "slug": "taming-the-steam-wand",
+    "title": "Mastering the Art of Microfoam at Home",
+    "dek": "Perfecting steam wand technique",
+    "takeaway": "Proper steam wand use is crucial for velvety microfoam in espresso drinks",
+    "whatHappened": "The steam wand, often overlooked, plays a pivotal role in crafting exceptional espresso beverages. By understanding its functionality and mastering the technique, home enthusiasts can elevate their coffee game. This involves purging the wand, stretching milk, and texturing to the ideal consistency.",
+    "whyItMatters": "Achieving the perfect microfoam enhances the flavor and aesthetic of espresso-based drinks, making it a fundamental skill for any serious home barista. It requires a balance between heat, stretching, and folding, impacting the overall quality and presentation of the coffee. Furthermore, mastering microfoam opens up a world of creative possibilities for latte art and customized coffee designs.",
+    "howToThink": "To improve your steam wand skills, practice consistent pouring techniques, invest in a thermometer for precise temperature control, and experiment with different milk types to find your preferred taste and texture. Regular cleaning and maintenance of the steam wand are also essential to prevent clogging and ensure optimal performance. By focusing on these aspects, enthusiasts can refine their craft and enjoy professional-grade espresso at home.",
+    "pros": [
+      "Enhanced flavor",
+      "Professional finish",
+      "Creative freedom"
+    ],
+    "cons": [
+      "Steep learning curve",
+      "Equipment maintenance",
+      "Milk waste"
+    ],
+    "watchOut": "Incorrect steam wand technique can lead to burnt milk or a poorly textured microfoam, ruining the espresso experience",
+    "faq": [
+      {
+        "q": "What is microfoam?",
+        "a": "Microfoam is a mixture of steamed milk and air, creating a smooth and velvety texture"
+      },
+      {
+        "q": "How do I clean the steam wand?",
+        "a": "Regularly purge and wipe the steam wand with a damp cloth to prevent milk residue buildup"
+      },
+      {
+        "q": "What milk is best for microfoam?",
+        "a": "Whole milk is commonly used for its rich flavor and texture, but skim and non-dairy alternatives can also produce excellent microfoam with the right technique"
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso skills",
+      "coffee techniques"
+    ],
+    "sources": [
+      {
+        "label": "r/espresso community threads",
+        "url": "https://www.reddit.com/r/espresso/"
+      },
+      {
+        "label": "Search interest: \"home espresso dial in\"",
+        "url": "https://duckduckgo.com/?q=home%20espresso%20dial%20in"
+      }
+    ],
+    "publishedAt": "2026-07-19T23:38:38.619Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "budget-grinder-upgrade-field-test-5",
     "title": "\"budget grinder upgrade\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about budget grinder upgrade through a month of actual use. Some of it survived.",

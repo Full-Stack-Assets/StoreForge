@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>Mastering the Art of Microfoam at Home</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/taming-the-steam-wand.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/taming-the-steam-wand.html</guid>
+      <pubDate>Sun, 19 Jul 2026 23:38:38 GMT</pubDate>
+      <description>Perfecting steam wand technique</description>
+    </item>
+    <item>
       <title>&quot;budget grinder upgrade&quot; in practice: a real-world field test</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/budget-grinder-upgrade-field-test-5.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/budget-grinder-upgrade-field-test-5.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-cleaning-hacks-2.html</guid>
       <pubDate>Sat, 18 Jul 2026 04:32:19 GMT</pubDate>
       <description>Clean machine, better coffee</description>
-    </item>
-    <item>
-      <title>Calibrating Your Espresso Machine for Perfect Shots</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-calibration.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-calibration.html</guid>
-      <pubDate>Sat, 18 Jul 2026 01:04:17 GMT</pubDate>
-      <description>Get the most out of your espresso machine</description>
     </item>
   </channel>
 </rss>

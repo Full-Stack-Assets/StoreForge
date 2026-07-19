@@ -5,6 +5,13 @@
     <link>https://storeforge-urban-gardening-daily.vercel.app/</link>
     <description>Fresh takes for apartment dwellers and balcony gardeners.</description>
     <item>
+      <title>Spring Containers: A Fresh Start</title>
+      <link>https://storeforge-urban-gardening-daily.vercel.app/posts/seasonal-container-revamp.html</link>
+      <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/seasonal-container-revamp.html</guid>
+      <pubDate>Sun, 19 Jul 2026 23:38:38 GMT</pubDate>
+      <description>Revamp your containers for spring</description>
+    </item>
+    <item>
       <title>&quot;indoor herb garden&quot; in practice: a real-world field test</title>
       <link>https://storeforge-urban-gardening-daily.vercel.app/posts/indoor-herb-garden-field-test-4.html</link>
       <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/indoor-herb-garden-field-test-4.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/weekend-project-containers-7.html</guid>
       <pubDate>Sat, 18 Jul 2026 04:32:17 GMT</pubDate>
       <description>One contained, satisfying containers project for apartment dwellers — start Saturday morning, done by lunch.</description>
-    </item>
-    <item>
-      <title>Maximizing Space: Expert Advice for Urban Gardeners</title>
-      <link>https://storeforge-urban-gardening-daily.vercel.app/posts/apartment-gardening-hacks-2.html</link>
-      <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/apartment-gardening-hacks-2.html</guid>
-      <pubDate>Sat, 18 Jul 2026 01:04:17 GMT</pubDate>
-      <description>Tips to boost your urban harvest</description>
     </item>
   </channel>
 </rss>

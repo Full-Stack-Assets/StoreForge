@@ -1,5 +1,56 @@
 [
   {
+    "slug": "seasonal-container-revamp",
+    "title": "Spring Containers: A Fresh Start",
+    "dek": "Revamp your containers for spring",
+    "takeaway": "Update your container gardens seasonally for optimal growth and visual appeal",
+    "whatHappened": "As spring arrives, apartment dwellers and balcony gardeners face a common dilemma: how to transition their containers from winter to spring. This involves not just swapping out plants, but also refreshing the soil, cleaning the containers, and reassessing the layout. By doing so, gardeners can ensure a thriving and vibrant garden.",
+    "whyItMatters": "Seasonal updates are crucial for maintaining healthy plants and preventing the buildup of diseases and pests. Moreover, a refreshed container garden can significantly enhance the aesthetic appeal of a balcony or apartment, creating a welcoming outdoor space. Regular updates also allow gardeners to experiment with new plants and designs, keeping their gardening experience engaging and fun.",
+    "howToThink": "When revamping containers for spring, consider the specific needs of the plants you're introducing, such as sunlight requirements and watering schedules. It's also essential to select plants that thrive in your local climate and to incorporate a mix of annuals and perennials for year-round interest. Lastly, don't forget to add a layer of fresh compost to replenish nutrients in the soil.",
+    "pros": [
+      "Enhanced aesthetics",
+      "Improved plant health",
+      "Increased biodiversity"
+    ],
+    "cons": [
+      "Higher upfront costs",
+      "Time-consuming process",
+      "Potential for overwatering"
+    ],
+    "watchOut": "Be cautious not to overhandle the roots of plants during the transfer to prevent shock and ensure a smooth transition",
+    "faq": [
+      {
+        "q": "What is the best time to update my containers for spring?",
+        "a": "Ideally, start updating your containers 2-4 weeks before the last frost date in your area"
+      },
+      {
+        "q": "How often should I refresh the soil in my containers?",
+        "a": "It's recommended to replace the soil entirely every 1-2 years, or at least replenish it with fresh compost annually"
+      },
+      {
+        "q": "Can I reuse the same containers from last season?",
+        "a": "Yes, but make sure to thoroughly clean and disinfect them before reuse to prevent disease transmission"
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "Spring Gardening",
+      "Container Care"
+    ],
+    "sources": [
+      {
+        "label": "r/UrbanGardening community threads",
+        "url": "https://www.reddit.com/r/UrbanGardening/"
+      },
+      {
+        "label": "Search interest: \"balcony garden ideas\"",
+        "url": "https://duckduckgo.com/?q=balcony%20garden%20ideas"
+      }
+    ],
+    "publishedAt": "2026-07-19T23:38:38.352Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "indoor-herb-garden-field-test-4",
     "title": "\"indoor herb garden\" in practice: a real-world field test",
     "dek": "We put the most-repeated advice about indoor herb garden through a month of actual use. Some of it survived.",
