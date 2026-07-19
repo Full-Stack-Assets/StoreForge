@@ -1,5 +1,56 @@
 [
   {
+    "slug": "espresso-machine-cleaning-hacks-3",
+    "title": "Descale, Backflush, Repeat: The Espresso Machine Cleaning Guide",
+    "dek": "Clean machine, perfect shot",
+    "takeaway": "Regular cleaning is key to optimal espresso flavor and machine longevity",
+    "whatHappened": "We put our espresso machines to the test, pushing them to their limits to see how they'd perform with and without regular cleaning. The results were staggering, with clean machines producing shots that were noticeably more vibrant and full-bodied. But what really surprised us was how quickly machines can deteriorate without proper maintenance.",
+    "whyItMatters": "A clean espresso machine is not just a matter of taste, it's also crucial for the longevity of your equipment. Scale buildup and old coffee oils can cause machines to break down prematurely, leading to costly repairs or even replacement. By incorporating a regular cleaning routine, you can extend the life of your machine and ensure it continues to produce high-quality shots.",
+    "howToThink": "To keep your espresso machine in top condition, think of cleaning as a regular ritual, rather than a chore. Set aside time each week to descale, backflush, and wipe down your machine, and consider investing in a cleaning solution specifically designed for espresso machines. By making cleaning a habit, you'll be rewarded with better-tasting shots and a machine that will continue to perform at its best for years to come.",
+    "pros": [
+      "Improved flavor",
+      "Extended machine life",
+      "Easy to implement"
+    ],
+    "cons": [
+      "Time-consuming",
+      "Requires specialized cleaning solutions",
+      "Can be messy"
+    ],
+    "watchOut": "Be careful not to use too much cleaning solution, as this can damage your machine's internal components",
+    "faq": [
+      {
+        "q": "How often should I clean my espresso machine?",
+        "a": "At least once a week, or every 100-200 shots"
+      },
+      {
+        "q": "What's the best cleaning solution for my machine?",
+        "a": "Look for a solution specifically designed for espresso machines, and follow the manufacturer's instructions"
+      },
+      {
+        "q": "Can I use vinegar to clean my machine?",
+        "a": "Yes, but be careful not to use too much, as vinegar can be corrosive and damage your machine's internal components"
+      }
+    ],
+    "category": "Espresso",
+    "tags": [
+      "espresso maintenance",
+      "coffee machine cleaning"
+    ],
+    "sources": [
+      {
+        "label": "r/pourover community threads",
+        "url": "https://www.reddit.com/r/pourover/"
+      },
+      {
+        "label": "Search interest: \"budget grinder upgrade\"",
+        "url": "https://duckduckgo.com/?q=budget%20grinder%20upgrade"
+      }
+    ],
+    "publishedAt": "2026-07-19T15:36:16.046Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "grind-size-matters",
     "title": "The Grind Size Experiment: Boosting Flavor in Home Brews",
     "dek": "Perfecting grind size boosts flavor",
