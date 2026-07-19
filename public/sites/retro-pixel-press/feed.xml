@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>A weekend project: level up your hardware in two hours</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/weekend-project-hardware-6.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/weekend-project-hardware-6.html</guid>
+      <pubDate>Sun, 19 Jul 2026 12:36:12 GMT</pubDate>
+      <description>One contained, satisfying hardware project for retro game collectors — start Saturday morning, done by lunch.</description>
+    </item>
+    <item>
       <title>Community pulse: what r/retrogaming is debating this week</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/community-pulse-retrogaming-4.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/community-pulse-retrogaming-4.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/ask-the-forge-indie-5.html</guid>
       <pubDate>Fri, 17 Jul 2026 12:47:16 GMT</pubDate>
       <description>Straight answers to the indie questions retro game collectors and speedrunners keep asking, minus the hedging.</description>
-    </item>
-    <item>
-      <title>The quiet upgrade: small tweaks in preservation with outsized returns</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/quiet-upgrade-preservation-5.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/quiet-upgrade-preservation-5.html</guid>
-      <pubDate>Fri, 17 Jul 2026 11:09:16 GMT</pubDate>
-      <description>No purchases, no overhauls — the modest preservation adjustments that retro game collectors and speedrunners report mattering most.</description>
     </item>
   </channel>
 </rss>

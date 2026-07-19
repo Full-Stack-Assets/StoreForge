@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>&quot;home espresso dial in&quot; in practice: a real-world field test</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/home-espresso-dial-in-field-test-3.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/home-espresso-dial-in-field-test-3.html</guid>
+      <pubDate>Sun, 19 Jul 2026 12:36:12 GMT</pubDate>
+      <description>We put the most-repeated advice about home espresso dial in through a month of actual use. Some of it survived.</description>
+    </item>
+    <item>
       <title>Ask the forge: your gear questions, answered</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/ask-the-forge-gear-7.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/ask-the-forge-gear-7.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-troubleshooting.html</guid>
       <pubDate>Fri, 17 Jul 2026 12:47:17 GMT</pubDate>
       <description>Fix your espresso machine</description>
-    </item>
-    <item>
-      <title>Descale, Drain, and Shine: The Ultimate Espresso Machine Cleaning Guide</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-cleaning-hacks.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-cleaning-hacks.html</guid>
-      <pubDate>Fri, 17 Jul 2026 11:09:17 GMT</pubDate>
-      <description>Clean your espresso machine like a pro</description>
     </item>
   </channel>
 </rss>
