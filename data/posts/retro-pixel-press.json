@@ -1,5 +1,56 @@
 [
   {
+    "slug": "retro-console-repair-101",
+    "title": "Retro Console Repair 101: DIY Tips and Tricks",
+    "dek": "Fix your retro console like a pro",
+    "takeaway": "Basic DIY repair skills can breathe new life into old consoles",
+    "whatHappened": "As retro game collectors and speedrunners, we've all been there: a beloved console breaks, and we're left scrambling for repair options. Recently, we've seen a surge in DIY repair tutorials and forums dedicated to preserving retro gaming hardware. From replacing worn-out capacitors to resoldering loose connections, these resources have empowered enthusiasts to take matters into their own hands.",
+    "whyItMatters": "Preserving retro gaming hardware is crucial for maintaining the integrity of the gaming experience. By learning basic DIY repair skills, collectors and speedrunners can ensure their consoles continue to function optimally, even as they age. This not only saves money but also helps to preserve the history of gaming for future generations.",
+    "howToThink": "When approaching a repair project, it's essential to think methodically and prioritize safety. Start by researching the specific issue you're facing, then gather the necessary tools and replacement parts. Be meticulous in your work, and don't be afraid to seek guidance from online communities or experienced technicians if you're unsure",
+    "pros": [
+      "Cost-effective",
+      "Environmentally friendly",
+      "Sense of accomplishment"
+    ],
+    "cons": [
+      "Time-consuming",
+      "Requires technical expertise",
+      "Risk of damaging the console"
+    ],
+    "watchOut": "Be cautious when working with electrical components, as they can be hazardous if not handled properly",
+    "faq": [
+      {
+        "q": "What are the most common retro console repairs?",
+        "a": "Capacitor replacement, soldering, and cleaning are among the most common repairs"
+      },
+      {
+        "q": "Where can I find DIY repair tutorials?",
+        "a": "Online forums, YouTube, and specialized repair websites are excellent resources"
+      },
+      {
+        "q": "Do I need to be an expert to repair my console?",
+        "a": "No, with patience and the right guidance, beginners can successfully repair their consoles"
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "RetroConsoles",
+      "DIYRepair"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-07-19T01:09:43.485Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "quiet-upgrade-preservation-7",
     "title": "The quiet upgrade: small tweaks in preservation with outsized returns",
     "dek": "No purchases, no overhauls — the modest preservation adjustments that retro game collectors and speedrunners report mattering most.",

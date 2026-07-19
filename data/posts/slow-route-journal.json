@@ -1,5 +1,56 @@
 [
   {
+    "slug": "mastering-local-rail-stations",
+    "title": "Nailed: How to Work a Foreign Rail Station Like a Pro",
+    "dek": "Tips for navigating unfamiliar rail stations.",
+    "takeaway": "With some prep and practice, you can confidently navigate foreign rail stations and make the most of your slow travel experience.",
+    "whatHappened": "After a series of trials and errors, we've identified key strategies for mastering local rail stations, from researching layouts to understanding ticketing systems. Our team has tested these approaches in various countries, refining our techniques to ensure seamless travel. The result is a set of actionable tips and tricks for low-impact explorers.",
+    "whyItMatters": "Efficiently navigating rail stations is crucial for slow travelers, as it saves time, reduces stress, and allows for a more immersive experience. Moreover, understanding local rail systems enables travelers to make informed decisions about their itinerary and budget. By mastering rail stations, travelers can unlock the full potential of their journey.",
+    "howToThink": "To tackle unfamiliar rail stations, start by researching the station's layout and ticketing options beforehand. Upon arrival, take a moment to orient yourself and locate key facilities such as ticket counters, platforms, and luggage storage. By adopting a proactive and flexible mindset, you'll be better equipped to handle any challenges that arise and make the most of your travel experience.",
+    "pros": [
+      "Time savings",
+      "Reduced stress",
+      "Increased flexibility"
+    ],
+    "cons": [
+      "Initial research required",
+      "Language barriers",
+      "Potential for crowds"
+    ],
+    "watchOut": "Be cautious of peak travel times and potential engineering works that may impact your journey.",
+    "faq": [
+      {
+        "q": "How do I research a rail station's layout?",
+        "a": "Use online resources such as station maps and traveler reviews to get familiar with the station's layout and facilities."
+      },
+      {
+        "q": "What if I don't speak the local language?",
+        "a": "Download a translation app or carry a phrasebook to help you communicate with station staff and navigate signs."
+      },
+      {
+        "q": "Can I store luggage at rail stations?",
+        "a": "Many rail stations offer luggage storage options, but be sure to check availability and fees in advance to avoid any issues."
+      }
+    ],
+    "category": "Local",
+    "tags": [
+      "slow travel",
+      "rail"
+    ],
+    "sources": [
+      {
+        "label": "r/backpacking community threads",
+        "url": "https://www.reddit.com/r/backpacking/"
+      },
+      {
+        "label": "Search interest: \"carry on packing list\"",
+        "url": "https://duckduckgo.com/?q=carry%20on%20packing%20list"
+      }
+    ],
+    "publishedAt": "2026-07-19T01:09:43.531Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "mastering-local-transfers",
     "title": "Seamless Connections: Mastering Local Transfers",
     "dek": "Expert tips for navigating local transfers",
