@@ -1,5 +1,56 @@
 [
   {
+    "slug": "slow-travel-on-local-buses",
+    "title": "Beyond the Tourist Trail: Mastering Local Bus Networks",
+    "dek": "Discover hidden gems on local buses",
+    "takeaway": "Local buses offer an authentic and low-impact way to explore destinations",
+    "whatHappened": "As a slow traveler, I found that local buses allowed me to connect with the community and experience the authentic culture of a place. By ditching the touristy areas, I stumbled upon hidden gems and unexpected adventures. From quaint villages to bustling market towns, local buses took me on a journey of discovery",
+    "whyItMatters": "For low-impact explorers, local buses are an environmentally friendly alternative to cars or taxis, reducing carbon footprint and supporting local economies. Moreover, they provide a unique opportunity to interact with locals and gain insight into their daily lives. By using local buses, travelers can contribute to the preservation of local communities and culture",
+    "howToThink": "To make the most of local buses, research the route network in advance, learn a few basic phrases in the local language, and be prepared for unpredictable schedules. Additionally, consider purchasing a local transport card or pass to save money and hassle. With an open mind and a willingness to adapt, travelers can navigate local bus systems with ease",
+    "pros": [
+      "affordable",
+      "environmentally friendly",
+      "cultural immersion"
+    ],
+    "cons": [
+      "unpredictable schedules",
+      "language barriers",
+      "limited routes"
+    ],
+    "watchOut": "Be cautious of peak hour crowds and limited luggage space on local buses",
+    "faq": [
+      {
+        "q": "How do I find local bus routes?",
+        "a": "Research online or consult with locals to find the best routes"
+      },
+      {
+        "q": "Can I use my credit card to pay for bus fares?",
+        "a": "It's best to use local currency, as not all buses accept credit cards"
+      },
+      {
+        "q": "Are local buses safe for solo travelers?",
+        "a": "Generally, local buses are safe, but take normal precautions to protect yourself and your belongings"
+      }
+    ],
+    "category": "Local",
+    "tags": [
+      "local transport",
+      "slow travel"
+    ],
+    "sources": [
+      {
+        "label": "r/onebag community threads",
+        "url": "https://www.reddit.com/r/onebag/"
+      },
+      {
+        "label": "Search interest: \"slow travel itinerary\"",
+        "url": "https://duckduckgo.com/?q=slow%20travel%20itinerary"
+      }
+    ],
+    "publishedAt": "2026-07-19T04:54:37.236Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "mastering-local-rail-stations",
     "title": "Nailed: How to Work a Foreign Rail Station Like a Pro",
     "dek": "Tips for navigating unfamiliar rail stations.",

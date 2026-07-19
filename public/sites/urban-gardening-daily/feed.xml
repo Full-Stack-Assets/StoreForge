@@ -5,6 +5,13 @@
     <link>https://storeforge-urban-gardening-daily.vercel.app/</link>
     <description>Fresh takes for apartment dwellers and balcony gardeners.</description>
     <item>
+      <title>Beat the Heat: Summer Container Care Essentials</title>
+      <link>https://storeforge-urban-gardening-daily.vercel.app/posts/summer-container-care.html</link>
+      <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/summer-container-care.html</guid>
+      <pubDate>Sun, 19 Jul 2026 04:54:37 GMT</pubDate>
+      <description>Keep your containers thriving in summer</description>
+    </item>
+    <item>
       <title>Community pulse: what r/houseplants is debating this week</title>
       <link>https://storeforge-urban-gardening-daily.vercel.app/posts/community-pulse-houseplants.html</link>
       <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/community-pulse-houseplants.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/rethinking-vertical-gardens.html</guid>
       <pubDate>Fri, 17 Jul 2026 04:47:12 GMT</pubDate>
       <description>Maximize space with vertical gardens</description>
-    </item>
-    <item>
-      <title>5 Space-Saving Hacks for Balcony Gardeners</title>
-      <link>https://storeforge-urban-gardening-daily.vercel.app/posts/balcony-gardening-hacks-2.html</link>
-      <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/balcony-gardening-hacks-2.html</guid>
-      <pubDate>Fri, 17 Jul 2026 01:10:43 GMT</pubDate>
-      <description>Maximize your balcony space with these 5 hacks</description>
     </item>
   </channel>
 </rss>

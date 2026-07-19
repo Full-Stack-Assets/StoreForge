@@ -1,5 +1,56 @@
 [
   {
+    "slug": "summer-container-care",
+    "title": "Beat the Heat: Summer Container Care Essentials",
+    "dek": "Keep your containers thriving in summer",
+    "takeaway": "Proper care can prevent common summer container pitfalls",
+    "whatHappened": "As the temperature rises, container gardens can quickly become susceptible to heat stress, dryness, and nutrient depletion. This can lead to wilted plants, poor growth, and decreased yields. To combat this, it's essential to adjust your container care routine for the warmer months.",
+    "whyItMatters": "Container gardens are particularly vulnerable to extreme temperatures, making summer care crucial for maintaining plant health and maximizing growth. By taking the right steps, you can ensure your containers continue to thrive, even in the hottest months. This, in turn, can lead to a bountiful harvest and a beautiful, lush garden space.",
+    "howToThink": "To keep your containers healthy, focus on providing adequate moisture, protection from intense sunlight, and regular fertilization. Consider using light-colored pots to reflect the sun's rays, and group plants together to create a microclimate that retains moisture. Additionally, choose heat-tolerant plants and monitor your containers' condition daily to catch any potential issues early.",
+    "pros": [
+      "Increased yields",
+      "Improved plant health",
+      "Enhanced garden beauty"
+    ],
+    "cons": [
+      "Requires daily monitoring",
+      "May need additional fertilization",
+      "Can be labor-intensive"
+    ],
+    "watchOut": "Be cautious of overwatering, which can be detrimental to your plants' health and lead to root rot and other issues.",
+    "faq": [
+      {
+        "q": "How often should I water my containers in summer?",
+        "a": "Water your containers when the top inch of soil feels dry, usually daily in extreme heat"
+      },
+      {
+        "q": "What are the best heat-tolerant plants for containers?",
+        "a": " Choose plants like succulents, herbs, and heat-resistant vegetables for optimal growth"
+      },
+      {
+        "q": "Can I use regular potting soil in my summer containers?",
+        "a": "Consider using a potting mix specifically designed for containers and high temperatures to improve drainage and moisture retention"
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "container gardening",
+      "summer care"
+    ],
+    "sources": [
+      {
+        "label": "r/vegetablegardening community threads",
+        "url": "https://www.reddit.com/r/vegetablegardening/"
+      },
+      {
+        "label": "Search interest: \"indoor herb garden\"",
+        "url": "https://duckduckgo.com/?q=indoor%20herb%20garden"
+      }
+    ],
+    "publishedAt": "2026-07-19T04:54:37.343Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "community-pulse-houseplants",
     "title": "Community pulse: what r/houseplants is debating this week",
     "dek": "The arguments, consensus shifts, and quietly useful threads from the seasonal community this week.",

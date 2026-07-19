@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>A weekend project: level up your espresso in two hours</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/weekend-project-espresso-6.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/weekend-project-espresso-6.html</guid>
+      <pubDate>Sun, 19 Jul 2026 04:54:35 GMT</pubDate>
+      <description>One contained, satisfying espresso project for home coffee enthusiasts — start Saturday morning, done by lunch.</description>
+    </item>
+    <item>
       <title>Community pulse: what r/Coffee is debating this week</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/community-pulse-coffee-2.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/community-pulse-coffee-2.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/dialing-in-espresso.html</guid>
       <pubDate>Fri, 17 Jul 2026 04:47:11 GMT</pubDate>
       <description>Perfect your espresso shot with these tips</description>
-    </item>
-    <item>
-      <title>Get the Most Out of Your Beans: Grinder Calibration 101</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/calibrating-your-grinder.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/calibrating-your-grinder.html</guid>
-      <pubDate>Fri, 17 Jul 2026 01:10:43 GMT</pubDate>
-      <description>Unlock perfect extraction with proper grinder calibration</description>
     </item>
   </channel>
 </rss>
