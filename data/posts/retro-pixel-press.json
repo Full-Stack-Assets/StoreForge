@@ -1,5 +1,56 @@
 [
   {
+    "slug": "retro-console-repair-101-2",
+    "title": "From Dust to Dynamite: DIY Retro Console Repair",
+    "dek": "Fix old consoles at home",
+    "takeaway": "With basic tools and patience, you can breathe new life into vintage gaming hardware",
+    "whatHappened": "Retro console repair has become increasingly popular as collectors seek to preserve their vintage gaming libraries. Many have turned to online forums and DIY guides to learn the skills needed to fix faulty hardware. As a result, a community of skilled enthusiasts has emerged, sharing their knowledge and expertise with others.",
+    "whyItMatters": "The ability to repair retro consoles is crucial for preserving gaming history and ensuring that classic titles remain playable for years to come. It also allows collectors to enjoy their favorite games on original hardware, rather than relying on emulators or modern re-releases. By learning to repair and maintain their consoles, enthusiasts can help to safeguard the future of retro gaming.",
+    "howToThink": "When approaching a repair project, it's essential to start with a clear understanding of the console's architecture and the tools required for the job. Begin by gathering high-quality replacement parts and following established repair guides. Practice patience and attention to detail, as even small mistakes can have significant consequences for the console's functionality.",
+    "pros": [
+      "Cost-effective",
+      "Preserves original hardware",
+      "Satisfying DIY project"
+    ],
+    "cons": [
+      "Time-consuming",
+      "Requires technical expertise",
+      "Risk of damage to console"
+    ],
+    "watchOut": "Be cautious when sourcing replacement parts, as counterfeit components can compromise the console's performance and longevity",
+    "faq": [
+      {
+        "q": "What tools do I need to get started?",
+        "a": "A basic electronics toolkit, including a soldering iron, wire strippers, and a multimeter"
+      },
+      {
+        "q": "How do I identify the source of a console's problem?",
+        "a": "Consult online repair guides and forums to diagnose common issues and determine the best course of action"
+      },
+      {
+        "q": "Can I repair any retro console?",
+        "a": "While many consoles can be repaired, some models may be more challenging or expensive to fix, so research the specifics of your console before starting a project"
+      }
+    ],
+    "category": "Hardware",
+    "tags": [
+      "Retro gaming",
+      "Console repair"
+    ],
+    "sources": [
+      {
+        "label": "r/snes community threads",
+        "url": "https://www.reddit.com/r/snes/"
+      },
+      {
+        "label": "Search interest: \"hidden snes gems\"",
+        "url": "https://duckduckgo.com/?q=hidden%20snes%20gems"
+      }
+    ],
+    "publishedAt": "2026-07-20T01:12:41.571Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "myth-vs-reality-crt-setup-guide-5",
     "title": "Myth vs. reality: crt setup guide",
     "dek": "The persistent myths around crt setup guide, stress-tested against what retro game collectors and speedrunners actually report.",

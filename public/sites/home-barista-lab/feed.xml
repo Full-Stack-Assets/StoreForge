@@ -5,6 +5,13 @@
     <link>https://storeforge-home-barista-lab.vercel.app/</link>
     <description>Fresh takes for home coffee enthusiasts.</description>
     <item>
+      <title>The roasting checklist: run this before you spend</title>
+      <link>https://storeforge-home-barista-lab.vercel.app/posts/roasting-pre-spend-checklist-8.html</link>
+      <guid>https://storeforge-home-barista-lab.vercel.app/posts/roasting-pre-spend-checklist-8.html</guid>
+      <pubDate>Mon, 20 Jul 2026 01:12:39 GMT</pubDate>
+      <description>Seven questions that separate a justified roasting purchase from an expensive mood.</description>
+    </item>
+    <item>
       <title>Mastering the Art of Microfoam at Home</title>
       <link>https://storeforge-home-barista-lab.vercel.app/posts/taming-the-steam-wand.html</link>
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/taming-the-steam-wand.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-home-barista-lab.vercel.app/posts/myth-vs-reality-budget-grinder-upgrade-2.html</guid>
       <pubDate>Sat, 18 Jul 2026 06:32:56 GMT</pubDate>
       <description>The persistent myths around budget grinder upgrade, stress-tested against what home coffee enthusiasts actually report.</description>
-    </item>
-    <item>
-      <title>The Daily Grind: How Cleaning Your Espresso Machine Can Transform Your Coffee</title>
-      <link>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-cleaning-hacks-2.html</link>
-      <guid>https://storeforge-home-barista-lab.vercel.app/posts/espresso-machine-cleaning-hacks-2.html</guid>
-      <pubDate>Sat, 18 Jul 2026 04:32:19 GMT</pubDate>
-      <description>Clean machine, better coffee</description>
     </item>
   </channel>
 </rss>

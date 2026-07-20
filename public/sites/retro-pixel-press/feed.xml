@@ -5,6 +5,13 @@
     <link>https://storeforge-retro-pixel-press.vercel.app/</link>
     <description>Fresh takes for retro game collectors and speedrunners.</description>
     <item>
+      <title>From Dust to Dynamite: DIY Retro Console Repair</title>
+      <link>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-repair-101-2.html</link>
+      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/retro-console-repair-101-2.html</guid>
+      <pubDate>Mon, 20 Jul 2026 01:12:41 GMT</pubDate>
+      <description>Fix old consoles at home</description>
+    </item>
+    <item>
       <title>Myth vs. reality: crt setup guide</title>
       <link>https://storeforge-retro-pixel-press.vercel.app/posts/myth-vs-reality-crt-setup-guide-5.html</link>
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/myth-vs-reality-crt-setup-guide-5.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-retro-pixel-press.vercel.app/posts/custom-arcade-boards.html</guid>
       <pubDate>Sat, 18 Jul 2026 06:32:58 GMT</pubDate>
       <description>Upgrade your arcade experience</description>
-    </item>
-    <item>
-      <title>Reinvent Your Game: Upgrading Retro Controllers</title>
-      <link>https://storeforge-retro-pixel-press.vercel.app/posts/refreshing-retro-controllers.html</link>
-      <guid>https://storeforge-retro-pixel-press.vercel.app/posts/refreshing-retro-controllers.html</guid>
-      <pubDate>Sat, 18 Jul 2026 04:32:19 GMT</pubDate>
-      <description>New life for old pads</description>
     </item>
   </channel>
 </rss>

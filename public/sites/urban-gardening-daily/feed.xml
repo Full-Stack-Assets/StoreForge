@@ -5,6 +5,13 @@
     <link>https://storeforge-urban-gardening-daily.vercel.app/</link>
     <description>Fresh takes for apartment dwellers and balcony gardeners.</description>
     <item>
+      <title>Beat the Heat: Summer Container Care Essentials</title>
+      <link>https://storeforge-urban-gardening-daily.vercel.app/posts/summer-container-maintenance.html</link>
+      <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/summer-container-maintenance.html</guid>
+      <pubDate>Mon, 20 Jul 2026 01:12:41 GMT</pubDate>
+      <description>Keep your containers thriving this summer.</description>
+    </item>
+    <item>
       <title>Spring Containers: A Fresh Start</title>
       <link>https://storeforge-urban-gardening-daily.vercel.app/posts/seasonal-container-revamp.html</link>
       <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/seasonal-container-revamp.html</guid>
@@ -206,13 +213,6 @@
       <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/vertical-gardening-hacks-2.html</guid>
       <pubDate>Sat, 18 Jul 2026 06:32:58 GMT</pubDate>
       <description>Maximize space with vertical gardening</description>
-    </item>
-    <item>
-      <title>A weekend project: level up your containers in two hours</title>
-      <link>https://storeforge-urban-gardening-daily.vercel.app/posts/weekend-project-containers-7.html</link>
-      <guid>https://storeforge-urban-gardening-daily.vercel.app/posts/weekend-project-containers-7.html</guid>
-      <pubDate>Sat, 18 Jul 2026 04:32:17 GMT</pubDate>
-      <description>One contained, satisfying containers project for apartment dwellers — start Saturday morning, done by lunch.</description>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,56 @@
 [
   {
+    "slug": "summer-container-maintenance",
+    "title": "Beat the Heat: Summer Container Care Essentials",
+    "dek": "Keep your containers thriving this summer.",
+    "takeaway": "Proper care and maintenance are key to a bountiful summer harvest in your containers.",
+    "whatHappened": "As summer sets in, apartment dwellers and balcony gardeners face unique challenges in keeping their containers healthy. Rising temperatures and increased sunlight can quickly lead to dehydration and scorching. Regular monitoring and adjustment of watering and shading schedules become essential.",
+    "whyItMatters": "A well-maintained container garden not only provides fresh produce but also enhances the aesthetic appeal of small spaces. Neglecting summer care can lead to plant loss and reduced yields, making ongoing maintenance crucial for a successful gardening experience. By adopting simple yet effective strategies, gardeners can mitigate risks and enjoy a thriving garden.",
+    "howToThink": "To approach summer container maintenance, consider the specific needs of each plant species, including varying water requirements and sunlight tolerances. Mulching and repotting can also be beneficial this time of year. Regularly inspect your plants for signs of stress or disease, and take corrective action promptly to prevent the spread of issues.",
+    "pros": [
+      "Increased yields",
+      "Improved plant resilience",
+      "Enhanced aesthetic appeal"
+    ],
+    "cons": [
+      "Increased maintenance time",
+      "Higher risk of pests and diseases",
+      "Potential for overheating"
+    ],
+    "watchOut": "Be cautious of overwatering, which can be detrimental to your plants' health, especially during the hot summer months.",
+    "faq": [
+      {
+        "q": "How often should I water my containers in summer?",
+        "a": "Water your containers when the top inch of soil feels dry, usually daily in extreme heat."
+      },
+      {
+        "q": "Can I use any type of mulch for my containers?",
+        "a": "Opt for organic mulches like coconut coir or bark chips, which help retain moisture and regulate soil temperature."
+      },
+      {
+        "q": "What are the best plants for summer containers?",
+        "a": "Choose heat-tolerant and drought-resistant plants like tomatoes, peppers, and herbs for optimal performance."
+      }
+    ],
+    "category": "Containers",
+    "tags": [
+      "container care",
+      "summer gardening"
+    ],
+    "sources": [
+      {
+        "label": "r/houseplants community threads",
+        "url": "https://www.reddit.com/r/houseplants/"
+      },
+      {
+        "label": "Search interest: \"small space vegetables\"",
+        "url": "https://duckduckgo.com/?q=small%20space%20vegetables"
+      }
+    ],
+    "publishedAt": "2026-07-20T01:12:41.461Z",
+    "readMinutes": 2
+  },
+  {
     "slug": "seasonal-container-revamp",
     "title": "Spring Containers: A Fresh Start",
     "dek": "Revamp your containers for spring",
